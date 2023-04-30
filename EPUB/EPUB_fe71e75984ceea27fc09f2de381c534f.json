@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-cung-tan-nhan-vo-cung-yeu-thuong_20035.html",
+    "title" : "Vô Cùng Tàn Nhẫn, Vô Cùng Yêu Thương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sara Imas",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 10480,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_fe71e75984ceea27fc09f2de381c534f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_fe71e75984ceea27fc09f2de381c534f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "vo-cung-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "vo-cung-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "vo-cung-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2340,
+    "title" : "vo-cung-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-1.mp3",
+    "title" : "vo-cung-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-2.mp3",
+    "title" : "vo-cung-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-3.mp3",
+    "title" : "vo-cung-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-cung-2/vo-cung-4.mp3",
+    "title" : "vo-cung-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

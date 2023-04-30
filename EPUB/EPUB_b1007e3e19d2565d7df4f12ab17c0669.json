@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-nhu-cay-rung_20163.html",
+    "title" : "Sống Như Cây Rừng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 17252,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b1007e3e19d2565d7df4f12ab17c0669.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b1007e3e19d2565d7df4f12ab17c0669.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2252,
+    "title" : "SONG NHU CAY RUNG 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "SONG NHU CAY RUNG 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2375,
+    "title" : "SONG NHU CAY RUNG 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "SONG NHU CAY RUNG 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2590,
+    "title" : "SONG NHU CAY RUNG 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2376,
+    "title" : "SONG NHU CAY RUNG 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2032,
+    "title" : "SONG NHU CAY RUNG 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1866,
+    "title" : "SONG NHU CAY RUNG 08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_01.mp3",
+    "title" : "SONG NHU CAY RUNG 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_02.mp3",
+    "title" : "SONG NHU CAY RUNG 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_03.mp3",
+    "title" : "SONG NHU CAY RUNG 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_04.mp3",
+    "title" : "SONG NHU CAY RUNG 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_05.mp3",
+    "title" : "SONG NHU CAY RUNG 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_06.mp3",
+    "title" : "SONG NHU CAY RUNG 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_07.mp3",
+    "title" : "SONG NHU CAY RUNG 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-nhu-cay-rung.sna/SONG_NHU_CAY_RUNG_08.mp3",
+    "title" : "SONG NHU CAY RUNG 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

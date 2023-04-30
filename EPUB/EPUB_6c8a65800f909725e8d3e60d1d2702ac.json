@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoi-ma_20115.html",
+    "title" : "Cưới Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chu Đức Đông",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 58512,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6c8a65800f909725e8d3e60d1d2702ac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6c8a65800f909725e8d3e60d1d2702ac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "DamCuoiMa 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4568,
+    "title" : "DamCuoiMa 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "DamCuoiMa 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3369,
+    "title" : "DamCuoiMa 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4064,
+    "title" : "DamCuoiMa 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "DamCuoiMa 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "DamCuoiMa 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "DamCuoiMa 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "DamCuoiMa 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4529,
+    "title" : "DamCuoiMa 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "DamCuoiMa 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3202,
+    "title" : "DamCuoiMa 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "DamCuoiMa 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "DamCuoiMa 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4097,
+    "title" : "DamCuoiMa 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4209,
+    "title" : "DamCuoiMa 16",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_01.mp3",
+    "title" : "DamCuoiMa 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_02.mp3",
+    "title" : "DamCuoiMa 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_03.mp3",
+    "title" : "DamCuoiMa 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_04.mp3",
+    "title" : "DamCuoiMa 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_05.mp3",
+    "title" : "DamCuoiMa 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_06.mp3",
+    "title" : "DamCuoiMa 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_07.mp3",
+    "title" : "DamCuoiMa 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_08.mp3",
+    "title" : "DamCuoiMa 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_09.mp3",
+    "title" : "DamCuoiMa 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_10.mp3",
+    "title" : "DamCuoiMa 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_11.mp3",
+    "title" : "DamCuoiMa 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_12.mp3",
+    "title" : "DamCuoiMa 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_13.mp3",
+    "title" : "DamCuoiMa 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_14.mp3",
+    "title" : "DamCuoiMa 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_15.mp3",
+    "title" : "DamCuoiMa 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/damcuoima/DamCuoiMa_16.mp3",
+    "title" : "DamCuoiMa 16",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

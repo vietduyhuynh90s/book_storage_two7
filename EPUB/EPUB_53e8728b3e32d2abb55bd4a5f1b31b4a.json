@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoi-the_20139.html",
+    "title" : "Hội Thề",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Quang Thân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 24232,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_53e8728b3e32d2abb55bd4a5f1b31b4a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_53e8728b3e32d2abb55bd4a5f1b31b4a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2624,
+    "title" : "HOI THE 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3473,
+    "title" : "HOI THE 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3311,
+    "title" : "HOI THE 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2052,
+    "title" : "HOI THE 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "HOI THE 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1914,
+    "title" : "HOI THE 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "HOI THE 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2301,
+    "title" : "HOI THE 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2197,
+    "title" : "HOI THE 09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_01.mp3",
+    "title" : "HOI THE 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_02.mp3",
+    "title" : "HOI THE 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_03.mp3",
+    "title" : "HOI THE 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_04.mp3",
+    "title" : "HOI THE 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_05.mp3",
+    "title" : "HOI THE 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_06.mp3",
+    "title" : "HOI THE 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_07.mp3",
+    "title" : "HOI THE 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_08.mp3",
+    "title" : "HOI THE 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoi-the.sna/HOI_THE_09.mp3",
+    "title" : "HOI THE 09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
