@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoc-sinh-toi-truong-bac-dai-pha-dau_10532.html#gsc.tab=0",
+    "title" : "Học Sinh Tồi Trường Bắc Đại - Phá Đầu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phá Đầu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-05",
+    "duration" : 46029,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a61e66a28061841954c5c7290cc78789.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a61e66a28061841954c5c7290cc78789.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7499,
+    "title" : "Phá Đầu - Part 1 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5728,
+    "title" : "Phá Đầu - Part 2 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5690,
+    "title" : "Phá Đầu - Part 3 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5732,
+    "title" : "Phá Đầu - Part 4 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6621,
+    "title" : "Phá Đầu - Part 5 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5922,
+    "title" : "Phá Đầu - Part 6 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8837,
+    "title" : "Phá Đầu - Part 7 (END) - Ngôn Tình Hiện Đại",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/1.mp3",
+    "title" : "Phá Đầu - Part 1 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/2.mp3",
+    "title" : "Phá Đầu - Part 2 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/3.mp3",
+    "title" : "Phá Đầu - Part 3 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/4.mp3",
+    "title" : "Phá Đầu - Part 4 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/5.mp3",
+    "title" : "Phá Đầu - Part 5 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/6.mp3",
+    "title" : "Phá Đầu - Part 6 - Ngôn Tình Hiện Đại - Thanh Xuân Vườn Trường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-vien-toi-truong-bac-dai/7.mp3",
+    "title" : "Phá Đầu - Part 7 (END) - Ngôn Tình Hiện Đại",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
