@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giao-uoc-an-vien_11355.html",
+    "title" : "Giao Ước! - An Viên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "An Viên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29830,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a11527fbde3172dcdc80836c3c3a3147.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a11527fbde3172dcdc80836c3c3a3147.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/giao-lo-am-duong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2753,
+    "title" : "Đám Cưới Với Người Âm - Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4302,
+    "title" : "Kết Thúc- Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "Đêm Rằm Tháng Bảy - Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "Cô Gái Hoa Đồng Tiền - Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "Trái Tim Băng Giá - Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2885,
+    "title" : "Kẻ Đến Sau - Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "Tan Biến - Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "TÌM VỀ QUÁ KHỨ - Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "Cậu Bạn Phiền Phức- Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2958,
+    "title" : "Phút Giây Bối Rối- Mc Tuấn Anh kể Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/giao-lo-am-duong/1.mp3",
+    "title" : "Đám Cưới Với Người Âm - Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/10.mp3",
+    "title" : "Kết Thúc- Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/2.mp3",
+    "title" : "Đêm Rằm Tháng Bảy - Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/3.mp3",
+    "title" : "Cô Gái Hoa Đồng Tiền - Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/4.mp3",
+    "title" : "Trái Tim Băng Giá - Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/5.mp3",
+    "title" : "Kẻ Đến Sau - Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/6.mp3",
+    "title" : "Tan Biến - Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/7.mp3",
+    "title" : "TÌM VỀ QUÁ KHỨ - Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/8.mp3",
+    "title" : "Cậu Bạn Phiền Phức- Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giao-lo-am-duong/9.mp3",
+    "title" : "Phút Giây Bối Rối- Mc Tuấn Anh kể Cực Hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

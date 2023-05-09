@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-​henry-ford-vua-xe-hoi-nguyen-van-ai-danh-nhan_3475.html",
+    "title" : "Henry Ford Vua Xe Hơi - Nguyễn Văn Ái.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Văn Ái",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13814,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_bb9a750538f185cd2d69cc2273beb911.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_bb9a750538f185cd2d69cc2273beb911.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2174,
+    "title" : "henryfordcd11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1980,
+    "title" : "henryfordcd12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2085,
+    "title" : "henryfordcd21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "henryfordcd22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2206,
+    "title" : "henryfordcd31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1420,
+    "title" : "henryfordcd32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1140,
+    "title" : "henryfordcd41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 994,
+    "title" : "henryfordcd42",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd11.mp3",
+    "title" : "henryfordcd11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd12.mp3",
+    "title" : "henryfordcd12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd21.mp3",
+    "title" : "henryfordcd21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd22.mp3",
+    "title" : "henryfordcd22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd31.mp3",
+    "title" : "henryfordcd31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd32.mp3",
+    "title" : "henryfordcd32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd41.mp3",
+    "title" : "henryfordcd41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-henryFord-VuaXeHoi/henryfordcd42.mp3",
+    "title" : "henryfordcd42",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

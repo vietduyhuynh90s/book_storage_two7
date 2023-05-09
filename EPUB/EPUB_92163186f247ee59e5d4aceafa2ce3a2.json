@@ -1,0 +1,713 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luc-hao_15704.html",
+    "title" : "Lục Hào",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Priest",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 118381,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_92163186f247ee59e5d4aceafa2ce3a2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_92163186f247ee59e5d4aceafa2ce3a2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luc-hao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "Tác giả: Priest - Chương 1+2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1745,
+    "title" : "Tác giả: Priest - Chương 19+20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1726,
+    "title" : "Tác giả: Priest - Chương 21+22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "Tác giả: Priest - Chương 23+24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1431,
+    "title" : "Tác giả: Priest - Chương 25+26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1857,
+    "title" : "Tác giả: Priest - Chương 27+28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2395,
+    "title" : "Tác giả: Priest - Chương 29+30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2364,
+    "title" : "Tác giả: Priest - Chương 31+32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "Tác giả: Priest - Chương 33+34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2471,
+    "title" : "Tác giả: Priest - Chương 35+36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2383,
+    "title" : "Tác giả: Priest - Chương 37+38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1714,
+    "title" : "Tác giả: Priest - Chương 3+4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2175,
+    "title" : "Tác giả: Priest - Chương 39+40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2416,
+    "title" : "Tác giả: Priest - Chương 41+42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2455,
+    "title" : "Tác giả: Priest - Chương 43+44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2389,
+    "title" : "Tác giả: Priest - Chương 45+46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2248,
+    "title" : "Tác giả: Priest - Chương 47+48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2389,
+    "title" : "Tác giả: Priest - Chương 49+50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2271,
+    "title" : "Tác giả: Priest - Chương 51+52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2178,
+    "title" : "Tác giả: Priest - Chương 53+54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1914,
+    "title" : "Tác giả: Priest - Chương 55+56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2129,
+    "title" : "Tác giả: Priest - Chương 57+58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1768,
+    "title" : "Tác giả: Priest - Chương 5+6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2144,
+    "title" : "Tác giả: Priest - Chương 59+60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2254,
+    "title" : "Tác giả: Priest - Chương 61+62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2159,
+    "title" : "Tác giả: Priest - Chương 63+64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2143,
+    "title" : "Tác giả: Priest - Chương 65+66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2129,
+    "title" : "Tác giả: Priest - Chương 67+68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2512,
+    "title" : "Tác giả: Priest - Chương 69+70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2487,
+    "title" : "Tác giả: Priest - Chương 71+72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2241,
+    "title" : "Tác giả: Priest - Chương 73+74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2185,
+    "title" : "Tác giả: Priest - Chương 75+76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2233,
+    "title" : "Tác giả: Priest - Chương 77+78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1819,
+    "title" : "Tác giả: Priest - Chương 7+8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "Tác giả: Priest - Chương 79+80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2159,
+    "title" : "Tác giả: Priest - Chương 81+82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2159,
+    "title" : "Tác giả: Priest - Chương 83+84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2248,
+    "title" : "Tác giả: Priest - Chương 85+86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2175,
+    "title" : "Tác giả: Priest - Chương 87+88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "Tác giả: Priest - Chương 89+90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "Tác giả: Priest - Chương 91+92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "Tác giả: Priest - Chương 93+94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "Tác giả: Priest - Chương 95+96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "Tác giả: Priest - Chương 97+98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1899,
+    "title" : "Tác giả: Priest - Chương 9+10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "Tác giả: Priest - Chương 99+100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2337,
+    "title" : "Tác giả: Priest - Chương 101+102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1557,
+    "title" : "Tác giả: Priest - Chương 103+104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "Tác giả: Priest - Chương 105+106",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2463,
+    "title" : "Tác giả: Priest - Chương 107+108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 825,
+    "title" : "Tác giả: Priest - Chương 109 - Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2032,
+    "title" : "Tác giả: Priest - Phiên ngoại 1+2+3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1718,
+    "title" : "Tác giả: Priest - Chương 11+12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1669,
+    "title" : "Tác giả: Priest - Chương 13+14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1920,
+    "title" : "Tác giả: Priest - Chương 15+16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-hao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1557,
+    "title" : "Tác giả: Priest - Chương 17+18",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luc-hao/1.mp3",
+    "title" : "Tác giả: Priest - Chương 1+2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/10.mp3",
+    "title" : "Tác giả: Priest - Chương 19+20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/11.mp3",
+    "title" : "Tác giả: Priest - Chương 21+22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/12.mp3",
+    "title" : "Tác giả: Priest - Chương 23+24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/13.mp3",
+    "title" : "Tác giả: Priest - Chương 25+26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/14.mp3",
+    "title" : "Tác giả: Priest - Chương 27+28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/15.mp3",
+    "title" : "Tác giả: Priest - Chương 29+30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/16.mp3",
+    "title" : "Tác giả: Priest - Chương 31+32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/17.mp3",
+    "title" : "Tác giả: Priest - Chương 33+34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/18.mp3",
+    "title" : "Tác giả: Priest - Chương 35+36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/19.mp3",
+    "title" : "Tác giả: Priest - Chương 37+38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/2.mp3",
+    "title" : "Tác giả: Priest - Chương 3+4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/20.mp3",
+    "title" : "Tác giả: Priest - Chương 39+40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/21.mp3",
+    "title" : "Tác giả: Priest - Chương 41+42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/22.mp3",
+    "title" : "Tác giả: Priest - Chương 43+44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/23.mp3",
+    "title" : "Tác giả: Priest - Chương 45+46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/24.mp3",
+    "title" : "Tác giả: Priest - Chương 47+48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/25.mp3",
+    "title" : "Tác giả: Priest - Chương 49+50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/26.mp3",
+    "title" : "Tác giả: Priest - Chương 51+52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/27.mp3",
+    "title" : "Tác giả: Priest - Chương 53+54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/28.mp3",
+    "title" : "Tác giả: Priest - Chương 55+56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/29.mp3",
+    "title" : "Tác giả: Priest - Chương 57+58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/3.mp3",
+    "title" : "Tác giả: Priest - Chương 5+6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/30.mp3",
+    "title" : "Tác giả: Priest - Chương 59+60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/31.mp3",
+    "title" : "Tác giả: Priest - Chương 61+62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/32.mp3",
+    "title" : "Tác giả: Priest - Chương 63+64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/33.mp3",
+    "title" : "Tác giả: Priest - Chương 65+66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/34.mp3",
+    "title" : "Tác giả: Priest - Chương 67+68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/35.mp3",
+    "title" : "Tác giả: Priest - Chương 69+70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/36.mp3",
+    "title" : "Tác giả: Priest - Chương 71+72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/37.mp3",
+    "title" : "Tác giả: Priest - Chương 73+74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/38.mp3",
+    "title" : "Tác giả: Priest - Chương 75+76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/39.mp3",
+    "title" : "Tác giả: Priest - Chương 77+78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/4.mp3",
+    "title" : "Tác giả: Priest - Chương 7+8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/40.mp3",
+    "title" : "Tác giả: Priest - Chương 79+80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/41.mp3",
+    "title" : "Tác giả: Priest - Chương 81+82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/42.mp3",
+    "title" : "Tác giả: Priest - Chương 83+84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/43.mp3",
+    "title" : "Tác giả: Priest - Chương 85+86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/44.mp3",
+    "title" : "Tác giả: Priest - Chương 87+88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/45.mp3",
+    "title" : "Tác giả: Priest - Chương 89+90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/46.mp3",
+    "title" : "Tác giả: Priest - Chương 91+92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/47.mp3",
+    "title" : "Tác giả: Priest - Chương 93+94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/48.mp3",
+    "title" : "Tác giả: Priest - Chương 95+96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/49.mp3",
+    "title" : "Tác giả: Priest - Chương 97+98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/5.mp3",
+    "title" : "Tác giả: Priest - Chương 9+10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/50.mp3",
+    "title" : "Tác giả: Priest - Chương 99+100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/51.mp3",
+    "title" : "Tác giả: Priest - Chương 101+102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/52.mp3",
+    "title" : "Tác giả: Priest - Chương 103+104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/53.mp3",
+    "title" : "Tác giả: Priest - Chương 105+106",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/54.mp3",
+    "title" : "Tác giả: Priest - Chương 107+108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/55.mp3",
+    "title" : "Tác giả: Priest - Chương 109 - Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/56.mp3",
+    "title" : "Tác giả: Priest - Phiên ngoại 1+2+3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/6.mp3",
+    "title" : "Tác giả: Priest - Chương 11+12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/7.mp3",
+    "title" : "Tác giả: Priest - Chương 13+14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/8.mp3",
+    "title" : "Tác giả: Priest - Chương 15+16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-hao/9.mp3",
+    "title" : "Tác giả: Priest - Chương 17+18",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

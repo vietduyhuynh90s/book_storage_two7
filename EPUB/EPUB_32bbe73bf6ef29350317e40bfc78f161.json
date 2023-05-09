@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoa-sen-tren-tuyet_19291.html",
+    "title" : "Hoa Sen Trên Tuyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18321,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_32bbe73bf6ef29350317e40bfc78f161.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_32bbe73bf6ef29350317e40bfc78f161.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4762,
+    "title" : "Hoa sen trên tuyết 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4707,
+    "title" : "Hoa sen trên tuyết 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4596,
+    "title" : "Hoa sen trên tuyết 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4256,
+    "title" : "Hoa sen trên tuyết 04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet01.mp3",
+    "title" : "Hoa sen trên tuyết 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet02.mp3",
+    "title" : "Hoa sen trên tuyết 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet03.mp3",
+    "title" : "Hoa sen trên tuyết 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-sen-tren-tuyet.sna/HoaSenTrenTuyet04.mp3",
+    "title" : "Hoa sen trên tuyết 04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

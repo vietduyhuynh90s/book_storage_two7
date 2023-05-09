@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-mang-dem-dong-phong_12202.html",
+    "title" : "Án Mạng Đêm Động Phòng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tựu Mộ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38825,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_0692cecdab073322a60fc0360e452447.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_0692cecdab073322a60fc0360e452447.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9825,
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 1 ] - MC HUỆ LEO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9193,
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 2 ] - MC HUỆ LEO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9862,
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 3 ] - MC HUỆ LEO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9945,
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 4 HẾT ] - MC HUỆ LEO",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/1.mp3",
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 1 ] - MC HUỆ LEO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/2.mp3",
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 2 ] - MC HUỆ LEO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/3.mp3",
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 3 ] - MC HUỆ LEO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-dem-dong-phong/4.mp3",
+    "title" : "ÁN MẠNG ĐÊM ĐỘNG PHÒNG [ TẬP 4 HẾT ] - MC HUỆ LEO",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

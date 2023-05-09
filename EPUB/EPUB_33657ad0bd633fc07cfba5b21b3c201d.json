@@ -1,0 +1,461 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-khoang-lang-cuoc-song_16748.html",
+    "title" : "Những Khoảng Lặng Cuộc Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 9679,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_33657ad0bd633fc07cfba5b21b3c201d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_33657ad0bd633fc07cfba5b21b3c201d.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 147,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/02-chiec_binh_vo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 369,
+    "title" : "Chiếc bình vỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/03-buoc_ngoat_cuoc_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 245,
+    "title" : "Bước ngoặt cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/04-canh_dieu_tu_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 194,
+    "title" : "Cánh diều tự do",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/05-chon_cach_nhin_cuoc_song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 149,
+    "title" : "Chọn cách nhìn cuộc sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/06-cau_chuyen_o_queens.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 378,
+    "title" : "Câu chuyện ở thành phố Queens",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/07-chau_cay_xau_xi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 211,
+    "title" : "Chậu cây xấu xí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/08-dieu_ky_dieu_tu_nha_tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 249,
+    "title" : "Điều kỳ diệu từ một nhà tù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/09-chiec_dan_piano.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 331,
+    "title" : "Chiếc đàn piano màu gụ đỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/10-dieu_ky_dieu_cua_tinh_yeu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 183,
+    "title" : "Điều kỳ diệu của tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/11-vo_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 243,
+    "title" : "Vô giá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/12-hat_giong_ta_gieo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 160,
+    "title" : "Hạt giống ta gieo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/13-lam_me_co_vui_ko.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 226,
+    "title" : "Làm mẹ có vui không?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/14-mon_qua_cua_cha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 290,
+    "title" : "Món quà của cha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/15-giai_dieu_huyen_thoai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 272,
+    "title" : "Giai điệu huyền thoại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/16-lan_sinh_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 234,
+    "title" : "Lần sinh nhật đầu tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/17-mon_qua_cho_nguoi_nhut_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 326,
+    "title" : "Món quà cho người nhút nhát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/18-mon_qua_dac_biet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 229,
+    "title" : "Món quà đặc biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/19-ngay_hom_nay_dep_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 178,
+    "title" : "Ngày hôm nay đẹp nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/20-mua_dong_am_ap..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 372,
+    "title" : "Mùa đông ấm áp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/21-ngon_lua_tinh_yeu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 219,
+    "title" : "Ngọn lửa tình yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/22-niem_tin_cho_ong_toi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 319,
+    "title" : "Niềm tin ông cho tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/23-niem_vui_bat_ngo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 157,
+    "title" : "Niềm vui bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/24-nuoc_mua_roi_xuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 244,
+    "title" : "Nước mưa rơi xuống...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/25-qua_bong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 672,
+    "title" : "Quả bóng in hình nàng tiên cá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/26-quang_doi_dep_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 170,
+    "title" : "Quãng đời đẹp nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/27-trai_tim_bat_tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 387,
+    "title" : "Trái tim bất tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/28-thien_duong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "Thiên đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/29-thien_than_cua_me.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 279,
+    "title" : "Thiên thần của mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/30-tieng_sam_va_noi_so.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 280,
+    "title" : "Tiếng sấm và nỗi sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/31-trai_tim_mang_nhieu_thuong_tich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 239,
+    "title" : "Trái tim mang nhiều thương tích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/32-tinh_cha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 288,
+    "title" : "Tình cha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/33-tinh_yeu_tu_tam_anh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 360,
+    "title" : "Tình yêu từ tấm ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/34-vet_cham_tren_khuon_mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 481,
+    "title" : "Vết chàm trên khuôn mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/35-hanh_phuc_muon_mang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 460,
+    "title" : "Hạnh phúc muộn màng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/02-chiec_binh_vo.mp3",
+    "title" : "Chiếc bình vỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/03-buoc_ngoat_cuoc_song.mp3",
+    "title" : "Bước ngoặt cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/04-canh_dieu_tu_do.mp3",
+    "title" : "Cánh diều tự do",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/05-chon_cach_nhin_cuoc_song.mp3",
+    "title" : "Chọn cách nhìn cuộc sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/06-cau_chuyen_o_queens.mp3",
+    "title" : "Câu chuyện ở thành phố Queens",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/07-chau_cay_xau_xi.mp3",
+    "title" : "Chậu cây xấu xí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/08-dieu_ky_dieu_tu_nha_tu.mp3",
+    "title" : "Điều kỳ diệu từ một nhà tù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/09-chiec_dan_piano.mp3",
+    "title" : "Chiếc đàn piano màu gụ đỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/10-dieu_ky_dieu_cua_tinh_yeu.mp3",
+    "title" : "Điều kỳ diệu của tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/11-vo_gia.mp3",
+    "title" : "Vô giá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/12-hat_giong_ta_gieo.mp3",
+    "title" : "Hạt giống ta gieo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/13-lam_me_co_vui_ko.mp3",
+    "title" : "Làm mẹ có vui không?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/14-mon_qua_cua_cha.mp3",
+    "title" : "Món quà của cha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/15-giai_dieu_huyen_thoai.mp3",
+    "title" : "Giai điệu huyền thoại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/16-lan_sinh_nhat.mp3",
+    "title" : "Lần sinh nhật đầu tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/17-mon_qua_cho_nguoi_nhut_nhat.mp3",
+    "title" : "Món quà cho người nhút nhát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/18-mon_qua_dac_biet.mp3",
+    "title" : "Món quà đặc biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/19-ngay_hom_nay_dep_nhat.mp3",
+    "title" : "Ngày hôm nay đẹp nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/20-mua_dong_am_ap..mp3",
+    "title" : "Mùa đông ấm áp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/21-ngon_lua_tinh_yeu.mp3",
+    "title" : "Ngọn lửa tình yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/22-niem_tin_cho_ong_toi.mp3",
+    "title" : "Niềm tin ông cho tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/23-niem_vui_bat_ngo.mp3",
+    "title" : "Niềm vui bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/24-nuoc_mua_roi_xuong.mp3",
+    "title" : "Nước mưa rơi xuống...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/25-qua_bong.mp3",
+    "title" : "Quả bóng in hình nàng tiên cá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/26-quang_doi_dep_nhat.mp3",
+    "title" : "Quãng đời đẹp nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/27-trai_tim_bat_tu.mp3",
+    "title" : "Trái tim bất tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/28-thien_duong.mp3",
+    "title" : "Thiên đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/29-thien_than_cua_me.mp3",
+    "title" : "Thiên thần của mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/30-tieng_sam_va_noi_so.mp3",
+    "title" : "Tiếng sấm và nỗi sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/31-trai_tim_mang_nhieu_thuong_tich.mp3",
+    "title" : "Trái tim mang nhiều thương tích",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/32-tinh_cha.mp3",
+    "title" : "Tình cha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/33-tinh_yeu_tu_tam_anh.mp3",
+    "title" : "Tình yêu từ tấm ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/34-vet_cham_tren_khuon_mat.mp3",
+    "title" : "Vết chàm trên khuôn mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01LoiGioiThieu_201306/35-hanh_phuc_muon_mang.mp3",
+    "title" : "Hạnh phúc muộn màng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

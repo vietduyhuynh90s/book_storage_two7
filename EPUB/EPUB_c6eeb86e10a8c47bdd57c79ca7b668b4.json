@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/di-ghe-4_15325.html",
+    "title" : "Dì Ghẻ 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trường Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 76562,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_c6eeb86e10a8c47bdd57c79ca7b668b4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_c6eeb86e10a8c47bdd57c79ca7b668b4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/di-ghe-4/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3134,
+    "title" : "Lửa Đen P1 - Phòng biệt giam - Truyện tâm lí xã hội Tg Trường Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "Lửa đen P10 - Cưới vợ - Truyện thực tế hay nhất 2020 mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3364,
+    "title" : "Lửa đen P11 - Kẻ trộm - Truyện tâm lí xã hội Tg Trường Lê mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "Lửa đen P12 - Nhát dao chí mạng - Truyện TG Trường Lê Mc Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3591,
+    "title" : "Dì ghẻ 4 - Lửa đen P13 - Truyện tác giả Trường Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "Lửa đen P14 - Truyện tâm lí xã hội mới nhất 2020 mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3029,
+    "title" : "Dì ghẻ 4 - Lửa đen P15 giọng đọc mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3382,
+    "title" : "Lửa đen P16 qua phần diễn đọc của Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2600,
+    "title" : "Lửa đen P17 - Lão Phiến xuất hiện - Truyện Trường Lê mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "Lửa đen P18 Mc Hồng Nhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "Lửa đen P19 - Vé xe giang hồ qua giọng đọc Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Lửa đen P2 - Long đại bàng - Truyện tâm lí xã hội Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3171,
+    "title" : "Lửa đen P20 - Mụ hường và bẫy tình - Truyện tâm lí xã hội Trường Lê mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "Lửa đen P21 - Chú Đại mất tích - Truyện tâm lí xã hội mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2837,
+    "title" : "Lửa đen P22 - Truyện Trường Lê mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2154,
+    "title" : "Lửa đen P23 - Cường Đen xuất hiện - Truyện tâm lí xã hội Trường Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2560,
+    "title" : "Lửa đen tập 24 (Hết) - Truyện Trường Lê mc Hồng Nhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3405,
+    "title" : "Lửa đen P3 - Cướp sòng - Truyện thực tế Mc Hồng Nhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "Lửa đen P4 - Cầu cứu kẻ thù - Truyện tâm lí xã hội tác giả Trường Lê mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3379,
+    "title" : "Lửa đen P5 - Đại sát - Truyện tâm lí xã hội Tg Trường Lê hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3357,
+    "title" : "Lửa đen P6 - Uy hiếp - Truyện Tg Trường Lê 2020 Mc Hồng Nhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "Lửa đen P7 - Thoát chết trong gang tấc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3390,
+    "title" : "Lửa đen P8 - Thân phận bí ẩn qua phần diễn đọc Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3230,
+    "title" : "Lửa đen P9 - Bái sư - Truyện Tg Trường Lê mới nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/di-ghe-4/1.mp3",
+    "title" : "Lửa Đen P1 - Phòng biệt giam - Truyện tâm lí xã hội Tg Trường Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/10.mp3",
+    "title" : "Lửa đen P10 - Cưới vợ - Truyện thực tế hay nhất 2020 mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/11.mp3",
+    "title" : "Lửa đen P11 - Kẻ trộm - Truyện tâm lí xã hội Tg Trường Lê mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/12.mp3",
+    "title" : "Lửa đen P12 - Nhát dao chí mạng - Truyện TG Trường Lê Mc Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/13.mp3",
+    "title" : "Dì ghẻ 4 - Lửa đen P13 - Truyện tác giả Trường Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/14.mp3",
+    "title" : "Lửa đen P14 - Truyện tâm lí xã hội mới nhất 2020 mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/15.mp3",
+    "title" : "Dì ghẻ 4 - Lửa đen P15 giọng đọc mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/16.mp3",
+    "title" : "Lửa đen P16 qua phần diễn đọc của Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/17.mp3",
+    "title" : "Lửa đen P17 - Lão Phiến xuất hiện - Truyện Trường Lê mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/18.mp3",
+    "title" : "Lửa đen P18 Mc Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/19.mp3",
+    "title" : "Lửa đen P19 - Vé xe giang hồ qua giọng đọc Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/2.mp3",
+    "title" : "Lửa đen P2 - Long đại bàng - Truyện tâm lí xã hội Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/20.mp3",
+    "title" : "Lửa đen P20 - Mụ hường và bẫy tình - Truyện tâm lí xã hội Trường Lê mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/21.mp3",
+    "title" : "Lửa đen P21 - Chú Đại mất tích - Truyện tâm lí xã hội mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/22.mp3",
+    "title" : "Lửa đen P22 - Truyện Trường Lê mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/23.mp3",
+    "title" : "Lửa đen P23 - Cường Đen xuất hiện - Truyện tâm lí xã hội Trường Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/24.mp3",
+    "title" : "Lửa đen tập 24 (Hết) - Truyện Trường Lê mc Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/3.mp3",
+    "title" : "Lửa đen P3 - Cướp sòng - Truyện thực tế Mc Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/4.mp3",
+    "title" : "Lửa đen P4 - Cầu cứu kẻ thù - Truyện tâm lí xã hội tác giả Trường Lê mới nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/5.mp3",
+    "title" : "Lửa đen P5 - Đại sát - Truyện tâm lí xã hội Tg Trường Lê hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/6.mp3",
+    "title" : "Lửa đen P6 - Uy hiếp - Truyện Tg Trường Lê 2020 Mc Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/7.mp3",
+    "title" : "Lửa đen P7 - Thoát chết trong gang tấc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/8.mp3",
+    "title" : "Lửa đen P8 - Thân phận bí ẩn qua phần diễn đọc Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-ghe-4/9.mp3",
+    "title" : "Lửa đen P9 - Bái sư - Truyện Tg Trường Lê mới nhất 2020",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

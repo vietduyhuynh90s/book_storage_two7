@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-ap-nhat-la-luc-tuyet-roi-lam-kinh_10455.html",
+    "title" : "Ấm Áp Nhất Là Lúc Tuyết Rơi - Lam Kinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lam Kinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15845,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3fec5eae7faa3744a946af2d96d999d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3fec5eae7faa3744a946af2d96d999d9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4329,
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3905,
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4000,
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/1.mp3",
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/2.mp3",
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/3.mp3",
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-ap-nhat-la-luc-tuyet-roi/4.mp3",
+    "title" : "Truyện ngôn tình thời thanh xuân sôi nổi - MC Bi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/du-sao-cung-phai-o-ben-nhau_15685.html",
+    "title" : "Dù Sao Cũng Phải Ở Bên Nhau",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dung Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 70931,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_bea390aabd4118b969d060e7c56a1ac2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_bea390aabd4118b969d060e7c56a1ac2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 453,
+    "title" : "DẪU THẾ NÀO CŨNG Ở BÊN NHAU GIỚI THIỆU",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "Em đang nằm mơ sao| Tập 09 | AnAnAudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "Bị phát hiện| Tập 10 | AnAnAudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2961,
+    "title" : "Bị phát hiện| Tập 11| AnAnAudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3782,
+    "title" : "Giam lỏng | Tập 12| An Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3527,
+    "title" : "Cuộc sống trong mơ | Tập 13| An Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4244,
+    "title" : "Dũng cảm lên Vưu Khả Ý | Tập 14| An Ngôn Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Xin chào, tôi là Nghiêm Khuyên | Tập 15|",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3308,
+    "title" : "Chào em, tôi là Nghiêm Khuynh | Tập 16 |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5532,
+    "title" : "Nhẫn cỏ| Tập cuối|",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "Đại ca xã hội đen chạy taxi | Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4855,
+    "title" : "Con thiên nga nhỏ và tên lưu manh | Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6699,
+    "title" : "Tim đập loạn nhịp | Tập 03 | Hắc Bang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5617,
+    "title" : "Anh hùng cứu thiên nga nhỏ | Tập 04 | Hắc Bang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4634,
+    "title" : "Mùi vị của hối hận | Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3911,
+    "title" : "Đen và Trắng | Tập 6 | Hắc bang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3628,
+    "title" : "Vưu Khả Ý, chờ anh về | Tập 07 | AnAnAudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4316,
+    "title" : "Hôn anh một cái đi | Tập 08 | AnAnAudio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/1.mp3",
+    "title" : "DẪU THẾ NÀO CŨNG Ở BÊN NHAU GIỚI THIỆU",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/10.mp3",
+    "title" : "Em đang nằm mơ sao| Tập 09 | AnAnAudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/11.mp3",
+    "title" : "Bị phát hiện| Tập 10 | AnAnAudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/12.mp3",
+    "title" : "Bị phát hiện| Tập 11| AnAnAudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/13.mp3",
+    "title" : "Giam lỏng | Tập 12| An Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/14.mp3",
+    "title" : "Cuộc sống trong mơ | Tập 13| An Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/15.mp3",
+    "title" : "Dũng cảm lên Vưu Khả Ý | Tập 14| An Ngôn Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/16.mp3",
+    "title" : "Xin chào, tôi là Nghiêm Khuyên | Tập 15|",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/17.mp3",
+    "title" : "Chào em, tôi là Nghiêm Khuynh | Tập 16 |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/18.mp3",
+    "title" : "Nhẫn cỏ| Tập cuối|",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/2.mp3",
+    "title" : "Đại ca xã hội đen chạy taxi | Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/3.mp3",
+    "title" : "Con thiên nga nhỏ và tên lưu manh | Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/4.mp3",
+    "title" : "Tim đập loạn nhịp | Tập 03 | Hắc Bang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/5.mp3",
+    "title" : "Anh hùng cứu thiên nga nhỏ | Tập 04 | Hắc Bang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/6.mp3",
+    "title" : "Mùi vị của hối hận | Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/7.mp3",
+    "title" : "Đen và Trắng | Tập 6 | Hắc bang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/8.mp3",
+    "title" : "Vưu Khả Ý, chờ anh về | Tập 07 | AnAnAudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dau-the-nao-cung-muon-o-ben-nhau/9.mp3",
+    "title" : "Hôn anh một cái đi | Tập 08 | AnAnAudio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

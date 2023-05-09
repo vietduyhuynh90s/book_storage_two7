@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quan-lay-khong-buong-ban-ha-luong-luong_10690.html",
+    "title" : "Quấn Lấy Không Buông - Bán Hạ Lương Lương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bán Hạ Lương Lương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38621,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4d20fdd1a38cb6ff9f30fb3927e3e0a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4d20fdd1a38cb6ff9f30fb3927e3e0a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10909,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12360,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5543,
+    "title" : "Tuyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9809,
+    "title" : "Truyện ngôn tình mới nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/1.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/2.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/3.mp3",
+    "title" : "Tuyện ngôn tình mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quan-lay-khong-buong/4.mp3",
+    "title" : "Truyện ngôn tình mới nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

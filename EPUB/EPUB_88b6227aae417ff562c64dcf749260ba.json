@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-vo-la-vo-anh_13186.html",
+    "title" : "Vì Vợ Là Vợ Anh!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan Rùa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 78026,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_88b6227aae417ff562c64dcf749260ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_88b6227aae417ff562c64dcf749260ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7814,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6640,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P11 Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7829,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7766,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7743,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7520,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8069,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6508,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7417,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7877,
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/1.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/10.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/11.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P11 Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/2.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/3.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/4.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/5.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/6.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/7.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/8.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vi-vo-la-vo-cua-anh/9.mp3",
+    "title" : "Vì Vợ Là Vợ Của Anh – Truyện Audio hay – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

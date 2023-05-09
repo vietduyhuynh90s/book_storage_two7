@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xuyen-thanh-vi-hon-the-bi-pha-san_15541.html",
+    "title" : "Xuyên Thành Vị Hôn Thê Bị Phá Sản",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Nguyệt Dao Ca",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37924,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_14482b3e698c52191f52b862abd72f1e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_14482b3e698c52191f52b862abd72f1e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6448,
+    "title" : "[PHẦN 1] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7989,
+    "title" : "[PHẦN 2] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11043,
+    "title" : "[PHẦN 3] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6813,
+    "title" : "[PHẦN 4] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5631,
+    "title" : "[PHẦN CUỐI] Truyện xuyên không xuyên sách XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/1.mp3",
+    "title" : "[PHẦN 1] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/2.mp3",
+    "title" : "[PHẦN 2] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/3.mp3",
+    "title" : "[PHẦN 3] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/4.mp3",
+    "title" : "[PHẦN 4] Truyện xuyên không xuyên sách hiện đại XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vi-hon-the-bi-pha-san/5.mp3",
+    "title" : "[PHẦN CUỐI] Truyện xuyên không xuyên sách XUYÊN THÀNH VỊ HÔN THÊ PHÁ SẢN | Phương Lee Channel",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

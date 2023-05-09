@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-hoa-nguc-dan-brown-trinh-tham_3126.html",
+    "title" : "Hỏa Ngục - Dan Brown",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dan Brown",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 49537,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2084e1bfddb3243af6ea2bb5248495a5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2084e1bfddb3243af6ea2bb5248495a5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/h-n-8/h-n-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4254,
+    "title" : "Untitled Episode",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5388,
+    "title" : "1. AUDIOBOOK - Hỏa Ngục (Inferno) - PHẦN 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5137,
+    "title" : "Untitled Episode",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5945,
+    "title" : "4. AUDIOBOOK - Hỏa Ngục (Inferno) - PHẦN 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5958,
+    "title" : "h-n-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6273,
+    "title" : "h-n-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5951,
+    "title" : "h-n-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6703,
+    "title" : "h-n-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "h-n-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/h-n-8/h-n-1.mp3",
+    "title" : "Untitled Episode",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-2.mp3",
+    "title" : "1. AUDIOBOOK - Hỏa Ngục (Inferno) - PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-3.mp3",
+    "title" : "Untitled Episode",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-4.mp3",
+    "title" : "4. AUDIOBOOK - Hỏa Ngục (Inferno) - PHẦN 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-5.mp3",
+    "title" : "h-n-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-6.mp3",
+    "title" : "h-n-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-7.mp3",
+    "title" : "h-n-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-8.mp3",
+    "title" : "h-n-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/h-n-8/h-n-9.mp3",
+    "title" : "h-n-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

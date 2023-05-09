@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muon-lam-nu-hoang-dung-yeu-nhu-hau-gai_14854.html",
+    "title" : "Muốn Làm Nữ Hoàng, Đừng Yêu Như Hầu Gái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog của May",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15878,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_dadb066afccc51ed243c03e2fd107ab9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_dadb066afccc51ed243c03e2fd107ab9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/MLNHDYNHG/Mu%E1%BB%91n%20l%C3%A0m%20n%E1%BB%AF%20ho%C3%A0ng%20%C4%91%E1%BB%ABng%20y%C3%AAu%20nh%C6%B0%20h%E1%BA%A7u%20g%C3%A1i%20-%20Blog%20c%E1%BB%A7a%20May%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15878,
+    "title" : "Muốn làm nữ hoàng đừng yêu như hầu gái - Blog của May (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/MLNHDYNHG/Mu%E1%BB%91n%20l%C3%A0m%20n%E1%BB%AF%20ho%C3%A0ng%20%C4%91%E1%BB%ABng%20y%C3%AAu%20nh%C6%B0%20h%E1%BA%A7u%20g%C3%A1i%20-%20Blog%20c%E1%BB%A7a%20May%20%28128kbit_AAC%29.mp3",
+    "title" : "Muốn làm nữ hoàng đừng yêu như hầu gái - Blog của May (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

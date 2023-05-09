@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chieu-dieu-cuu-lo-phi-huong_9987.html",
+    "title" : "Chiêu Diêu - Cửu Lộ Phi Hương.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 68165,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_e3df9bcc109ad37cb3e40e4b8bda859a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_e3df9bcc109ad37cb3e40e4b8bda859a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8388,
+    "title" : "CHIÊU DIÊU | TRUYỆN NGÔN TÌNH MỚI NHẤT CỦA CỬU LỘ PHI HƯƠNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8606,
+    "title" : "CHIÊU DIÊU Tập 2 TRUYỆN NGÔN TÌNH HAY Ta Trốn Tránh Cái Gì?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8035,
+    "title" : "CHIÊU DIÊU Tap 3 TRUYỆN NGÔN TÌNH HAY Ngươi sẽ không thích nàng chứ?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8883,
+    "title" : "CHIÊU DIÊU Tập 4 TRUYỆN NGÔN TÌNH HAY VÀ VÔ CÙNG HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9126,
+    "title" : "CHIÊU DIÊU Tap 5 TRUYỆN NGÔN TÌNH HAY Lộ Chiêu Diêu có hôn ta hay không?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8593,
+    "title" : "CHIÊU DIÊU Tập 6 TRUYỆN NGÔN TÌNH HAY [Chiêu Diêu, ngươi là tất cả của ta]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8138,
+    "title" : "CHIÊU DIÊU [Tập 7] TRUYỆN NGÔN TÌNH CỰC KỲ HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8396,
+    "title" : "CHIÊU DIÊU (END) TRUYỆN NGÔN TÌNH KẾT THÚC THÚ VỊ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/1.mp3",
+    "title" : "CHIÊU DIÊU | TRUYỆN NGÔN TÌNH MỚI NHẤT CỦA CỬU LỘ PHI HƯƠNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/2.mp3",
+    "title" : "CHIÊU DIÊU Tập 2 TRUYỆN NGÔN TÌNH HAY Ta Trốn Tránh Cái Gì?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/3.mp3",
+    "title" : "CHIÊU DIÊU Tap 3 TRUYỆN NGÔN TÌNH HAY Ngươi sẽ không thích nàng chứ?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/4.mp3",
+    "title" : "CHIÊU DIÊU Tập 4 TRUYỆN NGÔN TÌNH HAY VÀ VÔ CÙNG HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/5.mp3",
+    "title" : "CHIÊU DIÊU Tap 5 TRUYỆN NGÔN TÌNH HAY Lộ Chiêu Diêu có hôn ta hay không?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/6.mp3",
+    "title" : "CHIÊU DIÊU Tập 6 TRUYỆN NGÔN TÌNH HAY [Chiêu Diêu, ngươi là tất cả của ta]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/7.mp3",
+    "title" : "CHIÊU DIÊU [Tập 7] TRUYỆN NGÔN TÌNH CỰC KỲ HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_cd/8.mp3",
+    "title" : "CHIÊU DIÊU (END) TRUYỆN NGÔN TÌNH KẾT THÚC THÚ VỊ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

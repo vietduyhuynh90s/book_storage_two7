@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vi-giam-doc-mot-phut-va-con-khi_14815.html",
+    "title" : "Vị Giám Đốc Một Phút Và Con Khỉ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kenneth Blanchard",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7386,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2b0a0a3831dc3657d54efce5e637a34e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2b0a0a3831dc3657d54efce5e637a34e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 370,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 222,
+    "title" : "Lần đầu trong vai trò giám đốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 218,
+    "title" : "Gặp lại vị Giám Đốc Một Phút",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 156,
+    "title" : "Song đề quản lý cơ bản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 346,
+    "title" : "Những mâu thuẫn nội tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 818,
+    "title" : "“Con khỉ” đang thuộc về ai?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 172,
+    "title" : "Đi tìm giải pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 482,
+    "title" : "“Thức tỉnh”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 562,
+    "title" : "Trả “khỉ” về chuồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 344,
+    "title" : "Nguyên tắc quản lý “khỉ” của Oncken",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 216,
+    "title" : "Nguyên tắc thứ nhất: “Miêu tả rõ ràng”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 414,
+    "title" : "Nguyên tắc thứ hai: “Làm việc có trách nhiệm”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 476,
+    "title" : "Nguyên tắc thứ ba: “Áp dụng bảo hiểm”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1526,
+    "title" : "Nguyên tắc thứ tư: “Kiểm tra định kỳ”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1064,
+    "title" : "Ba phạm trù thời gian",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch00.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch01.mp3",
+    "title" : "Lần đầu trong vai trò giám đốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch02.mp3",
+    "title" : "Gặp lại vị Giám Đốc Một Phút",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch03.mp3",
+    "title" : "Song đề quản lý cơ bản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch04.mp3",
+    "title" : "Những mâu thuẫn nội tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch05.mp3",
+    "title" : "“Con khỉ” đang thuộc về ai?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch06.mp3",
+    "title" : "Đi tìm giải pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch07.mp3",
+    "title" : "“Thức tỉnh”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch08.mp3",
+    "title" : "Trả “khỉ” về chuồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch09.mp3",
+    "title" : "Nguyên tắc quản lý “khỉ” của Oncken",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch10.mp3",
+    "title" : "Nguyên tắc thứ nhất: “Miêu tả rõ ràng”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch11.mp3",
+    "title" : "Nguyên tắc thứ hai: “Làm việc có trách nhiệm”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch12.mp3",
+    "title" : "Nguyên tắc thứ ba: “Áp dụng bảo hiểm”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch13.mp3",
+    "title" : "Nguyên tắc thứ tư: “Kiểm tra định kỳ”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobook-vigiamdocmotphutvaconkhi/ch14.mp3",
+    "title" : "Ba phạm trù thời gian",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

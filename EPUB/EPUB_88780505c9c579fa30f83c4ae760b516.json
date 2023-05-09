@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau_4810.html",
+    "title" : "Tại Sao Càng Bận Càng Nghèo, Càng Nhàn Càng Giàu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Tịnh Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10533,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_88780505c9c579fa30f83c4ae760b516.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_88780505c9c579fa30f83c4ae760b516.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/01.C01_CangNgheoCangBan_CangBanCangNgheo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1316,
+    "title" : "01.C01 CangNgheoCangBan CangBanCangNgheo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/02.C02_CangGiauCangNhan_CangNhanCangGiau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 982,
+    "title" : "02.C02 CangGiauCangNhan CangNhanCangGiau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/03.C03_BanTenMinhVaoBiaNguoi_BanNgheoNhanGiau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "03.C03 BanTenMinhVaoBiaNguoi BanNgheoNhanGiau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/04.C04_CoChap_BanNgheoNhanGiau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1962,
+    "title" : "04.C04 CoChap BanNgheoNhanGiau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/05.C05_HanhDongTheoCamTinh_BanNgheoNhanGiau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "05.C05 HanhDongTheoCamTinh BanNgheoNhanGiau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/06.C06_Het_DanhGiaBanThanQuaCao_BanNgheoNhanGiau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "06.C06 Het DanhGiaBanThanQuaCao BanNgheoNhanGiau",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/01.C01_CangNgheoCangBan_CangBanCangNgheo.mp3",
+    "title" : "01.C01 CangNgheoCangBan CangBanCangNgheo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/02.C02_CangGiauCangNhan_CangNhanCangGiau.mp3",
+    "title" : "02.C02 CangGiauCangNhan CangNhanCangGiau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/03.C03_BanTenMinhVaoBiaNguoi_BanNgheoNhanGiau.mp3",
+    "title" : "03.C03 BanTenMinhVaoBiaNguoi BanNgheoNhanGiau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/04.C04_CoChap_BanNgheoNhanGiau.mp3",
+    "title" : "04.C04 CoChap BanNgheoNhanGiau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/05.C05_HanhDongTheoCamTinh_BanNgheoNhanGiau.mp3",
+    "title" : "05.C05 HanhDongTheoCamTinh BanNgheoNhanGiau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tai-sao-cang-ban-cang-ngheo-cang-nhan-cang-giau.sna/06.C06_Het_DanhGiaBanThanQuaCao_BanNgheoNhanGiau.mp3",
+    "title" : "06.C06 Het DanhGiaBanThanQuaCao BanNgheoNhanGiau",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

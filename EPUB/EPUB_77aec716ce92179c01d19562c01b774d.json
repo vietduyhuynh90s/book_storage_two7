@@ -1,0 +1,5597 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghich-thien-ta-than_18972.html",
+    "title" : "Nghịch Thiên Tà Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hỏa Tinh Dẫn Lực",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 1491682,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_77aec716ce92179c01d19562c01b774d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_77aec716ce92179c01d19562c01b774d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3523,
+    "title" : "01 - Đại Hôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3909,
+    "title" : "10 - Ranh Giới Sinh Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "100// Truyền Thừa Kim Ô",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3996,
+    "title" : "101// Vân Khinh Hồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3940,
+    "title" : "102// 25 Năm Trước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "103// Vân Gia So Tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3273,
+    "title" : "104// Long Trời Lở Đất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3453,
+    "title" : "105// Gia Chủ Lệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3244,
+    "title" : "106// Một Nhà Đoàn Tụ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "107// Thiếu nữ yêu dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "108// Mười Hai Gia Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3489,
+    "title" : "109// Xung đột Bắt Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4195,
+    "title" : "11 - Mầm Mống Của Tà Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "110// Đồng Quy Vu Tận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "111// Vân Triệt Xuất Chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "112// Múa Rìu Qua Mắt Thợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "113// Kiếp Thiên Kiếm Ra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "114// Năm Thắng Liên Tiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "115// Đại Mạ Thất Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "116// Thiên Thương Vân Gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3958,
+    "title" : "117// Tiến Thoái Lưỡng Nan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3408,
+    "title" : "118// Suy Đoán Đáng Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3278,
+    "title" : "119// Minh Vương Hiện Thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "12 - Tinh Thần Toái Ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "120// Tử Vong Chi Hải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "121// Kim Ô Tổ Địa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4060,
+    "title" : "122// Kim Ô Truyền Thừa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4251,
+    "title" : "123// Hy Vọng Cuối Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4292,
+    "title" : "124// Tiểu Yêu Hậu Trở Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "125// Minh Vương Hiện Thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3332,
+    "title" : "126// Hồi Phục Thái Cổ Huyền chu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "127// Tử Vân Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3934,
+    "title" : "128// Danh Thần Y",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2289,
+    "title" : "129// Tôn Nghiêm Nam Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4479,
+    "title" : "13 - Lam Tuyết Nhược",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4296,
+    "title" : "130// Đại Được Ước Muốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "131// Tai Họa Diệt Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3999,
+    "title" : "132// Hoàng Tuyền Tro Tàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3756,
+    "title" : "133// Băng Vân Tin Dữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4374,
+    "title" : "134// Băng Vân Xuất Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3489,
+    "title" : "135// Phô Trương Thanh Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3844,
+    "title" : "136// Thoát Khỏi Kiếp Nạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "137// Phần Tuyệt Trần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "138// Kiếm Chỉ Thần Hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "139// Gặp Lại Tử Cực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5101,
+    "title" : "14 - Nhất Kiến Kinh Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3569,
+    "title" : "140// Bí Mật Của Hải Điện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "141// Thần Hoàng Đại Loạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "142// Phong Hoàng Cấm Trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3751,
+    "title" : "143// Phượng Hoàng Thần Tông Run Rẩy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4085,
+    "title" : "144// Phượng Thiên Uy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "145// Hoàng Tuyền Tro Tàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "146// Tàn Khốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3740,
+    "title" : "147// Thương Nguyệt Quyết Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "148// Ngắn Ngủi Bình Tĩnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "149// Đại Công Cáo Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "15 - Tiêu Lạc Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "150// Thoát Khỏi Ma Yểm Mạy Lỵ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "151// Ngày Ước Chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "152// Vĩnh Dạ Vô Quang, Hoàng Tuyền Hôi Tẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3553,
+    "title" : "153// Viến Cổ Ma Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "154// Hỏi Tội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "155// Tới Gần Ma Kiếm Đại Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "156// Hải Điện Thánh Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "157// Phế Minh Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "158// Thí Nguyệt Ma Quật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "159// Bối Thủy Tuyệt Địa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4305,
+    "title" : "16 - Tần Vô Ưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4168,
+    "title" : "160// Mạt Lỵ Của Ta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "161// Mạt Lỵ Tố Thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "162// Tiêu Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "163// Bí Ẩn Tận Bóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4037,
+    "title" : "164// Mạt Lỵ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4076,
+    "title" : "165// Quay Lại Thí Nguyệt Ma Quật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "166// Hắc Ám Cự Thú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3858,
+    "title" : "167// Địa Ngục U La",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "168// Ngục La Độc Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3526,
+    "title" : "169// Ma Đạo Chi Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "17 - Tiêu Tông Tới Cửa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "170// Hỏa Diễm Kim Sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "171// Tiểu Yêu Hậu Với Hiên Viên Vấn Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "172 // Di Thiên Ách Viêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3801,
+    "title" : "173 // Lặp Lại Chiêu Cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "174 // Khó Khăn Của Huyễn Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "175 // Lời Nhắn Mạt Lỵ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "176 // Nhi Tử Của Tiêu Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "177 // Về Thương Vân Đại Lục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "178 // Lang Huyên Sơn Mạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "179 // Thiếu Nữ Dưới Vực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4131,
+    "title" : "18 - Y Thuật Thông Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3267,
+    "title" : "180 // Tà Thần Chi Chủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "181 // Thiên Độc Châu Hợp Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "182 // Thiên Huyền U Ám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3575,
+    "title" : "183 // Vĩnh Dạ Thiên Ma Chướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "184 // Thần Huyền Chi Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3485,
+    "title" : "185 // Bụi Tan Khói Diệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4247,
+    "title" : "186 // Rõ Như Ban Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "187 // Bí Mật Của Tà Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "188 // Nghịch Thế Thiên Thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3580,
+    "title" : "189 // Trời Giáng Thần Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4104,
+    "title" : "19 - Kho Bảo Vật Của Tông Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "190 // Tổ Tiên Băng Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "191 // Đến Lúc Đi Thần Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "192 // Hàn Tuyết Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "193 // Bạo Tuyết Cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "194 // Hàn Băng Điệp Lang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "195 // Chó Cùng Rứt Giậu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3767,
+    "title" : "196// Băng Hoàng Cung Thứ Ba Mươi Sáu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "197// Tuyệt Mệnh Khổ Tu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3442,
+    "title" : "198// Mộc Nhất Chu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "199// Yêu Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "02 - Nương Tử, Nàng Đã Ngủ Chưa?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "20 - Chạy Trốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3794,
+    "title" : "200// Ngâm Tuyết Giới Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "201// Hóa Lớn Ngập Trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "202// Hi Vọng Duy Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "203// Đại Hội Toàn Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "204// Khoáng Cổ Tuyệt Kim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "205// Băng Hoàng Thần Huyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "206// Huyền Âm Cơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "207// Càn Khôn Ngũ Quỳnh Đan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3517,
+    "title" : "208// Băng Phong Bảo Vật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "209// Quỷ Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "21 - Phượng Hoàng Di Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "210// Thiệp Mời Đến Từ Nguyệt Thần Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "211// Cừu Nhân Gặp Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3771,
+    "title" : "212// Vân Điệp Đoạt Mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "213// Sơ Đạp Viêm Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "214// Cầu Long Hiện Thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3685,
+    "title" : "215// Kết Quả Tệ Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "216// Chạy Tới Hắc Gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "217// Hắc Vũ Thương Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3506,
+    "title" : "218// Vương Tộc Mộc Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "219// Mộc Linh Châu Hoàn Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "22 - Phượng Hoàng Tụng Thế Điển – Tàn Quyển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3803,
+    "title" : "220// Thỉnh Cầu Của Kỷ Như Nhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3473,
+    "title" : "221// Miệng Lưỡi Sắc Sảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "222// Lại Thấy Tiểu Mạt Lỵ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3765,
+    "title" : "223// Ám Dạ Hồng Điệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "224// Tiểu Mạt Lỵ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "225// Thần Võ Quy Khắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3658,
+    "title" : "226// Thiên Cơ Bế Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "227// Thu Hoạch Ngoài Ý Muốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "228// Tiểu Thế Giới Tầng Thứ Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "229// Lại Quay Về Ngâm Tuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "23 - Sơn Cùng Thủy Tận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "230// Thần Kiếp Hoàn Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "231// Truyền Nhân Của Kiếm Quân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "232// Chiến Trường Trụ Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "233// Hi Vọng Cuối Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "234// Trụ Thiên Thần Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "235// Một Bước Lên Trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "236// Thẩm Lý Phán Quyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4070,
+    "title" : "237// Trụ Thiên Thần Tháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "238// Cuộc Chiến Phong Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "239// Ban Thưởng Của Băng Hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3435,
+    "title" : "24 - Phượng Dực Thiên Khung Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "240// Tái Chiến Lạc Trường An",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "241// Trường Sinh Công Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3898,
+    "title" : "242// Phá Vân Bỏ Chiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "243// Huyền Công Áp Chế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3934,
+    "title" : "244// Tâm Ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3550,
+    "title" : "245// Cuộc Chiến Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "246// Kim Ô Thánh Kiếm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "247// Ăn Miếng Trả Miếng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "248// Vô Danh Kiếm Uy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3367,
+    "title" : "249// Thần Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "25 - Thương Phong Huyền Phủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "250// Hồng Liên Xán Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "251// Thần Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "252// Tàn Quang Tuyệt Diệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/253.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "253// Lục kiếp hãi thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/254.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "254// Hạng Nhất Phong Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/255.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3590,
+    "title" : "255// Thiên Cơ Tiên Đoán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/256.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "256// Phong Thần Kết Thúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/257.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "257// Nguy Cơ Khó Giải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/258.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "258// Hy Vọng Duy Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/259.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3844,
+    "title" : "259// Nguyệt Thần Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "26 - Khảo Nghiệm Huyền Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/260.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "260// Nguyệt Thần Lên Cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/261.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "261// Mưu Kế Của Thiên Diệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/262.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3966,
+    "title" : "262// Độn Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/263.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "263// Chân Tướng Hôn Điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/264.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "264// Phạm Hồn Cầu Tử Ấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/265.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "265// Tây Vực Long Thần Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/266.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3968,
+    "title" : "266// Hòa Lăng, Hòa Lâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/267.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "267// Thần Hi Thần Bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/268.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "268// Khuynh Nguyệt Huyền m",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/269.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "269// Độc Linh Thiên Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "27 - Thẳng Vào Nội Phủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/270.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "270// Độc Linh Hòa Lăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/271.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3988,
+    "title" : "271// Mưu Đồ Huyết Tế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/272.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3941,
+    "title" : "272// Vô Hối Vô Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/273.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "273// Rồng Ngâm Tuyệt Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/274.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "274// Bỉ Ngạn Tu La",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/275.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "275// Trận Chiến Hủy Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/276.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4176,
+    "title" : "276// Nguyệt Đế Ngã Xuống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/277.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3508,
+    "title" : "277// Niết Bàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/278.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "278// Vô Tâm Nguyệt Thiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/279.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "279// Quay Về Thế Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "28 - Thiên Huyền Bảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/280.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "280// Đoàn Tụ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/281.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "281// Huyền Âm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/282.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "282// Kiếp Nạn Thương Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/283.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2455,
+    "title" : "283// Ma Khí Tràn Ra Ngoài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/284.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2496,
+    "title" : "284// Thần Tích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/285.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "285// Di Hận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/286.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2679,
+    "title" : "286// Sứ Mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/287.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2511,
+    "title" : "287// Lại Đến Thương Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/288.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "288// Long Hoàng Vỡ Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/289.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2590,
+    "title" : "289// Ma ảnh lâm thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "29 - Tiên Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/290.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "290// Quay về thần vực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/291.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2389,
+    "title" : "291// Thần Quân Cự Thú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/292.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2647,
+    "title" : "292// Huyền Âm Thịnh Nộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/293.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "293// Chí Bảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/294.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2550,
+    "title" : "294// Thần Chủ Cấp Mười",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/295.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "295// Đại Hội Trụ Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/296.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2605,
+    "title" : "296// Căn Nguyên Đỏ Ửng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/297.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2629,
+    "title" : "297// Chân Tướng Khủng Bố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/298.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2449,
+    "title" : "298// Nữ Nhi Của Tà Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/299.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "299// Quỷ Mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3509,
+    "title" : "03 - Thiếu Nữ Tóc Đỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4008,
+    "title" : "30 - Thiên Lang Ngục Thần Điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/300.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "300 // Lại Vào Trụ Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/301.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2556,
+    "title" : "301// Thiên Diệp Phạm Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/302.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "302// Đại Lão Tề Tụ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/303.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2459,
+    "title" : "303// Ma Đế Lâm Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/304.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2409,
+    "title" : "304// Hy Vọng Duy Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/305.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "305// Ma Đế Mê Man",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/306.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2626,
+    "title" : "306// Nước Mắt Của Ma Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/307.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2463,
+    "title" : "307// Thần Ma Cấm Điển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/308.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "308// Vị Vua Không Ngai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/309.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2520,
+    "title" : "309// Phạm Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "31 - Kim Lân Hóa Long Đan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/310.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "310// Vạn Kiếp Vô Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/311.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2535,
+    "title" : "311// Vô Kinh Vô Hiểm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/312.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2491,
+    "title" : "312// Lựa Chọn Của Thiên Diệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/313.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2593,
+    "title" : "313// Điều Kiện Của Hạ Khuynh Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/314.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "314// Cẩn Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/315.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "315// Dung Nhan Thật Của Thiên Diệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/316.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "316// Tà Anh Mạt Lỵ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/317.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2544,
+    "title" : "317// Thải Chi Dị Hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/318.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2696,
+    "title" : "318// Lựa Chọn Của Kiếp Uyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/319.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2624,
+    "title" : "319// Tiệc Mừng Thọ Tiêu gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "32 - Phệ Hồn Đồng Mệnh Cổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/320.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "320// Ma Đế Quyết Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/321.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "321// Kết Cục Hoàn Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/322.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "322// Trụ Thiên Thái Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/323.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2696,
+    "title" : "323// Nghịch Uyên Thạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/324.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2587,
+    "title" : "324// Biến cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/325.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "325// Tử Cảnh Tử Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/326.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2507,
+    "title" : "326// Ma Thần Tiên Đoán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/327.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "327// Bỉ Ngạn Huyền Âm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/328.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2402,
+    "title" : "328// Long Hồn Hắc Ám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/329.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2446,
+    "title" : "329// Thần Nữ Vỡ Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "33 - Thiên Long Trảm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/330.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "330// Công Chúa Gặp Nạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/331.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "331// Đông Hàn Sở Ca",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/332.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "332// Một Chỉ Nhiếp Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/333.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "333// Mệnh Lệnh!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/334.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2547,
+    "title" : "334// Thiên Diệp Thiên Ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/335.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "335// Thiên Diệp Thiên Ảnh (Hạ)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/336.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2663,
+    "title" : "336// Nhạn Công Chúa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/337.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2523,
+    "title" : "337// Nam Hoàng Thiền Y",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/338.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2644,
+    "title" : "338// Bắc Hàn Sơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/339.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2609,
+    "title" : "339 // Vân Triệt Xuất Trận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "34 - Quyết định",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/340.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2664,
+    "title" : "340 // Một Chọi Mười",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/341.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "341 // Thảm Không Nói Nổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/342.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "342 // Thiếu Nữ Thần Bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/343.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2552,
+    "title" : "343 // Thiền Y Thần Bí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/344.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2589,
+    "title" : "344 // Bắc Vực Ma Hậu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/345.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2638,
+    "title" : "345 // Thiên Hoàng Vân Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/346.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2545,
+    "title" : "346 // Cáo Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/347.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2506,
+    "title" : "347 // Trời Giáng Kiếp Nạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/348.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "348 // Tự Chui Đầu Vào Rọ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/349.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2506,
+    "title" : "349 // Hắc Viêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "35 - Thiết Bối Thương Lan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/350.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2377,
+    "title" : "350 // Lộ Ra Trò Hề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/351.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2491,
+    "title" : "351 // Ma Nữ Họa Cẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/352.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "352 // Mị Âm Vào Nguyệt Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/353.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2621,
+    "title" : "353 // Thái Sơ Thần Quả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/354.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2628,
+    "title" : "354 // Thiên Long Dị Hóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/355.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "355 // Thải Chi Thiên Diệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/356.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2523,
+    "title" : "356 // Ấn Ký Ma Hậu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/357.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2587,
+    "title" : "357// Thiên Cô Hồng Hộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/358.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "358// Ma Nữ Yêu Điệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/359.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "359// Lời Mời Của Ma Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "36 - Long Thần thí luyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/360.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "360 // Thiên Ảnh Yêu Điệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/361.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2480,
+    "title" : "361 // Thần Nữ Ma Hậu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/362.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "362 // Lời Của Ma Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/363.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2471,
+    "title" : "363 // Chín Ma Nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/364.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2450,
+    "title" : "364 // Ma Nữ Trùng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/365.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "365 // Thiên Diệp Nguy Cơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/366.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2409,
+    "title" : "366 // Linh Hồn Ma Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/367.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2444,
+    "title" : "367// Ăn Miếng Trả Miếng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/368.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2474,
+    "title" : "368// Ảnh Tâm Vân Hận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/369.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "369 // Diêm Ma Lão Tổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3159,
+    "title" : "37 -Thời khắc sống còn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/370.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "370 // Loạn Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/371.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2645,
+    "title" : "371 // Âm Mưu Của Phần Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/372.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2636,
+    "title" : "372 // Kiếp Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/373.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2617,
+    "title" : "373 // Phù Đồ Tầng Thứ Sáu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/374.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2673,
+    "title" : "374 // Dạ Xoa Run Rẩy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/375.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2580,
+    "title" : "375 // Tam Tổ Diêm Ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/376.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2533,
+    "title" : "376 // Diêm Ma Đại Kiếp Nạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/377.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "377 // Diêm Đế Ngơ Ngác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/378.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "378 // Vĩnh Ám Ma Tinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/379.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "379 // Nguy Cơ Của Ngâm Tuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3574,
+    "title" : "38 - Bình Nguyên Vô Tận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/380.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "380 // Huyền Vũ Âm Thập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/381.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2425,
+    "title" : "381 // Thiên Ảnh Cực Cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/382.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2425,
+    "title" : "382 // Ma Chủ Vân Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/383.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "383 // Ma Uy Vô Thượng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/384.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "384 // Trái Tim Phi Tuyết Băng Giá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/385.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2467,
+    "title" : "385 // Bằng Chứng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/386.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "386 // Mây Mù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/387.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2432,
+    "title" : "387 // Hắc Ám Xâm Nhập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/388.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "388 // Tai Họa Lòng Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/389.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "389 // Trụ Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "39 - Trở Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/390.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2488,
+    "title" : "390 // Phạm Đế Nam Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/391.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "391 // Trụ Thiên Thái Tổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/392.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2404,
+    "title" : "392 // Trụ Thiên Thái Tổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/393.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2464,
+    "title" : "393 // Vẫn Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/394.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "394 // Vẫn Nguyệt 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/395.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2478,
+    "title" : "395 // Băng Ảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/396.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2680,
+    "title" : "396 // Băng Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/397.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "397 // Tín Niệm Hỏng Mất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/398.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2518,
+    "title" : "398 // Ban Ơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/399.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2499,
+    "title" : "399 // Phạn Đế Chôn Diệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3507,
+    "title" : "04 - Thần Y",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "40 - Thiên Kiếm Sơn Mạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/400.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2558,
+    "title" : "400 // Phạm Quang Cuối Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/401.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2571,
+    "title" : "401 // Hồng Mông Sinh Tử Ấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/402.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2585,
+    "title" : "402 // Trường Sinh Bất Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/403.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2659,
+    "title" : "403 //Chân Tướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/404.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2453,
+    "title" : "404 // Phá Vân Chấp Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/405.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "405 // Hôi Tẫn Long Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/406.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "406 // Tàn Khốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/407.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2458,
+    "title" : "407 // Át Chủ Bài Của Nam Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/408.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "408 // Ác Mộng Thần Quang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/409.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "409 // Giai Điệu Của Khúc Ca Cuối Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3798,
+    "title" : "41// Bài Vị Chiến Bắt Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/410.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "410 // Long Ảnh Phá Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/411.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "411 // Thứ Được Ma Đế Để Lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/412.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2432,
+    "title" : "412 // Độc Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/413.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2532,
+    "title" : "413 // Tới Ám Nam Vực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/414.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2478,
+    "title" : "414 // Phi Diệt Long Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/415.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "415 // Thái Chi Không Cho Phép",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/416.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "416 // Linh Hồn Vỡ Vụn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/417.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2404,
+    "title" : "417 // Long Thần Thua Bỏ Chạy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/418.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "418 // Kiếm Chỉ Long Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/419.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "419 // Mị Âm, Ánh Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3521,
+    "title" : "42// Gặp Lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/420.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2417,
+    "title" : "420 // Người Không Có Khả Năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/421.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2644,
+    "title" : "421 // Băng Vân Xa Lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/422.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2489,
+    "title" : "422 // Chân Tướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/423.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2414,
+    "title" : "423 // Cấm Chế Tà Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/424.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "424 // Khô Long Tôn Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/425.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2463,
+    "title" : "425 // Thương Lan Tuyệt Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/426.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2471,
+    "title" : "426 // Thương Lan Tuyệt Vọng 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/427.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2446,
+    "title" : "427 // Thương Lan Tuyệt Vọng 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/428.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "428 // Chân Thân Của Long Hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/429.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "429 // Bạo Phát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "43// Chân Chính Bắt Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/430.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2492,
+    "title" : "430 // Thiên Ảnh Cuồng Bạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/431.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "431 // linh hồn hắc ám vĩnh cửu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/432.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2509,
+    "title" : "432 // Diêm Trần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/433.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "433 // Lời Thề Vô Khuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/434.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "434 // Lời Thề Vô Khuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/435.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "435 // Diện Mạo Thật Của Ma Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/436.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "436 // Long Thần Tuyệt Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/437.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2519,
+    "title" : "437 // Cảnh Cuối Của Long Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/438.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2513,
+    "title" : "438 // Vạn Thể Thùy Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/439.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2662,
+    "title" : "439 // Để Phi Của Ma Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3234,
+    "title" : "44// Toàn Thắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/440.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "440 // Thương Xu Hòa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/441.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "441 // Bóng Kiếm Thủy Tổ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/442.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2463,
+    "title" : "442 // Chiếc Kính Kỳ Lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/443.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2463,
+    "title" : "443 // Tiếng Ngâm Từ Vực Thẳm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/444.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2428,
+    "title" : "444 // Nhạc Mẫu Đại Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/445.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2436,
+    "title" : "445 // Đại Điển Phong Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/446.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2450,
+    "title" : "446 // Nóng Lòng Về Nhà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/447.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2561,
+    "title" : "447 // Cha Con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/448.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2539,
+    "title" : "448 // Cha Hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/449.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2627,
+    "title" : "449 // Vô Tâm Xuất Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "45// Biến Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/450.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2591,
+    "title" : "450 // Mảnh Vỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/451.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "451 // Vô Tâm Nhập Thế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/452.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "452 // Kết Cục Của Mộc Linh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/453.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2463,
+    "title" : "453 // Hành Trình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/454.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2502,
+    "title" : "454 // Hành Trình â",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/455.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2525,
+    "title" : "455 // Hành Trình 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/456.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2562,
+    "title" : "456 // Hành Trình 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/457.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2434,
+    "title" : "457 // Sơ Hở",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/458.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2522,
+    "title" : "458 // Lời Nói Dối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/459.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "459 // Đoạn Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "46// Uyên Ương Kiếm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/460.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2625,
+    "title" : "460 // Ký Ức Về Hạ Khuynh Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/461.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2605,
+    "title" : "461 // Ký Ức Về Hạ Khuynh Nguyệt 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/462.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2664,
+    "title" : "462 // Ký Ức Về Hạ Khuynh Nguyệt 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/463.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2546,
+    "title" : "463 // Lựa Chọn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3546,
+    "title" : "47//Kết Cục Của Bá Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "48//Băng Hoàng Quỳnh Hoa Lăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "49//Cuộc Chiến Phu Thê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4451,
+    "title" : "5 - Biến Đổi Mạnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "50//Thiên Trì Bí Cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "51//Lòng Dạ Nữ Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "52//Tuyệt Địa Phùng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3304,
+    "title" : "53//Thương Vân Ảo Mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3662,
+    "title" : "54//Bá Uy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3384,
+    "title" : "55//Thời Gian Tỉnh Mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "56//Thiên Tài Ngã Xuống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "57//Sóng To Gió Lớn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "58//Cực Hạn Tu Luyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "59// Huyền Cương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4347,
+    "title" : "6 - Biến Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3503,
+    "title" : "60// Huyền Cương Thức Tỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3089,
+    "title" : "61// Thương Phong Phủ Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3252,
+    "title" : "62// Biến Dị Huyền Cương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "63// Gặp Lại Thái Cổ Thương Long",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3412,
+    "title" : "64// Vương Huyền Long Khuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3310,
+    "title" : "65// Băng Vân Cung Chủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3724,
+    "title" : "66// Cơn Giận Phần Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "67//Long Hồn Lĩnh Vực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "68// Tuyệt Cảnh Phần Thiên Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "69// Lăng Kiệt Đến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4867,
+    "title" : "7 - Tinh Ẩn Tế Hận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3773,
+    "title" : "70// Độc Chiến Song Vương Tọa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "71/ Tiêu Vô Nghĩa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "72// Hoảng Hốt Tiêu Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3752,
+    "title" : "73// Thần Hoàng Hoàng Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "74// Nghiền Ép",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3309,
+    "title" : "75// Băng Vân Mời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3231,
+    "title" : "76// Băng Di Thần Điện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "77// Băng Tiên Cơn Giận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "78// Băng Cung Quyết Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "79//Nghịch Thiên Dung Hợp, Băng Viêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4249,
+    "title" : "8 - Thiên Linh Thần Mạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "80// Tiện Đường Đòi Nợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "81// Hắc Nguyệt Tầng Thứ Bảy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "82// Phượng Hoàng Quỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4455,
+    "title" : "83// Huyền Cương Bại Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3177,
+    "title" : "84// Tuyết Công Chúa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "85// Đầy Đủ Huyền Quyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "86// Thất Quốc Bài Vị Chiến: Mở Ra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "87// Lục Quốc Kết Thúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "88// Phượng Hoàng Chi Nguyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3294,
+    "title" : "89// Cảnh Giới Áp Chế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "9 - Huyền mạch mới sinh ra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "90// Con Át Chủ Bài Của Phượng Hoàng Thần Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3433,
+    "title" : "91// Nguyên Bá Giác Tỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "92// Âm Mưu Trong Huyền Chu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3207,
+    "title" : "93// Tự Oanh ! Bá Hoàng Thức Tỉnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "94// Âm Hồn Bất Tán",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3412,
+    "title" : "95// Cảnh Giới Thiên Huyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "96// Băng Viêm Tái Hiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3370,
+    "title" : "97//Thiếu Nữ Trong Quan Tài Thủy Tinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3398,
+    "title" : "98//Rời Khỏi Thái Cổ Huyền Chu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "99// Tiểu Huyền Chu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/1.mp3",
+    "title" : "01 - Đại Hôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/10.mp3",
+    "title" : "10 - Ranh Giới Sinh Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/100.mp3",
+    "title" : "100// Truyền Thừa Kim Ô",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/101.mp3",
+    "title" : "101// Vân Khinh Hồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/102.mp3",
+    "title" : "102// 25 Năm Trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/103.mp3",
+    "title" : "103// Vân Gia So Tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/104.mp3",
+    "title" : "104// Long Trời Lở Đất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/105.mp3",
+    "title" : "105// Gia Chủ Lệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/106.mp3",
+    "title" : "106// Một Nhà Đoàn Tụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/107.mp3",
+    "title" : "107// Thiếu nữ yêu dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/108.mp3",
+    "title" : "108// Mười Hai Gia Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/109.mp3",
+    "title" : "109// Xung đột Bắt Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/11.mp3",
+    "title" : "11 - Mầm Mống Của Tà Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/110.mp3",
+    "title" : "110// Đồng Quy Vu Tận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/111.mp3",
+    "title" : "111// Vân Triệt Xuất Chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/112.mp3",
+    "title" : "112// Múa Rìu Qua Mắt Thợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/113.mp3",
+    "title" : "113// Kiếp Thiên Kiếm Ra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/114.mp3",
+    "title" : "114// Năm Thắng Liên Tiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/115.mp3",
+    "title" : "115// Đại Mạ Thất Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/116.mp3",
+    "title" : "116// Thiên Thương Vân Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/117.mp3",
+    "title" : "117// Tiến Thoái Lưỡng Nan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/118.mp3",
+    "title" : "118// Suy Đoán Đáng Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/119.mp3",
+    "title" : "119// Minh Vương Hiện Thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/12.mp3",
+    "title" : "12 - Tinh Thần Toái Ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/120.mp3",
+    "title" : "120// Tử Vong Chi Hải",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/121.mp3",
+    "title" : "121// Kim Ô Tổ Địa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/122.mp3",
+    "title" : "122// Kim Ô Truyền Thừa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/123.mp3",
+    "title" : "123// Hy Vọng Cuối Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/124.mp3",
+    "title" : "124// Tiểu Yêu Hậu Trở Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/125.mp3",
+    "title" : "125// Minh Vương Hiện Thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/126.mp3",
+    "title" : "126// Hồi Phục Thái Cổ Huyền chu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/127.mp3",
+    "title" : "127// Tử Vân Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/128.mp3",
+    "title" : "128// Danh Thần Y",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/129.mp3",
+    "title" : "129// Tôn Nghiêm Nam Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/13.mp3",
+    "title" : "13 - Lam Tuyết Nhược",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/130.mp3",
+    "title" : "130// Đại Được Ước Muốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/131.mp3",
+    "title" : "131// Tai Họa Diệt Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/132.mp3",
+    "title" : "132// Hoàng Tuyền Tro Tàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/133.mp3",
+    "title" : "133// Băng Vân Tin Dữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/134.mp3",
+    "title" : "134// Băng Vân Xuất Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/135.mp3",
+    "title" : "135// Phô Trương Thanh Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/136.mp3",
+    "title" : "136// Thoát Khỏi Kiếp Nạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/137.mp3",
+    "title" : "137// Phần Tuyệt Trần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/138.mp3",
+    "title" : "138// Kiếm Chỉ Thần Hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/139.mp3",
+    "title" : "139// Gặp Lại Tử Cực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/14.mp3",
+    "title" : "14 - Nhất Kiến Kinh Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/140.mp3",
+    "title" : "140// Bí Mật Của Hải Điện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/141.mp3",
+    "title" : "141// Thần Hoàng Đại Loạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/142.mp3",
+    "title" : "142// Phong Hoàng Cấm Trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/143.mp3",
+    "title" : "143// Phượng Hoàng Thần Tông Run Rẩy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/144.mp3",
+    "title" : "144// Phượng Thiên Uy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/145.mp3",
+    "title" : "145// Hoàng Tuyền Tro Tàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/146.mp3",
+    "title" : "146// Tàn Khốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/147.mp3",
+    "title" : "147// Thương Nguyệt Quyết Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/148.mp3",
+    "title" : "148// Ngắn Ngủi Bình Tĩnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/149.mp3",
+    "title" : "149// Đại Công Cáo Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/15.mp3",
+    "title" : "15 - Tiêu Lạc Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/150.mp3",
+    "title" : "150// Thoát Khỏi Ma Yểm Mạy Lỵ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/151.mp3",
+    "title" : "151// Ngày Ước Chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/152.mp3",
+    "title" : "152// Vĩnh Dạ Vô Quang, Hoàng Tuyền Hôi Tẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/153.mp3",
+    "title" : "153// Viến Cổ Ma Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/154.mp3",
+    "title" : "154// Hỏi Tội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/155.mp3",
+    "title" : "155// Tới Gần Ma Kiếm Đại Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/156.mp3",
+    "title" : "156// Hải Điện Thánh Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/157.mp3",
+    "title" : "157// Phế Minh Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/158.mp3",
+    "title" : "158// Thí Nguyệt Ma Quật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/159.mp3",
+    "title" : "159// Bối Thủy Tuyệt Địa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/16.mp3",
+    "title" : "16 - Tần Vô Ưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/160.mp3",
+    "title" : "160// Mạt Lỵ Của Ta",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/161.mp3",
+    "title" : "161// Mạt Lỵ Tố Thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/162.mp3",
+    "title" : "162// Tiêu Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/163.mp3",
+    "title" : "163// Bí Ẩn Tận Bóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/164.mp3",
+    "title" : "164// Mạt Lỵ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/165.mp3",
+    "title" : "165// Quay Lại Thí Nguyệt Ma Quật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/166.mp3",
+    "title" : "166// Hắc Ám Cự Thú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/167.mp3",
+    "title" : "167// Địa Ngục U La",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/168.mp3",
+    "title" : "168// Ngục La Độc Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/169.mp3",
+    "title" : "169// Ma Đạo Chi Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/17.mp3",
+    "title" : "17 - Tiêu Tông Tới Cửa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/170.mp3",
+    "title" : "170// Hỏa Diễm Kim Sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/171.mp3",
+    "title" : "171// Tiểu Yêu Hậu Với Hiên Viên Vấn Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/172.mp3",
+    "title" : "172 // Di Thiên Ách Viêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/173.mp3",
+    "title" : "173 // Lặp Lại Chiêu Cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/174.mp3",
+    "title" : "174 // Khó Khăn Của Huyễn Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/175.mp3",
+    "title" : "175 // Lời Nhắn Mạt Lỵ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/176.mp3",
+    "title" : "176 // Nhi Tử Của Tiêu Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/177.mp3",
+    "title" : "177 // Về Thương Vân Đại Lục",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/178.mp3",
+    "title" : "178 // Lang Huyên Sơn Mạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/179.mp3",
+    "title" : "179 // Thiếu Nữ Dưới Vực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/18.mp3",
+    "title" : "18 - Y Thuật Thông Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/180.mp3",
+    "title" : "180 // Tà Thần Chi Chủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/181.mp3",
+    "title" : "181 // Thiên Độc Châu Hợp Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/182.mp3",
+    "title" : "182 // Thiên Huyền U Ám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/183.mp3",
+    "title" : "183 // Vĩnh Dạ Thiên Ma Chướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/184.mp3",
+    "title" : "184 // Thần Huyền Chi Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/185.mp3",
+    "title" : "185 // Bụi Tan Khói Diệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/186.mp3",
+    "title" : "186 // Rõ Như Ban Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/187.mp3",
+    "title" : "187 // Bí Mật Của Tà Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/188.mp3",
+    "title" : "188 // Nghịch Thế Thiên Thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/189.mp3",
+    "title" : "189 // Trời Giáng Thần Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/19.mp3",
+    "title" : "19 - Kho Bảo Vật Của Tông Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/190.mp3",
+    "title" : "190 // Tổ Tiên Băng Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/191.mp3",
+    "title" : "191 // Đến Lúc Đi Thần Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/192.mp3",
+    "title" : "192 // Hàn Tuyết Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/193.mp3",
+    "title" : "193 // Bạo Tuyết Cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/194.mp3",
+    "title" : "194 // Hàn Băng Điệp Lang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/195.mp3",
+    "title" : "195 // Chó Cùng Rứt Giậu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/196.mp3",
+    "title" : "196// Băng Hoàng Cung Thứ Ba Mươi Sáu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/197.mp3",
+    "title" : "197// Tuyệt Mệnh Khổ Tu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/198.mp3",
+    "title" : "198// Mộc Nhất Chu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/199.mp3",
+    "title" : "199// Yêu Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/2.mp3",
+    "title" : "02 - Nương Tử, Nàng Đã Ngủ Chưa?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/20.mp3",
+    "title" : "20 - Chạy Trốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/200.mp3",
+    "title" : "200// Ngâm Tuyết Giới Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/201.mp3",
+    "title" : "201// Hóa Lớn Ngập Trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/202.mp3",
+    "title" : "202// Hi Vọng Duy Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/203.mp3",
+    "title" : "203// Đại Hội Toàn Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/204.mp3",
+    "title" : "204// Khoáng Cổ Tuyệt Kim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/205.mp3",
+    "title" : "205// Băng Hoàng Thần Huyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/206.mp3",
+    "title" : "206// Huyền Âm Cơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/207.mp3",
+    "title" : "207// Càn Khôn Ngũ Quỳnh Đan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/208.mp3",
+    "title" : "208// Băng Phong Bảo Vật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/209.mp3",
+    "title" : "209// Quỷ Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/21.mp3",
+    "title" : "21 - Phượng Hoàng Di Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/210.mp3",
+    "title" : "210// Thiệp Mời Đến Từ Nguyệt Thần Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/211.mp3",
+    "title" : "211// Cừu Nhân Gặp Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/212.mp3",
+    "title" : "212// Vân Điệp Đoạt Mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/213.mp3",
+    "title" : "213// Sơ Đạp Viêm Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/214.mp3",
+    "title" : "214// Cầu Long Hiện Thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/215.mp3",
+    "title" : "215// Kết Quả Tệ Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/216.mp3",
+    "title" : "216// Chạy Tới Hắc Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/217.mp3",
+    "title" : "217// Hắc Vũ Thương Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/218.mp3",
+    "title" : "218// Vương Tộc Mộc Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/219.mp3",
+    "title" : "219// Mộc Linh Châu Hoàn Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/22.mp3",
+    "title" : "22 - Phượng Hoàng Tụng Thế Điển – Tàn Quyển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/220.mp3",
+    "title" : "220// Thỉnh Cầu Của Kỷ Như Nhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/221.mp3",
+    "title" : "221// Miệng Lưỡi Sắc Sảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/222.mp3",
+    "title" : "222// Lại Thấy Tiểu Mạt Lỵ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/223.mp3",
+    "title" : "223// Ám Dạ Hồng Điệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/224.mp3",
+    "title" : "224// Tiểu Mạt Lỵ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/225.mp3",
+    "title" : "225// Thần Võ Quy Khắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/226.mp3",
+    "title" : "226// Thiên Cơ Bế Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/227.mp3",
+    "title" : "227// Thu Hoạch Ngoài Ý Muốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/228.mp3",
+    "title" : "228// Tiểu Thế Giới Tầng Thứ Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/229.mp3",
+    "title" : "229// Lại Quay Về Ngâm Tuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/23.mp3",
+    "title" : "23 - Sơn Cùng Thủy Tận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/230.mp3",
+    "title" : "230// Thần Kiếp Hoàn Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/231.mp3",
+    "title" : "231// Truyền Nhân Của Kiếm Quân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/232.mp3",
+    "title" : "232// Chiến Trường Trụ Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/233.mp3",
+    "title" : "233// Hi Vọng Cuối Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/234.mp3",
+    "title" : "234// Trụ Thiên Thần Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/235.mp3",
+    "title" : "235// Một Bước Lên Trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/236.mp3",
+    "title" : "236// Thẩm Lý Phán Quyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/237.mp3",
+    "title" : "237// Trụ Thiên Thần Tháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/238.mp3",
+    "title" : "238// Cuộc Chiến Phong Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/239.mp3",
+    "title" : "239// Ban Thưởng Của Băng Hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/24.mp3",
+    "title" : "24 - Phượng Dực Thiên Khung Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/240.mp3",
+    "title" : "240// Tái Chiến Lạc Trường An",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/241.mp3",
+    "title" : "241// Trường Sinh Công Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/242.mp3",
+    "title" : "242// Phá Vân Bỏ Chiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/243.mp3",
+    "title" : "243// Huyền Công Áp Chế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/244.mp3",
+    "title" : "244// Tâm Ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/245.mp3",
+    "title" : "245// Cuộc Chiến Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/246.mp3",
+    "title" : "246// Kim Ô Thánh Kiếm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/247.mp3",
+    "title" : "247// Ăn Miếng Trả Miếng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/248.mp3",
+    "title" : "248// Vô Danh Kiếm Uy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/249.mp3",
+    "title" : "249// Thần Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/25.mp3",
+    "title" : "25 - Thương Phong Huyền Phủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/250.mp3",
+    "title" : "250// Hồng Liên Xán Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/251.mp3",
+    "title" : "251// Thần Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/252.mp3",
+    "title" : "252// Tàn Quang Tuyệt Diệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/253.mp3",
+    "title" : "253// Lục kiếp hãi thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/254.mp3",
+    "title" : "254// Hạng Nhất Phong Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/255.mp3",
+    "title" : "255// Thiên Cơ Tiên Đoán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/256.mp3",
+    "title" : "256// Phong Thần Kết Thúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/257.mp3",
+    "title" : "257// Nguy Cơ Khó Giải",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/258.mp3",
+    "title" : "258// Hy Vọng Duy Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/259.mp3",
+    "title" : "259// Nguyệt Thần Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/26.mp3",
+    "title" : "26 - Khảo Nghiệm Huyền Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/260.mp3",
+    "title" : "260// Nguyệt Thần Lên Cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/261.mp3",
+    "title" : "261// Mưu Kế Của Thiên Diệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/262.mp3",
+    "title" : "262// Độn Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/263.mp3",
+    "title" : "263// Chân Tướng Hôn Điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/264.mp3",
+    "title" : "264// Phạm Hồn Cầu Tử Ấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/265.mp3",
+    "title" : "265// Tây Vực Long Thần Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/266.mp3",
+    "title" : "266// Hòa Lăng, Hòa Lâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/267.mp3",
+    "title" : "267// Thần Hi Thần Bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/268.mp3",
+    "title" : "268// Khuynh Nguyệt Huyền m",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/269.mp3",
+    "title" : "269// Độc Linh Thiên Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/27.mp3",
+    "title" : "27 - Thẳng Vào Nội Phủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/270.mp3",
+    "title" : "270// Độc Linh Hòa Lăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/271.mp3",
+    "title" : "271// Mưu Đồ Huyết Tế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/272.mp3",
+    "title" : "272// Vô Hối Vô Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/273.mp3",
+    "title" : "273// Rồng Ngâm Tuyệt Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/274.mp3",
+    "title" : "274// Bỉ Ngạn Tu La",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/275.mp3",
+    "title" : "275// Trận Chiến Hủy Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/276.mp3",
+    "title" : "276// Nguyệt Đế Ngã Xuống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/277.mp3",
+    "title" : "277// Niết Bàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/278.mp3",
+    "title" : "278// Vô Tâm Nguyệt Thiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/279.mp3",
+    "title" : "279// Quay Về Thế Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/28.mp3",
+    "title" : "28 - Thiên Huyền Bảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/280.mp3",
+    "title" : "280// Đoàn Tụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/281.mp3",
+    "title" : "281// Huyền Âm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/282.mp3",
+    "title" : "282// Kiếp Nạn Thương Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/283.mp3",
+    "title" : "283// Ma Khí Tràn Ra Ngoài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/284.mp3",
+    "title" : "284// Thần Tích",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/285.mp3",
+    "title" : "285// Di Hận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/286.mp3",
+    "title" : "286// Sứ Mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/287.mp3",
+    "title" : "287// Lại Đến Thương Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/288.mp3",
+    "title" : "288// Long Hoàng Vỡ Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/289.mp3",
+    "title" : "289// Ma ảnh lâm thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/29.mp3",
+    "title" : "29 - Tiên Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/290.mp3",
+    "title" : "290// Quay về thần vực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/291.mp3",
+    "title" : "291// Thần Quân Cự Thú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/292.mp3",
+    "title" : "292// Huyền Âm Thịnh Nộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/293.mp3",
+    "title" : "293// Chí Bảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/294.mp3",
+    "title" : "294// Thần Chủ Cấp Mười",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/295.mp3",
+    "title" : "295// Đại Hội Trụ Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/296.mp3",
+    "title" : "296// Căn Nguyên Đỏ Ửng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/297.mp3",
+    "title" : "297// Chân Tướng Khủng Bố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/298.mp3",
+    "title" : "298// Nữ Nhi Của Tà Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/299.mp3",
+    "title" : "299// Quỷ Mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/3.mp3",
+    "title" : "03 - Thiếu Nữ Tóc Đỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/30.mp3",
+    "title" : "30 - Thiên Lang Ngục Thần Điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/300.mp3",
+    "title" : "300 // Lại Vào Trụ Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/301.mp3",
+    "title" : "301// Thiên Diệp Phạm Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/302.mp3",
+    "title" : "302// Đại Lão Tề Tụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/303.mp3",
+    "title" : "303// Ma Đế Lâm Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/304.mp3",
+    "title" : "304// Hy Vọng Duy Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/305.mp3",
+    "title" : "305// Ma Đế Mê Man",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/306.mp3",
+    "title" : "306// Nước Mắt Của Ma Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/307.mp3",
+    "title" : "307// Thần Ma Cấm Điển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/308.mp3",
+    "title" : "308// Vị Vua Không Ngai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/309.mp3",
+    "title" : "309// Phạm Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/31.mp3",
+    "title" : "31 - Kim Lân Hóa Long Đan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/310.mp3",
+    "title" : "310// Vạn Kiếp Vô Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/311.mp3",
+    "title" : "311// Vô Kinh Vô Hiểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/312.mp3",
+    "title" : "312// Lựa Chọn Của Thiên Diệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/313.mp3",
+    "title" : "313// Điều Kiện Của Hạ Khuynh Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/314.mp3",
+    "title" : "314// Cẩn Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/315.mp3",
+    "title" : "315// Dung Nhan Thật Của Thiên Diệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/316.mp3",
+    "title" : "316// Tà Anh Mạt Lỵ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/317.mp3",
+    "title" : "317// Thải Chi Dị Hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/318.mp3",
+    "title" : "318// Lựa Chọn Của Kiếp Uyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/319.mp3",
+    "title" : "319// Tiệc Mừng Thọ Tiêu gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/32.mp3",
+    "title" : "32 - Phệ Hồn Đồng Mệnh Cổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/320.mp3",
+    "title" : "320// Ma Đế Quyết Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/321.mp3",
+    "title" : "321// Kết Cục Hoàn Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/322.mp3",
+    "title" : "322// Trụ Thiên Thái Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/323.mp3",
+    "title" : "323// Nghịch Uyên Thạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/324.mp3",
+    "title" : "324// Biến cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/325.mp3",
+    "title" : "325// Tử Cảnh Tử Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/326.mp3",
+    "title" : "326// Ma Thần Tiên Đoán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/327.mp3",
+    "title" : "327// Bỉ Ngạn Huyền Âm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/328.mp3",
+    "title" : "328// Long Hồn Hắc Ám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/329.mp3",
+    "title" : "329// Thần Nữ Vỡ Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/33.mp3",
+    "title" : "33 - Thiên Long Trảm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/330.mp3",
+    "title" : "330// Công Chúa Gặp Nạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/331.mp3",
+    "title" : "331// Đông Hàn Sở Ca",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/332.mp3",
+    "title" : "332// Một Chỉ Nhiếp Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/333.mp3",
+    "title" : "333// Mệnh Lệnh!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/334.mp3",
+    "title" : "334// Thiên Diệp Thiên Ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/335.mp3",
+    "title" : "335// Thiên Diệp Thiên Ảnh (Hạ)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/336.mp3",
+    "title" : "336// Nhạn Công Chúa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/337.mp3",
+    "title" : "337// Nam Hoàng Thiền Y",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/338.mp3",
+    "title" : "338// Bắc Hàn Sơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/339.mp3",
+    "title" : "339 // Vân Triệt Xuất Trận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/34.mp3",
+    "title" : "34 - Quyết định",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/340.mp3",
+    "title" : "340 // Một Chọi Mười",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/341.mp3",
+    "title" : "341 // Thảm Không Nói Nổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/342.mp3",
+    "title" : "342 // Thiếu Nữ Thần Bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/343.mp3",
+    "title" : "343 // Thiền Y Thần Bí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/344.mp3",
+    "title" : "344 // Bắc Vực Ma Hậu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/345.mp3",
+    "title" : "345 // Thiên Hoàng Vân Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/346.mp3",
+    "title" : "346 // Cáo Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/347.mp3",
+    "title" : "347 // Trời Giáng Kiếp Nạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/348.mp3",
+    "title" : "348 // Tự Chui Đầu Vào Rọ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/349.mp3",
+    "title" : "349 // Hắc Viêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/35.mp3",
+    "title" : "35 - Thiết Bối Thương Lan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/350.mp3",
+    "title" : "350 // Lộ Ra Trò Hề",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/351.mp3",
+    "title" : "351 // Ma Nữ Họa Cẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/352.mp3",
+    "title" : "352 // Mị Âm Vào Nguyệt Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/353.mp3",
+    "title" : "353 // Thái Sơ Thần Quả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/354.mp3",
+    "title" : "354 // Thiên Long Dị Hóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/355.mp3",
+    "title" : "355 // Thải Chi Thiên Diệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/356.mp3",
+    "title" : "356 // Ấn Ký Ma Hậu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/357.mp3",
+    "title" : "357// Thiên Cô Hồng Hộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/358.mp3",
+    "title" : "358// Ma Nữ Yêu Điệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/359.mp3",
+    "title" : "359// Lời Mời Của Ma Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/36.mp3",
+    "title" : "36 - Long Thần thí luyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/360.mp3",
+    "title" : "360 // Thiên Ảnh Yêu Điệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/361.mp3",
+    "title" : "361 // Thần Nữ Ma Hậu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/362.mp3",
+    "title" : "362 // Lời Của Ma Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/363.mp3",
+    "title" : "363 // Chín Ma Nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/364.mp3",
+    "title" : "364 // Ma Nữ Trùng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/365.mp3",
+    "title" : "365 // Thiên Diệp Nguy Cơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/366.mp3",
+    "title" : "366 // Linh Hồn Ma Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/367.mp3",
+    "title" : "367// Ăn Miếng Trả Miếng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/368.mp3",
+    "title" : "368// Ảnh Tâm Vân Hận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/369.mp3",
+    "title" : "369 // Diêm Ma Lão Tổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/37.mp3",
+    "title" : "37 -Thời khắc sống còn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/370.mp3",
+    "title" : "370 // Loạn Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/371.mp3",
+    "title" : "371 // Âm Mưu Của Phần Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/372.mp3",
+    "title" : "372 // Kiếp Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/373.mp3",
+    "title" : "373 // Phù Đồ Tầng Thứ Sáu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/374.mp3",
+    "title" : "374 // Dạ Xoa Run Rẩy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/375.mp3",
+    "title" : "375 // Tam Tổ Diêm Ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/376.mp3",
+    "title" : "376 // Diêm Ma Đại Kiếp Nạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/377.mp3",
+    "title" : "377 // Diêm Đế Ngơ Ngác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/378.mp3",
+    "title" : "378 // Vĩnh Ám Ma Tinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/379.mp3",
+    "title" : "379 // Nguy Cơ Của Ngâm Tuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/38.mp3",
+    "title" : "38 - Bình Nguyên Vô Tận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/380.mp3",
+    "title" : "380 // Huyền Vũ Âm Thập",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/381.mp3",
+    "title" : "381 // Thiên Ảnh Cực Cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/382.mp3",
+    "title" : "382 // Ma Chủ Vân Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/383.mp3",
+    "title" : "383 // Ma Uy Vô Thượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/384.mp3",
+    "title" : "384 // Trái Tim Phi Tuyết Băng Giá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/385.mp3",
+    "title" : "385 // Bằng Chứng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/386.mp3",
+    "title" : "386 // Mây Mù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/387.mp3",
+    "title" : "387 // Hắc Ám Xâm Nhập",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/388.mp3",
+    "title" : "388 // Tai Họa Lòng Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/389.mp3",
+    "title" : "389 // Trụ Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/39.mp3",
+    "title" : "39 - Trở Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/390.mp3",
+    "title" : "390 // Phạm Đế Nam Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/391.mp3",
+    "title" : "391 // Trụ Thiên Thái Tổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/392.mp3",
+    "title" : "392 // Trụ Thiên Thái Tổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/393.mp3",
+    "title" : "393 // Vẫn Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/394.mp3",
+    "title" : "394 // Vẫn Nguyệt 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/395.mp3",
+    "title" : "395 // Băng Ảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/396.mp3",
+    "title" : "396 // Băng Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/397.mp3",
+    "title" : "397 // Tín Niệm Hỏng Mất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/398.mp3",
+    "title" : "398 // Ban Ơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/399.mp3",
+    "title" : "399 // Phạn Đế Chôn Diệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/4.mp3",
+    "title" : "04 - Thần Y",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/40.mp3",
+    "title" : "40 - Thiên Kiếm Sơn Mạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/400.mp3",
+    "title" : "400 // Phạm Quang Cuối Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/401.mp3",
+    "title" : "401 // Hồng Mông Sinh Tử Ấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/402.mp3",
+    "title" : "402 // Trường Sinh Bất Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/403.mp3",
+    "title" : "403 //Chân Tướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/404.mp3",
+    "title" : "404 // Phá Vân Chấp Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/405.mp3",
+    "title" : "405 // Hôi Tẫn Long Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/406.mp3",
+    "title" : "406 // Tàn Khốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/407.mp3",
+    "title" : "407 // Át Chủ Bài Của Nam Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/408.mp3",
+    "title" : "408 // Ác Mộng Thần Quang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/409.mp3",
+    "title" : "409 // Giai Điệu Của Khúc Ca Cuối Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/41.mp3",
+    "title" : "41// Bài Vị Chiến Bắt Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/410.mp3",
+    "title" : "410 // Long Ảnh Phá Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/411.mp3",
+    "title" : "411 // Thứ Được Ma Đế Để Lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/412.mp3",
+    "title" : "412 // Độc Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/413.mp3",
+    "title" : "413 // Tới Ám Nam Vực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/414.mp3",
+    "title" : "414 // Phi Diệt Long Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/415.mp3",
+    "title" : "415 // Thái Chi Không Cho Phép",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/416.mp3",
+    "title" : "416 // Linh Hồn Vỡ Vụn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/417.mp3",
+    "title" : "417 // Long Thần Thua Bỏ Chạy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/418.mp3",
+    "title" : "418 // Kiếm Chỉ Long Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/419.mp3",
+    "title" : "419 // Mị Âm, Ánh Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/42.mp3",
+    "title" : "42// Gặp Lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/420.mp3",
+    "title" : "420 // Người Không Có Khả Năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/421.mp3",
+    "title" : "421 // Băng Vân Xa Lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/422.mp3",
+    "title" : "422 // Chân Tướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/423.mp3",
+    "title" : "423 // Cấm Chế Tà Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/424.mp3",
+    "title" : "424 // Khô Long Tôn Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/425.mp3",
+    "title" : "425 // Thương Lan Tuyệt Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/426.mp3",
+    "title" : "426 // Thương Lan Tuyệt Vọng 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/427.mp3",
+    "title" : "427 // Thương Lan Tuyệt Vọng 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/428.mp3",
+    "title" : "428 // Chân Thân Của Long Hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/429.mp3",
+    "title" : "429 // Bạo Phát",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/43.mp3",
+    "title" : "43// Chân Chính Bắt Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/430.mp3",
+    "title" : "430 // Thiên Ảnh Cuồng Bạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/431.mp3",
+    "title" : "431 // linh hồn hắc ám vĩnh cửu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/432.mp3",
+    "title" : "432 // Diêm Trần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/433.mp3",
+    "title" : "433 // Lời Thề Vô Khuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/434.mp3",
+    "title" : "434 // Lời Thề Vô Khuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/435.mp3",
+    "title" : "435 // Diện Mạo Thật Của Ma Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/436.mp3",
+    "title" : "436 // Long Thần Tuyệt Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/437.mp3",
+    "title" : "437 // Cảnh Cuối Của Long Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/438.mp3",
+    "title" : "438 // Vạn Thể Thùy Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/439.mp3",
+    "title" : "439 // Để Phi Của Ma Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/44.mp3",
+    "title" : "44// Toàn Thắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/440.mp3",
+    "title" : "440 // Thương Xu Hòa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/441.mp3",
+    "title" : "441 // Bóng Kiếm Thủy Tổ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/442.mp3",
+    "title" : "442 // Chiếc Kính Kỳ Lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/443.mp3",
+    "title" : "443 // Tiếng Ngâm Từ Vực Thẳm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/444.mp3",
+    "title" : "444 // Nhạc Mẫu Đại Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/445.mp3",
+    "title" : "445 // Đại Điển Phong Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/446.mp3",
+    "title" : "446 // Nóng Lòng Về Nhà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/447.mp3",
+    "title" : "447 // Cha Con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/448.mp3",
+    "title" : "448 // Cha Hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/449.mp3",
+    "title" : "449 // Vô Tâm Xuất Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/45.mp3",
+    "title" : "45// Biến Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/450.mp3",
+    "title" : "450 // Mảnh Vỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/451.mp3",
+    "title" : "451 // Vô Tâm Nhập Thế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/452.mp3",
+    "title" : "452 // Kết Cục Của Mộc Linh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/453.mp3",
+    "title" : "453 // Hành Trình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/454.mp3",
+    "title" : "454 // Hành Trình â",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/455.mp3",
+    "title" : "455 // Hành Trình 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/456.mp3",
+    "title" : "456 // Hành Trình 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/457.mp3",
+    "title" : "457 // Sơ Hở",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/458.mp3",
+    "title" : "458 // Lời Nói Dối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/459.mp3",
+    "title" : "459 // Đoạn Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/46.mp3",
+    "title" : "46// Uyên Ương Kiếm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/460.mp3",
+    "title" : "460 // Ký Ức Về Hạ Khuynh Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/461.mp3",
+    "title" : "461 // Ký Ức Về Hạ Khuynh Nguyệt 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/462.mp3",
+    "title" : "462 // Ký Ức Về Hạ Khuynh Nguyệt 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/463.mp3",
+    "title" : "463 // Lựa Chọn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/47.mp3",
+    "title" : "47//Kết Cục Của Bá Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/48.mp3",
+    "title" : "48//Băng Hoàng Quỳnh Hoa Lăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/49.mp3",
+    "title" : "49//Cuộc Chiến Phu Thê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/5.mp3",
+    "title" : "5 - Biến Đổi Mạnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/50.mp3",
+    "title" : "50//Thiên Trì Bí Cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/51.mp3",
+    "title" : "51//Lòng Dạ Nữ Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/52.mp3",
+    "title" : "52//Tuyệt Địa Phùng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/53.mp3",
+    "title" : "53//Thương Vân Ảo Mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/54.mp3",
+    "title" : "54//Bá Uy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/55.mp3",
+    "title" : "55//Thời Gian Tỉnh Mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/56.mp3",
+    "title" : "56//Thiên Tài Ngã Xuống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/57.mp3",
+    "title" : "57//Sóng To Gió Lớn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/58.mp3",
+    "title" : "58//Cực Hạn Tu Luyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/59.mp3",
+    "title" : "59// Huyền Cương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/6.mp3",
+    "title" : "6 - Biến Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/60.mp3",
+    "title" : "60// Huyền Cương Thức Tỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/61.mp3",
+    "title" : "61// Thương Phong Phủ Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/62.mp3",
+    "title" : "62// Biến Dị Huyền Cương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/63.mp3",
+    "title" : "63// Gặp Lại Thái Cổ Thương Long",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/64.mp3",
+    "title" : "64// Vương Huyền Long Khuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/65.mp3",
+    "title" : "65// Băng Vân Cung Chủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/66.mp3",
+    "title" : "66// Cơn Giận Phần Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/67.mp3",
+    "title" : "67//Long Hồn Lĩnh Vực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/68.mp3",
+    "title" : "68// Tuyệt Cảnh Phần Thiên Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/69.mp3",
+    "title" : "69// Lăng Kiệt Đến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/7.mp3",
+    "title" : "7 - Tinh Ẩn Tế Hận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/70.mp3",
+    "title" : "70// Độc Chiến Song Vương Tọa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/71.mp3",
+    "title" : "71/ Tiêu Vô Nghĩa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/72.mp3",
+    "title" : "72// Hoảng Hốt Tiêu Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/73.mp3",
+    "title" : "73// Thần Hoàng Hoàng Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/74.mp3",
+    "title" : "74// Nghiền Ép",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/75.mp3",
+    "title" : "75// Băng Vân Mời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/76.mp3",
+    "title" : "76// Băng Di Thần Điện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/77.mp3",
+    "title" : "77// Băng Tiên Cơn Giận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/78.mp3",
+    "title" : "78// Băng Cung Quyết Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/79.mp3",
+    "title" : "79//Nghịch Thiên Dung Hợp, Băng Viêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/8.mp3",
+    "title" : "8 - Thiên Linh Thần Mạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/80.mp3",
+    "title" : "80// Tiện Đường Đòi Nợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/81.mp3",
+    "title" : "81// Hắc Nguyệt Tầng Thứ Bảy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/82.mp3",
+    "title" : "82// Phượng Hoàng Quỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/83.mp3",
+    "title" : "83// Huyền Cương Bại Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/84.mp3",
+    "title" : "84// Tuyết Công Chúa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/85.mp3",
+    "title" : "85// Đầy Đủ Huyền Quyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/86.mp3",
+    "title" : "86// Thất Quốc Bài Vị Chiến: Mở Ra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/87.mp3",
+    "title" : "87// Lục Quốc Kết Thúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/88.mp3",
+    "title" : "88// Phượng Hoàng Chi Nguyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/89.mp3",
+    "title" : "89// Cảnh Giới Áp Chế",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/9.mp3",
+    "title" : "9 - Huyền mạch mới sinh ra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/90.mp3",
+    "title" : "90// Con Át Chủ Bài Của Phượng Hoàng Thần Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/91.mp3",
+    "title" : "91// Nguyên Bá Giác Tỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/92.mp3",
+    "title" : "92// Âm Mưu Trong Huyền Chu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/93.mp3",
+    "title" : "93// Tự Oanh ! Bá Hoàng Thức Tỉnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/94.mp3",
+    "title" : "94// Âm Hồn Bất Tán",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/95.mp3",
+    "title" : "95// Cảnh Giới Thiên Huyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/96.mp3",
+    "title" : "96// Băng Viêm Tái Hiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/97.mp3",
+    "title" : "97//Thiếu Nữ Trong Quan Tài Thủy Tinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/98.mp3",
+    "title" : "98//Rời Khỏi Thái Cổ Huyền Chu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghich-thien-ta-than/99.mp3",
+    "title" : "99// Tiểu Huyền Chu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

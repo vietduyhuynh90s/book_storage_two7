@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mo-dom-dom_19117.html",
+    "title" : "Mộ Đom Đóm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Akiyuki Nosaka",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23191,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2cc750ea442fe805ddbaa2b62ba88485.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2cc750ea442fe805ddbaa2b62ba88485.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/full-mo-dom-dom-nosaka-akiyuki-audiobook/%5BFull%5D%20M%E1%BB%99%20%C4%90om%20%C4%90%C3%B3m%20-%20Nosaka%20Akiyuki%20-%20Audiobook.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 23191,
+    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/full-mo-dom-dom-nosaka-akiyuki-audiobook/%5BFull%5D%20M%E1%BB%99%20%C4%90om%20%C4%90%C3%B3m%20-%20Nosaka%20Akiyuki%20-%20Audiobook.mp3",
+    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

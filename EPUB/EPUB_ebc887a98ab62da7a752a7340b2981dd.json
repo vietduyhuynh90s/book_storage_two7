@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muc-nhien_13026.html",
+    "title" : "Mục Nhiên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cô Quân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44615,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ebc887a98ab62da7a752a7340b2981dd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ebc887a98ab62da7a752a7340b2981dd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/muc-nhien/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 674,
+    "title" : "Mục Nhiên 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 722,
+    "title" : "Mục Nhiên 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 609,
+    "title" : "Mục Nhiên 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 541,
+    "title" : "Mục Nhiên 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 786,
+    "title" : "Mục Nhiên 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1154,
+    "title" : "Mục Nhiên 18+19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1210,
+    "title" : "Mục nhiên 20+21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1126,
+    "title" : "Mục nhiên 22+23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1171,
+    "title" : "Mục nhiên 24+25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 722,
+    "title" : "Mục Nhiên 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1100,
+    "title" : "Mục nhiên 27+28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 575,
+    "title" : "Mục Nhiên 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1126,
+    "title" : "Mục nhiên 29+30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1197,
+    "title" : "Mục Nhiên 31+32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1133,
+    "title" : "Mục nhiên 33+34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 543,
+    "title" : "Mục nhiên 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 532,
+    "title" : "Mục nhiên 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "Mục Nhiên 37+38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1056,
+    "title" : "Mục nhiên 39+40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1056,
+    "title" : "Mục nhiên 41+42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1070,
+    "title" : "Mục Nhiên 43+44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 665,
+    "title" : "Mục nhiên 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1091,
+    "title" : "Mục Nhiên 3+4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1178,
+    "title" : "Mục Nhiên 46+47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 538,
+    "title" : "Mục nhiên 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1207,
+    "title" : "Mục nhiên 49. 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1099,
+    "title" : "Mục nhiên 51.52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1224,
+    "title" : "Mục nhiên 53+54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1155,
+    "title" : "Mục nhiên 55+56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2381,
+    "title" : "Mục nhiên 57+58+59+60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2044,
+    "title" : "Mục nhiên 61+62+63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 627,
+    "title" : "mục nhiên 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1693,
+    "title" : "mục nhiên 65+66+67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1041,
+    "title" : "Mục Nhiên 5+6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "Mục nhiên 68+69+70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1181,
+    "title" : "Mục nhiên 71+72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2116,
+    "title" : "Mục nhiên 73+74+ hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1051,
+    "title" : "Mục Nhiên 7+8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 525,
+    "title" : "Mục Nhiên 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 643,
+    "title" : "Mục Nhiên 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1161,
+    "title" : "Mục Nhiên 11+12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 979,
+    "title" : "Mục Nhiên 13",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/muc-nhien/1.mp3",
+    "title" : "Mục Nhiên 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/10.mp3",
+    "title" : "Mục Nhiên 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/11.mp3",
+    "title" : "Mục Nhiên 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/12.mp3",
+    "title" : "Mục Nhiên 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/13.mp3",
+    "title" : "Mục Nhiên 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/14.mp3",
+    "title" : "Mục Nhiên 18+19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/15.mp3",
+    "title" : "Mục nhiên 20+21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/16.mp3",
+    "title" : "Mục nhiên 22+23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/17.mp3",
+    "title" : "Mục nhiên 24+25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/18.mp3",
+    "title" : "Mục Nhiên 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/19.mp3",
+    "title" : "Mục nhiên 27+28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/2.mp3",
+    "title" : "Mục Nhiên 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/20.mp3",
+    "title" : "Mục nhiên 29+30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/21.mp3",
+    "title" : "Mục Nhiên 31+32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/22.mp3",
+    "title" : "Mục nhiên 33+34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/23.mp3",
+    "title" : "Mục nhiên 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/24.mp3",
+    "title" : "Mục nhiên 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/25.mp3",
+    "title" : "Mục Nhiên 37+38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/26.mp3",
+    "title" : "Mục nhiên 39+40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/27.mp3",
+    "title" : "Mục nhiên 41+42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/28.mp3",
+    "title" : "Mục Nhiên 43+44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/29.mp3",
+    "title" : "Mục nhiên 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/3.mp3",
+    "title" : "Mục Nhiên 3+4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/30.mp3",
+    "title" : "Mục Nhiên 46+47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/31.mp3",
+    "title" : "Mục nhiên 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/32.mp3",
+    "title" : "Mục nhiên 49. 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/33.mp3",
+    "title" : "Mục nhiên 51.52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/34.mp3",
+    "title" : "Mục nhiên 53+54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/35.mp3",
+    "title" : "Mục nhiên 55+56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/36.mp3",
+    "title" : "Mục nhiên 57+58+59+60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/37.mp3",
+    "title" : "Mục nhiên 61+62+63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/38.mp3",
+    "title" : "mục nhiên 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/39.mp3",
+    "title" : "mục nhiên 65+66+67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/4.mp3",
+    "title" : "Mục Nhiên 5+6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/40.mp3",
+    "title" : "Mục nhiên 68+69+70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/41.mp3",
+    "title" : "Mục nhiên 71+72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/42.mp3",
+    "title" : "Mục nhiên 73+74+ hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/5.mp3",
+    "title" : "Mục Nhiên 7+8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/6.mp3",
+    "title" : "Mục Nhiên 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/7.mp3",
+    "title" : "Mục Nhiên 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/8.mp3",
+    "title" : "Mục Nhiên 11+12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muc-nhien/9.mp3",
+    "title" : "Mục Nhiên 13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

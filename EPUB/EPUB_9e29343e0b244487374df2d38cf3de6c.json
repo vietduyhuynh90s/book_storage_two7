@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hao-mon-nu-phu-khong-muon-co-tinh-yeu_14882.html",
+    "title" : "Hào Môn Nữ Phụ Không Muốn Có Tình Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Công Tử Văn Tranh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 89202,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9e29343e0b244487374df2d38cf3de6c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9e29343e0b244487374df2d38cf3de6c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "[Thú Vị ] Truyện có thật của cô gái Chạy Trốn Hôn Nhân- Truyện đời thực 2020 #mclena",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "Truyện ngôn tình hay và hấp dẫn 2020 - MC Lê Na kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Truyện ngôn tình càng nghe càng hay MC Lê Na kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "Ăn trộm tóc của anh - Truyện tâm lí xã hội 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "Cái bẫy của Tân Di - Truyện tâm lí xã hội cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "Siêu phẩm truyện tâm lí xã hội MC Lê Na diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "Truyện tâm lí xã hội 2020 - MC Lê Na diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4287,
+    "title" : "Phần 17 - Truyện tâm lí xã hội mới 2020 | MC Lê Na diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4260,
+    "title" : "Tính bắt anh đổ vỏ - Truyện tâm lí xã hội MC Lê Na diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4261,
+    "title" : "MC Lê Na diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4267,
+    "title" : "Truyện tâm lí xã hội đời thực 2020 - MC Lê Na diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "Chạy trốn hôn nhân - Mc Lê Na diễn đọc cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4256,
+    "title" : "Truyện ngôn tình MC Lê Na kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4265,
+    "title" : "Truyện tâm lí xã hội 2020 #mcthanhmai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4341,
+    "title" : "Đêm động phòng say xỉn - Truyện ngôn tình hay MC Lê Na kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4455,
+    "title" : "Chạy Trốn Hôn Nhân - Truyện tâm lí xã hội 2020 - MC Lê Na kể quá hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "Nụ hôn đầu choáng váng - Truyện tâm lí xã hội 2020 #mclena",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "Vợ bảo vệ Chồng - Truyện tâm lí xã hội cực hay #mclena",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "Chơi khăm ông xã - Truyện tâm lí xã hội MC Lê Na kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "Truyện tâm lí xã hội 2020 - MC Lê Na",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "Tập 7 - Truyện tâm lí xã hội cực hay 2020 - MC Lê Na kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "Chạy trốn hôn nhân - Em sẽ sinh con cho anh - Truyện tâm lí xã hội 2020 #mclena",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3770,
+    "title" : "Ai dám khi dễ cô - Truyện tâm lí xã hội MC Lê Na diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/1.mp3",
+    "title" : "[Thú Vị ] Truyện có thật của cô gái Chạy Trốn Hôn Nhân- Truyện đời thực 2020 #mclena",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/10.mp3",
+    "title" : "Truyện ngôn tình hay và hấp dẫn 2020 - MC Lê Na kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/11.mp3",
+    "title" : "Truyện ngôn tình càng nghe càng hay MC Lê Na kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/12.mp3",
+    "title" : "Ăn trộm tóc của anh - Truyện tâm lí xã hội 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/13.mp3",
+    "title" : "Cái bẫy của Tân Di - Truyện tâm lí xã hội cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/14.mp3",
+    "title" : "Siêu phẩm truyện tâm lí xã hội MC Lê Na diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/15.mp3",
+    "title" : "Truyện tâm lí xã hội 2020 - MC Lê Na diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/16.mp3",
+    "title" : "Phần 17 - Truyện tâm lí xã hội mới 2020 | MC Lê Na diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/17.mp3",
+    "title" : "Tính bắt anh đổ vỏ - Truyện tâm lí xã hội MC Lê Na diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/18.mp3",
+    "title" : "MC Lê Na diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/19.mp3",
+    "title" : "Truyện tâm lí xã hội đời thực 2020 - MC Lê Na diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/2.mp3",
+    "title" : "Chạy trốn hôn nhân - Mc Lê Na diễn đọc cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/20.mp3",
+    "title" : "Truyện ngôn tình MC Lê Na kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/21.mp3",
+    "title" : "Truyện tâm lí xã hội 2020 #mcthanhmai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/22.mp3",
+    "title" : "Đêm động phòng say xỉn - Truyện ngôn tình hay MC Lê Na kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/23.mp3",
+    "title" : "Chạy Trốn Hôn Nhân - Truyện tâm lí xã hội 2020 - MC Lê Na kể quá hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/3.mp3",
+    "title" : "Nụ hôn đầu choáng váng - Truyện tâm lí xã hội 2020 #mclena",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/4.mp3",
+    "title" : "Vợ bảo vệ Chồng - Truyện tâm lí xã hội cực hay #mclena",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/5.mp3",
+    "title" : "Chơi khăm ông xã - Truyện tâm lí xã hội MC Lê Na kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/6.mp3",
+    "title" : "Truyện tâm lí xã hội 2020 - MC Lê Na",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/7.mp3",
+    "title" : "Tập 7 - Truyện tâm lí xã hội cực hay 2020 - MC Lê Na kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/8.mp3",
+    "title" : "Chạy trốn hôn nhân - Em sẽ sinh con cho anh - Truyện tâm lí xã hội 2020 #mclena",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hao-mon-nu-phu-khong-muon-co-tinh-yeu/9.mp3",
+    "title" : "Ai dám khi dễ cô - Truyện tâm lí xã hội MC Lê Na diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

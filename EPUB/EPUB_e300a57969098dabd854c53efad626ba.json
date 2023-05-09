@@ -1,0 +1,725 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoa-tu-dan-duong-that-cong-tu_10416.html",
+    "title" : "Hoa Tư Dẫn - Đường Thất Công Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đường Thất Công Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 108255,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_e300a57969098dabd854c53efad626ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_e300a57969098dabd854c53efad626ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-tu-dan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "CHUONG 00 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1350,
+    "title" : "CHUONG 09 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1585,
+    "title" : "CHUONG 10 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "CHUONG 11 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "CHUONG 12 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2095,
+    "title" : "CHUONG 13 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1540,
+    "title" : "CHUONG 14 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "CHUONG 15 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1930,
+    "title" : "CHUONG 16 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2250,
+    "title" : "CHUONG 17 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1725,
+    "title" : "CHUONG 18 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "CHUONG 01 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2230,
+    "title" : "CHUONG 19 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2110,
+    "title" : "CHUONG 20 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1575,
+    "title" : "CHUONG 21 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1685,
+    "title" : "CHUONG 22 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "CHUONG 23 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "CHUONG 24 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1745,
+    "title" : "CHUONG 25 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "CHUONG 26 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1445,
+    "title" : "CHUONG 27 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "CHUONG 28 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2395,
+    "title" : "CHUONG 02 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "CHUONG 29 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2575,
+    "title" : "CHUONG 30 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "CHUONG 31 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2300,
+    "title" : "CHUONG 32 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1895,
+    "title" : "CHUONG 33 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2040,
+    "title" : "CHUONG 34 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "CHUONG 35 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2310,
+    "title" : "CHUONG 36 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2465,
+    "title" : "CHUONG 37 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2290,
+    "title" : "CHUONG 38 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1395,
+    "title" : "CHUONG 03 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2415,
+    "title" : "CHUONG 39 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2195,
+    "title" : "CHUONG 40 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1610,
+    "title" : "CHUONG 41 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "CHUONG 42 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2190,
+    "title" : "CHUONG 43 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "CHUONG 44 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "CHUONG 45 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1965,
+    "title" : "CHUONG 46 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1970,
+    "title" : "CHUONG 47 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1655,
+    "title" : "CHUONG 48 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "CHUONG 04 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1460,
+    "title" : "CHUONG 49 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1880,
+    "title" : "CHUONG 50 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1490,
+    "title" : "CHUONG 51 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1905,
+    "title" : "CHUONG 52 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "CHUONG 53 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2060,
+    "title" : "CHUONG 54 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1905,
+    "title" : "CHUONG 55 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1765,
+    "title" : "CHUONG 56 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1765,
+    "title" : "CHUONG 05 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1805,
+    "title" : "CHUONG 06 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "CHUONG 07 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1790,
+    "title" : "CHUONG 08 - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-tu-dan/1.mp3",
+    "title" : "CHUONG 00 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/10.mp3",
+    "title" : "CHUONG 09 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/11.mp3",
+    "title" : "CHUONG 10 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/12.mp3",
+    "title" : "CHUONG 11 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/13.mp3",
+    "title" : "CHUONG 12 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/14.mp3",
+    "title" : "CHUONG 13 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/15.mp3",
+    "title" : "CHUONG 14 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/16.mp3",
+    "title" : "CHUONG 15 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/17.mp3",
+    "title" : "CHUONG 16 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/18.mp3",
+    "title" : "CHUONG 17 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/19.mp3",
+    "title" : "CHUONG 18 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/2.mp3",
+    "title" : "CHUONG 01 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/20.mp3",
+    "title" : "CHUONG 19 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/21.mp3",
+    "title" : "CHUONG 20 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/22.mp3",
+    "title" : "CHUONG 21 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/23.mp3",
+    "title" : "CHUONG 22 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/24.mp3",
+    "title" : "CHUONG 23 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/25.mp3",
+    "title" : "CHUONG 24 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/26.mp3",
+    "title" : "CHUONG 25 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/27.mp3",
+    "title" : "CHUONG 26 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/28.mp3",
+    "title" : "CHUONG 27 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/29.mp3",
+    "title" : "CHUONG 28 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/3.mp3",
+    "title" : "CHUONG 02 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/30.mp3",
+    "title" : "CHUONG 29 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/31.mp3",
+    "title" : "CHUONG 30 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/32.mp3",
+    "title" : "CHUONG 31 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/33.mp3",
+    "title" : "CHUONG 32 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/34.mp3",
+    "title" : "CHUONG 33 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/35.mp3",
+    "title" : "CHUONG 34 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/36.mp3",
+    "title" : "CHUONG 35 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/37.mp3",
+    "title" : "CHUONG 36 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/38.mp3",
+    "title" : "CHUONG 37 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/39.mp3",
+    "title" : "CHUONG 38 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/4.mp3",
+    "title" : "CHUONG 03 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/40.mp3",
+    "title" : "CHUONG 39 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/41.mp3",
+    "title" : "CHUONG 40 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/42.mp3",
+    "title" : "CHUONG 41 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/43.mp3",
+    "title" : "CHUONG 42 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/44.mp3",
+    "title" : "CHUONG 43 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/45.mp3",
+    "title" : "CHUONG 44 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/46.mp3",
+    "title" : "CHUONG 45 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/47.mp3",
+    "title" : "CHUONG 46 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/48.mp3",
+    "title" : "CHUONG 47 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/49.mp3",
+    "title" : "CHUONG 48 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/5.mp3",
+    "title" : "CHUONG 04 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/50.mp3",
+    "title" : "CHUONG 49 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/51.mp3",
+    "title" : "CHUONG 50 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/52.mp3",
+    "title" : "CHUONG 51 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/53.mp3",
+    "title" : "CHUONG 52 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/54.mp3",
+    "title" : "CHUONG 53 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/55.mp3",
+    "title" : "CHUONG 54 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/56.mp3",
+    "title" : "CHUONG 55 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/57.mp3",
+    "title" : "CHUONG 56 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/6.mp3",
+    "title" : "CHUONG 05 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/7.mp3",
+    "title" : "CHUONG 06 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/8.mp3",
+    "title" : "CHUONG 07 - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-tu-dan/9.mp3",
+    "title" : "CHUONG 08 - Truyen Audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

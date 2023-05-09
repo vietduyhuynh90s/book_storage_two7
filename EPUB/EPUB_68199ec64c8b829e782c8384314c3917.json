@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ong-tram-tuoi-treo-qua-cua-so-va-bien-mat_3675.html",
+    "title" : "Ông Trăm Tuổi Trèo Qua Cửa Sổ và Biến Mất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jonas Jonasson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50755,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_68199ec64c8b829e782c8384314c3917.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_68199ec64c8b829e782c8384314c3917.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 945,
+    "title" : "1 + 2. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "3. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "4. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "5. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3164,
+    "title" : "6. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "7. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "8. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1131,
+    "title" : "9. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1558,
+    "title" : "10.Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "11. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1981,
+    "title" : "12. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4729,
+    "title" : "13. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 679,
+    "title" : "14. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1913,
+    "title" : "15. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "16. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 676,
+    "title" : "17. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4557,
+    "title" : "18. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 822,
+    "title" : "19. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1491,
+    "title" : "20. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1081,
+    "title" : "21 + 22. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2087,
+    "title" : "ong-tram-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "ong-tram-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1198,
+    "title" : "ong-tram-23",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-01.mp3",
+    "title" : "1 + 2. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-02.mp3",
+    "title" : "3. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-03.mp3",
+    "title" : "4. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-04.mp3",
+    "title" : "5. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-05.mp3",
+    "title" : "6. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-06.mp3",
+    "title" : "7. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-07.mp3",
+    "title" : "8. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-08.mp3",
+    "title" : "9. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-09.mp3",
+    "title" : "10.Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-10.mp3",
+    "title" : "11. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-11.mp3",
+    "title" : "12. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-12.mp3",
+    "title" : "13. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-13.mp3",
+    "title" : "14. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-14.mp3",
+    "title" : "15. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-15.mp3",
+    "title" : "16. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-16.mp3",
+    "title" : "17. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-17.mp3",
+    "title" : "18. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-18.mp3",
+    "title" : "19. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-19.mp3",
+    "title" : "20. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-20.mp3",
+    "title" : "21 + 22. Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất - Truyện audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-21.mp3",
+    "title" : "ong-tram-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-22.mp3",
+    "title" : "ong-tram-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ong-tram-12/ong-tram-23.mp3",
+    "title" : "ong-tram-23",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doc-tham_14156.html",
+    "title" : "Đọc Thầm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Priest",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 184872,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_105d846213a8f5a433aa61859d3d453e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_105d846213a8f5a433aa61859d3d453e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doc-tham/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11265,
+    "title" : "#1+2+3 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11380,
+    "title" : "#30+31+32+33+34 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11112,
+    "title" : "#35+36+37+38+39 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10680,
+    "title" : "#40+41+42+43 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11787,
+    "title" : "#44+45+46+47+48 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12229,
+    "title" : "#49+50+51+52+53 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9098,
+    "title" : "#54+55+56 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4376,
+    "title" : "#57 Phí Độ Độc Thầm || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4411,
+    "title" : "#58 Lạc Văn Chu Độc Thầm || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4737,
+    "title" : "#59 Tiêu Hải Dương ĐỌC THẦM || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4561,
+    "title" : "#60 Đào Nhiên ĐỌC THẦM || Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10042,
+    "title" : "#4+5+6 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5721,
+    "title" : "#61 Phiên Ngoại ĐỌC THẦM ||HẾT Lê Tuyên Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8780,
+    "title" : "#7+8+9 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9495,
+    "title" : "#10+11+12 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11510,
+    "title" : "#13+14+15+16+17 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10631,
+    "title" : "#18+19+20 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11404,
+    "title" : "#21+22+23 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10343,
+    "title" : "#24+25+26 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doc-tham/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11310,
+    "title" : "#27+28+29 ĐỌC THẦM || Đam mỹ ||",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doc-tham/1.mp3",
+    "title" : "#1+2+3 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/10.mp3",
+    "title" : "#30+31+32+33+34 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/11.mp3",
+    "title" : "#35+36+37+38+39 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/12.mp3",
+    "title" : "#40+41+42+43 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/13.mp3",
+    "title" : "#44+45+46+47+48 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/14.mp3",
+    "title" : "#49+50+51+52+53 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/15.mp3",
+    "title" : "#54+55+56 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/16.mp3",
+    "title" : "#57 Phí Độ Độc Thầm || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/17.mp3",
+    "title" : "#58 Lạc Văn Chu Độc Thầm || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/18.mp3",
+    "title" : "#59 Tiêu Hải Dương ĐỌC THẦM || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/19.mp3",
+    "title" : "#60 Đào Nhiên ĐỌC THẦM || Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/2.mp3",
+    "title" : "#4+5+6 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/20.mp3",
+    "title" : "#61 Phiên Ngoại ĐỌC THẦM ||HẾT Lê Tuyên Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/3.mp3",
+    "title" : "#7+8+9 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/4.mp3",
+    "title" : "#10+11+12 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/5.mp3",
+    "title" : "#13+14+15+16+17 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/6.mp3",
+    "title" : "#18+19+20 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/7.mp3",
+    "title" : "#21+22+23 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/8.mp3",
+    "title" : "#24+25+26 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-tham/9.mp3",
+    "title" : "#27+28+29 ĐỌC THẦM || Đam mỹ ||",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

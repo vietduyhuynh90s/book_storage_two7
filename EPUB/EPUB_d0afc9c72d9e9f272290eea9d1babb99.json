@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thu-gui-nguoi-dan-ba-khong-quen-biet_14830.html",
+    "title" : "Thư Gửi Người Đàn Bà Không Quen Biết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "André Maurois",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7717,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_d0afc9c72d9e9f272290eea9d1babb99.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_d0afc9c72d9e9f272290eea9d1babb99.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/TGNDBKQB/Thu%20g%E1%BB%ADi%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20b%C3%A0%20kh%C3%B4ng%20quen%20bi%E1%BA%BFt%20-%20Andr%C3%A9%20Maurois%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7717,
+    "title" : "Thu gửi người đàn bà không quen biết - André Maurois (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/TGNDBKQB/Thu%20g%E1%BB%ADi%20ng%C6%B0%E1%BB%9Di%20%C4%91%C3%A0n%20b%C3%A0%20kh%C3%B4ng%20quen%20bi%E1%BA%BFt%20-%20Andr%C3%A9%20Maurois%20%28128kbit_AAC%29.mp3",
+    "title" : "Thu gửi người đàn bà không quen biết - André Maurois (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

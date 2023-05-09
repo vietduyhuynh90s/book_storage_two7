@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-tang-pham-cua-nguoi-do-thai_20278.html",
+    "title" : "Những Tặng Phẩm Của Người Do Thái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thomas Cahill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26459,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_8660f0297d824f1eb999f9cc98170cc3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_8660f0297d824f1eb999f9cc98170cc3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "NhungTangPhamNguoiDoThai00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4061,
+    "title" : "NhungTangPhamNguoiDoThai01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3993,
+    "title" : "NhungTangPhamNguoiDoThai02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2897,
+    "title" : "NhungTangPhamNguoiDoThai03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "NhungTangPhamNguoiDoThai04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "NhungTangPhamNguoiDoThai05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "NhungTangPhamNguoiDoThai06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3959,
+    "title" : "NhungTangPhamNguoiDoThai07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai00.mp3",
+    "title" : "NhungTangPhamNguoiDoThai00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai01.mp3",
+    "title" : "NhungTangPhamNguoiDoThai01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai02.mp3",
+    "title" : "NhungTangPhamNguoiDoThai02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai03.mp3",
+    "title" : "NhungTangPhamNguoiDoThai03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai04.mp3",
+    "title" : "NhungTangPhamNguoiDoThai04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai05.mp3",
+    "title" : "NhungTangPhamNguoiDoThai05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai06.mp3",
+    "title" : "NhungTangPhamNguoiDoThai06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-tang-pham-cua-nguoi-do-thai.sna/NhungTangPhamNguoiDoThai07.mp3",
+    "title" : "NhungTangPhamNguoiDoThai07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

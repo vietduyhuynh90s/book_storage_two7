@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/o-buon-nguoi-gian-tu-hai_9583.html",
+    "title" : "Ổ Buôn Người - Giản Tư Hải.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giản Tư Hải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31394,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2464a4b85adbb6c68689f7f9f81f6efa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2464a4b85adbb6c68689f7f9f81f6efa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/o-buon-nguoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3955,
+    "title" : "Tập 01 | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4155,
+    "title" : "Tập 02 | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Tập 03 | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3619,
+    "title" : "Tập 04 | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3890,
+    "title" : "Tập 05 | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4149,
+    "title" : "Tập 06 | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Tập 07 | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4545,
+    "title" : "Tập 08(Hết) | Giản Tư Hải | Nghiện Truyện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/o-buon-nguoi/1.mp3",
+    "title" : "Tập 01 | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/2.mp3",
+    "title" : "Tập 02 | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/3.mp3",
+    "title" : "Tập 03 | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/4.mp3",
+    "title" : "Tập 04 | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/5.mp3",
+    "title" : "Tập 05 | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/6.mp3",
+    "title" : "Tập 06 | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/7.mp3",
+    "title" : "Tập 07 | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/o-buon-nguoi/8.mp3",
+    "title" : "Tập 08(Hết) | Giản Tư Hải | Nghiện Truyện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

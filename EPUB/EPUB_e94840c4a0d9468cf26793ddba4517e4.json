@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xuyen-thanh-vo-cu-nam-phu_15057.html",
+    "title" : "Xuyên Thành Vợ Cũ Nam Phụ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bất Tài Như Phó",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 66116,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_e94840c4a0d9468cf26793ddba4517e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_e94840c4a0d9468cf26793ddba4517e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2933,
+    "title" : "Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường cực hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4687,
+    "title" : "[Phần 10] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường,sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5001,
+    "title" : "[ Phần 11] Nam phụ cực sủng người vợ xuyên qua| Truyện xuyên không nữ cường, nam cường, sủng, HE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4881,
+    "title" : "[Phần 12] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường,sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4981,
+    "title" : "[Phần 13] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường, nam cường, sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5615,
+    "title" : "[Phần 14] Nam phụ cực sủng cô vợ xuyên qua| Truyện xuyên không nữ cường, nam cường sủng vợ cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6674,
+    "title" : "[TẬP CUỐI] Đại kết cục tình yêu| Nam phụ cực sủng cô vợ xuyên qua | Truyện ngôn tình xuyên không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "[Phần 2] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường,cực sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2628,
+    "title" : "[Phần3] Nam phụ cực sủng người vợ xuyên qua|Truyện ngôn tình xuyên không nữ cường, nam cường cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3154,
+    "title" : "[Phần 4] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3277,
+    "title" : "[Phần 5] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4982,
+    "title" : "[Phần 6] Nam phụ cực sủng cô vợ xuyên qua| Truyện xuyên không nữ cường, nam cường sủng vợ cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5104,
+    "title" : "[Phần 7] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường sủng vợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4781,
+    "title" : "[Phần 8] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường, sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4592,
+    "title" : "[Phần 9] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường,nam cường, sủng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/1.mp3",
+    "title" : "Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường cực hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/10.mp3",
+    "title" : "[Phần 10] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường,sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/11.mp3",
+    "title" : "[ Phần 11] Nam phụ cực sủng người vợ xuyên qua| Truyện xuyên không nữ cường, nam cường, sủng, HE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/12.mp3",
+    "title" : "[Phần 12] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường,sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/13.mp3",
+    "title" : "[Phần 13] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường, nam cường, sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/14.mp3",
+    "title" : "[Phần 14] Nam phụ cực sủng cô vợ xuyên qua| Truyện xuyên không nữ cường, nam cường sủng vợ cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/15.mp3",
+    "title" : "[TẬP CUỐI] Đại kết cục tình yêu| Nam phụ cực sủng cô vợ xuyên qua | Truyện ngôn tình xuyên không",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/2.mp3",
+    "title" : "[Phần 2] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường,cực sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/3.mp3",
+    "title" : "[Phần3] Nam phụ cực sủng người vợ xuyên qua|Truyện ngôn tình xuyên không nữ cường, nam cường cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/4.mp3",
+    "title" : "[Phần 4] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/5.mp3",
+    "title" : "[Phần 5] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không, nữ cường,nam cường cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/6.mp3",
+    "title" : "[Phần 6] Nam phụ cực sủng cô vợ xuyên qua| Truyện xuyên không nữ cường, nam cường sủng vợ cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/7.mp3",
+    "title" : "[Phần 7] Nam phụ cực sủng cô vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường sủng vợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/8.mp3",
+    "title" : "[Phần 8] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường, nam cường, sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-thanh-vo-cu-cua-nam-phu/9.mp3",
+    "title" : "[Phần 9] Nam phụ cực sủng người vợ xuyên qua| Truyện ngôn tình xuyên không nữ cường,nam cường, sủng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

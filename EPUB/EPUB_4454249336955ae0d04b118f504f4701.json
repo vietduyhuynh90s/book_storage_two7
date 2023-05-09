@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngap-tran-yeu-thuong-co-tay-tuoc_11462.html",
+    "title" : "Ngập Tràn Yêu Thương - Cố Tây Tước",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cố Tây Tước",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18393,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4454249336955ae0d04b118f504f4701.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4454249336955ae0d04b118f504f4701.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thanhxuanaycoem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3923,
+    "title" : "Cố Tây Tước - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4157,
+    "title" : "Cố Tây Tước - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4082,
+    "title" : "Cố Tây Tước - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3941,
+    "title" : "Cố Tây Tước - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2290,
+    "title" : "Cố Tây Tước - Phần 5 - END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thanhxuanaycoem/1.mp3",
+    "title" : "Cố Tây Tước - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/2.mp3",
+    "title" : "Cố Tây Tước - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/3.mp3",
+    "title" : "Cố Tây Tước - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/4.mp3",
+    "title" : "Cố Tây Tước - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanhxuanaycoem/5.mp3",
+    "title" : "Cố Tây Tước - Phần 5 - END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

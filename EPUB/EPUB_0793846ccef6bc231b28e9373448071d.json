@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-su-ho-xuan-huong_13497.html",
+    "title" : "Tình Sử Hồ Xuân Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bùi Bội Tỉnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 42611,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_0793846ccef6bc231b28e9373448071d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_0793846ccef6bc231b28e9373448071d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9742,
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8736,
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7510,
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7843,
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8780,
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/1.mp3",
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/2.mp3",
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/3.mp3",
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/4.mp3",
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-su-ho-xuan-huong/5.mp3",
+    "title" : "Tiểu Thuyết của Bùi Bội Tỉnh | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

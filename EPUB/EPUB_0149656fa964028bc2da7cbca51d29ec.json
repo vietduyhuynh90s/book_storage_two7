@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-nguoi-do-thai-day-con-lam-giau-mordecai-naday-pham-thi-kim-hoa_4774.html",
+    "title" : "Bí Mật Người Do Thái Dạy Con Làm Giàu - Mordecai Naday & Phạm Thị Kim Hoa.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Thị Kim Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19585,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_0149656fa964028bc2da7cbca51d29ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_0149656fa964028bc2da7cbca51d29ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1294,
+    "title" : "Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3567,
+    "title" : "Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1297,
+    "title" : "chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1251,
+    "title" : "Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1113,
+    "title" : "chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1563,
+    "title" : "chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1770,
+    "title" : "chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1451,
+    "title" : "chương 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/1.mp3",
+    "title" : "Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/10.mp3",
+    "title" : "Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/11.mp3",
+    "title" : "Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/2.mp3",
+    "title" : "Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/3.mp3",
+    "title" : "chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/4.mp3",
+    "title" : "Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/5.mp3",
+    "title" : "chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/6.mp3",
+    "title" : "chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/7.mp3",
+    "title" : "chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/8.mp3",
+    "title" : "chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-do-thai-day-con/9.mp3",
+    "title" : "chương 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

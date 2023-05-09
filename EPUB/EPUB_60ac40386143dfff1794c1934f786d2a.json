@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/that-lac-coi-nguoi_19115.html",
+    "title" : "Thất Lạc Cõi Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dazai Osamu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19865,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_60ac40386143dfff1794c1934f786d2a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_60ac40386143dfff1794c1934f786d2a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4565,
+    "title" : "Tiểu thuyết Thất lạc cõi người 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "Tiểu thuyết Thất lạc cõi người 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3875,
+    "title" : "Tiểu thuyết Thất lạc cõi người 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4270,
+    "title" : "Tiểu thuyết Thất lạc cõi người 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_05%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3165,
+    "title" : "Tiểu thuyết Thất lạc cõi người 05 (end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_01.mp3",
+    "title" : "Tiểu thuyết Thất lạc cõi người 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_02.mp3",
+    "title" : "Tiểu thuyết Thất lạc cõi người 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_03.mp3",
+    "title" : "Tiểu thuyết Thất lạc cõi người 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_04.mp3",
+    "title" : "Tiểu thuyết Thất lạc cõi người 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-thuyet-that-lac-coi-nguoi-01/Ti%E1%BB%83u%20thuy%E1%BA%BFt%20Th%E1%BA%A5t%20l%E1%BA%A1c%20c%C3%B5i%20ng%C6%B0%E1%BB%9Di_05%20%28end%29.mp3",
+    "title" : "Tiểu thuyết Thất lạc cõi người 05 (end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

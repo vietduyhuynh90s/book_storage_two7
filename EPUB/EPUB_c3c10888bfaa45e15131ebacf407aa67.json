@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thanh-pho-sau-anh-hao-quang-denley-lupin_9262.html",
+    "title" : "Thành Phố Sau Ánh Hào Quang - Denley Lupin.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Denley Lupin",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19598,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_c3c10888bfaa45e15131ebacf407aa67.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_c3c10888bfaa45e15131ebacf407aa67.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/TPSAHQ/01_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 577,
+    "title" : "01 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/02_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 569,
+    "title" : "02 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/03_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 356,
+    "title" : "03 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/04_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 521,
+    "title" : "04 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/05_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 557,
+    "title" : "05 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/06_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 844,
+    "title" : "06 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/07_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 593,
+    "title" : "07 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/08_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 508,
+    "title" : "08 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/09_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 634,
+    "title" : "09 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/10_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 495,
+    "title" : "10 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/11_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 390,
+    "title" : "11 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/12_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 512,
+    "title" : "12 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/13_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 580,
+    "title" : "13 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/14_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 442,
+    "title" : "14 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/15_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 636,
+    "title" : "15 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/16_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 598,
+    "title" : "16 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/17_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 459,
+    "title" : "17 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/18_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 749,
+    "title" : "18 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/19_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "19 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/20_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 866,
+    "title" : "20 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/21_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 728,
+    "title" : "21 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/22_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 491,
+    "title" : "22 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/23_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 490,
+    "title" : "23 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/24_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 725,
+    "title" : "24 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/25_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 902,
+    "title" : "25 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/26_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 401,
+    "title" : "26 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/27_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 775,
+    "title" : "27 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/28_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "28 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/29_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 979,
+    "title" : "29 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/30_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "30 TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/31_END_TPSAHQ.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 168,
+    "title" : "31 END TPSAHQ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/TPSAHQ/01_TPSAHQ.mp3",
+    "title" : "01 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/02_TPSAHQ.mp3",
+    "title" : "02 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/03_TPSAHQ.mp3",
+    "title" : "03 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/04_TPSAHQ.mp3",
+    "title" : "04 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/05_TPSAHQ.mp3",
+    "title" : "05 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/06_TPSAHQ.mp3",
+    "title" : "06 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/07_TPSAHQ.mp3",
+    "title" : "07 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/08_TPSAHQ.mp3",
+    "title" : "08 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/09_TPSAHQ.mp3",
+    "title" : "09 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/10_TPSAHQ.mp3",
+    "title" : "10 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/11_TPSAHQ.mp3",
+    "title" : "11 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/12_TPSAHQ.mp3",
+    "title" : "12 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/13_TPSAHQ.mp3",
+    "title" : "13 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/14_TPSAHQ.mp3",
+    "title" : "14 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/15_TPSAHQ.mp3",
+    "title" : "15 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/16_TPSAHQ.mp3",
+    "title" : "16 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/17_TPSAHQ.mp3",
+    "title" : "17 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/18_TPSAHQ.mp3",
+    "title" : "18 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/19_TPSAHQ.mp3",
+    "title" : "19 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/20_TPSAHQ.mp3",
+    "title" : "20 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/21_TPSAHQ.mp3",
+    "title" : "21 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/22_TPSAHQ.mp3",
+    "title" : "22 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/23_TPSAHQ.mp3",
+    "title" : "23 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/24_TPSAHQ.mp3",
+    "title" : "24 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/25_TPSAHQ.mp3",
+    "title" : "25 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/26_TPSAHQ.mp3",
+    "title" : "26 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/27_TPSAHQ.mp3",
+    "title" : "27 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/28_TPSAHQ.mp3",
+    "title" : "28 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/29_TPSAHQ.mp3",
+    "title" : "29 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/30_TPSAHQ.mp3",
+    "title" : "30 TPSAHQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/TPSAHQ/31_END_TPSAHQ.mp3",
+    "title" : "31 END TPSAHQ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

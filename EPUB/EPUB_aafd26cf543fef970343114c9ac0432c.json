@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-hoang-tuong-ve-bien-lon-alan-phan_9789.html",
+    "title" : "Đừng Hoang Tưởng Về Biển Lớn - Alan Phan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alan Phan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19447,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_aafd26cf543fef970343114c9ac0432c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_aafd26cf543fef970343114c9ac0432c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong01-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2326,
+    "title" : "DungHoangTuongChuong01-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong05-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "DungHoangTuongChuong05-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2662,
+    "title" : "DungHoangTuongChuong09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong10-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "DungHoangTuongChuong10-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong13-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "DungHoangTuongChuong13-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong17-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "DungHoangTuongChuong17-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong22-27Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3063,
+    "title" : "DungHoangTuongChuong22-27Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong01-04.mp3",
+    "title" : "DungHoangTuongChuong01-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong05-08.mp3",
+    "title" : "DungHoangTuongChuong05-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong09.mp3",
+    "title" : "DungHoangTuongChuong09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong10-12.mp3",
+    "title" : "DungHoangTuongChuong10-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong13-16.mp3",
+    "title" : "DungHoangTuongChuong13-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong17-21.mp3",
+    "title" : "DungHoangTuongChuong17-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-hoang-tuong-ve-bien-lon.sna/DungHoangTuongChuong22-27Het.mp3",
+    "title" : "DungHoangTuongChuong22-27Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

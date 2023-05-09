@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/moi-ngay-tiet-kiem-mot-gio_5580.html",
+    "title" : "Mỗi Ngày Tiết Kiệm Một Giờ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Michael Heppell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10712,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1c470283a1fa7808a46e2756b6ffb6e3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1c470283a1fa7808a46e2756b6ffb6e3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2669,
+    "title" : "MOI NGAY TIET KIEM MOT GIO 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "MOI NGAY TIET KIEM MOT GIO 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1679,
+    "title" : "MOI NGAY TIET KIEM MOT GIO 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2063,
+    "title" : "MOI NGAY TIET KIEM MOT GIO 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "MOI NGAY TIET KIEM MOT GIO 05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_01.mp3",
+    "title" : "MOI NGAY TIET KIEM MOT GIO 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_02.mp3",
+    "title" : "MOI NGAY TIET KIEM MOT GIO 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_03.mp3",
+    "title" : "MOI NGAY TIET KIEM MOT GIO 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_04.mp3",
+    "title" : "MOI NGAY TIET KIEM MOT GIO 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-ngay-tiet-kiem-mot-gio.sna/MOI_NGAY_TIET_KIEM_MOT_GIO_05.mp3",
+    "title" : "MOI NGAY TIET KIEM MOT GIO 05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

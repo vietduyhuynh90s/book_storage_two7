@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/voi-da-lat-ai-cung-la-lu-khach_13500.html",
+    "title" : "Với Đà Lạt Ai Cũng Là Lữ Khách",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Vĩnh Nguyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10560,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_975052b06755939c6d0aeeb49e04ae66.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_975052b06755939c6d0aeeb49e04ae66.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1305,
+    "title" : "dalat1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "dalat2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2955,
+    "title" : "dalat3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "dalat4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/1.mp3",
+    "title" : "dalat1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/2.mp3",
+    "title" : "dalat2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/3.mp3",
+    "title" : "dalat3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/voi-da-lat-ai-cung-la-lu-khach/4.mp3",
+    "title" : "dalat4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

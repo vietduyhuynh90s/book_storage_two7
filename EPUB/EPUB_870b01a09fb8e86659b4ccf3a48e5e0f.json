@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thong-minh-cam-xuc-2-0-nang-cao-eq-de-hanh-phuc-thanh-cong_16401.html",
+    "title" : "Thông Minh Cảm Xúc 2.0 - Nâng Cao EQ Để Hạnh Phúc & Thành Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Travis Bradberry",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15466,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_870b01a09fb8e86659b4ccf3a48e5e0f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_870b01a09fb8e86659b4ccf3a48e5e0f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC0102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2526,
+    "title" : "ThongMinhCamXucC0102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "ThongMinhCamXucC03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1798,
+    "title" : "ThongMinhCamXucC04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2205,
+    "title" : "ThongMinhCamXucC05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2331,
+    "title" : "ThongMinhCamXucC06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2696,
+    "title" : "ThongMinhCamXucC07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucHet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "ThongMinhCamXucHet",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC0102.mp3",
+    "title" : "ThongMinhCamXucC0102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC03.mp3",
+    "title" : "ThongMinhCamXucC03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC04.mp3",
+    "title" : "ThongMinhCamXucC04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC05.mp3",
+    "title" : "ThongMinhCamXucC05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC06.mp3",
+    "title" : "ThongMinhCamXucC06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucC07.mp3",
+    "title" : "ThongMinhCamXucC07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thong-minh-cam-xuc-2-0.sna/ThongMinhCamXucHet.mp3",
+    "title" : "ThongMinhCamXucHet",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/7-bi-quyet-giup-hon-nhan-hanh-phuc_15443.html",
+    "title" : "7 Bí Quyết Giúp Hôn Nhân Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John M. Gottman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25478,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1c7c4e701ec7035bc00433d85933f8dc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1c7c4e701ec7035bc00433d85933f8dc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3878,
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/1.mp3",
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/2.mp3",
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/3.mp3",
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-bi-quyet-giup-hon-nhan-hanh-phuc/4.mp3",
+    "title" : "7 bí quyết giúp hôn nhân hạnh phúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

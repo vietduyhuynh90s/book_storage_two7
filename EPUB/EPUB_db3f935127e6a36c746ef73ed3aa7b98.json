@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-nu-hon-doi-lay-mot-doi-chong-hieu-don-dinh-dong_10015.html",
+    "title" : "Ba Nụ Hôn Đổi Lấy Một Đời Chồng - Hiểu Đơn Đinh Đông.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiểu Đơn Đinh Đông",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47649,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_db3f935127e6a36c746ef73ed3aa7b98.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_db3f935127e6a36c746ef73ed3aa7b98.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bnhdlmdc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2111,
+    "title" : "Hiểu ĐơnĐinh Đông - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2378,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2248,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2360,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2762,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2576,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2233,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2259,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2313,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2099,
+    "title" : "HiểuĐơnĐinhĐông-Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2172,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2277,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2124,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2648,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2484,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bnhdlmdc/1.mp3",
+    "title" : "Hiểu ĐơnĐinh Đông - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/10.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/11.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/12.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/13.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/14.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/15.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/16.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/17.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/18.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/19.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/2.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/20.mp3",
+    "title" : "HiểuĐơnĐinhĐông-Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/3.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/4.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/5.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/6.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/7.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/8.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bnhdlmdc/9.mp3",
+    "title" : "HiểuĐơnĐinhĐông - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

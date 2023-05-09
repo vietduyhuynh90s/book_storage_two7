@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cap-treo-tinh-yeu_18622.html",
+    "title" : "Cáp Treo Tình Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20660,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_c989b375c307885508c66ad1b7cf2bd0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_c989b375c307885508c66ad1b7cf2bd0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cap-treo-tinh-yeu-3/c%C3%A1p%20treo%20t%C3%ACnh%20y%C3%AAu%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5729,
+    "title" : "cáp treo tình yêu 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-treo-tinh-yeu-3/c%C3%A1p%20treo%20t%C3%ACnh%20y%C3%AAu%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5798,
+    "title" : "cáp treo tình yêu 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-treo-tinh-yeu-3/c%C3%A1p%20treo%20t%C3%ACnh%20y%C3%AAu%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9133,
+    "title" : "cáp treo tình yêu 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cap-treo-tinh-yeu-3/c%C3%A1p%20treo%20t%C3%ACnh%20y%C3%AAu%201.mp3",
+    "title" : "cáp treo tình yêu 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-treo-tinh-yeu-3/c%C3%A1p%20treo%20t%C3%ACnh%20y%C3%AAu%202.mp3",
+    "title" : "cáp treo tình yêu 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-treo-tinh-yeu-3/c%C3%A1p%20treo%20t%C3%ACnh%20y%C3%AAu%203.mp3",
+    "title" : "cáp treo tình yêu 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-sau-cuoi-cung_12538.html",
+    "title" : "Con Sấu Cuối Cùng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 5326,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_556da63a2b16204817dc2e199ecf26f9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_556da63a2b16204817dc2e199ecf26f9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1296,
+    "title" : "ConSauCuoiCung01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "ConSauCuoiCung02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1241,
+    "title" : "ConSauCuoiCung03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1236,
+    "title" : "ConSauCuoiCung04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung01.mp3",
+    "title" : "ConSauCuoiCung01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung02.mp3",
+    "title" : "ConSauCuoiCung02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung03.mp3",
+    "title" : "ConSauCuoiCung03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-sau-cuoi-cung.sna/ConSauCuoiCung04.mp3",
+    "title" : "ConSauCuoiCung04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

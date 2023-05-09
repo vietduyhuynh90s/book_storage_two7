@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_15168.html",
+    "title" : "Chọc Giận Bảo Bối: Ông Xã, Cưng Chiều Nhẹ Một Chút",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hề Yên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 130867,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b15c23456f1b1563992d1fececd99437.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b15c23456f1b1563992d1fececd99437.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7186,
+    "title" : "Cho Tổng Tài 2 Cái Bạt Tai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7061,
+    "title" : "Thẩm Chanh Vào Hang Cọp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7252,
+    "title" : "Chứng Tỏ Bản Lĩnh Đàn Ông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6857,
+    "title" : "Cái Kết Đắng cho Hầu Gái Đào Đào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6987,
+    "title" : "Gia Thế Họ Mạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7189,
+    "title" : "Người Đàn Ông Bí Ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7069,
+    "title" : "Giải Cứ.u Vợ Yêu Của Tổng Tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6810,
+    "title" : "Âm Mưu của Nữ Bác Sĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5631,
+    "title" : "Hòn Đảo Bí Ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5760,
+    "title" : "Lần Đầu Tiên Của Diệp Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5999,
+    "title" : "Tập Cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7266,
+    "title" : "Đánh Dấu Chủ Quyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7268,
+    "title" : "Hắn dám sờ Bánh Bao ư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7291,
+    "title" : "Anh Hùng Cứu Mỹ Nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7092,
+    "title" : "Kẻ Thù Lộ Diện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6716,
+    "title" : "Cô Hầu Gái 2 Mặt - Truyện Ngôn Tình 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7148,
+    "title" : "Bí Mật Nhà Họ Thẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7050,
+    "title" : "Trái Tim Rung Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7235,
+    "title" : "Nhẫn Ngôi Sao Sáng Chói",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/1.mp3",
+    "title" : "Cho Tổng Tài 2 Cái Bạt Tai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/10.mp3",
+    "title" : "Thẩm Chanh Vào Hang Cọp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/11.mp3",
+    "title" : "Chứng Tỏ Bản Lĩnh Đàn Ông",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/12.mp3",
+    "title" : "Cái Kết Đắng cho Hầu Gái Đào Đào",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/13.mp3",
+    "title" : "Gia Thế Họ Mạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/14.mp3",
+    "title" : "Người Đàn Ông Bí Ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/15.mp3",
+    "title" : "Giải Cứ.u Vợ Yêu Của Tổng Tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/16.mp3",
+    "title" : "Âm Mưu của Nữ Bác Sĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/17.mp3",
+    "title" : "Hòn Đảo Bí Ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/18.mp3",
+    "title" : "Lần Đầu Tiên Của Diệp Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/19.mp3",
+    "title" : "Tập Cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/2.mp3",
+    "title" : "Đánh Dấu Chủ Quyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/3.mp3",
+    "title" : "Hắn dám sờ Bánh Bao ư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/4.mp3",
+    "title" : "Anh Hùng Cứu Mỹ Nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/5.mp3",
+    "title" : "Kẻ Thù Lộ Diện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/6.mp3",
+    "title" : "Cô Hầu Gái 2 Mặt - Truyện Ngôn Tình 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/7.mp3",
+    "title" : "Bí Mật Nhà Họ Thẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/8.mp3",
+    "title" : "Trái Tim Rung Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choc-gian-bao-boi-ong-xa-cung-chieu-nhe-mot-chut_202008/9.mp3",
+    "title" : "Nhẫn Ngôi Sao Sáng Chói",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

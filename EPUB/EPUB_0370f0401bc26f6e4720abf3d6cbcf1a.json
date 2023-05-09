@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-gio-hu-emily-bronte_10368.html",
+    "title" : "Đồi Gió Hú - Emily Bronte",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Emily Bronte",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 52368,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_0370f0401bc26f6e4720abf3d6cbcf1a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_0370f0401bc26f6e4720abf3d6cbcf1a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2905,
+    "title" : "DoiGioHu01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2898,
+    "title" : "DoiGioHu02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2949,
+    "title" : "DoiGioHu03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "DoiGioHu04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2668,
+    "title" : "DoiGioHu05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5917,
+    "title" : "DoiGioHu06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "DoiGioHu07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4230,
+    "title" : "DoiGioHu08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2239,
+    "title" : "DoiGioHu09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3213,
+    "title" : "DoiGioHu10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4823,
+    "title" : "DoiGioHu11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3394,
+    "title" : "DoiGioHu12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3910,
+    "title" : "DoiGioHu13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3194,
+    "title" : "DoiGioHu14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4130,
+    "title" : "DoiGioHu15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu01.mp3",
+    "title" : "DoiGioHu01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu02.mp3",
+    "title" : "DoiGioHu02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu03.mp3",
+    "title" : "DoiGioHu03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu04.mp3",
+    "title" : "DoiGioHu04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu05.mp3",
+    "title" : "DoiGioHu05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu06.mp3",
+    "title" : "DoiGioHu06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu07.mp3",
+    "title" : "DoiGioHu07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu08.mp3",
+    "title" : "DoiGioHu08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu09.mp3",
+    "title" : "DoiGioHu09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu10.mp3",
+    "title" : "DoiGioHu10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu11.mp3",
+    "title" : "DoiGioHu11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu12.mp3",
+    "title" : "DoiGioHu12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu13.mp3",
+    "title" : "DoiGioHu13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu14.mp3",
+    "title" : "DoiGioHu14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDoigiohu/DoiGioHu15.mp3",
+    "title" : "DoiGioHu15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

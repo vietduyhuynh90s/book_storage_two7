@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/van-dam-tim-chong-minh-nguyet-thinh-phong_10382.html",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Thính Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 149785,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3c8e1d3f6981c280ba272bb82d6f314d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3c8e1d3f6981c280ba272bb82d6f314d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/van-dam-tim-chong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15875,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17700,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17500,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19240,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18145,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19160,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19595,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18385,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4185,
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 9 END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/van-dam-tim-chong/1.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/2.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/3.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/4.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/5.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/6.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/7.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/8.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/van-dam-tim-chong/9.mp3",
+    "title" : "Vạn Dặm Tìm Chồng - Minh Nguyệt Thính Phong Phần 9 END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

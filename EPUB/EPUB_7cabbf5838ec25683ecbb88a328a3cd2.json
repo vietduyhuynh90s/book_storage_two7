@@ -1,0 +1,725 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chua-te-nhung-chiec-nhan_3642.html",
+    "title" : "Chúa Tể Những Chiếc Nhẫn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J.R.R. Tolkien",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 158987,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7cabbf5838ec25683ecbb88a328a3cd2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7cabbf5838ec25683ecbb88a328a3cd2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00001.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00002.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4161,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00003.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3466,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00004.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2069,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00005.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1848,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00006.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00007.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1959,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00008.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2897,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00009.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2210,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00010.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2173,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00011.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2676,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 11- Lord Of The Ring #11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00012.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 12 - Lord Of The Ring #12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00013.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3115,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 13 - Lord Of The Ring #13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00014.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6377,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 14 - Lord of The Ring #14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00015.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00016.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4427,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00017.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2155,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00018.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3623,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00019.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00020.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2380,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00021.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5185,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00022.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2342,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00022",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00023.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1355,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00023",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00024.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4255,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00025.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3010,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00025",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00026.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4866,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00026",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00027.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3491,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00028.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3644,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00028",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00029.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2948,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00029",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00030.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00030",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00031.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2125,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00031",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00032.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3045,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00032",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00033.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2717,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00033",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00034.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00034",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00035.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1963,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00035",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00036.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1579,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00036",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00037.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00037",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00038.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00038",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00039.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4379,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00039",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00040.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00040",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00041.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00041",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00042.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4184,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00042",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00043.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1511,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00043",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00044.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00044",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00045.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1303,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00045",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00046.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2275,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00046",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00047.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1874,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00047",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00048.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1749,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00048",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00049.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00049",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00050.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00050",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00051.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2637,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00051",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00052.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00052",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00053.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2522,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00053",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00054.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2484,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00054",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00055.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1391,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00055",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00056.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00056",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00057.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1587,
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00057",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00001.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00002.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00003.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00004.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00005.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00006.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00007.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00008.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00009.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00010.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00011.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 11- Lord Of The Ring #11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00012.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 12 - Lord Of The Ring #12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00013.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 13 - Lord Of The Ring #13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00014.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 14 - Lord of The Ring #14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00015.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00016.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00017.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00018.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00019.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00020.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00021.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00022.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00022",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00023.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00023",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00024.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00025.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00025",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00026.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00026",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00027.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00028.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00028",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00029.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00029",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00030.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00030",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00031.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00031",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00032.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00032",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00033.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00033",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00034.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00034",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00035.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00035",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00036.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00036",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00037.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00037",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00038.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00038",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00039.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00039",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00040.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00040",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00041.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00041",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00042.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00042",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00043.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00043",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00044.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00044",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00045.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00045",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00046.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00046",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00047.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00047",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00048.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00048",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00049.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00049",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00050.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00050",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00051.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00051",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00052.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00052",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00053.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00053",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00054.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00054",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00055.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00055",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00056.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00056",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ctcncn/Chu%CC%81a%20Te%CC%82%CC%89%20Cu%CC%89a%20Nhu%CC%9B%CC%83ng%20Chie%CC%82%CC%81c%20Nha%CC%82%CC%83n_00057.m4a",
+    "title" : "Chúa Tể Của Những Chiếc Nhẫn 00057",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

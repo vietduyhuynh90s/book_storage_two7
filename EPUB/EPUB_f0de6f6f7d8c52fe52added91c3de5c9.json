@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-phu-nu-khong-kho-ti-nao_14853.html",
+    "title" : "Làm Phụ Nữ Không Khổ Tí Nào",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Oanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13181,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f0de6f6f7d8c52fe52added91c3de5c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f0de6f6f7d8c52fe52added91c3de5c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1860,
+    "title" : "lam-phu-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2107,
+    "title" : "lam-phu-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1772,
+    "title" : "lam-phu-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1665,
+    "title" : "lam-phu-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1860,
+    "title" : "lam-phu-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1860,
+    "title" : "lam-phu-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2057,
+    "title" : "lam-phu-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-1.mp3",
+    "title" : "lam-phu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-2.mp3",
+    "title" : "lam-phu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-3.mp3",
+    "title" : "lam-phu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-4.mp3",
+    "title" : "lam-phu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-5.mp3",
+    "title" : "lam-phu-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-6.mp3",
+    "title" : "lam-phu-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-phu-2/lam-phu-7.mp3",
+    "title" : "lam-phu-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

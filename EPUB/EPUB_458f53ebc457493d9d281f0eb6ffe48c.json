@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-hoang-hon-mong-manh-tinh-khong-lam-he_10047.html",
+    "title" : "Ánh Hoàng Hôn Mỏng Manh - Tình Không Lam Hề.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tình Không Lam Hề",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 58174,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_458f53ebc457493d9d281f0eb6ffe48c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_458f53ebc457493d9d281f0eb6ffe48c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 542,
+    "title" : "Tình Không Lam Hề - Phần Mở Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "Tình Không Lam Hề - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3439,
+    "title" : "Tình Không Lam Hề - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3697,
+    "title" : "Tình Không Lam Hề - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3750,
+    "title" : "Tình Không Lam Hề - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Tình Không Lam Hề - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "Tình Không Lam Hề - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "Tình Không Lam Hề - Phần 15 - END",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Tình Không Lam Hề - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "Tình Không Lam Hề - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3967,
+    "title" : "Tình Không Lam Hề - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4063,
+    "title" : "Tình Không Lam Hề - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4203,
+    "title" : "Tình Không Lam Hề - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3885,
+    "title" : "Tình Không Lam Hề - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4051,
+    "title" : "Tình Không Lam Hề - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3956,
+    "title" : "Tình Không Lam Hề - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/1.mp3",
+    "title" : "Tình Không Lam Hề - Phần Mở Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/10.mp3",
+    "title" : "Tình Không Lam Hề - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/11.mp3",
+    "title" : "Tình Không Lam Hề - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/12.mp3",
+    "title" : "Tình Không Lam Hề - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/13.mp3",
+    "title" : "Tình Không Lam Hề - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/14.mp3",
+    "title" : "Tình Không Lam Hề - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/15.mp3",
+    "title" : "Tình Không Lam Hề - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/16.mp3",
+    "title" : "Tình Không Lam Hề - Phần 15 - END",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/2.mp3",
+    "title" : "Tình Không Lam Hề - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/3.mp3",
+    "title" : "Tình Không Lam Hề - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/4.mp3",
+    "title" : "Tình Không Lam Hề - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/5.mp3",
+    "title" : "Tình Không Lam Hề - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/6.mp3",
+    "title" : "Tình Không Lam Hề - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/7.mp3",
+    "title" : "Tình Không Lam Hề - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/8.mp3",
+    "title" : "Tình Không Lam Hề - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anhhoanghoamongmanh/9.mp3",
+    "title" : "Tình Không Lam Hề - Phần 8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

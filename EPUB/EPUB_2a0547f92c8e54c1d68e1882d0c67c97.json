@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-da-lau-khong-gap-nu-vuong-khong-o-nha_11491.html",
+    "title" : "Anh, Đã Lâu Không Gặp! - Nữ Vương Không Ở Nhà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nữ vương không ở nhà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31804,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2a0547f92c8e54c1d68e1882d0c67c97.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2a0547f92c8e54c1d68e1882d0c67c97.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/covothukyngotngao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11904,
+    "title" : "Truyện ngôn tình hay nghe ngay về Anh đã lâu không gặp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covothukyngotngao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12316,
+    "title" : "Hà Thu kể Truyện ngôn tình hay tuyệt cu mều",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/covothukyngotngao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7584,
+    "title" : "Truyện ngôn tình hay nhất về Anh Đã Lâu Không Gặp",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/covothukyngotngao/1.mp3",
+    "title" : "Truyện ngôn tình hay nghe ngay về Anh đã lâu không gặp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covothukyngotngao/2.mp3",
+    "title" : "Hà Thu kể Truyện ngôn tình hay tuyệt cu mều",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/covothukyngotngao/3.mp3",
+    "title" : "Truyện ngôn tình hay nhất về Anh Đã Lâu Không Gặp",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

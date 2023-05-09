@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cong-chua-tha-mang_15703.html",
+    "title" : "Công Chúa Tha Mạng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phượng Khi Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 110503,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_284865db0aca7374ba9a8210c1701289.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_284865db0aca7374ba9a8210c1701289.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3958,
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 1) (Xuyên không, cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6160,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 10) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4312,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 11) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5897,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 12) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7009,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 13) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 14) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4094,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 15) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "[BÁCH HỢP](H)CÔNG CHÚA THA MẠNG! (TẬP 16) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "[BÁCH HỢP](H)CÔNG CHÚA THA MẠNG! (TẬP 17) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4354,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 18) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4542,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 19) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4343,
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 2) (Xuyên không, cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4213,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 20) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4991,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 21) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4444,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 21) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3107,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 22) (Xuyên không,cung đấu...)|| KẾT !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5896,
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 3) (Xuyên không, cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6063,
+    "title" : "[BÁCH HỢP] (H) CÔNG CHÚA THA MẠNG! (TẬP 4) (Xuyên không...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5085,
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 5) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5323,
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 6) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5247,
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 7) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5661,
+    "title" : "[BÁCH HỢP](H)CÔNG CHÚA THA MẠNG! (TẬP 8) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4806,
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 9) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/1.mp3",
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 1) (Xuyên không, cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/10.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 10) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/11.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 11) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/12.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 12) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/13.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 13) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/14.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 14) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/15.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 15) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/16.mp3",
+    "title" : "[BÁCH HỢP](H)CÔNG CHÚA THA MẠNG! (TẬP 16) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/17.mp3",
+    "title" : "[BÁCH HỢP](H)CÔNG CHÚA THA MẠNG! (TẬP 17) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/18.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 18) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/19.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 19) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/2.mp3",
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 2) (Xuyên không, cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/20.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 20) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/21.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 21) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/22.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 21) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/23.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 22) (Xuyên không,cung đấu...)|| KẾT !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/3.mp3",
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 3) (Xuyên không, cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/4.mp3",
+    "title" : "[BÁCH HỢP] (H) CÔNG CHÚA THA MẠNG! (TẬP 4) (Xuyên không...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/5.mp3",
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 5) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/6.mp3",
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 6) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/7.mp3",
+    "title" : "[BÁCH HỢP] CÔNG CHÚA THA MẠNG! (TẬP 7) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/8.mp3",
+    "title" : "[BÁCH HỢP](H)CÔNG CHÚA THA MẠNG! (TẬP 8) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cong-chua-tha-mang/9.mp3",
+    "title" : "[BÁCH HỢP]CÔNG CHÚA THA MẠNG! (TẬP 9) (Xuyên không,cung đấu...)|| phát hành chiều 2,4,6 hàng tuần !",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

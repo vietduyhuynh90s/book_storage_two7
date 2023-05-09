@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trong-gia-dinh-hector-malot_10335.html",
+    "title" : "Trong Gia Đình - Hector Malot",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hector Malot",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36974,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_fed42370b4741fdedad7c65545a04e79.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_fed42370b4741fdedad7c65545a04e79.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trong-gia-dinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5306,
+    "title" : "1 - Lời giới thiệu, Mất mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6629,
+    "title" : "2 - Giã từ cõi chết, Sống với thợ thuyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5551,
+    "title" : "3 - Rôbinxơn tí hon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6181,
+    "title" : "4 - Được tin cậy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6398,
+    "title" : "5 - Theo dõi và bao vây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6909,
+    "title" : "6 - Chờ mong tuyệt vọng, Chiếc đũa thần của nàng tiên",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trong-gia-dinh/1.mp3",
+    "title" : "1 - Lời giới thiệu, Mất mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/2.mp3",
+    "title" : "2 - Giã từ cõi chết, Sống với thợ thuyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/3.mp3",
+    "title" : "3 - Rôbinxơn tí hon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/4.mp3",
+    "title" : "4 - Được tin cậy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/5.mp3",
+    "title" : "5 - Theo dõi và bao vây",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-gia-dinh/6.mp3",
+    "title" : "6 - Chờ mong tuyệt vọng, Chiếc đũa thần của nàng tiên",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

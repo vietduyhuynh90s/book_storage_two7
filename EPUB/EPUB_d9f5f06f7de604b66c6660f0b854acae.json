@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thoi-thuong-tien-sinh_15311.html",
+    "title" : "Thời Thượng Tiên Sinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngữ Tiếu Lan San",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 119633,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_d9f5f06f7de604b66c6660f0b854acae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_d9f5f06f7de604b66c6660f0b854acae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4966,
+    "title" : "Oan Gia Ngõ Hẹp | THỜI THƯỢNG TIÊN SINH ( TẬP 1 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6582,
+    "title" : "Lần Đầu H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 10 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5844,
+    "title" : "Hẹn Ăn Trưa Và Anh Ghen Thật Đấy H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 11 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6900,
+    "title" : "Vượt Qua Đại Dương Đến Gặp Em H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 12 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6513,
+    "title" : "Hơn Cả Yêu H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 13 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8416,
+    "title" : "Cậu Bé Bán Diêm | THỜI THƯỢNG TIÊN SINH ( TẬP 14 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8060,
+    "title" : "Thích Thì Đến | THỜI THƯỢNG TIÊN SINH ( TẬP 15 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6492,
+    "title" : "Là Một Thằng Con trai | THỜI THƯỢNG TIÊN SINH ( TẬP 16 ) CHÂU GIA THIỆN _ Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5076,
+    "title" : "Tiểu Biệt Thắng Tân Hôn | THỜI THƯỢNG TIÊN SINH ( TẬP 17) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5408,
+    "title" : "Trao Cho Nhau H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 18) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8313,
+    "title" : "Chỉ Cần Anh Giả Vờ | THỜI THƯỢNG TIÊN SINH ( TẬP 19) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4995,
+    "title" : "Bí Kíp Cơ Bắp Và Sự Cố Bóng Đèn | THỜI THƯỢNG TIÊN SINH ( Tập 2 ) Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7279,
+    "title" : "THỜI THƯỢNG TIÊN SINH ( TẬP 20 THE END ) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5300,
+    "title" : "Canh Ba | THỜI THƯỢNG TIÊN SINH ( TẬP 3 ) Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4843,
+    "title" : "Hơn Cả Sự Quan Tâm | THỜI THƯỢNG TIÊN SINH ( TẬP 4 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4688,
+    "title" : "Hồ Yêu Khuynh Thành | THỜI THƯỢNG TIÊN SINH ( TẬP 5 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4568,
+    "title" : "Yêu Và Ghen | THỜI THƯỢNG TIÊN SINH ( TẬP 6 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4921,
+    "title" : "Đom Đóm Ơi | THỜI THƯỢNG TIÊN SINH ( TẬP 7 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5897,
+    "title" : "Anh Không Muốn Nghi Ngờ Em | THỜI THƯỢNG TIÊN SINH ( TẬP 8 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4572,
+    "title" : "Em Muốn Ăn Cà rốt | THỜI THƯỢNG TIÊN SINH ( TẬP 9 ) CHÂU GIA THIỆN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/1.mp3",
+    "title" : "Oan Gia Ngõ Hẹp | THỜI THƯỢNG TIÊN SINH ( TẬP 1 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/10.mp3",
+    "title" : "Lần Đầu H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 10 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/11.mp3",
+    "title" : "Hẹn Ăn Trưa Và Anh Ghen Thật Đấy H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 11 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/12.mp3",
+    "title" : "Vượt Qua Đại Dương Đến Gặp Em H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 12 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/13.mp3",
+    "title" : "Hơn Cả Yêu H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 13 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/14.mp3",
+    "title" : "Cậu Bé Bán Diêm | THỜI THƯỢNG TIÊN SINH ( TẬP 14 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/15.mp3",
+    "title" : "Thích Thì Đến | THỜI THƯỢNG TIÊN SINH ( TẬP 15 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/16.mp3",
+    "title" : "Là Một Thằng Con trai | THỜI THƯỢNG TIÊN SINH ( TẬP 16 ) CHÂU GIA THIỆN _ Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/17.mp3",
+    "title" : "Tiểu Biệt Thắng Tân Hôn | THỜI THƯỢNG TIÊN SINH ( TẬP 17) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/18.mp3",
+    "title" : "Trao Cho Nhau H+ | THỜI THƯỢNG TIÊN SINH ( TẬP 18) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/19.mp3",
+    "title" : "Chỉ Cần Anh Giả Vờ | THỜI THƯỢNG TIÊN SINH ( TẬP 19) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/2.mp3",
+    "title" : "Bí Kíp Cơ Bắp Và Sự Cố Bóng Đèn | THỜI THƯỢNG TIÊN SINH ( Tập 2 ) Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/20.mp3",
+    "title" : "THỜI THƯỢNG TIÊN SINH ( TẬP 20 THE END ) CHÂU GIA THIỆN _ AUDIO ĐAM MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/3.mp3",
+    "title" : "Canh Ba | THỜI THƯỢNG TIÊN SINH ( TẬP 3 ) Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/4.mp3",
+    "title" : "Hơn Cả Sự Quan Tâm | THỜI THƯỢNG TIÊN SINH ( TẬP 4 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/5.mp3",
+    "title" : "Hồ Yêu Khuynh Thành | THỜI THƯỢNG TIÊN SINH ( TẬP 5 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/6.mp3",
+    "title" : "Yêu Và Ghen | THỜI THƯỢNG TIÊN SINH ( TẬP 6 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/7.mp3",
+    "title" : "Đom Đóm Ơi | THỜI THƯỢNG TIÊN SINH ( TẬP 7 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/8.mp3",
+    "title" : "Anh Không Muốn Nghi Ngờ Em | THỜI THƯỢNG TIÊN SINH ( TẬP 8 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-thuong-tien-sinh/9.mp3",
+    "title" : "Em Muốn Ăn Cà rốt | THỜI THƯỢNG TIÊN SINH ( TẬP 9 ) CHÂU GIA THIỆN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

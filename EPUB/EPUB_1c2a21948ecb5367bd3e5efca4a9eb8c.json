@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/buoc-giang-ho_12187.html",
+    "title" : "Bước Giang Hồ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thụy Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22755,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1c2a21948ecb5367bd3e5efca4a9eb8c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1c2a21948ecb5367bd3e5efca4a9eb8c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3256,
+    "title" : "BuocGiangHo 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3531,
+    "title" : "BuocGiangHo 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3521,
+    "title" : "BuocGiangHo 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2982,
+    "title" : "BuocGiangHo 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "BuocGiangHo 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "BuocGiangHo 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3482,
+    "title" : "BuocGiangHo 07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_01.mp3",
+    "title" : "BuocGiangHo 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_02.mp3",
+    "title" : "BuocGiangHo 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_03.mp3",
+    "title" : "BuocGiangHo 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_04.mp3",
+    "title" : "BuocGiangHo 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_05.mp3",
+    "title" : "BuocGiangHo 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_06.mp3",
+    "title" : "BuocGiangHo 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/buocgiangho/BuocGiangHo_07.mp3",
+    "title" : "BuocGiangHo 07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

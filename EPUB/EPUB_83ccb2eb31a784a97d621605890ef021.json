@@ -1,0 +1,809 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hop-dong-hon-nhan-100-ngay-thuong-quan-mieu-mieu_10376.html",
+    "title" : "Hợp Đồng Hôn Nhân 100 Ngày - Thượng Quan Miễu Miễu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thượng Quan Miễu Miễu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 173319,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_83ccb2eb31a784a97d621605890ef021.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_83ccb2eb31a784a97d621605890ef021.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2533,
+    "title" : "Tập1- Hợp đồng hôn nhân 100 ngày- Thượng Quan Miễu Miễu- Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2505,
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3072,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2941,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3107,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2683,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2596,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2889,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2561,
+    "title" : "Hợp đồng hôn nhân 100 ngày -Thượng Quan Miễu Miễu- Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2771,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2406,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2559,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2611,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2900,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2864,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2617,
+    "title" : "Hợp đồng hôn nhân 100 ngày-Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3146,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2592,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2787,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2992,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2608,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2594,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2689,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2818,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2977,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2695,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2300,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2904,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2766,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2532,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2314,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2593,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2334,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2587,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2327,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2508,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2545,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2321,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2609,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2562,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3218,
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2963,
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2414,
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2923,
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/1.mp3",
+    "title" : "Tập1- Hợp đồng hôn nhân 100 ngày- Thượng Quan Miễu Miễu- Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/10.mp3",
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/11.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/12.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/13.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/14.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/15.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/16.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/17.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/18.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/19.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/2.mp3",
+    "title" : "Hợp đồng hôn nhân 100 ngày -Thượng Quan Miễu Miễu- Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/20.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/21.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/22.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/23.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/24.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/25.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/26.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/27.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/28.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/29.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/3.mp3",
+    "title" : "Hợp đồng hôn nhân 100 ngày-Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/30.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/31.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/32.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/33.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/34.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/35.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/36.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/37.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/38.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/39.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/4.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/40.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/41.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/42.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/43.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/44.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/45.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/46.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/47.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/48.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/49.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/5.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/50.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/51.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/52.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/53.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/54.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/55.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/56.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/57.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/58.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/59.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/6.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/60.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/61.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/62.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/63.mp3",
+    "title" : "Hợp Đồng Hôn Nhân 100 ngày -Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/64.mp3",
+    "title" : "Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/7.mp3",
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/8.mp3",
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hop-dong-hon-nhan-100-ngay/9.mp3",
+    "title" : "Thượng Quan Miễu Miễu - Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

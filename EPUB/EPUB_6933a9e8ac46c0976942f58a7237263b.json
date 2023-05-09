@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-tieu-thu-di-hoc_13508.html",
+    "title" : "Đại Tiểu Thư Đi Học",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhóc Nhí Nhố",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30731,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6933a9e8ac46c0976942f58a7237263b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6933a9e8ac46c0976942f58a7237263b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8094,
+    "title" : "Truyện Ngôn Tình Hay Nhất Bá Đạo Từng Giây Phút",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8527,
+    "title" : "Đại Tiểu Thư Đi Học [Phần 2] Truyện Ngôn Tình Hay Quá Cuốn Hút Người Nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4097,
+    "title" : "Đại Tiểu Thư Đi Học [Phần 3] Truyện Ngôn Tình Hay Nhất Quá Tuyệt Vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10013,
+    "title" : "Đại Tiểu Thư Đi Học [Phần 4 HẾT] Truyện Ngôn Tình Hay Được Đón Chờ Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Bá Đạo Từng Giây Phút",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/2.mp3",
+    "title" : "Đại Tiểu Thư Đi Học [Phần 2] Truyện Ngôn Tình Hay Quá Cuốn Hút Người Nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/3.mp3",
+    "title" : "Đại Tiểu Thư Đi Học [Phần 3] Truyện Ngôn Tình Hay Nhất Quá Tuyệt Vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dai-tieu-thu-di-hoc/4.mp3",
+    "title" : "Đại Tiểu Thư Đi Học [Phần 4 HẾT] Truyện Ngôn Tình Hay Được Đón Chờ Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

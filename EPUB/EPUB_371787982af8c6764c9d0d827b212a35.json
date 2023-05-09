@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kiep-nay-em-tung-co-anh-truong-tieu-nhan_10718.html",
+    "title" : "Kiếp Này Em Từng Có Anh - Trương Tiểu Nhàn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Tiểu Nhàn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19380,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_371787982af8c6764c9d0d827b212a35.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_371787982af8c6764c9d0d827b212a35.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7600,
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7225,
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4555,
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/1.mp3",
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/2.mp3",
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/3.mp3",
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

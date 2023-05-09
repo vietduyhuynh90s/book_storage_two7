@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-harry-potter-va-hoang-tu-lai-j-k-rowling-ky-ao_2454.html",
+    "title" : "Harry Potter Và Hoàng Tử Lai - J. K. Rowling",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. K. Rowling",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 74936,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_711cdeddb9bfa71f24fe4b47b0c4d9c2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_711cdeddb9bfa71f24fe4b47b0c4d9c2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_01_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_03_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2979,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_05_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2814,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_08_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1939,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_09_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2865,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_10_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_11_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2370,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_12_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2343,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_13_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_14_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_15_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2577,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_16_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2739,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_17_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_18_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_19_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_20_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_21_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2528,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_22_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_23_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_24_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2513,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_25_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2158,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_26_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_27_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2052,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_28_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1562,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_29_HET_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2389,
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_01_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_02_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_03_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_04_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_05_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_06_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_07_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_08_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_09_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_10_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_11_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_12_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_13_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_14_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_15_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_16_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_17_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_18_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_19_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_20_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_21_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_22_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_23_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_24_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_25_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_26_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_27_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_28_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/harry-potter-va-hoang-tu-lai-tap-6-.sna/HarryPotteTap6_29_HET_2.mp3",
+    "title" : "Harry Potter Và Hoàng Tử Lai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

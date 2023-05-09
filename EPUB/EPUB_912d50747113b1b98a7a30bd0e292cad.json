@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hua-voi-em-muoi-nam-tinh-tham_11363.html",
+    "title" : "Hứa Với Em Mười Năm Tình Thâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tây Tây Tiểu Lâu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15381,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_912d50747113b1b98a7a30bd0e292cad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_912d50747113b1b98a7a30bd0e292cad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Phần 2] Truyện Ngôn Tình Hay Về Yêu Hận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Phần 3] Làm Tình Nhân Của Tôi ll Truyện Tâm Lý Xã Hội 2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2786,
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Phần 4] Truyện Ngôn Tình Hay Về Nam Chính Yêu Bá Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Tập Cuối] Truyện Ngôn Tình Hay Hot Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/1.mp3",
+    "title" : "Truyện Ngôn Tình Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/2.mp3",
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Phần 2] Truyện Ngôn Tình Hay Về Yêu Hận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/3.mp3",
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Phần 3] Làm Tình Nhân Của Tôi ll Truyện Tâm Lý Xã Hội 2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/4.mp3",
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Phần 4] Truyện Ngôn Tình Hay Về Nam Chính Yêu Bá Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-voi-em-10-nam-tinh-tham/5.mp3",
+    "title" : "Hứa Với Em 10 Năm Tình Thâm [Tập Cuối] Truyện Ngôn Tình Hay Hot Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

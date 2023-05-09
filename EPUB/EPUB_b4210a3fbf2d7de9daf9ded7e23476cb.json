@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dia-do-di-cot-james-rollins_9269.html",
+    "title" : "Địa Đồ Di Cốt - James Rollins.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Rollins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 62344,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b4210a3fbf2d7de9daf9ded7e23476cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b4210a3fbf2d7de9daf9ded7e23476cb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DTV_DDDC/01_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2106,
+    "title" : "01 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/02_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "02 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/03_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "03 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/04_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2604,
+    "title" : "04 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/05_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4058,
+    "title" : "05 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/06_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4127,
+    "title" : "06 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/07_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3397,
+    "title" : "07 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/08_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3308,
+    "title" : "08 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/09_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3247,
+    "title" : "09 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/10_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2593,
+    "title" : "10 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/11_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "11 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/12_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3644,
+    "title" : "12 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/13_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "13 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/14_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "14 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/15_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3747,
+    "title" : "15 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/16_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3854,
+    "title" : "16 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/17_DDDC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "17 DDDC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/18_DDDC_END.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4767,
+    "title" : "18 DDDC END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DTV_DDDC/01_DDDC.mp3",
+    "title" : "01 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/02_DDDC.mp3",
+    "title" : "02 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/03_DDDC.mp3",
+    "title" : "03 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/04_DDDC.mp3",
+    "title" : "04 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/05_DDDC.mp3",
+    "title" : "05 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/06_DDDC.mp3",
+    "title" : "06 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/07_DDDC.mp3",
+    "title" : "07 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/08_DDDC.mp3",
+    "title" : "08 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/09_DDDC.mp3",
+    "title" : "09 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/10_DDDC.mp3",
+    "title" : "10 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/11_DDDC.mp3",
+    "title" : "11 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/12_DDDC.mp3",
+    "title" : "12 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/13_DDDC.mp3",
+    "title" : "13 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/14_DDDC.mp3",
+    "title" : "14 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/15_DDDC.mp3",
+    "title" : "15 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/16_DDDC.mp3",
+    "title" : "16 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/17_DDDC.mp3",
+    "title" : "17 DDDC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DTV_DDDC/18_DDDC_END.mp3",
+    "title" : "18 DDDC END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

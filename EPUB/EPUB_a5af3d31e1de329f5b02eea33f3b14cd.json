@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/eo-thon-nho-khuong-chi-ngu_10719.html",
+    "title" : "Eo Thon Nhỏ - Khương Chi Ngư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khương Chi Ngư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 59204,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a5af3d31e1de329f5b02eea33f3b14cd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a5af3d31e1de329f5b02eea33f3b14cd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/eo-thon-nho/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12298,
+    "title" : "Truyện Ngôn Tình Thanh Xuân Vườn Trường Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/eo-thon-nho/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14927,
+    "title" : "Truyện Ngôn Tình Thanh Xuân Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/eo-thon-nho/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15965,
+    "title" : "Truyện Ngôn Tình Lãng Mạn Nhất Về Thanh Xuân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/eo-thon-nho/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16014,
+    "title" : "Truyện Ngôn Tình Hay Và Cảm Động Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/eo-thon-nho/1.mp3",
+    "title" : "Truyện Ngôn Tình Thanh Xuân Vườn Trường Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/eo-thon-nho/2.mp3",
+    "title" : "Truyện Ngôn Tình Thanh Xuân Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/eo-thon-nho/3.mp3",
+    "title" : "Truyện Ngôn Tình Lãng Mạn Nhất Về Thanh Xuân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/eo-thon-nho/4.mp3",
+    "title" : "Truyện Ngôn Tình Hay Và Cảm Động Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

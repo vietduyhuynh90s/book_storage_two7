@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyet-tinh-hac-dao_15631.html",
+    "title" : "Huyết Tình Hắc Đạo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huyền Namida",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24902,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_8bdb77682b781f38de25fcc5365014a0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_8bdb77682b781f38de25fcc5365014a0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5437,
+    "title" : "Cô gái mình luôn tìm kiếm lại luôn ở bên cạnh mình!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4882,
+    "title" : "Chẳng lẽ cô muốn tôi bế vào phòng tắm???",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5067,
+    "title" : "Em Thật Sự Quyến Rũ Chết Người!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5355,
+    "title" : "Một Đêm Hoan Ái | Ngôn Tình Hắc Bang Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4161,
+    "title" : "Cảm ơn em đã sinh ra trên cuộc đời này để đến bên anh!!!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/1.mp3",
+    "title" : "Cô gái mình luôn tìm kiếm lại luôn ở bên cạnh mình!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/2.mp3",
+    "title" : "Chẳng lẽ cô muốn tôi bế vào phòng tắm???",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/3.mp3",
+    "title" : "Em Thật Sự Quyến Rũ Chết Người!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/4.mp3",
+    "title" : "Một Đêm Hoan Ái | Ngôn Tình Hắc Bang Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyet-tinh-hac-dao/5.mp3",
+    "title" : "Cảm ơn em đã sinh ra trên cuộc đời này để đến bên anh!!!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

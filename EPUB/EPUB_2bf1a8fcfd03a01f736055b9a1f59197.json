@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nha-thoi-mien-ta-ac_9561.html",
+    "title" : "Nhà Thôi Miên Tà Ác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chu Hạo Huy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 58837,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2bf1a8fcfd03a01f736055b9a1f59197.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2bf1a8fcfd03a01f736055b9a1f59197.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "[TRINH THÁM] NHÀ THÔI MIÊN TÀ ÁC | TẬP 1 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "#NTMTA TẬP 10 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "NHÀ THÔI MIÊN TÀ ÁC | TẬP 11 | DƯƠNG ĐÔNG KÍCH TÂY | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "#NTMTA | TẬP 12 | XỰ TIẾP XÚC KHÔNG RANH GIỚI VỚI NHÀ THÔI MIÊN P1| CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2434,
+    "title" : "#NTMTA | TẬP 13 | TIẾP XÚC | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "#NTMTA | TẬP 14 | SỞ DUY VÀ ĐỖ NA | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "[TẬP 15] BẠCH Á TINH | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3252,
+    "title" : "#NTMTA | TẬP 16 | BỆNH DẠI | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2871,
+    "title" : "[TẬP 17] QUÂN CỜ HẠ MỘNG DAO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2987,
+    "title" : "[TẬP 18] CUỐN SÁCH CỦA BẠCH Á TINH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "KẾ HOẠCH BẤT NGỜ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "THÔI MIÊN CHỚP NHOÁNG | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2728,
+    "title" : "Nhà thôi miên tà ác tập cuối | Kết thúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3076,
+    "title" : "TẬP 3 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2351,
+    "title" : "TẬP 4 | CHU HẠO HUY| MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2346,
+    "title" : "#NTMTA TẬP 5 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2579,
+    "title" : "NHÀ THÔI MIÊN TÀ ÁC | TẬP 6 | CUỘC TỤ HỌP CỦA CÁC NHÀ THÔI MIÊN | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3266,
+    "title" : "[TRINH THÁM] NHÀ THÔI MIÊN TÀ ÁC | TẬP 7 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3092,
+    "title" : "[TRINH THÁM] NHÀ THÔI MIÊN TÀ TÁC | TẬP 8 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2874,
+    "title" : "TẬP 9 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/1.mp3",
+    "title" : "[TRINH THÁM] NHÀ THÔI MIÊN TÀ ÁC | TẬP 1 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/10.mp3",
+    "title" : "#NTMTA TẬP 10 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/11.mp3",
+    "title" : "NHÀ THÔI MIÊN TÀ ÁC | TẬP 11 | DƯƠNG ĐÔNG KÍCH TÂY | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/12.mp3",
+    "title" : "#NTMTA | TẬP 12 | XỰ TIẾP XÚC KHÔNG RANH GIỚI VỚI NHÀ THÔI MIÊN P1| CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/13.mp3",
+    "title" : "#NTMTA | TẬP 13 | TIẾP XÚC | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/14.mp3",
+    "title" : "#NTMTA | TẬP 14 | SỞ DUY VÀ ĐỖ NA | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/15.mp3",
+    "title" : "[TẬP 15] BẠCH Á TINH | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/16.mp3",
+    "title" : "#NTMTA | TẬP 16 | BỆNH DẠI | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/17.mp3",
+    "title" : "[TẬP 17] QUÂN CỜ HẠ MỘNG DAO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/18.mp3",
+    "title" : "[TẬP 18] CUỐN SÁCH CỦA BẠCH Á TINH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/19.mp3",
+    "title" : "KẾ HOẠCH BẤT NGỜ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/2.mp3",
+    "title" : "THÔI MIÊN CHỚP NHOÁNG | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/20.mp3",
+    "title" : "Nhà thôi miên tà ác tập cuối | Kết thúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/3.mp3",
+    "title" : "TẬP 3 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/4.mp3",
+    "title" : "TẬP 4 | CHU HẠO HUY| MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/5.mp3",
+    "title" : "#NTMTA TẬP 5 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/6.mp3",
+    "title" : "NHÀ THÔI MIÊN TÀ ÁC | TẬP 6 | CUỘC TỤ HỌP CỦA CÁC NHÀ THÔI MIÊN | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/7.mp3",
+    "title" : "[TRINH THÁM] NHÀ THÔI MIÊN TÀ ÁC | TẬP 7 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/8.mp3",
+    "title" : "[TRINH THÁM] NHÀ THÔI MIÊN TÀ TÁC | TẬP 8 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-thoi-mien-ta-ac/9.mp3",
+    "title" : "TẬP 9 | CHU HẠO HUY | MC PHÚ CƯỜNG",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

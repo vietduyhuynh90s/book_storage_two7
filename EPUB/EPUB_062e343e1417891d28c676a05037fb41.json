@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huong-ve-trai-tim-hoa-thanh-than_10513.html",
+    "title" : "Hướng Về Trái Tim - Hoa Thanh Thần",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Thanh Thần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55500,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_062e343e1417891d28c676a05037fb41.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_062e343e1417891d28c676a05037fb41.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4217,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần (Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4415,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4752,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P11 hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2504,
+    "title" : "Ngoại truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6294,
+    "title" : "Hướng Về Trái Tim – (Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5049,
+    "title" : "Hướng Về Trái Tim – (Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6563,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3824,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4464,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5862,
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần – Truyện Ngôn Tình Audio Chọn Lọc – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/1.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần (Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/10.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/11.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P11 hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/12.mp3",
+    "title" : "Ngoại truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/2.mp3",
+    "title" : "Hướng Về Trái Tim – (Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/3.mp3",
+    "title" : "Hướng Về Trái Tim – (Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/4.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/5.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/6.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/7.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/8.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần(Tình Yêu của Boss tóc bạc và nàng Tiểu Bạch Thỏ)– P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huong-ve-trai-tim/9.mp3",
+    "title" : "Hướng Về Trái Tim – Hoa Thanh Thần – Truyện Ngôn Tình Audio Chọn Lọc – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

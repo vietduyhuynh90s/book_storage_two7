@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khoi-troi-long-lay_12542.html",
+    "title" : "Khói Trời Lộng Lẫy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Tư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16379,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_493086059de125696f336004b7c3c13f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_493086059de125696f336004b7c3c13f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2449,
+    "title" : "Phan01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1033,
+    "title" : "Phan02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 611,
+    "title" : "Phan03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1283,
+    "title" : "Phan04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 515,
+    "title" : "Phan05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "Phan06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 522,
+    "title" : "Phan07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1225,
+    "title" : "Phan08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1418,
+    "title" : "Phan09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "Phan10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2175,
+    "title" : "Phan11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "Phan12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan01.mp3",
+    "title" : "Phan01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan02.mp3",
+    "title" : "Phan02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan03.mp3",
+    "title" : "Phan03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan04.mp3",
+    "title" : "Phan04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan05.mp3",
+    "title" : "Phan05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan06.mp3",
+    "title" : "Phan06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan07.mp3",
+    "title" : "Phan07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan08.mp3",
+    "title" : "Phan08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan09.mp3",
+    "title" : "Phan09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan10.mp3",
+    "title" : "Phan10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan11.mp3",
+    "title" : "Phan11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-troi-long-lay.sna/Phan12.mp3",
+    "title" : "Phan12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

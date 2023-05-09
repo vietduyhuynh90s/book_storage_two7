@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cung-dau-khong-bang-nuoi-cun-phong-luu-thu-ngoc_10316.html",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún - Phong Lưu Thư Ngốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Lưu Thư Ngốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 84492,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_5b21d98c7dd3e549f432aed64a1a48a2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_5b21d98c7dd3e549f432aed64a1a48a2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8758,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8816,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P10 Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8050,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8564,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8583,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8913,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8514,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8601,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8187,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7506,
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/1.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/10.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P10 Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/2.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/3.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/4.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/5.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/6.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/7.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/8.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cung-dau-khong-bang-nuoi-cun/9.mp3",
+    "title" : "Cung Đấu Không Bằng Nuôi Cún – Ngôn tình XUYÊN KHÔNG – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

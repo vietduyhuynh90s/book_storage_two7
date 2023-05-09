@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/em-khong-vao-dia-nguc-thi-ai-vao-tuu-tieu-that_10438.html",
+    "title" : "Em Không Vào Địa Ngục Thì Ai Vào? - Tửu Tiểu Thất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tửu Tiểu Thất",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 43138,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a676ffe7fab939d6d2a14abc4108ea67.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a676ffe7fab939d6d2a14abc4108ea67.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3740,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4279,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4176,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4089,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4158,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4009,
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/1.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/10.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/11.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/2.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/3.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/4.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/5.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/6.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/7.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/8.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-khong-vao-dia-nguc-thi-ai-vao/9.mp3",
+    "title" : "Truyện ngôn tình hài cười bể bụng - Diễn đọc Bi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

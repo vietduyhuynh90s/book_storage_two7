@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-ban-voi-bau-troi_14313.html",
+    "title" : "Làm Bạn Với Bầu Trời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14208,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_91676882d896f028ade3831be869f283.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_91676882d896f028ade3831be869f283.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1806,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 1| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2117,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 2| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2011,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 3| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1505,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 4| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1526,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 5| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1352,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 6| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 7| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2235,
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 8| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/1.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 1| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/2.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 2| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/3.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 3| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/4.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 4| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/5.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 5| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/6.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 6| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/7.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 7| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-ban-voi-bau-troi/8.mp3",
+    "title" : "LÀM BẠN VỚI BẦU TRỜI | Chương 8| Truyện full| Nguyễn Nhật Ánh| Quyên Radio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

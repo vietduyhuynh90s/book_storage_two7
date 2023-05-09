@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-dau-kho-phai_12927.html",
+    "title" : "Tình Đầu Khó Phai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Xu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 28448,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_657f0d609eaeabbcdb9d03de3d112b0f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_657f0d609eaeabbcdb9d03de3d112b0f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3277,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3212,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3021,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3387,
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2692,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3367,
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2665,
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/1.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/2.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/3.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/4.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/5.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/6.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/7.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/8.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-dau-kho-phai/9.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Ơi Là Hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/10-dai-my-nhan-trung-quoc_13542.html",
+    "title" : "10 Đại Mỹ Nhân Trung Quốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huyền Cơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 46391,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9f0086e95baed4465d82c9512b0f6ea3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9f0086e95baed4465d82c9512b0f6ea3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 150,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Thay lời tựa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7075,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Võ Tắc Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Vương Chiêu Quân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5516,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Bao Tự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4176,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Điêu Thuyền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6530,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Dương Ngọc Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2630,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Dương Quỳnh Chi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4656,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Tây Thi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4698,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Trần Viên Viên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4932,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Triệu Phi Yến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2358,
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Trương Lệ Hoa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/1.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Thay lời tựa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/10.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Võ Tắc Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/11.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Vương Chiêu Quân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/2.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Bao Tự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/3.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Điêu Thuyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/4.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Dương Ngọc Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/5.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Dương Quỳnh Chi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/6.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Tây Thi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/7.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Trần Viên Viên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/8.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Triệu Phi Yến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-dai-my-nhan-trung-quoc/9.mp3",
+    "title" : "Audio Thập đại mỹ nhân Trung Quốc, Trương Lệ Hoa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

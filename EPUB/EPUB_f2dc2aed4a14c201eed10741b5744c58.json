@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dem-nay-ngu-cung-ai-jassica_10665.html",
+    "title" : "Đêm Nay Ngủ Cùng Ai - Jassica",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jassica",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 66193,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f2dc2aed4a14c201eed10741b5744c58.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f2dc2aed4a14c201eed10741b5744c58.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6833,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8115,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P10(Hết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4863,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6915,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6974,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5621,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7715,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7132,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7589,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4436,
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/1.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/10.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P10(Hết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/2.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/3.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/4.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/5.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/6.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/7.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/8.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-ai-ngu-cung-ai/9.mp3",
+    "title" : "ĐÊM NAY NGỦ CÙNG AI – NGHE TRUYỆN AUDIO SỦNG SĂC – P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

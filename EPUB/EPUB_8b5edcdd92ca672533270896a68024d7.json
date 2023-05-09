@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ham-ca-map-peter-benchley_10014.html",
+    "title" : "Hàm Cá Mập - Peter Benchley.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Peter Benchley",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35216,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_8b5edcdd92ca672533270896a68024d7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_8b5edcdd92ca672533270896a68024d7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2175,
+    "title" : "( 1) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2510,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2304,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2361,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1938,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "(2) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2273,
+    "title" : "(3) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "(4) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "(5) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "(6) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2316,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2342,
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/1.mp3",
+    "title" : "( 1) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/10.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/11.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/12.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/13.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/14.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/15.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/2.mp3",
+    "title" : "(2) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/3.mp3",
+    "title" : "(3) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/4.mp3",
+    "title" : "(4) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/5.mp3",
+    "title" : "(5) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/6.mp3",
+    "title" : "(6) Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/7.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/8.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Hcm/9.mp3",
+    "title" : "Hàm Cá Mập – Peter Benchley – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

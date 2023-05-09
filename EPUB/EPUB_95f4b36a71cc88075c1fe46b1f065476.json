@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/em-la-sinh-menh-cua-anh_13548.html",
+    "title" : "Em Là Sinh Mệnh Của Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Vũ Anh Thư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 69516,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_95f4b36a71cc88075c1fe46b1f065476.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_95f4b36a71cc88075c1fe46b1f065476.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7890,
+    "title" : "1 Truyện Ngắn Hay Nhất của Phạm Vũ Anh Thư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4423,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập Cuối] 2 Đám Cưới, 1 Đời Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7581,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 2] Cô Gái Lấy Chồng Để Trả Thù Cho Cha Mẹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7680,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 3] Đám Cưới Và Một Bí Mật Bị Chôn Dấu Sắp Bật Mí",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7340,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 4] Sự Xuất Hiện Của Người Yêu Cũ Của Quân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4900,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 5] Kế Hoạch Hãm Hại Và Bí Mật Dần Hé Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8579,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 6] Truyện Ngắn Hay Sự Lựa Chọn Giữa Tình và Hiếu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8325,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 7] Yêu Và Hận, Nhiên Lâm Vào Đường Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7241,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 8] Cuộc Ly Hôn và Bí Mật Dần Hé Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5557,
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 9] Sự Thật Phơi Bầy, Hiểu Lầm Và Chờ Đón Phép Màu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/1.mp3",
+    "title" : "1 Truyện Ngắn Hay Nhất của Phạm Vũ Anh Thư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/10.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập Cuối] 2 Đám Cưới, 1 Đời Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/2.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 2] Cô Gái Lấy Chồng Để Trả Thù Cho Cha Mẹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/3.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 3] Đám Cưới Và Một Bí Mật Bị Chôn Dấu Sắp Bật Mí",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/4.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 4] Sự Xuất Hiện Của Người Yêu Cũ Của Quân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/5.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 5] Kế Hoạch Hãm Hại Và Bí Mật Dần Hé Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/6.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 6] Truyện Ngắn Hay Sự Lựa Chọn Giữa Tình và Hiếu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/7.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 7] Yêu Và Hận, Nhiên Lâm Vào Đường Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/8.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 8] Cuộc Ly Hôn và Bí Mật Dần Hé Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-la-sinh-menh-cua-anh/9.mp3",
+    "title" : "Em Là Sinh Mệnh Của Anh [Tập 9] Sự Thật Phơi Bầy, Hiểu Lầm Và Chờ Đón Phép Màu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

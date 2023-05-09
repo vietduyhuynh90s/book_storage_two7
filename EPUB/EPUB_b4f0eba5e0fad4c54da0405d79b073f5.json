@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phi-thuong-hoan-my_14881.html",
+    "title" : "Phi Thường Hoàn Mỹ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cố Phán Nhi An Nhiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 62446,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b4f0eba5e0fad4c54da0405d79b073f5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b4f0eba5e0fad4c54da0405d79b073f5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4714,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4797,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6125,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5092,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4119,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4477,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4967,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4591,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4838,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4080,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4987,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4665,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4994,
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/1.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/10.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/11.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/12.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/13.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/2.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/3.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/4.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/5.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/6.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/7.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/8.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-thuong-hoan-my/9.mp3",
+    "title" : "Truyện Cung đấu - Siêu sủng - Xuyên Không cực hay - PHI THƯỜNG HOÀN MỸ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

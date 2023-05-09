@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nam-ay-gap-duoc-anh-juliacy_9576.html",
+    "title" : "Năm Ấy Gặp Được Anh - Juliacy.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Juliacy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13530,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_86c70318a8262daf3cff106cea13159a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_86c70318a8262daf3cff106cea13159a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7800,
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5730,
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết )",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/1.mp3",
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/2.mp3",
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết )",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bac-co-thanh-trung_12477.html",
+    "title" : "Bác Cổ Thanh Trừng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Táng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22153,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2ef5fe27d9b316cdbc65684dbb8ac1ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2ef5fe27d9b316cdbc65684dbb8ac1ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5679,
+    "title" : "Bác CỔ Thanh Trừng (Tập 1) : Bác CỔ Diệt Ma Da Thủy Quái | Truyện Ma Pháp Sư Hay Anh Tú Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5764,
+    "title" : "Bác CỔ Thanh Trừng (Tập 2) : Đại Chiến Pháp Sư | Truyện Ma Pháp Sư Anh Tú Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5817,
+    "title" : "Bác CỔ Thanh Trừng (Tập 3) : Đại Chiến Giữa Các Pháp Sư | Truyện Ma Anh Tú Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4893,
+    "title" : "Bác CỔ Thanh Trừng (Tập 4 Hết) : Tiêu Diệt Ngạ Tinh | Truyện Ma Anh Tú Kể",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/1.mp3",
+    "title" : "Bác CỔ Thanh Trừng (Tập 1) : Bác CỔ Diệt Ma Da Thủy Quái | Truyện Ma Pháp Sư Hay Anh Tú Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/2.mp3",
+    "title" : "Bác CỔ Thanh Trừng (Tập 2) : Đại Chiến Pháp Sư | Truyện Ma Pháp Sư Anh Tú Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/3.mp3",
+    "title" : "Bác CỔ Thanh Trừng (Tập 3) : Đại Chiến Giữa Các Pháp Sư | Truyện Ma Anh Tú Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bac-co-thanh-trung/4.mp3",
+    "title" : "Bác CỔ Thanh Trừng (Tập 4 Hết) : Tiêu Diệt Ngạ Tinh | Truyện Ma Anh Tú Kể",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

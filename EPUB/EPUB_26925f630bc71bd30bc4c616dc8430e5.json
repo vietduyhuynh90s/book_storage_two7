@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-ky-uc-doc-quyen-moc-phu-sinh-ngon-tinh_3734.html",
+    "title" : "Ký Ức Độc Quyền - Mộc Phù Sinh.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mộc Phù Sinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37465,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_26925f630bc71bd30bc4c616dc8430e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_26925f630bc71bd30bc4c616dc8430e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/kyuccuariengem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4049,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3858,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4037,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3864,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4117,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4153,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4614,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5233,
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/kyuccuariengem/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/4.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/5.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/6.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/7.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/8.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/kyuccuariengem/9.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH HIỆN ĐẠI CHAN CHỨA TÌNH CẢM - MC BẢO ANH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

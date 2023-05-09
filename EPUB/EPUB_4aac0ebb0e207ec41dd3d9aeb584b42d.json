@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-thang-con-quy-trong-ban-napoleon-hill_10600.html",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn - Napoleon Hill",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 28525,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4aac0ebb0e207ec41dd3d9aeb584b42d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4aac0ebb0e207ec41dd3d9aeb584b42d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4221,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4361,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1974,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4151,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4256,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2562,
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/1.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/2.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/3.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/4.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/5.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/6.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/7.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chien-thang-con-quy-trong-ban/8.mp3",
+    "title" : "Chiến Thắng Con Quỷ Trong Bạn Napoleon Hill 8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

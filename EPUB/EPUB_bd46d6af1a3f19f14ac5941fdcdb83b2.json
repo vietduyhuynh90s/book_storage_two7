@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-bo-em-kiep-sau-nhe-trang-trang_10188.html",
+    "title" : "Từ Bỏ Em Kiếp Sau Nhé - Trang Trang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trắng Trắng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 42730,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_bd46d6af1a3f19f14ac5941fdcdb83b2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_bd46d6af1a3f19f14ac5941fdcdb83b2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuboemkiepsau/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1482,
+    "title" : "Trang Trang 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1209,
+    "title" : "Trang Trang 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1834,
+    "title" : "Trang Trang 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2144,
+    "title" : "Trang Trang 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1576,
+    "title" : "Trang Trang 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1916,
+    "title" : "Trang Trang 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1127,
+    "title" : "Trang Trang 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1576,
+    "title" : "Trang Trang 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1418,
+    "title" : "Trang Trang 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1480,
+    "title" : "Trang Trang 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1487,
+    "title" : "Trang Trang 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1184,
+    "title" : "Trang Trang 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "Trang Trang 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1430,
+    "title" : "Trang Trang 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1147,
+    "title" : "Trang Trang 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "Trang Trang 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1550,
+    "title" : "Trang Trang 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1437,
+    "title" : "Trang Trang 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1813,
+    "title" : "Trang Trang 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Trang Trang 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1184,
+    "title" : "Trang Trang 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "Trang Trang 29 ( Phần Cuối )",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 835,
+    "title" : "Trang Trang 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "Trang Trang 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 734,
+    "title" : "Trang Trang 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 992,
+    "title" : "Trang Trang 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "Trang Trang 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 995,
+    "title" : "Trang Trang 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1224,
+    "title" : "Trang Trang 09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuboemkiepsau/1.mp3",
+    "title" : "Trang Trang 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/10.mp3",
+    "title" : "Trang Trang 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/11.mp3",
+    "title" : "Trang Trang 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/12.mp3",
+    "title" : "Trang Trang 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/13.mp3",
+    "title" : "Trang Trang 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/14.mp3",
+    "title" : "Trang Trang 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/15.mp3",
+    "title" : "Trang Trang 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/16.mp3",
+    "title" : "Trang Trang 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/17.mp3",
+    "title" : "Trang Trang 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/18.mp3",
+    "title" : "Trang Trang 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/19.mp3",
+    "title" : "Trang Trang 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/2.mp3",
+    "title" : "Trang Trang 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/20.mp3",
+    "title" : "Trang Trang 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/21.mp3",
+    "title" : "Trang Trang 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/22.mp3",
+    "title" : "Trang Trang 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/23.mp3",
+    "title" : "Trang Trang 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/24.mp3",
+    "title" : "Trang Trang 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/25.mp3",
+    "title" : "Trang Trang 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/26.mp3",
+    "title" : "Trang Trang 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/27.mp3",
+    "title" : "Trang Trang 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/28.mp3",
+    "title" : "Trang Trang 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/29.mp3",
+    "title" : "Trang Trang 29 ( Phần Cuối )",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/3.mp3",
+    "title" : "Trang Trang 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/4.mp3",
+    "title" : "Trang Trang 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/5.mp3",
+    "title" : "Trang Trang 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/6.mp3",
+    "title" : "Trang Trang 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/7.mp3",
+    "title" : "Trang Trang 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/8.mp3",
+    "title" : "Trang Trang 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuboemkiepsau/9.mp3",
+    "title" : "Trang Trang 09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
