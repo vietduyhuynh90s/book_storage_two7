@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ky-an-dong-chu-tat_20292.html",
+    "title" : "Kỳ Án Dòng Chữ Tắt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sophie Hannah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 42272,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1d3e6061c910a03b94ef1e16dc073650.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1d3e6061c910a03b94ef1e16dc073650.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1930,
+    "title" : "Chương 1 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "Chương 2 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2260,
+    "title" : "Chương 3 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1628,
+    "title" : "Chương 4 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 946,
+    "title" : "Chương 6 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1797,
+    "title" : "Chương 7 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1185,
+    "title" : "Chương 8 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1614,
+    "title" : "Chương 9 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "Chương 10 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "Chương 12 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "Chương 13 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1174,
+    "title" : "Chương 14 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "Chương 15 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1818,
+    "title" : "Chương 16 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 685,
+    "title" : "Chương 17 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1585,
+    "title" : "Chương 18 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 817,
+    "title" : "Chương 20 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2767,
+    "title" : "Chương 21 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1511,
+    "title" : "Chương 22 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 955,
+    "title" : "Chương 23 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2791,
+    "title" : "Chương 24 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "Agatha Christie | Sophie Hannah | Kỳ án dòng chữ tắt Chương 19 | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "Agatha Christie | Sophie Hannah | Kỳ án dòng chữ tắt Chương 25, chương cuối | Truyện Trinh thám",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-01.mp3",
+    "title" : "Chương 1 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-02.mp3",
+    "title" : "Chương 2 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-03.mp3",
+    "title" : "Chương 3 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-04.mp3",
+    "title" : "Chương 4 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-05.mp3",
+    "title" : "Chương 6 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-06.mp3",
+    "title" : "Chương 7 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-07.mp3",
+    "title" : "Chương 8 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-08.mp3",
+    "title" : "Chương 9 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-09.mp3",
+    "title" : "Chương 10 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-10.mp3",
+    "title" : "Chương 12 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-11.mp3",
+    "title" : "Chương 13 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-12.mp3",
+    "title" : "Chương 14 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-13.mp3",
+    "title" : "Chương 15 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-14.mp3",
+    "title" : "Chương 16 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-15.mp3",
+    "title" : "Chương 17 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-16.mp3",
+    "title" : "Chương 18 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-17.mp3",
+    "title" : "Chương 20 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-18.mp3",
+    "title" : "Chương 21 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-19.mp3",
+    "title" : "Chương 22 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-20.mp3",
+    "title" : "Chương 23 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-21.mp3",
+    "title" : "Chương 24 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-22.mp3",
+    "title" : "Agatha Christie | Sophie Hannah | Kỳ án dòng chữ tắt Chương 19 | Truyện Trinh thám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-an-23/ky-an-23.mp3",
+    "title" : "Agatha Christie | Sophie Hannah | Kỳ án dòng chữ tắt Chương 25, chương cuối | Truyện Trinh thám",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

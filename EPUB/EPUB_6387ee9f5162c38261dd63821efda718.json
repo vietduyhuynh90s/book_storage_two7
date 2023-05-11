@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dem-nay-con-co-mo-khong_20179.html",
+    "title" : "Đêm Nay Con Có Mơ Không?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Gia Hòa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 16997,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6387ee9f5162c38261dd63821efda718.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6387ee9f5162c38261dd63821efda718.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Chi%E1%BA%BFc%20l%E1%BB%A5c%20l%E1%BA%A1c%20v%C3%B4%20thanh%20%21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "Chiếc lục lạc vô thanh !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/G%E1%BB%91c%20C%C3%A2y%20%C4%90%E1%BB%9Di%20Ng%C6%B0%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "Gốc Cây Đời Người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/L%E1%BB%9Di%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2524,
+    "title" : "Lời Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Th%E1%BB%8F%2C%20c%E1%BB%A7%20c%E1%BA%A3i%20ch%E1%BB%8B%20Xu%C3%A2n%20c%E1%BB%A7a%20t%C3%B4i%20%21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1720,
+    "title" : "Thỏ, củ cải chị Xuân của tôi !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Ti%E1%BA%BFn%20H%C3%B3a%20Ch%C4%83ng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2731,
+    "title" : "Tiến Hóa Chăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/V%C3%A2ng%2C%20t%C3%B4i%20%C4%91%C3%A3%20c%C3%B3%20m%E1%BA%B7t%20%21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2712,
+    "title" : "Vâng, tôi đã có mặt !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Y%C3%AAu%20ng%C6%B0%E1%BB%9Di%20m%C3%ACnh%20y%C3%AAu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "Yêu người mình yêu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Chi%E1%BA%BFc%20l%E1%BB%A5c%20l%E1%BA%A1c%20v%C3%B4%20thanh%20%21.mp3",
+    "title" : "Chiếc lục lạc vô thanh !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/G%E1%BB%91c%20C%C3%A2y%20%C4%90%E1%BB%9Di%20Ng%C6%B0%E1%BB%9Di.mp3",
+    "title" : "Gốc Cây Đời Người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/L%E1%BB%9Di%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "title" : "Lời Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Th%E1%BB%8F%2C%20c%E1%BB%A7%20c%E1%BA%A3i%20ch%E1%BB%8B%20Xu%C3%A2n%20c%E1%BB%A7a%20t%C3%B4i%20%21.mp3",
+    "title" : "Thỏ, củ cải chị Xuân của tôi !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Ti%E1%BA%BFn%20H%C3%B3a%20Ch%C4%83ng.mp3",
+    "title" : "Tiến Hóa Chăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/V%C3%A2ng%2C%20t%C3%B4i%20%C4%91%C3%A3%20c%C3%B3%20m%E1%BA%B7t%20%21.mp3",
+    "title" : "Vâng, tôi đã có mặt !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-luc-lac-vo-thanh/Y%C3%AAu%20ng%C6%B0%E1%BB%9Di%20m%C3%ACnh%20y%C3%AAu.mp3",
+    "title" : "Yêu người mình yêu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

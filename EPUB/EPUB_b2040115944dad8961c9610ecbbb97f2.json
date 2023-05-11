@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-dau-voi-cau-hoi-tai-sao_20248.html",
+    "title" : "Bắt Đầu Với Câu Hỏi Tại Sao",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Simon Sinek",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 27486,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b2040115944dad8961c9610ecbbb97f2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b2040115944dad8961c9610ecbbb97f2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan1-SimonSinek.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4207,
+    "title" : "BatDauVoiCauHoiTaiSao-Phan1-SimonSinek",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan2-SimonSinek.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5790,
+    "title" : "BatDauVoiCauHoiTaiSao-Phan2-SimonSinek",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan3-SimonSinek.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6242,
+    "title" : "BatDauVoiCauHoiTaiSao-Phan3-SimonSinek",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan4-SimonSinek.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4680,
+    "title" : "BatDauVoiCauHoiTaiSao-Phan4-SimonSinek",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan5-SimonSinek.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4217,
+    "title" : "BatDauVoiCauHoiTaiSao-Phan5-SimonSinek",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan6End-SimonSinek.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2350,
+    "title" : "BatDauVoiCauHoiTaiSao-Phan6End-SimonSinek",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan1-SimonSinek.mp3",
+    "title" : "BatDauVoiCauHoiTaiSao-Phan1-SimonSinek",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan2-SimonSinek.mp3",
+    "title" : "BatDauVoiCauHoiTaiSao-Phan2-SimonSinek",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan3-SimonSinek.mp3",
+    "title" : "BatDauVoiCauHoiTaiSao-Phan3-SimonSinek",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan4-SimonSinek.mp3",
+    "title" : "BatDauVoiCauHoiTaiSao-Phan4-SimonSinek",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan5-SimonSinek.mp3",
+    "title" : "BatDauVoiCauHoiTaiSao-Phan5-SimonSinek",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-dau-voi-cau-hoi-tai-sao.sna/BatDauVoiCauHoiTaiSao-Phan6End-SimonSinek.mp3",
+    "title" : "BatDauVoiCauHoiTaiSao-Phan6End-SimonSinek",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
