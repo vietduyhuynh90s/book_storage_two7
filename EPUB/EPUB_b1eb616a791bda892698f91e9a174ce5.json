@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-ban-voi-con-tai-sao-khong_20226.html",
+    "title" : "Làm Bạn Với Con, Tại Sao Không?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Thị Phương Nga",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 8643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b1eb616a791bda892698f91e9a174ce5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b1eb616a791bda892698f91e9a174ce5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/00.GioiThieu_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 171,
+    "title" : "00.GioiThieu ChatVeNgheLamChaMeLamBanVoiCon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/01.P01_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "01.P01 ChatVeNgheLamChaMeLamBanVoiCon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/02.P02_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1293,
+    "title" : "02.P02 ChatVeNgheLamChaMeLamBanVoiCon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/03.P03_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "03.P03 ChatVeNgheLamChaMeLamBanVoiCon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/04.P04_HET_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2297,
+    "title" : "04.P04 HET ChatVeNgheLamChaMeLamBanVoiCon",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/00.GioiThieu_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "title" : "00.GioiThieu ChatVeNgheLamChaMeLamBanVoiCon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/01.P01_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "title" : "01.P01 ChatVeNgheLamChaMeLamBanVoiCon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/02.P02_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "title" : "02.P02 ChatVeNgheLamChaMeLamBanVoiCon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/03.P03_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "title" : "03.P03 ChatVeNgheLamChaMeLamBanVoiCon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ve-nghe-lam-cha-me-lam-ban-voi-con-tai-sao-khong-.sna/04.P04_HET_ChatVeNgheLamChaMeLamBanVoiCon.mp3",
+    "title" : "04.P04 HET ChatVeNgheLamChaMeLamBanVoiCon",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

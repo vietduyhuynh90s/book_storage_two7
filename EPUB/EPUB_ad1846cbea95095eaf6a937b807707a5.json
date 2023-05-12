@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/biet-dong-sai-gon-chuyen-bay-gio-moi-ke-ma-thien-dong_6268.html",
+    "title" : "Biệt Động Sài Gòn - Chuyện Bây Giờ Mới Kể - Mã Thiện Đồng.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mã Thiện Đồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 21699,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ad1846cbea95095eaf6a937b807707a5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ad1846cbea95095eaf6a937b807707a5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 337,
+    "title" : "BietDongSaiGon01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1169,
+    "title" : "BietDongSaiGon02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1175,
+    "title" : "BietDongSaiGon03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1566,
+    "title" : "BietDongSaiGon04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "BietDongSaiGon05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1912,
+    "title" : "BietDongSaiGon06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 703,
+    "title" : "BietDongSaiGon07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1040,
+    "title" : "BietDongSaiGon08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "BietDongSaiGon09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 987,
+    "title" : "BietDongSaiGon10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1489,
+    "title" : "BietDongSaiGon11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1664,
+    "title" : "BietDongSaiGon12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "BietDongSaiGon13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 810,
+    "title" : "BietDongSaiGon14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1382,
+    "title" : "BietDongSaiGon15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1321,
+    "title" : "BietDongSaiGon16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1389,
+    "title" : "BietDongSaiGon17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 199,
+    "title" : "BietDongSaiGon18",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon01.mp3",
+    "title" : "BietDongSaiGon01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon02.mp3",
+    "title" : "BietDongSaiGon02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon03.mp3",
+    "title" : "BietDongSaiGon03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon04.mp3",
+    "title" : "BietDongSaiGon04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon05.mp3",
+    "title" : "BietDongSaiGon05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon06.mp3",
+    "title" : "BietDongSaiGon06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon07.mp3",
+    "title" : "BietDongSaiGon07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon08.mp3",
+    "title" : "BietDongSaiGon08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon09.mp3",
+    "title" : "BietDongSaiGon09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon10.mp3",
+    "title" : "BietDongSaiGon10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon11.mp3",
+    "title" : "BietDongSaiGon11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon12.mp3",
+    "title" : "BietDongSaiGon12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon13.mp3",
+    "title" : "BietDongSaiGon13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon14.mp3",
+    "title" : "BietDongSaiGon14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon15.mp3",
+    "title" : "BietDongSaiGon15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon16.mp3",
+    "title" : "BietDongSaiGon16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon17.mp3",
+    "title" : "BietDongSaiGon17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBietDongSaiGon/BietDongSaiGon18.mp3",
+    "title" : "BietDongSaiGon18",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tro-choi-cam_17800.html",
+    "title" : "Trò Chơi Cấm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ninh Hàng Nhất",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 37403,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6dc612d0ed661a460d5e639759fafa9a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6dc612d0ed661a460d5e639759fafa9a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2000%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2249,
+    "title" : "Q3Tap 00 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2001%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2189,
+    "title" : "Q3Tap 01 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2002%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1851,
+    "title" : "Q3Tap 02 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2003%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "Q3Tap 03 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2004%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1423,
+    "title" : "Q3Tap 04 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2005%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "Q3Tap 05 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2006%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1834,
+    "title" : "Q3Tap 06 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2007%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2205,
+    "title" : "Q3Tap 07 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2008%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "Q3Tap 08 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2009%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1781,
+    "title" : "Q3Tap 09 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2010%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "Q3Tap 10 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2011%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2584,
+    "title" : "Q3Tap 11 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2012%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "Q3Tap 12 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2013%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "Q3Tap 13 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2014%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7454,
+    "title" : "Q3Tap 14 (Tro choi cam- lachoncoc.com)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2000%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 00 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2001%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 01 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2002%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 02 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2003%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 03 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2004%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 04 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2005%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 05 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2006%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 06 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2007%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 07 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2008%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 08 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2009%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 09 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2010%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 10 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2011%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 11 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2012%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 12 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2013%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 13 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/q3tap14trochoicamlachoncoc.com/Q3Tap%2014%20%28Tro%20choi%20cam-%20lachoncoc.com%29.mp3",
+    "title" : "Q3Tap 14 (Tro choi cam- lachoncoc.com)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

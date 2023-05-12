@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-song-nhan-nha-cua-nhac-tu-tra_14862.html",
+    "title" : "Cuộc Sống Nhàn Nhã Của Nhạc Tư Trà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Từ Từ Tiêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 64363,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9036ec2b460ead06552fa729eff321c5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9036ec2b460ead06552fa729eff321c5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "Chương 1 - 5.Tác giả: Du Du Tiên.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3446,
+    "title" : "Chương 46 - 50.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4129,
+    "title" : "Chương 51 - 55.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3679,
+    "title" : "Chương 56 - 60.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "Chương 61 - 65.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3411,
+    "title" : "Chương 66 - 70.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3444,
+    "title" : "Chương 76 - 80.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3278,
+    "title" : "Chương 80 - 85.Tác giả: Du Du Tiê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4120,
+    "title" : "Chương 86 - 90 (Hoàn)Tác giả: Du",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2766,
+    "title" : "Chương 6 - 10.Tác giả: Du Du Tiên.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3904,
+    "title" : "Chương 16 - 20.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Chương 21 - 25.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Chương 26 - 30.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "Chương 31 - 35.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4137,
+    "title" : "Chương 36 - 40.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "Chương 41 - 45.Tác giả: Du Du Tiên",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/1.mp3",
+    "title" : "Chương 1 - 5.Tác giả: Du Du Tiên.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/10.mp3",
+    "title" : "Chương 46 - 50.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/11.mp3",
+    "title" : "Chương 51 - 55.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/12.mp3",
+    "title" : "Chương 56 - 60.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/13.mp3",
+    "title" : "Chương 61 - 65.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/14.mp3",
+    "title" : "Chương 66 - 70.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/16.mp3",
+    "title" : "Chương 76 - 80.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/17.mp3",
+    "title" : "Chương 80 - 85.Tác giả: Du Du Tiê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/18.mp3",
+    "title" : "Chương 86 - 90 (Hoàn)Tác giả: Du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/2.mp3",
+    "title" : "Chương 6 - 10.Tác giả: Du Du Tiên.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/4.mp3",
+    "title" : "Chương 16 - 20.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/5.mp3",
+    "title" : "Chương 21 - 25.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/6.mp3",
+    "title" : "Chương 26 - 30.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/7.mp3",
+    "title" : "Chương 31 - 35.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/8.mp3",
+    "title" : "Chương 36 - 40.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-song-nhan-nha-cua-nhac-tu-tra/9.mp3",
+    "title" : "Chương 41 - 45.Tác giả: Du Du Tiên",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

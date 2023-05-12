@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-ngheo-kho-den-giau-sang_19551.html",
+    "title" : "Từ Nghèo Khổ Đến Giàu Sang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Khánh Toàn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 3139,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6020026036cdaf4861b7c3236b999368.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6020026036cdaf4861b7c3236b999368.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-ngheo-kho-den-giau-sang.sna/TuNgheoKhoDenGiauSang01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1734,
+    "title" : "Chương I: Từ nghèo khố đến giàu có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-ngheo-kho-den-giau-sang.sna/TuNgheoKhoDenGiauSang02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1405,
+    "title" : "Chương II: Từ khổ cục đến hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-ngheo-kho-den-giau-sang.sna/TuNgheoKhoDenGiauSang01.mp3",
+    "title" : "Chương I: Từ nghèo khố đến giàu có",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-ngheo-kho-den-giau-sang.sna/TuNgheoKhoDenGiauSang02.mp3",
+    "title" : "Chương II: Từ khổ cục đến hạnh phúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

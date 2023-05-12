@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/canh-bac-kim-binh_10366.html",
+    "title" : "Canh Bạc - Kim Bính",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Bính",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 69878,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3151264ab9eb0a4faaadec0a82735b8e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3151264ab9eb0a4faaadec0a82735b8e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3977,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4066,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4396,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3820,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4022,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4026,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4064,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4593,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4184,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4215,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4257,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3828,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4598,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/1.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/10.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/11.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/12.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/13.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/14.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/15.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/16.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/17.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/2.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/3.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/4.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/5.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/6.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/7.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/8.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-bac-tinh-yeu/9.mp3",
+    "title" : "Truyện ngôn tình hắc bang về ông trùm soái ca - MC Bi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

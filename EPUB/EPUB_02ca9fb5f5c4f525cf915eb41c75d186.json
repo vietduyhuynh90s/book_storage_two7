@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-phuc-hac-cua-de-vuong-hac-dao_13022.html",
+    "title" : "Vợ Phúc Hắc Của Đế Vương Hắc Đạo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Thượng Lam Cẩn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 87401,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_02ca9fb5f5c4f525cf915eb41c75d186.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_02ca9fb5f5c4f525cf915eb41c75d186.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3677,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3762,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3525,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3906,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4041,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3740,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7421,
+    "title" : "Truyện ngôn tình hắc bang nữ cường - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4272,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3771,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4226,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3935,
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/1.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/10.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/11.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/12.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/13.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/14.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/15.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/16.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/17.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/18.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/19.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/2.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/20.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/21.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/22.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/3.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/4.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/5.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/6.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/7.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/8.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-phuc-hac-cua-de-vuong-hac-dao/9.mp3",
+    "title" : "Truyện ngôn tình hắc bang nữ cường siêu hay - Mc Bi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

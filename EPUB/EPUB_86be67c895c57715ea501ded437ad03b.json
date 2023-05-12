@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vu-dieu-cua-than-chet_2605.html",
+    "title" : "Vũ điệu của Thần Chết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jeffery Deaver",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 62545,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_86be67c895c57715ea501ded437ad03b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_86be67c895c57715ea501ded437ad03b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 132,
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver – Audio Lê Duyên Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1882,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 9 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2195,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 10 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2210,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 11 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1772,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 12 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2002,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 13 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1951,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 14 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2213,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 15 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 16 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2098,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 17 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2209,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 18 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2281,
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver–Tập 1 –Trinh thám hình sự – Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1899,
+    "title" : "Trinh thám hình sự – Vũ điệu của th..ần c..hết – Jeffery Deaver – 19 –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1912,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver –20– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2140,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 21 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2162,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 22 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1753,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 23 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1804,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 24 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2406,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 25 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2282,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 26 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1564,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 27 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 28 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1953,
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver- Tập 2- Trinh thám hình sự –Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1768,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 29 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Vũ điệu của th..ần c..hết –Jeffery Deaver – 30 END –Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2143,
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver – Tập 3 –Trinh thám hình sự – Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Vũ điệu của th..ần..ch..ết –Jeffery Deaver – 4 –Trinh thám hình sự – Truyện Audio Lê Duyên- Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1669,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 5– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1641,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 6– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2028,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 7– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2274,
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 8– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/1.mp3",
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver – Audio Lê Duyên Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/10.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 9 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/11.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 10 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/12.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 11 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/13.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 12 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/14.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 13 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/15.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 14 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/16.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 15 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/17.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 16 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/18.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 17 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/19.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 18 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/2.mp3",
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver–Tập 1 –Trinh thám hình sự – Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/20.mp3",
+    "title" : "Trinh thám hình sự – Vũ điệu của th..ần c..hết – Jeffery Deaver – 19 –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/21.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver –20– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/22.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 21 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/23.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 22 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/24.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 23 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/25.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 24 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/26.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 25 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/27.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 26 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/28.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 27 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/29.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 28 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/3.mp3",
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver- Tập 2- Trinh thám hình sự –Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/30.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 29 – Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/31.mp3",
+    "title" : "Vũ điệu của th..ần c..hết –Jeffery Deaver – 30 END –Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/4.mp3",
+    "title" : "Vũ điệu của thần chết – Jeffery Deaver – Tập 3 –Trinh thám hình sự – Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/5.mp3",
+    "title" : "Vũ điệu của th..ần..ch..ết –Jeffery Deaver – 4 –Trinh thám hình sự – Truyện Audio Lê Duyên- Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/6.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 5– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/7.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 6– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/8.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 7– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-dieu-cua-than-chet/9.mp3",
+    "title" : "Vũ điệu của th..ần c..hết – Jeffery Deaver – 8– Trinh thám hình sự –Truyện Audio LêDuyên-DuyênLê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

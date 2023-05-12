@@ -1,0 +1,1229 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-gian-phan-quan_18983.html",
+    "title" : "Dương Gian Phán Quan",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quái Lão Ca",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 269818,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2325320fa6c813597a71a493096adfd8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2325320fa6c813597a71a493096adfd8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2892,
+    "title" : "tập 1 ( chương 1-4 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "tập 10 HỒN MA NỮ TỬ ( chương 41-46 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4142,
+    "title" : "tập 11 BÌNH THÚC GẶP NẠN ( chương 47-52 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4108,
+    "title" : "tập 12 HỒN MA BÌNH THÚC ( chương 53-58 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3550,
+    "title" : "tập 13 ĐÁM MA BÌNH THÚC ( chương 59-63 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4311,
+    "title" : "tập 14 ÁM ẢNH TÔI LỖI ( chương 64-69 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4217,
+    "title" : "tập 15 TRUY LÙNG HUNG THỦ ( chương 70-75 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3531,
+    "title" : "tập 16 CẮT TIẾT ( chương 76-80 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "tập 17 GIẾT CHO BẰNG CHẾT ( chương 81-85 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "tập 18 TIÊU DIỆT QUỶ ĐÓI ( chương 86-90 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "tập 19 DI CHUYỂN ( chương 91-95 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2338,
+    "title" : "tập 2 ( chương 5-7 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "tập 20 TRẢ MỐI THÂM THÙ ( chương 96-100 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2209,
+    "title" : "tập 21 KẾT NẠP TIỂU MIÊU Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2170,
+    "title" : "tập 22 GỌI NGƯƠI LÀ LÃO HỔ Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2092,
+    "title" : "tập 23 QUỶ BẤT HẠNH Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1401,
+    "title" : "tập 24 CẮT TIẾT CHO BẰNG SẠCH Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "tập 25 NHÀN VÂN CÁCDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2156,
+    "title" : "tập 26 BÁI SƯDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2247,
+    "title" : "tập 27 MỘC NHÂN ĐẸP MẮTDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "tập 28 HỘ THỦ CỦA LÃO PHỆDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2206,
+    "title" : "tập 29 NHÀN LÃO XUẤT THỦDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3693,
+    "title" : "tập 3 ( chương 8-12 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "tập 30 LẠI NHẬN TRUYỀN THỪADiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2233,
+    "title" : "tập 31 DIM CĂM TRUYDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "dương gian phán quan tập 32 NHÁT BÚA ĐẦU TIÊN diễn đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "tập 33 DIỆT QUỶ MẪUDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2722,
+    "title" : "tập 34 TIÊU DIỆT TRÙNG NGẢI Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2738,
+    "title" : "tập 35 CHẠM MẶT CỬU ĐẦU XÀDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "Dương gian phán quan tập 36 CỬU ĐẦU XÀ LIỀU MẠNG Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2119,
+    "title" : "tập 37 LÃO PHỆ ĐẾNDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2255,
+    "title" : "truyện full lạc thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1983,
+    "title" : "Truyện full Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2972,
+    "title" : "tập 4 ( chương 13-16 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2044,
+    "title" : "Truyện full Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "truyện full lạc thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2026,
+    "title" : "truyện full lạc thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2019,
+    "title" : "Truyện full lạc thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3543,
+    "title" : "Truyện full lạc thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "Truyện full lạc thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2298,
+    "title" : "tập 46 VÉN MÀN TRUYỆN XƯADiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1516,
+    "title" : "tập 47 Tanh nồng chết chóc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "tập 48 May mà ngươi còn sốngDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "tập 49 LUẬT RỪNGDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2918,
+    "title" : "tập 5 ( chương 17-20 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1497,
+    "title" : "tập 50 ĐÁNH GIÁO ĐẦUDiễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1483,
+    "title" : "tập 51 TIÊU DIỄM PHƯỢNG GIỞ QUẺ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1568,
+    "title" : "tập 52 HAY LÀ TA CHO NGƯƠI Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1574,
+    "title" : "Dương gian phán quan tập 53 AI MỚI LÀ TÀ TU Diễn đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1437,
+    "title" : "tập 54 TIÊU DIỄM PHƯỢNG HÀNG 👙 Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1604,
+    "title" : "tập 55 KHẢ NĂNG LÀ ÂM Ổ Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2928,
+    "title" : "Dương gian phán quan tập 56 lạc thu diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2022,
+    "title" : "tập 57 TRẢ THÙ CHO HUYỀN TỶ Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2249,
+    "title" : "tập 58 VÕ LINH LAN Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "tập 59 CẢ NHÓM ĂN HÀNH Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "tập 6 ( chương 17-20 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2345,
+    "title" : "tập 60 ĐI HẢI VỰC Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "tập 61 NGƯ ÔNG ĐẮC LỢI Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2357,
+    "title" : "tập 62 CHÉM GIẾT YÊU THÚ TẠI HẢI VỰC Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "tập 63 TRỊNH KIỆT DỦ RÊ Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "tập 64 ĐỘ KIẾP KIM ĐAN Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "tập 65 XUẤT NGŨ Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2389,
+    "title" : "tập 66 GIẢ DANH CÁN BỘ Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3029,
+    "title" : "tập 67 LÃO HỔ THÍCH RÚC MỀM MỀM Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2950,
+    "title" : "tập 68 TIÊU DIỆT Ổ MA TÚY Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2976,
+    "title" : "tập 69 CỨ TƯỞNG CÁI NÀY TUYỆT CHỦNG DÙI Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "tập 7 ( chương 26-30 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "tập 70 ĐÁNH MẶT ĐÀM LÃO Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2673,
+    "title" : "tập 71 TRANH ĐẤU Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "tập 72 CÓ THÍCH KHÁCH Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2537,
+    "title" : "tập 73 CHUỘT CHƠI SỎ SÓI Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "tập 74 TA CHÍNH LÀ QUỶ ĐẾN ĐÒI MẠNG Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "tập 75 ĐỒ SÁT GIA TỘC Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3146,
+    "title" : "tập 76 HAI CHỮ TƯƠNG LAI Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3133,
+    "title" : "tập 77 XUẤT GIA ĐI TU Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2805,
+    "title" : "dương gian phán quan tập 78 CÙNG ĐẠI SƯ RA NGOÀI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2680,
+    "title" : "dương gian phán quan tập 79 TIẾP NHẬN TRUYỀN THỪA Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3651,
+    "title" : "tập 8 ( chương 31-35 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "dương gian phán quan tập 80 LẠI BỊ TRỜI ĐÁNH Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2062,
+    "title" : "tập 81 XÉT SỬ Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "tập 82 CẢM GIÁC TỬ VONG Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "DƯƠNG GIAN PHÁN QUAN TẬP 83 PHÔ CHƯƠNG SỨC MANH Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "DƯƠNG GIAN PHÁN QUAN Tập 84 RA NƯỚC NGOÀI Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5309,
+    "title" : "dương gian phán quan tập 85 gặp chút vấn đề lên mời ae cho ý kiến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "DƯƠNG GIAN PHÁN QUAN Tập 87 Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "dương gian phán quan tập 88 Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "dương gian phán quan tập 89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3544,
+    "title" : "tập 9 ( chương 36-40 ) Diễn Đọc : Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1782,
+    "title" : "dương gian phán quan tập 90 Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "dương gian phán quan tập 91 diễn đọc lạc thu GIẾT NỐT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2636,
+    "title" : "dương gian phán quan tập 92 HẢI VỰC THẢNG TIẾN diễn đọc lạc thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "dương gian phán quan tập 93 sắp đặt từ trước Diễn Đọc Lạc Thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2750,
+    "title" : "dương gian phán quan tập 94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2841,
+    "title" : "dương gian phán quan tập 95 rộng lượng một chút diễn đọc lạc lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2847,
+    "title" : "diễn đọc Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "diễn đọc Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3046,
+    "title" : "dương gian phán quan tập 98 LẤY THÂN BÁO ĐÁP Diễn Đọc Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3168,
+    "title" : "dương gian phán quan tập 99 CẢI LÃO HOÀN ĐỒNG Diễn Đọc Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/1.mp3",
+    "title" : "tập 1 ( chương 1-4 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/10.mp3",
+    "title" : "tập 10 HỒN MA NỮ TỬ ( chương 41-46 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/11.mp3",
+    "title" : "tập 11 BÌNH THÚC GẶP NẠN ( chương 47-52 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/12.mp3",
+    "title" : "tập 12 HỒN MA BÌNH THÚC ( chương 53-58 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/13.mp3",
+    "title" : "tập 13 ĐÁM MA BÌNH THÚC ( chương 59-63 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/14.mp3",
+    "title" : "tập 14 ÁM ẢNH TÔI LỖI ( chương 64-69 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/15.mp3",
+    "title" : "tập 15 TRUY LÙNG HUNG THỦ ( chương 70-75 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/16.mp3",
+    "title" : "tập 16 CẮT TIẾT ( chương 76-80 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/17.mp3",
+    "title" : "tập 17 GIẾT CHO BẰNG CHẾT ( chương 81-85 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/18.mp3",
+    "title" : "tập 18 TIÊU DIỆT QUỶ ĐÓI ( chương 86-90 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/19.mp3",
+    "title" : "tập 19 DI CHUYỂN ( chương 91-95 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/2.mp3",
+    "title" : "tập 2 ( chương 5-7 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/20.mp3",
+    "title" : "tập 20 TRẢ MỐI THÂM THÙ ( chương 96-100 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/21.mp3",
+    "title" : "tập 21 KẾT NẠP TIỂU MIÊU Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/22.mp3",
+    "title" : "tập 22 GỌI NGƯƠI LÀ LÃO HỔ Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/23.mp3",
+    "title" : "tập 23 QUỶ BẤT HẠNH Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/24.mp3",
+    "title" : "tập 24 CẮT TIẾT CHO BẰNG SẠCH Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/25.mp3",
+    "title" : "tập 25 NHÀN VÂN CÁCDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/26.mp3",
+    "title" : "tập 26 BÁI SƯDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/27.mp3",
+    "title" : "tập 27 MỘC NHÂN ĐẸP MẮTDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/28.mp3",
+    "title" : "tập 28 HỘ THỦ CỦA LÃO PHỆDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/29.mp3",
+    "title" : "tập 29 NHÀN LÃO XUẤT THỦDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/3.mp3",
+    "title" : "tập 3 ( chương 8-12 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/30.mp3",
+    "title" : "tập 30 LẠI NHẬN TRUYỀN THỪADiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/31.mp3",
+    "title" : "tập 31 DIM CĂM TRUYDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/32.mp3",
+    "title" : "dương gian phán quan tập 32 NHÁT BÚA ĐẦU TIÊN diễn đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/33.mp3",
+    "title" : "tập 33 DIỆT QUỶ MẪUDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/34.mp3",
+    "title" : "tập 34 TIÊU DIỆT TRÙNG NGẢI Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/35.mp3",
+    "title" : "tập 35 CHẠM MẶT CỬU ĐẦU XÀDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/36.mp3",
+    "title" : "Dương gian phán quan tập 36 CỬU ĐẦU XÀ LIỀU MẠNG Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/37.mp3",
+    "title" : "tập 37 LÃO PHỆ ĐẾNDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/38.mp3",
+    "title" : "truyện full lạc thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/39.mp3",
+    "title" : "Truyện full Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/4.mp3",
+    "title" : "tập 4 ( chương 13-16 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/40.mp3",
+    "title" : "Truyện full Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/41.mp3",
+    "title" : "truyện full lạc thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/42.mp3",
+    "title" : "truyện full lạc thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/43.mp3",
+    "title" : "Truyện full lạc thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/44.mp3",
+    "title" : "Truyện full lạc thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/45.mp3",
+    "title" : "Truyện full lạc thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/46.mp3",
+    "title" : "tập 46 VÉN MÀN TRUYỆN XƯADiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/47.mp3",
+    "title" : "tập 47 Tanh nồng chết chóc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/48.mp3",
+    "title" : "tập 48 May mà ngươi còn sốngDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/49.mp3",
+    "title" : "tập 49 LUẬT RỪNGDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/5.mp3",
+    "title" : "tập 5 ( chương 17-20 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/50.mp3",
+    "title" : "tập 50 ĐÁNH GIÁO ĐẦUDiễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/51.mp3",
+    "title" : "tập 51 TIÊU DIỄM PHƯỢNG GIỞ QUẺ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/52.mp3",
+    "title" : "tập 52 HAY LÀ TA CHO NGƯƠI Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/53.mp3",
+    "title" : "Dương gian phán quan tập 53 AI MỚI LÀ TÀ TU Diễn đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/54.mp3",
+    "title" : "tập 54 TIÊU DIỄM PHƯỢNG HÀNG 👙 Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/55.mp3",
+    "title" : "tập 55 KHẢ NĂNG LÀ ÂM Ổ Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/56.mp3",
+    "title" : "Dương gian phán quan tập 56 lạc thu diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/57.mp3",
+    "title" : "tập 57 TRẢ THÙ CHO HUYỀN TỶ Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/58.mp3",
+    "title" : "tập 58 VÕ LINH LAN Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/59.mp3",
+    "title" : "tập 59 CẢ NHÓM ĂN HÀNH Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/6.mp3",
+    "title" : "tập 6 ( chương 17-20 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/60.mp3",
+    "title" : "tập 60 ĐI HẢI VỰC Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/61.mp3",
+    "title" : "tập 61 NGƯ ÔNG ĐẮC LỢI Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/62.mp3",
+    "title" : "tập 62 CHÉM GIẾT YÊU THÚ TẠI HẢI VỰC Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/63.mp3",
+    "title" : "tập 63 TRỊNH KIỆT DỦ RÊ Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/64.mp3",
+    "title" : "tập 64 ĐỘ KIẾP KIM ĐAN Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/65.mp3",
+    "title" : "tập 65 XUẤT NGŨ Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/66.mp3",
+    "title" : "tập 66 GIẢ DANH CÁN BỘ Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/67.mp3",
+    "title" : "tập 67 LÃO HỔ THÍCH RÚC MỀM MỀM Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/68.mp3",
+    "title" : "tập 68 TIÊU DIỆT Ổ MA TÚY Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/69.mp3",
+    "title" : "tập 69 CỨ TƯỞNG CÁI NÀY TUYỆT CHỦNG DÙI Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/7.mp3",
+    "title" : "tập 7 ( chương 26-30 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/70.mp3",
+    "title" : "tập 70 ĐÁNH MẶT ĐÀM LÃO Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/71.mp3",
+    "title" : "tập 71 TRANH ĐẤU Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/72.mp3",
+    "title" : "tập 72 CÓ THÍCH KHÁCH Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/73.mp3",
+    "title" : "tập 73 CHUỘT CHƠI SỎ SÓI Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/74.mp3",
+    "title" : "tập 74 TA CHÍNH LÀ QUỶ ĐẾN ĐÒI MẠNG Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/75.mp3",
+    "title" : "tập 75 ĐỒ SÁT GIA TỘC Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/76.mp3",
+    "title" : "tập 76 HAI CHỮ TƯƠNG LAI Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/77.mp3",
+    "title" : "tập 77 XUẤT GIA ĐI TU Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/78.mp3",
+    "title" : "dương gian phán quan tập 78 CÙNG ĐẠI SƯ RA NGOÀI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/79.mp3",
+    "title" : "dương gian phán quan tập 79 TIẾP NHẬN TRUYỀN THỪA Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/8.mp3",
+    "title" : "tập 8 ( chương 31-35 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/80.mp3",
+    "title" : "dương gian phán quan tập 80 LẠI BỊ TRỜI ĐÁNH Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/81.mp3",
+    "title" : "tập 81 XÉT SỬ Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/82.mp3",
+    "title" : "tập 82 CẢM GIÁC TỬ VONG Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/83.mp3",
+    "title" : "DƯƠNG GIAN PHÁN QUAN TẬP 83 PHÔ CHƯƠNG SỨC MANH Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/84.mp3",
+    "title" : "DƯƠNG GIAN PHÁN QUAN Tập 84 RA NƯỚC NGOÀI Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/85.mp3",
+    "title" : "dương gian phán quan tập 85 gặp chút vấn đề lên mời ae cho ý kiến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/87.mp3",
+    "title" : "DƯƠNG GIAN PHÁN QUAN Tập 87 Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/88.mp3",
+    "title" : "dương gian phán quan tập 88 Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/89.mp3",
+    "title" : "dương gian phán quan tập 89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/9.mp3",
+    "title" : "tập 9 ( chương 36-40 ) Diễn Đọc : Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/90.mp3",
+    "title" : "dương gian phán quan tập 90 Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/91.mp3",
+    "title" : "dương gian phán quan tập 91 diễn đọc lạc thu GIẾT NỐT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/92.mp3",
+    "title" : "dương gian phán quan tập 92 HẢI VỰC THẢNG TIẾN diễn đọc lạc thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/93.mp3",
+    "title" : "dương gian phán quan tập 93 sắp đặt từ trước Diễn Đọc Lạc Thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/94.mp3",
+    "title" : "dương gian phán quan tập 94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/95.mp3",
+    "title" : "dương gian phán quan tập 95 rộng lượng một chút diễn đọc lạc lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/96.mp3",
+    "title" : "diễn đọc Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/97.mp3",
+    "title" : "diễn đọc Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/98.mp3",
+    "title" : "dương gian phán quan tập 98 LẤY THÂN BÁO ĐÁP Diễn Đọc Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-gian-phan-quan/99.mp3",
+    "title" : "dương gian phán quan tập 99 CẢI LÃO HOÀN ĐỒNG Diễn Đọc Lạc Lạc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

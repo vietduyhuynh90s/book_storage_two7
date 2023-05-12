@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-tau-nhat-thuc_20180.html",
+    "title" : "Chuyến Tàu Nhật Thực",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đinh Phương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 20226,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2e6ed0290d402fe2f1f4a0136692a8d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2e6ed0290d402fe2f1f4a0136692a8d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tau-4/tau-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2679,
+    "title" : "tau-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "tau-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2456,
+    "title" : "tau-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2933,
+    "title" : "tau-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2722,
+    "title" : "tau-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2494,
+    "title" : "tau-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1998,
+    "title" : "tau-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2084,
+    "title" : "tau-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tau-4/tau-1.mp3",
+    "title" : "tau-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-2.mp3",
+    "title" : "tau-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-3.mp3",
+    "title" : "tau-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-4.mp3",
+    "title" : "tau-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-5.mp3",
+    "title" : "tau-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-6.mp3",
+    "title" : "tau-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-7.mp3",
+    "title" : "tau-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tau-4/tau-8.mp3",
+    "title" : "tau-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

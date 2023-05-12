@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-yeu-phu-thuy-biet-thu-bach-ma_17859.html",
+    "title" : "Tình Yêu Phù Thủy (Biệt Thự Bạch Mã)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 21067,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3423ce7ada4d30c30806feb6dd5155b7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3423ce7ada4d30c30806feb6dd5155b7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_01-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1411,
+    "title" : "Tinh yeu phu thuy 01-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1107,
+    "title" : "Tinh yeu phu thuy 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_04-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1628,
+    "title" : "Tinh yeu phu thuy 04-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_06-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1683,
+    "title" : "Tinh yeu phu thuy 06-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1048,
+    "title" : "Tinh yeu phu thuy 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_09-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1118,
+    "title" : "Tinh yeu phu thuy 09-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_11-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1519,
+    "title" : "Tinh yeu phu thuy 11-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_13-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1688,
+    "title" : "Tinh yeu phu thuy 13-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_15-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1712,
+    "title" : "Tinh yeu phu thuy 15-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_17-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1198,
+    "title" : "Tinh yeu phu thuy 17-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1250,
+    "title" : "Tinh yeu phu thuy 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1284,
+    "title" : "Tinh yeu phu thuy 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_21-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1226,
+    "title" : "Tinh yeu phu thuy 21-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_23-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "Tinh yeu phu thuy 23-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_25-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1387,
+    "title" : "Tinh yeu phu thuy 25-27",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_01-02.mp3",
+    "title" : "Tinh yeu phu thuy 01-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_03.mp3",
+    "title" : "Tinh yeu phu thuy 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_04-05.mp3",
+    "title" : "Tinh yeu phu thuy 04-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_06-07.mp3",
+    "title" : "Tinh yeu phu thuy 06-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_08.mp3",
+    "title" : "Tinh yeu phu thuy 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_09-10.mp3",
+    "title" : "Tinh yeu phu thuy 09-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_11-12.mp3",
+    "title" : "Tinh yeu phu thuy 11-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_13-14.mp3",
+    "title" : "Tinh yeu phu thuy 13-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_15-16.mp3",
+    "title" : "Tinh yeu phu thuy 15-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_17-18.mp3",
+    "title" : "Tinh yeu phu thuy 17-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_19.mp3",
+    "title" : "Tinh yeu phu thuy 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_20.mp3",
+    "title" : "Tinh yeu phu thuy 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_21-22.mp3",
+    "title" : "Tinh yeu phu thuy 21-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_23-24.mp3",
+    "title" : "Tinh yeu phu thuy 23-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-phu-thuy-06-07/Tinh%20yeu%20phu%20thuy_25-27.mp3",
+    "title" : "Tinh yeu phu thuy 25-27",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,605 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich_14653.html",
+    "title" : "Mạt Thế Trọng Sinh Chi Vật Hy Sinh Phản Kích",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhữ Phu Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 212615,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3a38372f1d80524364403f7bfca9e29c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3a38372f1d80524364403f7bfca9e29c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5490,
+    "title" : "#1 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5405,
+    "title" : "#10 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5739,
+    "title" : "#11 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5847,
+    "title" : "#12 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5737,
+    "title" : "#13 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5619,
+    "title" : "#14 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5725,
+    "title" : "#15 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5685,
+    "title" : "#16 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4044,
+    "title" : "#17 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3957,
+    "title" : "#18 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "#19 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5141,
+    "title" : "#2 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "#20 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4276,
+    "title" : "#21 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3963,
+    "title" : "#22 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3820,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3971,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3851,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3988,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3886,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4029,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3963,
+    "title" : "29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5715,
+    "title" : "#3 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3969,
+    "title" : "30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3862,
+    "title" : "33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3977,
+    "title" : "34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3997,
+    "title" : "35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3799,
+    "title" : "36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3936,
+    "title" : "39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5830,
+    "title" : "#4 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3859,
+    "title" : "40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4015,
+    "title" : "41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3817,
+    "title" : "42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4071,
+    "title" : "43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3862,
+    "title" : "44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4377,
+    "title" : "45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5886,
+    "title" : "#5 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5783,
+    "title" : "#6 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6021,
+    "title" : "#7 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5677,
+    "title" : "#8 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5740,
+    "title" : "#9 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/1.mp3",
+    "title" : "#1 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/10.mp3",
+    "title" : "#10 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/11.mp3",
+    "title" : "#11 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/12.mp3",
+    "title" : "#12 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/13.mp3",
+    "title" : "#13 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/14.mp3",
+    "title" : "#14 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/15.mp3",
+    "title" : "#15 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/16.mp3",
+    "title" : "#16 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/17.mp3",
+    "title" : "#17 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/18.mp3",
+    "title" : "#18 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/19.mp3",
+    "title" : "#19 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/2.mp3",
+    "title" : "#2 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/20.mp3",
+    "title" : "#20 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/21.mp3",
+    "title" : "#21 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/22.mp3",
+    "title" : "#22 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/3.mp3",
+    "title" : "#3 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/30.mp3",
+    "title" : "30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/31.mp3",
+    "title" : "31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/32.mp3",
+    "title" : "32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/33.mp3",
+    "title" : "33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/34.mp3",
+    "title" : "34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/35.mp3",
+    "title" : "35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/36.mp3",
+    "title" : "36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/37.mp3",
+    "title" : "37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/38.mp3",
+    "title" : "38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/39.mp3",
+    "title" : "39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/4.mp3",
+    "title" : "#4 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/40.mp3",
+    "title" : "40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/41.mp3",
+    "title" : "41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/42.mp3",
+    "title" : "42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/43.mp3",
+    "title" : "43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/44.mp3",
+    "title" : "44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/45.mp3",
+    "title" : "45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/46.mp3",
+    "title" : "46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/47.mp3",
+    "title" : "47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/5.mp3",
+    "title" : "#5 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/6.mp3",
+    "title" : "#6 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/7.mp3",
+    "title" : "#7 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/8.mp3",
+    "title" : "#8 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mat-the-trong-sinh-chi-vat-hy-sinh-phan-kich/9.mp3",
+    "title" : "#9 MẠT THẾ TRỌNG SINH CHI VẬT HY SINH PHẢN KÍCH || Hiện Đại Mạt Thế || Đam Mỹ Lê Tuyên",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bay-ngay-trong-dong-thap-muoi_17502.html",
+    "title" : "Bảy Ngày Trong Đồng Tháp Mười",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 13734,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_56286fb1a633ff686f9a8b5a3e77eb9c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_56286fb1a633ff686f9a8b5a3e77eb9c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 726,
+    "title" : "Bay-Ngay-Trong-Dtm-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 606,
+    "title" : "Bay-Ngay-Trong-Dtm-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1227,
+    "title" : "Bay-Ngay-Trong-Dtm-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 821,
+    "title" : "Bay-Ngay-Trong-Dtm-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "Bay-Ngay-Trong-Dtm-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1083,
+    "title" : "Bay-Ngay-Trong-Dtm-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 834,
+    "title" : "Bay-Ngay-Trong-Dtm-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2023,
+    "title" : "Bay-Ngay-Trong-Dtm-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "Bay-Ngay-Trong-Dtm-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1734,
+    "title" : "Bay-Ngay-Trong-Dtm-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 600,
+    "title" : "Bay-Ngay-Trong-Dtm-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 682,
+    "title" : "Bay-Ngay-Trong-Dtm-12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-01.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-02.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-03.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-04.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-05.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-06.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-07.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-08.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-09.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-10.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-11.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bayngaytrongdtm-ng-hien-le/Bay-Ngay-Trong-Dtm-12.mp3",
+    "title" : "Bay-Ngay-Trong-Dtm-12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-manh-duc-to-thuc-quy_9589.html",
+    "title" : "Tâm Manh - Dực Tô Thức Quỷ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dực Tô Thức Qủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 31199,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_e1e4c82f5acad7af7654479cc833bab5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_e1e4c82f5acad7af7654479cc833bab5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-manh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3119,
+    "title" : "Tâm Lý Giãy dụa | Truyện trinh thám HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4054,
+    "title" : "Truyện Trinh Thám hay | TÂM MANH tập 04 | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "Truyện Trinh Thám hay | TÂM MANH tập 5 | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "Truyện Trinh Thám hay | TÂM MANH tập 06 | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4356,
+    "title" : "TÂM MANH tập 07 | Truyện Trinh Thám hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4564,
+    "title" : "TÂM MANH tập 08 | Truyện Trinh Thám hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-manh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1503,
+    "title" : "TÂM MANH tập 09 Tập Cuối | Truyện Trinh Thám hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-manh/1.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/2.mp3",
+    "title" : "Tâm Lý Giãy dụa | Truyện trinh thám HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/3.mp3",
+    "title" : "MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/4.mp3",
+    "title" : "Truyện Trinh Thám hay | TÂM MANH tập 04 | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/5.mp3",
+    "title" : "Truyện Trinh Thám hay | TÂM MANH tập 5 | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/6.mp3",
+    "title" : "Truyện Trinh Thám hay | TÂM MANH tập 06 | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/7.mp3",
+    "title" : "TÂM MANH tập 07 | Truyện Trinh Thám hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/8.mp3",
+    "title" : "TÂM MANH tập 08 | Truyện Trinh Thám hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-manh/9.mp3",
+    "title" : "TÂM MANH tập 09 Tập Cuối | Truyện Trinh Thám hay | MC Thanh Bình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

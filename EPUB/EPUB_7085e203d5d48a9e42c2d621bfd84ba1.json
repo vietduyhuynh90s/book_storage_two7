@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngua-o-yeu-dau_8243.html",
+    "title" : "Ngựa Ô Yêu Dấu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anna Sewell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 23533,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7085e203d5d48a9e42c2d621bfd84ba1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7085e203d5d48a9e42c2d621bfd84ba1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2992,
+    "title" : "ngua-o-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4358,
+    "title" : "ngua-o-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4499,
+    "title" : "ngua-o-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6400,
+    "title" : "ngua-o-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5284,
+    "title" : "ngua-o-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-1.mp3",
+    "title" : "ngua-o-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-2.mp3",
+    "title" : "ngua-o-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-3.mp3",
+    "title" : "ngua-o-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-4.mp3",
+    "title" : "ngua-o-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngua-o-4/ngua-o-5.mp3",
+    "title" : "ngua-o-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

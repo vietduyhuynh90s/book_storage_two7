@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gai-mot-con_14717.html",
+    "title" : "Gái Một Con",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Thương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 25014,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3a5015b2e19e1bee8c447d2f805c84db.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3a5015b2e19e1bee8c447d2f805c84db.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7530,
+    "title" : "GaiMotCon 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7478,
+    "title" : "GaiMotCon 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6507,
+    "title" : "GaiMotCon 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3499,
+    "title" : "GaiMotCon 04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_01.mp3",
+    "title" : "GaiMotCon 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_02.mp3",
+    "title" : "GaiMotCon 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_03.mp3",
+    "title" : "GaiMotCon 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gaimotcon_202004/GaiMotCon_04.mp3",
+    "title" : "GaiMotCon 04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
