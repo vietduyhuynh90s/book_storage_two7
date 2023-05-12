@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-coi-cay-rung_20242.html",
+    "title" : "Một Cội Cây Rừng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 13783,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_741130e7161a0c976b28318a296e49e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_741130e7161a0c976b28318a296e49e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1326,
+    "title" : "01_Gioi thieu_Ke lang thang_TAnh_dau-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1406,
+    "title" : "02_Dap ngan nuoc_TAnh_15-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1422,
+    "title" : "03_Xa lo_TAnh_23-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1550,
+    "title" : "04_La cay_HHo_32-42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1386,
+    "title" : "05_Con Nhen_HHo_43-52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1178,
+    "title" : "06_Mut mang_TAnh_52-59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "07_Dau nhuc tu ben trong_TAnh_59-67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1939,
+    "title" : "08_Chu va khach_TAnh_67-78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2047,
+    "title" : "09_Mau banh ngot_78-het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-1.mp3",
+    "title" : "01_Gioi thieu_Ke lang thang_TAnh_dau-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-2.mp3",
+    "title" : "02_Dap ngan nuoc_TAnh_15-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-3.mp3",
+    "title" : "03_Xa lo_TAnh_23-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-4.mp3",
+    "title" : "04_La cay_HHo_32-42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-5.mp3",
+    "title" : "05_Con Nhen_HHo_43-52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-6.mp3",
+    "title" : "06_Mut mang_TAnh_52-59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-7.mp3",
+    "title" : "07_Dau nhuc tu ben trong_TAnh_59-67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-8.mp3",
+    "title" : "08_Chu va khach_TAnh_67-78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-la-5/chi-la-9.mp3",
+    "title" : "09_Mau banh ngot_78-het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
