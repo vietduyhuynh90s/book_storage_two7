@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoang-tu-caspian_19662.html",
+    "title" : "Hoàng Tử Caspian",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. S. Lewis",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 39330,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f8a5fb154ce7abb1774c43ec7cc7ef1a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f8a5fb154ce7abb1774c43ec7cc7ef1a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-01_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 985,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-01 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-02_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1207,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-02 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-03_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 970,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-03 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-04_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1451,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-04 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-05_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1567,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-05 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-06_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1082,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-06 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-07_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1416,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-07 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-08_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1427,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-08 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-09_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1358,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-09 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-10_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1514,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-10 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-11_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-11 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-12_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1335,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-12 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-13_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1210,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-13 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-14_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1466,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-14 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-15-het_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1624,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-15-het audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-001_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 977,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-001 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-002_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1254,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-002 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-003_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 891,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-003 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-004_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1302,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-004 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-005_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1456,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-005 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-006_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 993,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-006 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-007_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1337,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-007 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-008_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1327,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-008 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-009_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1352,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-009 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-010_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1453,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-010 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-011_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1329,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-011 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-012_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1329,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-012 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-013_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1211,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-013 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-014_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1510,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-014 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-015_audio.mp3_2023_2_27_10_52",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1666,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-015 audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-01_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-01 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-02_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-02 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-03_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-03 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-04_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-04 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-05_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-05 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-06_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-06 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-07_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-07 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-08_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-08 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-09_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-09 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-10_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-10 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-11_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-11 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-12_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-12 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-13_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-13 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-14_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-14 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-phan-15-het_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-phan-15-het audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-001_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-001 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-002_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-002 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-003_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-003 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-004_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-004 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-005_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-005 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-006_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-006 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-007_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-007 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-008_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-008 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-009_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-009 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-010_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-010 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-011_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-011 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-012_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-012 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-013_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-013 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-014_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-014 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian/truyendocviet.com_-_bien-nien-su-narnia-4-hoang-tu-caspian-tap-015_audio.mp3_2023_2_27_10_52",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-4-hoang-tu-caspian-tap-015 audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

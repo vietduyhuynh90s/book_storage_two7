@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-su-viet-nam_20351.html",
+    "title" : "Thiền Sư Việt Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thanh Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 37914,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1a7dfd7f905ff36bce0375e8bd85d655.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1a7dfd7f905ff36bce0375e8bd85d655.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3902,
+    "title" : "01 Thien su Viet Nam ( T01-T60)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4191,
+    "title" : "02 Thien su VN (Tr61 - 140)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "03 Thien su VN ( Tr141- 227)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3531,
+    "title" : "04 Thien su VN (Tr228 - 307)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "04B Thien su VN (Tr228 - 307)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4301,
+    "title" : "05 Thien su VN (Tr308 - 370)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3796,
+    "title" : "06 Thien su VN (Tr371-452)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "07 Thien su VN ( Tr453-492)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "08 Thien su VN ( Tr 497-523)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3779,
+    "title" : "09 Thien su VN ( tr553-het )",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-01.mp3",
+    "title" : "01 Thien su Viet Nam ( T01-T60)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-02.mp3",
+    "title" : "02 Thien su VN (Tr61 - 140)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-03.mp3",
+    "title" : "03 Thien su VN ( Tr141- 227)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-04.mp3",
+    "title" : "04 Thien su VN (Tr228 - 307)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-05.mp3",
+    "title" : "04B Thien su VN (Tr228 - 307)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-06.mp3",
+    "title" : "05 Thien su VN (Tr308 - 370)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-07.mp3",
+    "title" : "06 Thien su VN (Tr371-452)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-08.mp3",
+    "title" : "07 Thien su VN ( Tr453-492)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-09.mp3",
+    "title" : "08 Thien su VN ( Tr 497-523)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-06/thien-su-10.mp3",
+    "title" : "09 Thien su VN ( tr553-het )",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

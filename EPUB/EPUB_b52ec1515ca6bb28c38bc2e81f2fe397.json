@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-da-lam-giau-nhu-the_20272.html",
+    "title" : "Tôi Đã Làm Giàu Như Thế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Donald J. Trump",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 21290,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b52ec1515ca6bb28c38bc2e81f2fe397.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b52ec1515ca6bb28c38bc2e81f2fe397.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%201.mp3",
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%202.mp3",
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%203.mp3",
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%204.mp3",
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%205.mp3",
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toidalamgiaunhuthesection1/T%C3%B4i%20%C4%90%C3%A3%20L%C3%A0m%20Gi%C3%A0u%20Nh%C6%B0%20Th%E1%BA%BF%20%20%20Section%206.mp3",
+    "title" : "Tôi Đã Làm Giàu Như Thế   Section 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

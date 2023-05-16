@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/seu-dau-mua_20327.html",
+    "title" : "Sếu Đầu Mùa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chyngyz Torekulovich Aytmatov",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 16820,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_720c2677667d9140d31487329c15bc7a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_720c2677667d9140d31487329c15bc7a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2863,
+    "title" : "1/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 309,
+    "title" : "Sếu đầu mùa - 2/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 351,
+    "title" : "3/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "4/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2513,
+    "title" : "5/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "6/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1714,
+    "title" : "7/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1096,
+    "title" : "Sếu đầu mùa - 8/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1132,
+    "title" : "Sếu đầu mùa - 9/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 676,
+    "title" : "10/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 823,
+    "title" : "11/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 273,
+    "title" : "Sếu đầu mùa - 12/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 103,
+    "title" : "Sếu đầu mùa - 13/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 355,
+    "title" : "Sếu đầu mùa - 14/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 247,
+    "title" : "Sếu đầu mùa - 15/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-01.mp3",
+    "title" : "1/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-02.mp3",
+    "title" : "Sếu đầu mùa - 2/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-03.mp3",
+    "title" : "3/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-04.mp3",
+    "title" : "4/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-05.mp3",
+    "title" : "5/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-06.mp3",
+    "title" : "6/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-07.mp3",
+    "title" : "7/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-08.mp3",
+    "title" : "Sếu đầu mùa - 8/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-09.mp3",
+    "title" : "Sếu đầu mùa - 9/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-10.mp3",
+    "title" : "10/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-11.mp3",
+    "title" : "11/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-12.mp3",
+    "title" : "Sếu đầu mùa - 12/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-13.mp3",
+    "title" : "Sếu đầu mùa - 13/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-14.mp3",
+    "title" : "Sếu đầu mùa - 14/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/seu-dau-01/seu-dau-15.mp3",
+    "title" : "Sếu đầu mùa - 15/15 l Chinghiz Aitmatov l Audiobook VTC Now",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

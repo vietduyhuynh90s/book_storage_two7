@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-co-doi-bat-cong-chi-co-minh-thu-dong_20367.html",
+    "title" : "Không Có Đời Bất Công, Chỉ Có Mình Thụ Động",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Thi Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 18277,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a06111ad52901e0c8eb9199ee068a4ac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a06111ad52901e0c8eb9199ee068a4ac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2319,
+    "title" : "1 # Không có đời bất công chỉ có mình thụ động # Đừng trở thành Ng đến mình còn tự coi thường mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "2 # Không có đời bất công chỉ có mình thụ động # Tôi không tầm thường ... # Vương Thi Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "3 # Không có đời bất công chỉ có mình thụ động # Ước mơ bị trì hoãn đến vô hạn sẽ chỉ là mơ ước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2370,
+    "title" : "4 # Không có đời bất công chỉ có mình thụ động #Đừng chọn an nhàn trong tháng năm đẹp nhất đời người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2310,
+    "title" : "5 # Không có đời bất công chỉ có mình thụ động # Thế giới này khiến tôi mình đầy thương tích ...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2234,
+    "title" : "6 # Không có đời bất công chỉ có mình thụ động # Thế giới tươi đẹp đang chờ chúng ta khám phá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "7 # Không có đời bất công chỉ có mình thụ động # Tình cảm là thứ khó gò ép nhất trên đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1578,
+    "title" : "8 # Không có đời bất công chỉ có mình thụ động # Bạn xứng đáng được sống tốt hơn đến trọn đời (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-1.mp3",
+    "title" : "1 # Không có đời bất công chỉ có mình thụ động # Đừng trở thành Ng đến mình còn tự coi thường mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-2.mp3",
+    "title" : "2 # Không có đời bất công chỉ có mình thụ động # Tôi không tầm thường ... # Vương Thi Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-3.mp3",
+    "title" : "3 # Không có đời bất công chỉ có mình thụ động # Ước mơ bị trì hoãn đến vô hạn sẽ chỉ là mơ ước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-4.mp3",
+    "title" : "4 # Không có đời bất công chỉ có mình thụ động #Đừng chọn an nhàn trong tháng năm đẹp nhất đời người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-5.mp3",
+    "title" : "5 # Không có đời bất công chỉ có mình thụ động # Thế giới này khiến tôi mình đầy thương tích ...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-6.mp3",
+    "title" : "6 # Không có đời bất công chỉ có mình thụ động # Thế giới tươi đẹp đang chờ chúng ta khám phá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-7.mp3",
+    "title" : "7 # Không có đời bất công chỉ có mình thụ động # Tình cảm là thứ khó gò ép nhất trên đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khong-co-2/khong-co-8.mp3",
+    "title" : "8 # Không có đời bất công chỉ có mình thụ động # Bạn xứng đáng được sống tốt hơn đến trọn đời (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
