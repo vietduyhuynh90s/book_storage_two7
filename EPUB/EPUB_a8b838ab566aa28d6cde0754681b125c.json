@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/de-duoc-trong-dung-dai-ngo_17080.html",
+    "title" : "Để Được Trọng Dụng & Đãi Ngộ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Tracy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 4028,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a8b838ab566aa28d6cde0754681b125c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a8b838ab566aa28d6cde0754681b125c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_00_intro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 192,
+    "title" : "get paid more 00 intro",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_00_loi_tua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 128,
+    "title" : "get paid more 00 loi tua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 178,
+    "title" : "get paid more 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 141,
+    "title" : "get paid more 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 154,
+    "title" : "get paid more 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 148,
+    "title" : "get paid more 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 163,
+    "title" : "get paid more 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 202,
+    "title" : "get paid more 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "get paid more 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 169,
+    "title" : "get paid more 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 178,
+    "title" : "get paid more 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 233,
+    "title" : "get paid more 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 220,
+    "title" : "get paid more 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 128,
+    "title" : "get paid more 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 159,
+    "title" : "get paid more 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 137,
+    "title" : "get paid more 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 127,
+    "title" : "get paid more 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 205,
+    "title" : "get paid more 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 143,
+    "title" : "get paid more 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 215,
+    "title" : "get paid more 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 123,
+    "title" : "get paid more 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 166,
+    "title" : "get paid more 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "get paid more 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 263,
+    "title" : "get paid more 22",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_00_intro.mp3",
+    "title" : "get paid more 00 intro",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_00_loi_tua.mp3",
+    "title" : "get paid more 00 loi tua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_01.mp3",
+    "title" : "get paid more 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_02.mp3",
+    "title" : "get paid more 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_03.mp3",
+    "title" : "get paid more 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_04.mp3",
+    "title" : "get paid more 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_05.mp3",
+    "title" : "get paid more 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_06.mp3",
+    "title" : "get paid more 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_07.mp3",
+    "title" : "get paid more 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_08.mp3",
+    "title" : "get paid more 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_09.mp3",
+    "title" : "get paid more 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_10.mp3",
+    "title" : "get paid more 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_11.mp3",
+    "title" : "get paid more 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_12.mp3",
+    "title" : "get paid more 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_13.mp3",
+    "title" : "get paid more 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_14.mp3",
+    "title" : "get paid more 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_15.mp3",
+    "title" : "get paid more 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_16.mp3",
+    "title" : "get paid more 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_17.mp3",
+    "title" : "get paid more 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_18.mp3",
+    "title" : "get paid more 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_19.mp3",
+    "title" : "get paid more 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_20.mp3",
+    "title" : "get paid more 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_21.mp3",
+    "title" : "get paid more 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn-deDuocTrongDungVaDaiNgo/get_paid_more_22.mp3",
+    "title" : "get paid more 22",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

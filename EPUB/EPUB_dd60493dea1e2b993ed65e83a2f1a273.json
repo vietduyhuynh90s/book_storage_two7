@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-quy-ho-bat-quy-ba-ngay-ngu-hai-kinh-di_3539.html",
+    "title" : "Quỷ Hô Bắt Quỷ - Ba Ngày Ngủ Hai.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ba Ngày Ngủ Hai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 193894,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_dd60493dea1e2b993ed65e83a2f1a273.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_dd60493dea1e2b993ed65e83a2f1a273.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7592,
+    "title" : "Truyện Ma Audio Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4398,
+    "title" : "Truyện ma audio vừa nghe vừa sợ rợn người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6587,
+    "title" : "Truyện Ma Kinh Dị Quỷ Hô Bắt Quỷ Quyển 3 Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6246,
+    "title" : "Truyện ma audio kinh dị ngày cười đêm sợ LOL [Quyển 3 tập 2]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "Truyện Ma Quỷ Hô Bắt Quỷ Quyển 3 tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2535,
+    "title" : "Truyện ma kinh dị cực hay quyển 3 tập 3b",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7140,
+    "title" : "Quỷ Hô Bắt Quỷ Quyển 3 tập 4 [Hết Quyển 3 chờ quyển 4]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6019,
+    "title" : "Truyện ma audio dài kỳ cực hay [Quyển 4 tập 1]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6714,
+    "title" : "Truyện Ma kinh dị không nghe một mình[Quyển 4 - tập 2]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5482,
+    "title" : "Truyện Ma audio có thật kinh dị cực hay Tập 3 Quyển 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5046,
+    "title" : "Truyện ma kinh dị Quỷ Hô Bắt Quỷ Quyển 4 Tập 4 A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4473,
+    "title" : "Truyện ma tình củm cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4819,
+    "title" : "Truyện ma Quỷ Hô Bắt Quỷ Quyển 4 [END]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6061,
+    "title" : "Truyện ma hay mà hài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5176,
+    "title" : "Tập 2 [Truyện Ma Ngày Cười Đêm Khóc]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6531,
+    "title" : "Truyện ma audio dài kỳ: Quỷ Hô Bắt Quỷ [Quyển 5 Tập 3]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6092,
+    "title" : "Quyển 5 tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5866,
+    "title" : "Truyện ma audio dài kỳ: Quỷ Hô Bắt Quỷ Quyển 6 Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "Truyện ma kinh dị [Quyển 6 Tập 2]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "Truyện Ma Có Thật Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2721,
+    "title" : "Truyện Ma audio hài hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "Truyện Ma Kinh Dị Hài Hước Quyển 6 tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4657,
+    "title" : "Bạn Có Dám Nghe?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2966,
+    "title" : "Truyện Ma Hài Hước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2445,
+    "title" : "Truyện Ma Audio dài kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2660,
+    "title" : "Truyện Ma Quỷ Hô Bắt Quỷ | Quyển 7 -Tập 1 | MC Ka Nguyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2581,
+    "title" : "Tập 2 | Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "TẬP 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "Truyện ma cực hay đêm khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8264,
+    "title" : "36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7037,
+    "title" : "37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6489,
+    "title" : "38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7623,
+    "title" : "39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Nghe Kể Truyện Ma Cực Hay: Quỷ Hô Bắt Quỷ Tập 1 D",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7832,
+    "title" : "40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4981,
+    "title" : "Truyện ma audio dài kỳ: Quỷ Hô Bắt Quỷ Hết Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3913,
+    "title" : "Nghe Kể Truyện Ma Audio Dài Kỳ: Quỷ Hô Bắt Quỷ Cực Hay [Tập 2A]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3709,
+    "title" : "Cười Cả Ngày Sợ Cả Đêm [Tập 2B]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "Truyện ma Quỷ Hô Bắt Quỷ Tập 2C- Truyện ma audio ngày cười đêm sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "Truyện Ma audio ngày cười đêm khóc vì sợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/1.mp3",
+    "title" : "Truyện Ma Audio Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/10.mp3",
+    "title" : "Truyện ma audio vừa nghe vừa sợ rợn người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/11.mp3",
+    "title" : "Truyện Ma Kinh Dị Quỷ Hô Bắt Quỷ Quyển 3 Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/12.mp3",
+    "title" : "Truyện ma audio kinh dị ngày cười đêm sợ LOL [Quyển 3 tập 2]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/13.mp3",
+    "title" : "Truyện Ma Quỷ Hô Bắt Quỷ Quyển 3 tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/14.mp3",
+    "title" : "Truyện ma kinh dị cực hay quyển 3 tập 3b",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/15.mp3",
+    "title" : "Quỷ Hô Bắt Quỷ Quyển 3 tập 4 [Hết Quyển 3 chờ quyển 4]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/16.mp3",
+    "title" : "Truyện ma audio dài kỳ cực hay [Quyển 4 tập 1]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/17.mp3",
+    "title" : "Truyện Ma kinh dị không nghe một mình[Quyển 4 - tập 2]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/18.mp3",
+    "title" : "Truyện Ma audio có thật kinh dị cực hay Tập 3 Quyển 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/19.mp3",
+    "title" : "Truyện ma kinh dị Quỷ Hô Bắt Quỷ Quyển 4 Tập 4 A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/2.mp3",
+    "title" : "Truyện ma tình củm cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/20.mp3",
+    "title" : "Truyện ma Quỷ Hô Bắt Quỷ Quyển 4 [END]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/21.mp3",
+    "title" : "Truyện ma hay mà hài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/22.mp3",
+    "title" : "Tập 2 [Truyện Ma Ngày Cười Đêm Khóc]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/23.mp3",
+    "title" : "Truyện ma audio dài kỳ: Quỷ Hô Bắt Quỷ [Quyển 5 Tập 3]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/24.mp3",
+    "title" : "Quyển 5 tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/25.mp3",
+    "title" : "Truyện ma audio dài kỳ: Quỷ Hô Bắt Quỷ Quyển 6 Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/26.mp3",
+    "title" : "Truyện ma kinh dị [Quyển 6 Tập 2]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/27.mp3",
+    "title" : "Truyện Ma Có Thật Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/28.mp3",
+    "title" : "Truyện Ma audio hài hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/29.mp3",
+    "title" : "Truyện Ma Kinh Dị Hài Hước Quyển 6 tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/3.mp3",
+    "title" : "Bạn Có Dám Nghe?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/30.mp3",
+    "title" : "Truyện Ma Hài Hước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/31.mp3",
+    "title" : "Truyện Ma Audio dài kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/32.mp3",
+    "title" : "Truyện Ma Quỷ Hô Bắt Quỷ | Quyển 7 -Tập 1 | MC Ka Nguyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/33.mp3",
+    "title" : "Tập 2 | Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/34.mp3",
+    "title" : "TẬP 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/35.mp3",
+    "title" : "Truyện ma cực hay đêm khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/36.mp3",
+    "title" : "36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/37.mp3",
+    "title" : "37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/38.mp3",
+    "title" : "38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/39.mp3",
+    "title" : "39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/4.mp3",
+    "title" : "Nghe Kể Truyện Ma Cực Hay: Quỷ Hô Bắt Quỷ Tập 1 D",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/40.mp3",
+    "title" : "40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/5.mp3",
+    "title" : "Truyện ma audio dài kỳ: Quỷ Hô Bắt Quỷ Hết Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/6.mp3",
+    "title" : "Nghe Kể Truyện Ma Audio Dài Kỳ: Quỷ Hô Bắt Quỷ Cực Hay [Tập 2A]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/7.mp3",
+    "title" : "Cười Cả Ngày Sợ Cả Đêm [Tập 2B]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/8.mp3",
+    "title" : "Truyện ma Quỷ Hô Bắt Quỷ Tập 2C- Truyện ma audio ngày cười đêm sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy_ho_bat_quy/9.mp3",
+    "title" : "Truyện Ma audio ngày cười đêm khóc vì sợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

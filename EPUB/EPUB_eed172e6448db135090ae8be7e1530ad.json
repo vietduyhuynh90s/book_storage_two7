@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/16-ke-su-dung-nhan-tai_17051.html",
+    "title" : "16 Kế Sử Dụng Nhân Tài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hòa Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 36684,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_eed172e6448db135090ae8be7e1530ad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_eed172e6448db135090ae8be7e1530ad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/01-loiNoiDau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 155,
+    "title" : "Chương 0 : Lời nói đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/02-chuong1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2869,
+    "title" : "Chuong 1 : NHẬN BIẾT NHÂN TÀI - Có con mắt tinh đời nhận biết nhân tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/03-chuong2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2037,
+    "title" : "Chuong 2 : BỒI DƯỠNG NHÂN TÀI - Phát huy khả năng tiềm tàng của cấp dưới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/04-chuong3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2626,
+    "title" : "Chuong 3 : DÙNG NGƯỜI - Tạo điều kiện cho nhân tài phát huy hết khả năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/05-chuong4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2009,
+    "title" : "Chuong 4 : ĐỀ BẠT NHÂN TÀI - Để nhân tài \"có đất dụng võ\"",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/06-chuong5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "Chuong 5 : DỰ TRỮ NHÂN TÀI - Xây dựng \"kho\" dự trữ nhân tài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/07-chuong6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2026,
+    "title" : "Chuong 6 : TÍN NHIỆM - Tín nhiệm cấp dưới sẽ được họ trung thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/08-chuong7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1835,
+    "title" : "Chuong 7 : QUAN TÂM - Làm một lãnh đạo có tình người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/09-chuong8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2227,
+    "title" : "Chuong 8 : KHOAN DUNG - Có thể cho phép cấp dưới mắc sai lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/10-chuong9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2161,
+    "title" : "Chuong 9 : QUYỀN UY - Trở thành lãnh tụ tinh thần của nhân viên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/11-chuong10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "Chuong 10 : TRAO QUYỀN - Khi cần cũng nên nghỉ tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/12-chuong11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "Chuong 11 : KHÍCH LỆ - Khích lệ là chất xúc tác cho thành công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/13-chuong12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2162,
+    "title" : "Chuong 12 : PHÊ BÌNH - Làm cho cấp dưới phải tâm phục, khẩu phục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/14-chuong13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "Chuong 13 : SÁT HẠCH - Đánh giá đúng cấp dưới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/15-chuong14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2375,
+    "title" : "Chuong 14 : THƯỞNG, PHẠT - Thưởng, phạt phân minh, có hiệu quả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/16-chuong15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2400,
+    "title" : "Chuong 15 : HÒA GIẢI - Có \"nhân hòa\" mới có thành công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/17-chuong16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2325,
+    "title" : "Chuong 16 : HỢP TÁC - Xây dựng tinh thần tập thể",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/01-loiNoiDau.mp3",
+    "title" : "Chương 0 : Lời nói đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/02-chuong1.mp3",
+    "title" : "Chuong 1 : NHẬN BIẾT NHÂN TÀI - Có con mắt tinh đời nhận biết nhân tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/03-chuong2.mp3",
+    "title" : "Chuong 2 : BỒI DƯỠNG NHÂN TÀI - Phát huy khả năng tiềm tàng của cấp dưới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/04-chuong3.mp3",
+    "title" : "Chuong 3 : DÙNG NGƯỜI - Tạo điều kiện cho nhân tài phát huy hết khả năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/05-chuong4.mp3",
+    "title" : "Chuong 4 : ĐỀ BẠT NHÂN TÀI - Để nhân tài \"có đất dụng võ\"",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/06-chuong5.mp3",
+    "title" : "Chuong 5 : DỰ TRỮ NHÂN TÀI - Xây dựng \"kho\" dự trữ nhân tài",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/07-chuong6.mp3",
+    "title" : "Chuong 6 : TÍN NHIỆM - Tín nhiệm cấp dưới sẽ được họ trung thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/08-chuong7.mp3",
+    "title" : "Chuong 7 : QUAN TÂM - Làm một lãnh đạo có tình người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/09-chuong8.mp3",
+    "title" : "Chuong 8 : KHOAN DUNG - Có thể cho phép cấp dưới mắc sai lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/10-chuong9.mp3",
+    "title" : "Chuong 9 : QUYỀN UY - Trở thành lãnh tụ tinh thần của nhân viên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/11-chuong10.mp3",
+    "title" : "Chuong 10 : TRAO QUYỀN - Khi cần cũng nên nghỉ tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/12-chuong11.mp3",
+    "title" : "Chuong 11 : KHÍCH LỆ - Khích lệ là chất xúc tác cho thành công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/13-chuong12.mp3",
+    "title" : "Chuong 12 : PHÊ BÌNH - Làm cho cấp dưới phải tâm phục, khẩu phục",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/14-chuong13.mp3",
+    "title" : "Chuong 13 : SÁT HẠCH - Đánh giá đúng cấp dưới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/15-chuong14.mp3",
+    "title" : "Chuong 14 : THƯỞNG, PHẠT - Thưởng, phạt phân minh, có hiệu quả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/16-chuong15.mp3",
+    "title" : "Chuong 15 : HÒA GIẢI - Có \"nhân hòa\" mới có thành công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vn16KeSuDungNhanTai/17-chuong16.mp3",
+    "title" : "Chuong 16 : HỢP TÁC - Xây dựng tinh thần tập thể",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

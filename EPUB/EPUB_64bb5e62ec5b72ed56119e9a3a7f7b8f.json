@@ -1,0 +1,581 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-dau-bat-dac-di_15344.html",
+    "title" : "Cô Dâu Bất Đắc Dĩ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiền Tâm Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 354665,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_64bb5e62ec5b72ed56119e9a3a7f7b8f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_64bb5e62ec5b72ed56119e9a3a7f7b8f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7568,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8209,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4805,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6374,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7298,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6978,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6140,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8678,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7990,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7970,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8153,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7615,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7414,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7674,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7727,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7920,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7731,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7912,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8388,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8178,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7644,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10978,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P29 hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9598,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8968,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7601,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8871,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7757,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8427,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7780,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8077,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8136,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7583,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8229,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7316,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8397,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7889,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8172,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7793,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6542,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11013,
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P16( Hết)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7569,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6762,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7134,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8017,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7690,
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/1.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/10.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/11.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/12.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/13.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/14.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/15.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/16.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/17.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/18.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/19.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/2.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/20.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/21.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/22.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/23.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/24.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/25.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/26.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/27.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/28.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/29.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P29 hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/3.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/30.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/31.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/32.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/33.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/34.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/35.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/36.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/37.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/38.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/39.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/4.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/40.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/41.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/42.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/43.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/44.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/45.mp3",
+    "title" : "CÔ DÂU Phần Ngoại Truyện– Truyện Ngôn Tình Mới Nhất –P16( Hết)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/5.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/6.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/7.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/8.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất 2018 –P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-dau-bat-dac-di_202009/9.mp3",
+    "title" : "CÔ DÂU BẤT ĐẮC DĨ – Truyện Ngôn Tình Mới Nhất –P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
