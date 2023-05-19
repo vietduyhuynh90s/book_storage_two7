@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-trinh-tro-thanh-nguoi-giao-vien-hanh-phuc-thinh-vuong-binh-an_20395.html",
+    "title" : "Hành Trình Trở Thành Người Giáo Viên Hạnh Phúc, Thịnh Vượng, Bình An",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Công Thái",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 39623,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_61a95d650dadb39a7a22dd06956c3234.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_61a95d650dadb39a7a22dd06956c3234.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1044,
+    "title" : "SÁCH NÓI HÀNH TRÌNH TRỞ THÀNH NGƯỜI GIÁO VIÊN HẠNH PHÚC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2273,
+    "title" : "Chương 1: HÀNH TRÌNH THẦY GIÁO NGHÈO THAY ĐỔI THẾ GIỚI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Chương 2: TRIẾT LÝ GIÁO DỤC XUYÊN QUA TIM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2565,
+    "title" : "Chương 3: NÂNG TẦM TÍ TUỆ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "Chương 4: GIA TĂNG GIÁ TRỊ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "Chương 5: PHỤNG SỰ XÃ HỘI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "Chương 6: SUY NGHĨ TÍCH CỰC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "Chương 7: LÀM CHỦ CẢM XÚC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2121,
+    "title" : "Chương 8: HÀNH ĐỘNG CHÍNH TRỰC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1673,
+    "title" : "Chương 9: LỰA CHỌN KẾT QUẢ CUỐI CÙNG CỦA CUỘC ĐỜI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "Chương 10: KẺ THÙ LỚN NHẤT ĐỜI NGƯỜI LÀ TÂM TRÍ CỦA CHÍNH MÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "Chương 11: NĂM NGUỒN LỰC QUAN TRỌNG ĐỂ THÀNH CÔNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1275,
+    "title" : "Chương 12: AI THÀNH CÔNG CŨNG PHẢI CÓ THẦY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2524,
+    "title" : "Chương 13: ĐỔI MỚI PHƯƠNG PHÁP DẠY HỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "Chương 14: LÀM THẾ NÀO ĐỂ ĐẠT ĐƯỢC KẾT QUẢ?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2657,
+    "title" : "Chương 15: SỨC MẠNH CỦA VIỆC HÀNH ĐỘNG LIÊN TỤC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1001,
+    "title" : "Phần kết: MỞ LỐI HÀNH TRÌNH, LỜI CẢM ƠN, BỐI CẢNH TẠI SE",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-01.mp3",
+    "title" : "SÁCH NÓI HÀNH TRÌNH TRỞ THÀNH NGƯỜI GIÁO VIÊN HẠNH PHÚC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-02.mp3",
+    "title" : "Chương 1: HÀNH TRÌNH THẦY GIÁO NGHÈO THAY ĐỔI THẾ GIỚI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-03.mp3",
+    "title" : "Chương 2: TRIẾT LÝ GIÁO DỤC XUYÊN QUA TIM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-04.mp3",
+    "title" : "Chương 3: NÂNG TẦM TÍ TUỆ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-05.mp3",
+    "title" : "Chương 4: GIA TĂNG GIÁ TRỊ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-06.mp3",
+    "title" : "Chương 5: PHỤNG SỰ XÃ HỘI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-07.mp3",
+    "title" : "Chương 6: SUY NGHĨ TÍCH CỰC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-08.mp3",
+    "title" : "Chương 7: LÀM CHỦ CẢM XÚC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-09.mp3",
+    "title" : "Chương 8: HÀNH ĐỘNG CHÍNH TRỰC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-10.mp3",
+    "title" : "Chương 9: LỰA CHỌN KẾT QUẢ CUỐI CÙNG CỦA CUỘC ĐỜI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-11.mp3",
+    "title" : "Chương 10: KẺ THÙ LỚN NHẤT ĐỜI NGƯỜI LÀ TÂM TRÍ CỦA CHÍNH MÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-12.mp3",
+    "title" : "Chương 11: NĂM NGUỒN LỰC QUAN TRỌNG ĐỂ THÀNH CÔNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-13.mp3",
+    "title" : "Chương 12: AI THÀNH CÔNG CŨNG PHẢI CÓ THẦY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-14.mp3",
+    "title" : "Chương 13: ĐỔI MỚI PHƯƠNG PHÁP DẠY HỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-15.mp3",
+    "title" : "Chương 14: LÀM THẾ NÀO ĐỂ ĐẠT ĐƯỢC KẾT QUẢ?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-16.mp3",
+    "title" : "Chương 15: SỨC MẠNH CỦA VIỆC HÀNH ĐỘNG LIÊN TỤC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-trinh-07/hanh-trinh-17.mp3",
+    "title" : "Phần kết: MỞ LỐI HÀNH TRÌNH, LỜI CẢM ƠN, BỐI CẢNH TẠI SE",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

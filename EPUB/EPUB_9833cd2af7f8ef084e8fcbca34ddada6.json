@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-tinh-dua-lech_20398.html",
+    "title" : "Chuyện Tình Đũa Lệch",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vân Thi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 16545,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9833cd2af7f8ef084e8fcbca34ddada6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9833cd2af7f8ef084e8fcbca34ddada6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chuyen-tinh-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chuyen-tinh-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chuyen-tinh-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chuyen-tinh-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2145,
+    "title" : "chuyen-tinh-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-1.mp3",
+    "title" : "chuyen-tinh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-2.mp3",
+    "title" : "chuyen-tinh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-3.mp3",
+    "title" : "chuyen-tinh-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-4.mp3",
+    "title" : "chuyen-tinh-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-tinh-1_202203/chuyen-tinh-5.mp3",
+    "title" : "chuyen-tinh-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
