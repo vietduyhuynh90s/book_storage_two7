@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/luan-xa-va-cac-truong-nang-luong-cua-con-nguoi-473.html",
+    "title" : "LUÂN XA VÀ CÁC TRƯỜNG NĂNG LƯỢNG CỦA CON NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Shafica Karagulla",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục Lục Mục Lục.. 3 Lời nói đầu... 5 Lời cảm ơn... 7 Giới thiệu.. 8 1. Một cái nhìn mới về Bản chất con người.. 13 I. Bình Minh của Một Tâm thức mới.. 13 II. Phá vỡ Rào cản của các Giác quan. 15 2. Các Trường và các Luân xa.. 20 III. Ba Trường Năng Lượng của Phàm Ngã.. 20 IV. Kết cấu và Chức năng của thể Dĩ Thái. 22 V. Vai trò của Luân Xa... 24 Luân xa đỉnh đầu... 28 Luân xa Trán... 29 Luân xa Cuống họng... 29 Luân xa tim... 30 Luân xa Tùng thái dương.. 30 Luân xa Lá lách.. 31 Luân xa Xương cùng... 31 Luân Xa Gốc. 32 Các luân xa phụ.. 32 Hệ Luân Xa... 32 VI. Thể Cảm dục và các Xúc cảm... 33 Các Luân Xa Cảm dục... 37 Luân xa Đỉnh đầu.. 38 Luân xa Cuống họng... 38 Luân xa Tim.. 38 Luân xa Tùng Thái dương. 38 Luân xa Gốc (Gốc cột sống). 39 Cột sống và Não bộ Cảm dục.. 39 VII. Các cấp độ cao hơn của Tâm thức... 40 Tác dụng của sự hình dung.. 42 Các luân xa Thể Trí.. 44 Thể Nguyên Nhân. 44 3. Nhãn thông như một công cụ chuẩn đoán.. 46 VIII. Cơ sở của Nghiên cứu bằng nhãn thông. 46 IX. Việc sử dụng thông nhãn trong nghiên cứu. 52 Những cơ chế của nhận thức bằng nhãn thông. 54</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ae799734e62b7c93bc36953ca0c72360.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ae799734e62b7c93bc36953ca0c72360.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/473-luan-xa-va-cac-truong-nang-luong-cua-con-nguoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/473-luan-xa-va-cac-truong-nang-luong-cua-con-nguoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

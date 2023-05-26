@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/song-cham-lai-roi-moi-chuyen-se-on-thoi-799.html",
+    "title" : "SỐNG CHẬM LẠI RỒI MỌI CHUYỆN SẼ ỔN THÔI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alpha Books",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời giới thiệu Nhà tâm lý học và triết gia người Mỹ William James từng nói: “Cuộc đời có đáng sống không? Tất cả phụ thuộc vào người sống nó.” Bạn có đáp án cho câu hỏi này rồi chứ? Nếu để ý bạn sẽ thấy cuộc sống giống như cầu vồng bảy sắc vậy, nhiều màu sắc rực rỡ nhưng cũng không thiếu những mảng màu u ám. Khi thì bạn muốn giang tay ôm cuộc sống này thật chặt, lúc khác bạn lại muốn vùi nó xuống tận đất sâu. Đôi khi bạn cảm thấy mệt mỏi với những kế hoạch nối tiếp thất bại, nhưng có lúc bạn lại háo hức bắt tay vào những dự định mới mẻ. Đôi khi bạn chỉ muốn chạy trốn khi công việc và cuộc sống chồng chất những phiền phức, nhưng có lúc bạn lại thấy bận rộn đem đến sự tự tin và năng động. Đôi khi bạn chỉ biết ngồi than thân trách phận vì cuộc đời mình sao hẩm hiu đến vậy, nhưng có lúc bạn lại ngạc nhiên với sự cứng rắn và mạnh mẽ của chính mình. Dù cuộc sống có thế nào, bạn vẫn phải lựa chọn một phương thức sống và sống đến tận cùng. Sống chậm lại, rồi mọi chuyện sẽ ổn thôi sẽ giúp bạn làm điều đó. Cuốn sách không kỳ vọng mang đến cho bạn những cái nhìn mới mẻ về cuộc sống, nó chỉ giúp tâm hồn bạn bớt chông chênh hơn khi sợ hãi và chán ghét cuộc sống mà thôi. Cuốn sách là những bài viết nhỏ, dưới cái nhìn của cô gái trẻ mới bước ra từ cuộc sống sinh viên và chân ướt chân ráo thành nhân viên văn phòng. Những trải nghiệm chưa đủ nhiều và chưa thật sâu sắc nhưng rất gần gũi với các bạn trẻ. Những điều mà tác giả viết ra không giống như những câu chuyện hạt giống tâm hồn bay bổng, nó chân chất như những cuộc “tám” chuyện giữa các bạn trẻ với nhau. Bạn sẽ tìm thấy điểm tựa trước những tình huống như làm sao để thoát khỏi nỗi sợ hãi, làm sao đối diện với sự thay đổi, xác định mục đích sống cho mình như thế nào… Hy vọng cuốn sách sẽ giúp bạn cảm thấy cuộc đời lạc quan và tươi mới hơn. Trân trọng giới thiệu tới độc giả! Hà Nội, tháng 9 năm 2014 CÔNG TY CỔ PHẦN SÁCH ALPHA</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_63701c70ca785a61fa03c090e18b8810.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_63701c70ca785a61fa03c090e18b8810.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/799-song-cham-lai-roi-moi-chuyen-se-on-thoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/799-song-cham-lai-roi-moi-chuyen-se-on-thoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/the-hero-nguoi-hung-7906.html",
+    "title" : "THE HERO - NGƯỜI HÙNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hero",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hãy tưởng tượng nếu có một tấm bản đồ chỉ cho bạn biết phải đi như thế nào từ chỗ của bạn hiện tạo đến cuộc sống rực rỡ, giàu có, trọn vẹn và chói lọi nhất mà bạn có thể mơ ước có được.Hãy tưởng tượng rằng nếu có một tấm bản đồ chỉ cho bạn mỗi bước đi trên hành trình đến cuộc sống, nhận ra mơ ước lớn nhất của bạn, làm sao để tìm ra cách vượt chướng ngại vật, vượt qua những thử thách, vượt qua những khó khăn và làm sao bạn có sẵn mọi khả năng và phẩm chất mạnh mẽ để chiến thắng trên hành trình của mình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_5d127a9e2b432c0ee593bd274a089d1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_5d127a9e2b432c0ee593bd274a089d1c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

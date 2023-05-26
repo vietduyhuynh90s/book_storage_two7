@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/to-hong-vuong-van-7847.html",
+    "title" : "TƠ HỒNG VƯƠNG VẤN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thế cuộc vần xây, hết suy tới thạnh, nhơn quần tấn hoá, đổi cựu ra tân. Đó là định luật dĩ nhiên, dầu muốn dầu không, ai ai cũng phải chịu, không làm sao sửa được. Nhớ lại mà coi, sau khi đánh phá đại đồn Chí Hòa rồi, binh đội Pháp lần lần xâm chiếm tất cả sáu tỉnh của đất Gia Định. Từ hạng nông phu cho tới nhà học thức thảy đều tức tủi mà quay đầu trông về Phú Xuân, thì triều đình im lìm dường như bỏ xụi, còn chóng mắt ngó vào đám anh hùng nghĩa sĩ thì các cụ Trương Công Định, Nguyễn Trung Trực, Thiên hộ Dương, Thủ Khoa Huân lần lượt thất bại tiêu tan. Đứng trước ngã ba đường như vậy đó, phải đi ngã nào? Nếu cương quyết giữ nền nếp cũ thì lấy chi mà nương níu, còn nếu đổi thái độ cho xuôi dòng thì lỗi với tổ tiên, mà cũng thẹn với cây cỏ. Trong lúc dân trí đương phân vân như vậy, nhà cầm quyền Pháp khôn ngoan, nên chăm lo gây thiện cảm với nhân dân. Người ta biết thâu phục đất đai thì dễ, nhứt là gặp xứ không có binh đội tổ chức hoàn bị; còn thâu phục nhơn tâm là điều rất khó khăn, phải đổi thay văn hoá, phải ung đúc tâm hồn, mấy việc đó phải dày công phu, phải nhiều thế kỷ, thì mới làm được. Mới chiếm trị đất Nam Việt, nước Pháp phải bận lo nhiều nỗi: - Lo chia 6 tỉnh cũ ra làm 20 hạt mới, rồi đặt quan Tham biện ở mỗi hạt đặng sắp đặt cơ quan hành chánh cho phù hạp với cách cai trị mới mà không đụng chạm đến phong hoá cổ truyền; - Lo xây dựng an ninh cho nhơn dân được lạc nghiệp an cư, từ thành thị vô tới đồng bái; - Lo tổ chức đường giao thông cho tiện bề mậu dịch. Tuy phải gấp rút xây nền hành chánh, người Pháp cũng không bỏ dẹp vấn đề thâu phục nhơn tâm. Những người sống trong nấy năm cuối cùng của thế kỷ 19, là khoảng từ năm 1895 tới năm 1900, ai cũng nhận Pháp mới chiếm trị Nam Việt có 30 năm mà đã khởi công xây dựng một nền văn hoá mới để hướng dẫn tâm hồn Việt Nam quay về phía Âu Tây.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b4a3c6beab9e7d34690b34509f8488be.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b4a3c6beab9e7d34690b34509f8488be.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7847-to-hong-vuong-van-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7847-to-hong-vuong-van-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

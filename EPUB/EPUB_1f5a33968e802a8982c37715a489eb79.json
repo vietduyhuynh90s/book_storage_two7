@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doan-tinh-7849.html",
+    "title" : "ĐOẠN TÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hẳng luận người Việt Nam, người Pháp hay người Tàu, ai có xe hơi thảy đều biết hãng \"Thuần Hòa\" ở Sài Gòn, tại đường Phan Thanh Giản. Hãng ấy choán trọn một dãy phố 5 căn: căn đầu thì bán vỏ ruột cùng các đồ phụ tùng xe hơi; căn kế đó thì chia phòng cho ông Chủ hãng với mấy thầy cô làm việc giấy; còn ba căn chót thì chứa mười mấy cái xe hơi mới tinh để bán, lớn có nhỏ có, thứ nào cũng đẹp. Ở phía sau lại còn có một cái xưởng rộng lớn, trong ấy có đủ máy để sơn xe và tiện hoặc đúc các đồ phụ tùng theo máy móc xe hơi. Thầy thợ trong hãng đông đầy, mà khách tới mua đồ, coi xe hoặc sửa xe cũng nườm nượp, trước hãng thường có đôi ba chiếc xe hơi đậu luôn luôn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1f5a33968e802a8982c37715a489eb79.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1f5a33968e802a8982c37715a489eb79.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7849-doan-tinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7849-doan-tinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

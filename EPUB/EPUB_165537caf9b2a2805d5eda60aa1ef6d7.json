@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hop-nhat-linh-hon-78.html",
+    "title" : "HỢP NHẤT LINH HỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sal Rechele",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hợp Nhất Linh Hồn Không hư cấu - Giúp đỡ cái tôi, tâm linh, tăng trưởng cá nhân Nhà xuất bản: Living Awareness Productions P.O. Box 39, Wentworth, NH 03282 USA Ấn bản đầu tiên: Tháng 4 năm 2013 Copyright @2011 Sal Rachele & Living Awareness Productions All rights reserved. Unauthorized duplication prohibited. Cho phép trích dẫn đến một trang đầy đủ của tài liệu này trong mọi văn bản. Tất cả các sự sao chép hay phân phối khác cần phải có sự cho phép bằng văn bản của Sal Rachele/ Living Awareness Produtions Website của tác giả: www. Salrachele.com In tại Hợp chủng quốc Hoa Kỳ bởi BooksJustBooks.com 51 East 42nd Street, Suite 1202, New York, NY 10017 Bìa sách “New Eyes,” bởi Vesna Dharma, bản quyền 2013 www.vesnadharma.com KHUYẾN CÁO: Đây không phải là một tác phẩm hư cấu. Tuy nhiên, do bởi bản chất của vấn đề và phương pháp trao truyền, Sal Rachele và những người hướng dẫn của anh ấy không có sự tuyên bố hay đảm bảo tính chính xác của các nội dung này. Người đọc và/hoặc người thực hành theo, đối với bất kỳ lời khuyên nào trong cuốn sách này, không được để Sal Rachele and Living Awareness Produtions chịu thiệt hại về bất kỳ sự chống đối nào và tất cả những bồi thường nào hay tổn hại nào xuất phát từ đó. Không có điều gì trong cuốn sách này được xem như lời đề nghị về luật pháp hay lời khuyên về y tế. Nội dung đưa ra chỉ là cho mục đích giáo dục. Người đọc được trông đợi tìm kiếm lời khuyên của một luật sư hay của một bác sỹ nếu họ tìm kiếm lời khuyên về luật hay về y tế.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_165537caf9b2a2805d5eda60aa1ef6d7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_165537caf9b2a2805d5eda60aa1ef6d7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/78-hop-nhat-linh-hon-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/78-hop-nhat-linh-hon-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/song-khoe-moi-ngay-va-cach-phong-chong-cac-yeu-to-doc-hai-co-ban-1237.html",
+    "title" : "SỐNG KHỎE MỖI NGÀY VÀ CÁCH PHÒNG CHỐNG CÁC YẾU TỐ ĐỘC HẠI CƠ BẢN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trịnh Thị Liên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách gồm hơn 100 câu hỏi, trả lời ngắn gọn, đơn giản, dễ hiểu, dễ nhớ, cung cấp cho bạn đọc những kiến thức cơ bản nhất về các yếu tố độc hại, các loại tai nạn, hiểm họa, bệnh tật thường gặp trong cuộc sống; một số phương pháp phòng tránh, một số biện pháp sơ cứu, xử lý khi chẳng may gặp phải tai nạn, hiểm họa...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_45675d14c339e0455e6d7e0da93037d3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_45675d14c339e0455e6d7e0da93037d3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1237-song-khoe-moi-ngay-va-cach-phong-chong-cac-yeu-to-doc-hai-co-ban-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1237-song-khoe-moi-ngay-va-cach-phong-chong-cac-yeu-to-doc-hai-co-ban-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

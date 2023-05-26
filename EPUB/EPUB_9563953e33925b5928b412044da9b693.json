@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguyen-ly-80-20-772.html",
+    "title" : "NGUYÊN LÝ 80-20",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Koch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục PHẦN 1:MỞ ĐẦU 1.Dẫn nhập về Nguyên lý 80/20 2.Tư duy theo Nguyên lý Phần 2 THÀNH CÔNG TRONG KINH DOANH KHÔNG NHẤT THIẾT LÀ MỘT ĐIỀU HUYỀN BÍ 3.Ngấm ngầm một làn sóng 4.Tại sao chiến lược của bạn sai lầm? 5.Đơn giản là tốt đẹp 6.Câu đúng đối tượng khách hàng 7.Mười ứng dụng hàng đầu trong kinh doanh của Nguyên lý 80/20 8.Quí hồ tinh! “Số ít quan yếu” đem lại thành công cho bạn Phần 3 LÀM ÍT, THU VÀ “THỤ” NHIỀU HƠN 9.Tự Do 10.Cách mạng thời gian 11.Bao giờ bạn 12.Với một ít hỗ trợ từ bằng hữu 13.Thông minh và lười nhác 14.Tiền, tiền, tiền 15.Bảy thói quen mang đến hạnh phúc Phần 4 MỞ RỘNG ÁP DỤNG NGUYÊN LÝ 80/20 TRONG CUỘC SỐNG 16.“Lấy lại phong độ”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9563953e33925b5928b412044da9b693.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9563953e33925b5928b412044da9b693.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/772-nguyen-ly-80-20-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/772-nguyen-ly-80-20-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-mat-thu-ba-tay-tang-huyen-bi-65.html",
+    "title" : "CON MẮT THỨ BA TÂY TẠNG HUYỀN BÍ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lobsang Rampa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ở bất kỳ nơi nào được phát hành, cuốn tự truyện “Con mắt thứ ba” (The Third Eye) cũng nhanh chóng xuất hiện trong danh mục các cuốn sách bán chạy nhất (best seller). Thân thế của tác giả được giải thích là sự nhập hồn của Lobsang Rampa - một Lạt Ma của Phật giáo Tây Tạng - vào thân xác của Cyril Henry Hoskin (1910 - 1981) - một người đàn ông Anh Quốc. Dày khoảng 300 trang, cuốn sách kể về cuộc đời của cậu bé Lobsang Rampa mới 7 tuổi đã tự mình vượt qua thử thách khó khăn để vào Lạt Ma viện. Tại đây, cậu đã trải qua những năm tháng được đào tạo và sát hạch vô cùng khắc nghiệt về giáo lý, kiến thức y học cùng những huyền môn của Phật giáo Tây Tạng. Cậu bé đã xuất sắc vượt qua các kỳ sát hạch và được tấn phong Lạt Ma (Thượng nhân) cao cấp - một vị trí lãnh đạo Phật giáo Tây Tạng khi mới hơn 10 tuổi. Cuốn sách cũng kể về cuộc phẫu thuật để mở thần nhãn - con mắt thứ ba của Lobsang Rampa, những huyền năng khi con mắt được khai mở, cuộc điểm đạo đầy huyền bí khiến cho linh hồn của vị Lạt Ma trẻ tuổi tiến nhập vào quá khứ và tương lai, phát hiện mình đã từng hóa thân thành một người khổng lồ… Bao trùm toàn bộ tác phẩm Con mắt thứ ba là sự huyền bí về đất nước Tây Tạng với những cảnh vật, phong tục văn hóa khác biệt và những bí ẩn của Phật giáo Tây Tạng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1126337c34c2f6a50cb272a9d926c84d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1126337c34c2f6a50cb272a9d926c84d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/65-con-mat-thu-ba-tay-tang-huyen-bi-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/65-con-mat-thu-ba-tay-tang-huyen-bi-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

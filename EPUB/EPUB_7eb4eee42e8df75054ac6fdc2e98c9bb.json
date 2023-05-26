@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/luan-ve-yeu-884.html",
+    "title" : "LUẬN VỀ YÊU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alainde Botton",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Alain de Botton Sinh năm 1969 tại Zurich, Thụy Sĩ, hiện nay sống ở London. Ông là tác giả của nhiều tiểu luận và được gọi là tác giả của một “triết học về cuộc sống thường ngày”. Các chủ đề của ông có thể là: tình yêu, du lịch, kiến trúc hay văn chương. Các tác phẩm của ông từng trở thành bestseller tại hơn 30 nước. Một số tác phẩm tiêu biểu của Alain de Botton: Luận về yêu, The News: A User’s Manual, How to Think More about Sex, Status Anxiety, The Art of Travel, How Proust Can Change Your Life. Sơ lược về tác phẩm Cuốn sách này chứa đựng chính xác những gì lâu nay ta vẫn muốn biết về tình yêu: Không thiếu ảo tưởng nhưng cũng đầy sáng suốt, mê đắm nhưng biết giữ khoảng cách, nồng nhiệt và rất hài hước nhưng cùng lúc ngập tràn phân tích lạnh lùng. Chính khía cạnh “phân tích” này làm nên sự hấp dẫn nhất của Luận về yêu, vì tác giả đã sử dụng những triết thuyết tưởng chừng khô cứng để tiếp cận tình yêu một cách thấu đáo, từ rất nhiều phương diện, kể cả những phương diện mà những người đang yêu thường muốn giấu kín. Luận về yêu, tác phẩm thời trẻ của Alain de Botton, hiện nay là một nhà văn, triết gia và diễn giả nổi tiếng thế giới, còn đặc biệt hấp dẫn vì tùy theo tạng riêng của mình, độc giả có thể đọc nó như một tập tiểu luận sâu sắc, hoặc như một cuốn tiểu thuyết vô cùng hấp dẫn và không hề thiếu kịch tính</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7eb4eee42e8df75054ac6fdc2e98c9bb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7eb4eee42e8df75054ac6fdc2e98c9bb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/884-luan-ve-yeu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/884-luan-ve-yeu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

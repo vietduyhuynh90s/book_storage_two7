@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-bi-thuat-thoi-co-dai-1109.html",
+    "title" : "NHỮNG BÍ THUẬT THỜI CỔ ĐẠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đoàn Văn Thông",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách này chỉ trình bầy một số bí thuật từ thời xưa cổ đại và ngày nay vẫn thường được áp dụng ở nhiều quốc gia trên thế giới. Quý vị sẽ lần lượt biết qua một số bí thuật trong dân gian thường nhuốm vẻ mơ hồ kỳ lạ nhưng đã từng đem lại những kết quả không ngờ. Những bí thuật ấy áp dụng trong đời sống mà mục đích là mang lại sự an vui, tốt lành về nơi cư trú, sự đi lại, gia đình con cái, vợ chồng. Có khi bí thuật còn dùng để chống lại những đe dọa, nguy hiểm từ bên ngoài. Một số bí thuật còn được xem là những phương thức giúp hài hòa giữa môi trường sống và con người, trong đó nhà cửa đất đai, cây cối là những tác nhân ảnh hưởng mạnh mẽ lên đời sống của con người. Vì sự quan trọng của lãnh vực nhà cửa, đất đai nên trong sách này, chúng tôi đã tập chú vào những bí thuật liên quan tới phong thủy. Hy vọng cuốn sách này sẽ mang lại những kết quả tốt lành đến với mọi người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9bc7a9b1b9d6c0136fafc444cdeeb22c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9bc7a9b1b9d6c0136fafc444cdeeb22c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1109-nhung-bi-thuat-thoi-co-dai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1109-nhung-bi-thuat-thoi-co-dai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

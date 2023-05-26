@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-8-45.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 8",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chương 54 - Bí ẩn người tuyết Himalaya Muỗi Trang bị mới Núi Tu Di Câu chuyện của A Mễ Gia tộc thằn lằn Cái chết của Sean Chương 55 - Người tuyết Himalaya giờ ở đ}u? Gián Gặp gỡ Mã Cát Người Lỗ Mặc Thôn Công Nhật Lạp Địch ô An Cát Mẫu Lịch sử Thánh vực Chương 56 - Những người trúng cổ độc Những người trúng cổ độc M~ C|t v{ Trương Lập Bài ca của tinh linh tuyết Ám chiến (1) Chương 57 - Di tích của dân tộc Mục Ám chiến (2) Chất thông tin của Sean Cổ độc tuyệt hậu Đường đến Tước Mẫu Di tích của người Mục Oan gia ngõ hẹp Chương 58 - Th{nh Tước Mẫu Thực lực của Max Quách Nhật Niệm Thanh Nhà ngục Tước Mẫu Giao dịch Chương 59 - Vương quốc Yaca Thần bí Tinh linh tuyết Bệnh mù sông Điều kiện của Tước Mẫu vương Đi sứ Yaca Kẻ thù của Nhạc Dương Gặp lại Ngưu Nhị Oa Chương 60 - Mật tu giả tìm đường trở về Kẻ bắn lén Qua Ba Đại Địch ô Trải nghiệm của ph|p sư Th|p T}y Âm mưu của Quách Nhật Niệm Thanh Thượng vị Cách quả Chương 61 - Cái chết của đội trưởng Hồ Dương Đường hẹp gặp nhau Cách chiến đấu của Nhện Xanh Lọt lưới Nhện Xanh đối đầu Cái chết của đội trưởng Hồ Dương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3d1f31bc27d43c89e3023547d1e74e46.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3d1f31bc27d43c89e3023547d1e74e46.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/45-mat-ma-tay-tang-tap-8-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/45-mat-ma-tay-tang-tap-8-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

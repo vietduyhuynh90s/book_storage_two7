@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-ngay-tho-au-1315.html",
+    "title" : "NHỮNG NGÀY THƠ ẤU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người ta hay giấu giếm và che đậy sự thật, nhất là sự đáng buồn trong gia đình. Có lợi ích gì không? Những ngày thơ ấu mà Nguyên Hồng kể lại, tôi không muốn biết là có nên hay không, tôi chỉ thấy trong những kỉ niệm cứ đau đớn ấy sự rung động cực điểm của một tâm hồn trẻ dại, lạc loài trong những lề lối khắc nghiệt của một gia đình sắp tàn. Trên những trang mà Nguyên Hồng viết ra đây, chúng ta thấy nổi lên hình ảnh một người mẹ chịu khổ và âu yếm, một người mẹ hiền từ mà tác giả nói đến với tất cả tình yêu tha thiết của con người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_538009c499fec11e4bf2cef16300df87.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_538009c499fec11e4bf2cef16300df87.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Những Ngày Thơ Ấu - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=1220",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:20 Những Ngày Thơ Ấu - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=2169",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:36:09 Những Ngày Thơ Ấu - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=3326",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:26 Những Ngày Thơ Ấu - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=3814",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:03:34 Những Ngày Thơ Ấu - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=4526",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:26 Những Ngày Thơ Ấu - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=5723",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:35:23 Những Ngày Thơ Ấu - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=6610",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:50:10 Những Ngày Thơ Ấu - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=7128",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:58:48 Những Ngày Thơ Ấu - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Những Ngày Thơ Ấu - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=1220",
+    "title" : "00:20:20 Những Ngày Thơ Ấu - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=2169",
+    "title" : "00:36:09 Những Ngày Thơ Ấu - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=3326",
+    "title" : "00:55:26 Những Ngày Thơ Ấu - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=3814",
+    "title" : "01:03:34 Những Ngày Thơ Ấu - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=4526",
+    "title" : "01:15:26 Những Ngày Thơ Ấu - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=5723",
+    "title" : "01:35:23 Những Ngày Thơ Ấu - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=6610",
+    "title" : "01:50:10 Những Ngày Thơ Ấu - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1315-nhung-ngay-tho-au-thuviensach.vn.mp3?t=7128",
+    "title" : "01:58:48 Những Ngày Thơ Ấu - Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

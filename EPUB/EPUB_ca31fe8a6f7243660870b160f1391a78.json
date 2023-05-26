@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/6-thoi-ki-quan-trong-de-day-tre-1145.html",
+    "title" : "6 THỜI KÌ QUAN TRỌNG ĐỂ DẠY TRẺ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mùa xuân gieo hạt, mùa thu hái quả, mọi thứ đều có thời điểm của riêng mình, trẻ em cũng vậy, sinh ra và lớn lên đều theo quy luật, vì lý do nào đó mà ta bỏ lỡ thời kỳ quan trọng trong chặng đuờng phát triển của trẻ thì sẽ phải hao tốn rất nhiều tinh thần và sức lực mới có thể bù đắp nổi, thậm chí có nhũng điều không thể bù đắp được. Mỗi đứa trẻ đều có tiềm năng trở thành thiên tài trong lĩnh vực nào đó, quan trọng là ta có tận dụng được thời cơ vàng để khơi dậy tiềm năng ấy hay không. Khái niệm “thời kỳ quan trọng” được đưa ra bởi nhà tâm lý học nguời Áo, Konrad Zachrias Loenz. Ông cho rằng, có những kỹ năng sẽ phát triển đỉnh cao ở thời kỳ nào đó và ông gọi đó là “thời kỳ quan trọng của sự phát triển”, nắm bắt thời kỳ quan trọng của trẻ để khai thác và bồi duỡng khả năng của trẻ có thể sẽ mang lại hiệu quả gấp bội. Giống như người thợ rèn nếu không để ý đến nhiệt độ trong lò, không biết cách điều chỉnh ngọn lửa thì sẽ cho ra thành phẩm kém chất lượng. Trẻ con cũng giống như mảnh gang, luỡi thép chuẩn bị đúc thành sản phẩm. Cha mẹ phải nắm bắt được thời kỳ quan trọng của trẻ đề biết “chỉnh lửa”, giúp trẻ trưởng thành vững vàng. Cuốn sách “Sáu thời kỳ quan trọng để dạy trẻ” phân tích cụ thể các thời kỳ quan trọng trong quá trình trưởng thành của trẻ, nhằm giúp các bậc cha mẹ hiểu rõ được quá trình phát triển của trẻ: Thời kỳ chuyển ngoặt quan trọng là khi nào, khi ấy phải coi trọng những vấn đề gì, phải tiến hành giáo dục như thế nào... từ đó, cuốn sách sẽ đồng hành cùng cha mẹ chắp cánh cho trẻ bay xa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ca31fe8a6f7243660870b160f1391a78.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ca31fe8a6f7243660870b160f1391a78.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1145-6-thoi-ki-quan-trong-de-day-tre-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1145-6-thoi-ki-quan-trong-de-day-tre-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

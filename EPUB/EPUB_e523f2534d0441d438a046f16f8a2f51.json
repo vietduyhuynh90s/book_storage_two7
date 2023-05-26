@@ -1,0 +1,593 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/moi-luong-duyen-troi-danh-10810.html",
+    "title" : "MỐI LƯƠNG DUYÊN TRỜI ĐÁNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Thanh Thần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Có người yêu bình lặng, có người yêu nồng nhiệt, lại có người yêu rất vụng về. Người luôn làm ra vẻ như không quan tâm đến bạn thật ra ánh mắt lại luôn vô tình trôi về phía bạn, vì yêu, vì quan tâm nên luôn tìm cách ăn miếng trả miếng. Tình yêu bình lặng của những người bình thường luôn có hạnh phúc, rung động riêng của nó. Một vụ \"huyết án\" do chiếc quần lót \"vô tội\" gây ra, cô gái keo kiệt và chàng trai độc miệng chẳng cách nào chạy khỏi \"nghiệt duyên\". \"Hàng ngàn hàng vạn mối tình, hàng ngàn hàng vạn cách thể hiện, như Kỷ Ngôn Tắc và Viên Nhuận Chi, tình yêu giữa họ cứ thế xoay vần, nhưng người đọc dần dần vẫn có thể cảm nhận được hạnh phúc. Có lẽ tác giả và \"nửa kia\" cũng đang rất hạnh phúc, nên sự ấm áp mới tràn ngập cuốn sách như vậy... Ghen tị-ing.\"</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_e523f2534d0441d438a046f16f8a2f51.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_e523f2534d0441d438a046f16f8a2f51.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Mối Lương Duyên Trời Đánh - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=551",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:09:11 Mối Lương Duyên Trời Đánh - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=1379",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:22:59 Mối Lương Duyên Trời Đánh - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=2390",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:50 Mối Lương Duyên Trời Đánh - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=3609",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:09 Mối Lương Duyên Trời Đánh - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=4518",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:18 Mối Lương Duyên Trời Đánh - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=5455",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:30:55 Mối Lương Duyên Trời Đánh - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=6704",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:44 Mối Lương Duyên Trời Đánh - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=7529",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:05:29 Mối Lương Duyên Trời Đánh - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=8944",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:29:04 Mối Lương Duyên Trời Đánh - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=10033",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:13 Mối Lương Duyên Trời Đánh - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=10988",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:03:08 Mối Lương Duyên Trời Đánh - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=11882",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:18:02 Mối Lương Duyên Trời Đánh - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=13360",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:42:40 Mối Lương Duyên Trời Đánh - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=14489",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:01:29 Mối Lương Duyên Trời Đánh - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=15961",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:26:01 Mối Lương Duyên Trời Đánh - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=16859",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:40:59 Mối Lương Duyên Trời Đánh - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=18226",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:03:46 Mối Lương Duyên Trời Đánh - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=18534",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:08:54 Mối Lương Duyên Trời Đánh - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=19911",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:31:51 Mối Lương Duyên Trời Đánh - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=21781",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:03:01 Mối Lương Duyên Trời Đánh - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=23094",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:24:54 Mối Lương Duyên Trời Đánh - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=23874",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:37:54 Mối Lương Duyên Trời Đánh - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=25252",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:00:52 Mối Lương Duyên Trời Đánh - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=26135",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:15:35 Mối Lương Duyên Trời Đánh - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=27502",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:38:22 Mối Lương Duyên Trời Đánh - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=28654",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:57:34 Mối Lương Duyên Trời Đánh - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=29919",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:18:39 Mối Lương Duyên Trời Đánh - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=30643",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:30:43 Mối Lương Duyên Trời Đánh - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=31461",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:44:21 Mối Lương Duyên Trời Đánh - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=32842",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:07:22 Mối Lương Duyên Trời Đánh - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=34125",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:28:45 Mối Lương Duyên Trời Đánh - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=35506",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:51:46 Mối Lương Duyên Trời Đánh - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=36157",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:02:37 Mối Lương Duyên Trời Đánh - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=36790",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:13:10 Mối Lương Duyên Trời Đánh - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=37586",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:26:26 Mối Lương Duyên Trời Đánh - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=38968",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:49:28 Mối Lương Duyên Trời Đánh - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=40379",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:12:59 Mối Lương Duyên Trời Đánh - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=41274",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:27:54 Mối Lương Duyên Trời Đánh - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=42177",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:42:57 Mối Lương Duyên Trời Đánh - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=43707",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:08:27 Mối Lương Duyên Trời Đánh - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=44989",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:29:49 Mối Lương Duyên Trời Đánh - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=46009",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:46:49 Mối Lương Duyên Trời Đánh - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=48004",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:20:04 Mối Lương Duyên Trời Đánh - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=49559",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:45:59 Mối Lương Duyên Trời Đánh - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=51227",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:13:47 Mối Lương Duyên Trời Đánh - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Mối Lương Duyên Trời Đánh - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=551",
+    "title" : "00:09:11 Mối Lương Duyên Trời Đánh - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=1379",
+    "title" : "00:22:59 Mối Lương Duyên Trời Đánh - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=2390",
+    "title" : "00:39:50 Mối Lương Duyên Trời Đánh - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=3609",
+    "title" : "01:00:09 Mối Lương Duyên Trời Đánh - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=4518",
+    "title" : "01:15:18 Mối Lương Duyên Trời Đánh - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=5455",
+    "title" : "01:30:55 Mối Lương Duyên Trời Đánh - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=6704",
+    "title" : "01:51:44 Mối Lương Duyên Trời Đánh - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=7529",
+    "title" : "02:05:29 Mối Lương Duyên Trời Đánh - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=8944",
+    "title" : "02:29:04 Mối Lương Duyên Trời Đánh - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=10033",
+    "title" : "02:47:13 Mối Lương Duyên Trời Đánh - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=10988",
+    "title" : "03:03:08 Mối Lương Duyên Trời Đánh - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=11882",
+    "title" : "03:18:02 Mối Lương Duyên Trời Đánh - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=13360",
+    "title" : "03:42:40 Mối Lương Duyên Trời Đánh - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=14489",
+    "title" : "04:01:29 Mối Lương Duyên Trời Đánh - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=15961",
+    "title" : "04:26:01 Mối Lương Duyên Trời Đánh - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=16859",
+    "title" : "04:40:59 Mối Lương Duyên Trời Đánh - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=18226",
+    "title" : "05:03:46 Mối Lương Duyên Trời Đánh - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=18534",
+    "title" : "05:08:54 Mối Lương Duyên Trời Đánh - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=19911",
+    "title" : "05:31:51 Mối Lương Duyên Trời Đánh - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=21781",
+    "title" : "06:03:01 Mối Lương Duyên Trời Đánh - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=23094",
+    "title" : "06:24:54 Mối Lương Duyên Trời Đánh - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=23874",
+    "title" : "06:37:54 Mối Lương Duyên Trời Đánh - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=25252",
+    "title" : "07:00:52 Mối Lương Duyên Trời Đánh - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=26135",
+    "title" : "07:15:35 Mối Lương Duyên Trời Đánh - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=27502",
+    "title" : "07:38:22 Mối Lương Duyên Trời Đánh - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=28654",
+    "title" : "07:57:34 Mối Lương Duyên Trời Đánh - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=29919",
+    "title" : "08:18:39 Mối Lương Duyên Trời Đánh - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=30643",
+    "title" : "08:30:43 Mối Lương Duyên Trời Đánh - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=31461",
+    "title" : "08:44:21 Mối Lương Duyên Trời Đánh - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=32842",
+    "title" : "09:07:22 Mối Lương Duyên Trời Đánh - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=34125",
+    "title" : "09:28:45 Mối Lương Duyên Trời Đánh - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=35506",
+    "title" : "09:51:46 Mối Lương Duyên Trời Đánh - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=36157",
+    "title" : "10:02:37 Mối Lương Duyên Trời Đánh - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=36790",
+    "title" : "10:13:10 Mối Lương Duyên Trời Đánh - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=37586",
+    "title" : "10:26:26 Mối Lương Duyên Trời Đánh - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=38968",
+    "title" : "10:49:28 Mối Lương Duyên Trời Đánh - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=40379",
+    "title" : "11:12:59 Mối Lương Duyên Trời Đánh - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=41274",
+    "title" : "11:27:54 Mối Lương Duyên Trời Đánh - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=42177",
+    "title" : "11:42:57 Mối Lương Duyên Trời Đánh - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=43707",
+    "title" : "12:08:27 Mối Lương Duyên Trời Đánh - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=44989",
+    "title" : "12:29:49 Mối Lương Duyên Trời Đánh - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=46009",
+    "title" : "12:46:49 Mối Lương Duyên Trời Đánh - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=48004",
+    "title" : "13:20:04 Mối Lương Duyên Trời Đánh - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=49559",
+    "title" : "13:45:59 Mối Lương Duyên Trời Đánh - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10810-moi-luong-duyen-troi-danh-thuviensach.vn.mp3?t=51227",
+    "title" : "14:13:47 Mối Lương Duyên Trời Đánh - Phần 47",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

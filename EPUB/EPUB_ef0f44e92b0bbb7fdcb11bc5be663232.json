@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-quyet-hoc-dau-nho-do-2430.html",
+    "title" : "BÍ QUYẾT HỌC ĐÂU NHỚ ĐÓ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Peter C. Brown",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn có bao giờ tự hỏi, tại sao nhiều người không học chăm chỉ nhưng lại rất giỏi không? Đơn giản bởi họ đã nắm được bí mật cho phương pháp học siêu tốc mà không tốn quá nhiều công sức. Bí Quyết Học Đâu Nhớ Đó là cuốn sách sẽ thay đổi cuộc đời bạn. Rèn luyện trí nhớ không chỉ gói gọn trong việc học thuộc lòng bài vở (mặc dù trong quyển sách này bạn sẽ tìm thấy chính xác các giải pháp cho điều này). Để thực sự thành công, trong học hành lẫn cuộc sống, bạn cần biết cách tận dụng hết công suất “bộ nhớ” của mình. Rèn luyện trí nhớ đồng nghĩa với việc tổ chức lại cách thức tư duy, phát triển sự sáng tạo, mài dũa các kỹ năng học tập - đồng thời nâng cao dần những chuẩn mực cuộc sống và những đỉnh cao bạn có thể chinh phục. Bởi thế, luyện trí não không chỉ đơn thuần là cách để học tốt hơn mà còn là bước khởi đầu cho một cuộc đời mới.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ef0f44e92b0bbb7fdcb11bc5be663232.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ef0f44e92b0bbb7fdcb11bc5be663232.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2430-bi-quyet-hoc-dau-nho-do-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2430-bi-quyet-hoc-dau-nho-do-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

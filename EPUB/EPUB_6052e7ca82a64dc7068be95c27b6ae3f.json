@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-nguoi-dan-ong-khong-co-dan-ba-1105.html",
+    "title" : "NHỮNG NGƯỜI ĐÀN ÔNG KHÔNG CÓ ĐÀN BÀ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Haruki Murakami",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bình tĩnh đến kỳ lạ. Những người đàn ông không có đàn bà gồm 7 câu chuyện: Drive my car, Yesterday, Cơ quan độc lập, Scheherazade, Kino, Samsa đang yêu và Những người đàn ông không có đàn bà. Cả bảy truyện đều bình tĩnh đến kỳ lạ Dù trong sách này có người biếng ăn, bị không khí rút đi từng calo và cơ thịt hằng ngày cho đến khi chết một cách xương xẩu; dù có người đi công tác về sớm xô cửa và nhìn thẳng ngay vào mặt vợ mình đang trên một người đàn ông, dù có người đã dành suốt những ngày hè đi học chỉ để đột nhập vào nhà người ta và hít ngửi nách áo của họ thì bầu không khí chung của cả cuốn sách vẫn bình tĩnh đến kỳ lạ. Nó phù hợp để đọc cả với những người vốn vẫn tránh Murakami vì không quen với thế giới siêu thực của ông. HOàn toàn không có bóng dáng một cơn mưa cá, mưa đỉa, những giấc mơ nguyên tội hay thậm chí một cái giếng. Đây là những câu chuyện đời thành đô, với những suy tư thị dân mà ai cũng có nhưng ít khi tìm được cách diễn đạt thành lời. Cả bảy truyện đều như thế, rất bình tĩnh, dù rằng không mấy bình yên. Những người đàn ông không có đàn bà là tập truyện ngắn mới nhất ra đời sau chín năm kể từ tập truyện ngắn Những câu chuyện kỳ lạ ở Tokyo, xuất bản năm 2005. Những người đàn ông không có đàn bà không phải là những câu chuyện được viết lẻ tẻ rồi nhét đại thành một tập sách. Thay vào đó, các truyện ngắn được thiết lập theo một mô-típ, một chủ đề riêng, sắp xếp các truyện theo khái niệm. Mô-típ của tập truyện Tất cả con của Chúa đều nhảy là trận động đất Kobe năm 1995, còn của Những câu chuyện kỳ lạ ở Tokyo là những câu chuyện bí ẩn xung quanh những người sống ở đô thị. Mô-típ của tập truyện này là những người đàn ông không có đàn bà.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6052e7ca82a64dc7068be95c27b6ae3f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6052e7ca82a64dc7068be95c27b6ae3f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1105-nhung-nguoi-dan-ong-khong-co-dan-ba-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1105-nhung-nguoi-dan-ong-khong-co-dan-ba-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

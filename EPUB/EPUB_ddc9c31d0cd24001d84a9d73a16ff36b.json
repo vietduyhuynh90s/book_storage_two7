@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-phat-cho-nguoi-moi-bat-dau-919.html",
+    "title" : "KINH PHẬT CHO NGƯỜI MỚI BẮT ĐẦU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Thay lời tựa...vii PHẦN DẪN NHẬP 1. Nguyện hương.3 2. Đảnh lễ Tam bảo.4 3. Tán hương.5 4. Tán dương giáo pháp...5 PHẦN CHÁNH KINH 1. Kinh chuyển pháp luân...9 2. Kinh người áo trắng..15 3. Kinh phước đức...25 4. Kinh thiện sinh.29 5. Kinh tránh xa các cánh cửa bại vong...39 6. Kinh nhân quả đạo đức.45 7. Kinh bốn ân lớn...53 8. Kinh thực tập vô ngã.75 9. Kinh bốn pháp quán niệm..81 10. Kinh bảy cách dứt trừ khổ đau.93 PHẦN HỒI HƯỚNG 1. Bát-nhã Tâm kinh.105 2. Niệm Phật.107 3. Năm điều quán tưởng...107 4. Quán chiếu thực tại...108 5. Sám quy nguyện..109 6. Hồi hướng công đức... 112 7. Lời nguyện cuối... 113 8. Đảnh lễ Ba ngôi báu... 114</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ddc9c31d0cd24001d84a9d73a16ff36b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ddc9c31d0cd24001d84a9d73a16ff36b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/919-kinh-phat-cho-nguoi-moi-bat-dau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/919-kinh-phat-cho-nguoi-moi-bat-dau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

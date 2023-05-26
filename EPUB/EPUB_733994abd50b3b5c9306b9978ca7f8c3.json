@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song-13734.html",
+    "title" : "YES OR NO NHỮNG QUYẾT ĐỊNH THAY ĐỔI CUỘC SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Spencer Johnson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Câu chuyện kể về hành trình của một chàng trai đi tìm bí quyết của thành công và hạnh phúc từ những quyết định của mình. Chàng trai tham gia vào chuyến thám hiểm để trải nghiệm và học hỏi cách giải quyết các vấn đề một cách hiệu quả và đúng đắn nhất, những kinh nghiệm có thể áp dụng cho bất kỳ ai thấy khó khăn và bế tắc trong công việc và cuộc sống của mình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_733994abd50b3b5c9306b9978ca7f8c3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_733994abd50b3b5c9306b9978ca7f8c3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13734-yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13734-yes-or-no-nhung-quyet-dinh-thay-doi-cuoc-song-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

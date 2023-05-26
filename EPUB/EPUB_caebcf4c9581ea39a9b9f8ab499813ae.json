@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vi-chan-su-286.html",
+    "title" : "VỊ CHÂN SƯ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cyril Meir Scott",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>NỘI DUNG Quyển 1 - Vị Chân Sư - Dẫn nhập... 6 - Giới thiệu... 15 1/ Vị Chân Sư... 20 2/ Khách lạ.. 22 3/ Buổi gặp thứ hai... 27 4/ Tính câu nệ của bà Darnley.. 32 5/ Bữa tiệc ngoài vườn... 39 7/ Cô Daisy Templemore.. 44 8/ Linh Mục Wilton.. 52 9/ Triết lý về sự tử.. 61 10/ Nỗi đau khổ của Thiếu Tá Buckingham... 67 11/ Chiến thắng của lòng cao thượng.. 79 12/ Sự thay đổi lạ lùng của Thầy Moreward.. 88 14/ Cuộc tái ngộ của Gladys và Gordon... 95 15/ Th{i độ tự cầm tù..106 16/ Cuộc cải hóa Flossy Macdonald..116 17/..126 18/ Sự ra đi..135 Quyển 2 - Vị Chân Sư trong Thế Giới Mới..142 1/ Tái ngộ.144 2/ Luân lý và Siêu luân lý.151 3/ Cô Brind và cô Delafield.164 4/ Hai người Đông phương và cuộc đi xe.173 5/ Cô Brind và cô Delafield.179 6/ Tiến bộ.189 7/ Tình thương và sự hứng khởi.198 8/ Lòng ích kỷ...206 9/ Cặp Arkwrights.218 10/ Hội viên Hội Thông Thiên Học...225 11/ Trong nghĩa trang.231 12/ Câu hỏi về hôn nhân...239 13/ Chuyện bí ẩn.247 14/..254 15/ Tâm thương yêu hằng hữu.258 16/ Làm sáng tỏ...262 17/ Hệ quả...271 18/ Tính thích nghi...277 19/ Cuộc chuyện trò.284 20/ Nguyên nhân vô hình của chiến tranh..292 21/ Quyết định.296 22/ Tính dục...302 22/ Lý do thử thách của Clare...307 25/ Vị Dhyan Chohan và Quyển Sách.325 26/ Nhạc và ‘Phép lạ’.328 Kết từ...341 Quyển 3 - Vị Chân Sư trong Thời Đại Đen Tối Giới thiệu.347 1/ Vị Đạo Đồ Thiên Thần...352 2/.367 3/ Tin dữ đến.374 4/ Âm của lời thinh lặng.388 5/ Krishnamurti: Một vấn đề...394 6/ Người Tiền Phong của Đạo Đức Mới.403 7/ David Anrias: Chiêm tinh gia và Huyền bí gia...409 8/ Bức Điện Tín...416 9/ Ngôi nhà của Chân Sư..423 10/ Thảo luận của Thầy..431 11/ Sự thật về Krishnamurti...438 12/ Thầy J.M.H. bàn về nhiều việc.446 13/ Tương lai của giống dân Anh...454 14/ Một linh hồn trong đêm tối...462 15/ Người đưa tin của Chân Sư Koot Hoomi.469 16/ Hai Chân Sư ở Hi Mã Lạp Sơn.481</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_caebcf4c9581ea39a9b9f8ab499813ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_caebcf4c9581ea39a9b9f8ab499813ae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/286-vi-chan-su-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/286-vi-chan-su-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

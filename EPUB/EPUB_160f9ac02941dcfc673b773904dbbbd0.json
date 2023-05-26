@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thay-doi-de-thanh-cong-danh-thuc-suc-manh-tiem-thuc-trong-con-nguoi-cua-ban-13464.html",
+    "title" : "THAY ĐỔI ĐỂ THÀNH CÔNG - ĐÁNH THỨC SỨC MẠNH TIỀM THỨC TRONG CON NGƯỜI CỦA BẠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Maxwell Maltz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách “Thay đổi để thành công” được nhận định là một tác phẩm kinh điển của dòng sách self-help. Kể từ lần đầu tiên ra mắt vào năm 1960, hơn 35 triệu bản đã được bán ra trên toàn thế giới. Giá trị của cuốn sách được khẳng định khi hàng triệu độc giả thuộc mọi tầng lớp trong xã hội thay đổi cuộc đời của họ. Cuốn sách sẽ giúp bạn khai thác năng lực của tiềm thức để: Những thói quen tốt cùng với sự linh hoạt trong cuộc sống đưa bạn đến gần hơn với sự thành công. Thành công là một sự linh động có cơ chế điều khiển theo cách riêng của nó. Việc phát triển các tư duy như một la bàn giúp bạn không ngừng định hướng trên con đường kinh doanh và thực hiện mục tiêu tài chính. Những tư duy này cho phép bạn cởi mở, linh hoạt và định hướng chính xác hơn trong cuộc sống. Về tác giả Maxwell Maltz Maxwell Maltz (10/3/1889 - 7/4/1975) là bác sỹ phẫu thuật thẩm mỹ. Trong nhiều năm, ông thực hiện phẫu thuật thẩm mỹ vùng mặt, nhưng ông dần chuyển từ chữa trị “những vết thương bên ngoài” sang chữa trị “những vết thương bên trong” sau khi quan sát thấy một số bệnh nhân vẫn không hạnh phúc dù đã có gương mặt mới. Một số người cho biết dù bề ngoài họ đã thay đổi, họ không cảm thấy có gì khác biệt. Maltz cố gắng tìm hiểu tại sao lại như vậy. Ông nhận thấy “cuộc sống bên ngoài” phản ánh cách mà mỗi người nhìn bản thể bên trong, thứ mà ông gọi là “hình ảnh cái tôi”. Ông cho rằng một người không thể vươn lên cao hơn hình ảnh cái tôi này. Nếu “bản thể bên trong” không tương xứng “bản thể bên ngoài”, con người sẽ luôn bật ngược trở lại nơi mình nghĩ mình thuộc về. Sau một thập kỷ tư vấn cho bệnh nhân, sau rất nhiều nghiên cứu, Maltz xuất bản kết quả nghiên cứu của mình vào năm 1960. Cuốn Thay đổi để thành công lập tức trở thành sách bán chạy nhất, và đã có ảnh hưởng tới nhiều tác gia về chủ đề tự giúp bản thân sau này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_160f9ac02941dcfc673b773904dbbbd0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_160f9ac02941dcfc673b773904dbbbd0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13464-thay-doi-de-thanh-cong-danh-thuc-suc-manh-tiem-thuc-trong-con-nguoi-cua-ban-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13464-thay-doi-de-thanh-cong-danh-thuc-suc-manh-tiem-thuc-trong-con-nguoi-cua-ban-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tam-gioi-toan-thu-quyen-7-1142.html",
+    "title" : "TAM GIỚI TOÀN THƯ - QUYỂN 7",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thủy Liên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúng ta sinh tồn nơi thế gian này, đều thọ ân sinh dưỡng của Thiên Địa. Tình thương từ Đất Mẹ bao la vô cùng tận dung dưỡng cho muôn sinh vạn loại được sống vui khỏe mỗi ngày, mà lòng người thì chẳng bao giờ biết đủ. Ta có thực sự sống an vui với lòng biết ơn ấy để sự tồn tại của mình giữa đời này thực sự có ý nghĩa chăng. Trong từng ý niệm sinh tồn của mình, chúng ta cần nên nhớ rằng mọi thứ đều có giới hạn của nó. Nếu ta không trân trọng những gì mình có được, để cho những ham muốn ích kỷ của mình mãi muốn có thêm, thêm nữa và thêm hoài thì các tài nguyên quanh mình sẽ cạn kiệt, và mình cũng đi dần vào diệt vong. Khi muốn, người ta sẽ tìm cách để làm cho được. Khi không muốn, người ta cũng sẽ tìm đủ mọi lý do để từ chối. Chung quy muốn hay không muốn sẽ quyết định phần nhiều đến kết quả. Còn được hay không chỉ là phần tùy duyên của khả năng và vận mệnh mà thôi. Giờ phút này, chúng ta có tự vấn mình thực sự muốn tu tâm dưỡng tánh chưa... Tam Giới Toàn Thư, hôm nay đã đi được một chặng đường dài. Nhóm thực hiện bộ sách cũng chỉ mong muốn đem đến cho độc giả những góc nhìn chân thật, đầy đủ nhất về các khái niệm trong Tam Giới, đặc biệt là các lý sự tâm linh huyền vi. Chung quy lại vẫn là vui sống từng ngày với lòng biết ơn Thiên Địa, biết ơn cuộc đời vì ta đang sống, đang được trải nghiệm sự sống với nhiều cung bậc khác nhau. Ít muốn và biết đủ thì dễ hạnh phúc. Chúng ta, cùng cố gắng tinh tấn mỗi ngày trong tình thương đại đồng, an nhiên và tỉnh thức nhé. ThủyLiênTử Tháng 5, năm 2020</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_cd8f93b0931d322409f763098eeab378.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_cd8f93b0931d322409f763098eeab378.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1142-tam-gioi-toan-thu-quyen-7-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1142-tam-gioi-toan-thu-quyen-7-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

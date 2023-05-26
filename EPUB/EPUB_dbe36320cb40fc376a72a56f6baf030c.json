@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-dai-muu-luoc-gia-trung-quoc-13470.html",
+    "title" : "10 ĐẠI MƯU LƯỢC GIA TRUNG QUỐC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tabata Seiichi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>I. Khương Thượng - Vị Thỉ Tổ Các Mưu Lược Gia Trung Quốc II. Phạm Lãi - Mưu Lược Gia Biết Tự Rút Lui Đúng Lúc III. Tôn Tẩn - Một Nhà Mưu Lược Quân Sự Nhẫn Nhục Bất Khuất IV. Tô Tần - Mưu Luợc Gia Về Thuật “Tung Hoành Bài Hợp” V. Trương Nghi - Nhà Tung Hoành Đưa Nước Tần Trở Thành Cường Quốc VI. Phạm Thư - Nhà Mưu Lược Giúp Tần Hoàn Thành Đế Nghiệp VII. Trương Lương - Bậc Thầy Của Đế Vương VIII. Quách Gia - Một Mưu Lược Gia Không Bao Giờ Tính Toán Sai IX. Lưu Cơ - Nhà Mưu Lược Xây Dựng Triều Minh X. Phạm Văn Trình - Nhà Mưu Lược Đã Giúp Triều Thanh Tiến Vào Quan Ải Trên đây là 10 Đại Mưu Lược Gia Trung Quốc chắc ít nhiều bạn đã biết đến. Cuốn sách ebook bày sẽ kể chi tiết từng người một từ xuất xứ đến các điển tích của họ. Chắc chắn sẽ giúp bạn có những phút giây thư giản, những kiến thức, những bài học bổ ích.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_dbe36320cb40fc376a72a56f6baf030c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_dbe36320cb40fc376a72a56f6baf030c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13470-10-dai-muu-luoc-gia-trung-quoc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13470-10-dai-muu-luoc-gia-trung-quoc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

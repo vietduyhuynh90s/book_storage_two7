@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cha-giau-cha-ngheo-1162.html",
+    "title" : "CHA GIÀU CHA NGHÈO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert Kiyosaki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nguyên nhân khiến kẻ giàu càng giàu, người nghèo ngày càng nghèo, giới trung lưu thì thường mắc nợ chính là vì chủ đề tiền bạc được dạy ở nhà chứ không không ở trường. Chúng ta thường học cách xử lý tiền bạc từ cha mẹ của mình và thường thì người nghèo không dạy con về tiền bạc mà chỉ đơn giản nói là: \"Hãy đến trường và học chăm chỉ\" chứ không dạy ta cách quản lý tiền bạc. Đó chính là lý do vì sao hầu hết các nhân viên ngân hàng, bác sĩ, kế toán rất thông minh nhưng họ lại gặp rắc rối ở tài chính hoặc họ được dạy về vấn đề này rất ít. Một quốc gia sẽ thế nào nếu vấn đề này không được dạy một cách phổ biến. Vì vậy, chúng tôi giới thiệu cuốn sách này với mong muốn giúp bạn có thêm nhiều nguồn tham khảo về những lĩnh vực phụ huynh cần dạy con trẻ trước khi bước vào đời. Mong nhận được sự đóng góp ý kiến của mọi người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_bef80bfca1df9f4efc6db071b28ff665.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_bef80bfca1df9f4efc6db071b28ff665.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1162-cha-giau-cha-ngheo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1162-cha-giau-cha-ngheo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/don-dai-hai-chet-nguoi-ta-9504.html",
+    "title" : "ĐỒN ĐẠI HẠI CHẾT NGƯỜI TA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhĩ Nhã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sống trong thời đại của “Đồn đại hại chết người ta”, ngay khi sinh ra phải biết buôn chuyện, muốn giải trí có buôn chuyện, làm ăn nhất thiết cần buôn chuyện, yêu đương lại càng phải buôn chuyện. Cả ngày ngồi hóng tin mỹ nam, mỹ nữ, cuộc sống còn gì sung sướng bằng! Chào mừng bạn tới thế giới “loạn lạc” do Nhĩ Nhã sáng lập. Trải nghiệm những giây phút hoảng loạn vì sợ “rớt hàm”, choáng ngợp vì dàn anh hùng, mỹ nhân “cực phẩm”, rong chơi vui vẻ hết tin đồn A lại qua tin đồn B. Nhĩ Nhã cùng Đồn đại hại chết người ta xin đảm bảo: “Không cười lăn lộn, không thu tiền!”. Thiên hạ thái bình, rảnh rỗi nhàn hạ, người ta sẽ làm gì? Đương nhiên là buôn chuyện rồi! Chuyện mọi người tò mò nhất là đệ nhất tài tử Bạch Hiểu Phong, người mở thư viện Hiểu Phong. Người trong thiên hạ đều cố chen chân vào cho bằng được. Khoan, khoan đã... nói vậy Bạch Hiểu Phong là... Không, không! Chẳng phải nói “Đồn đại hại chết người ta” sao! Đại tướng quân Sách La Định, giỏi võ ghét văn, tự do, thô lỗ, không ai ưa mới là người cần quan tâm. Sách La Định làm nội ứng ở thư viện Hiểu Phong để điều tra tin đồn, tiện thể tác hợp Tam công chúa và Bạch phu tử, cũng là dịp để hắn học lễ nghi phép tắc. Người “quản thúc” hắn lại là muội muội thông minh, xinh đẹp của Bạch Hiểu Phong, tên gọi Bạch Hiểu Nguyệt. Bạch cô nương hoàn mỹ, toàn tài phải “dạy dỗ” Sách tướng quân tiếng xấu khắp nơi chẳng phải rất thiệt thòi hay sao!? Lẽ nào mọi người đều quên “Đồn đại hại chết người ta” rồi!? “Thiệt” hay không, chỉ người trong cuộc mới biết nha!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_fc249c55189d20205a9240537a383bf0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_fc249c55189d20205a9240537a383bf0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đồn Đại Hại Chết Người Ta - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=2642",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:44:02 Đồn Đại Hại Chết Người Ta - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=5399",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:29:59 Đồn Đại Hại Chết Người Ta - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=8461",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:21:01 Đồn Đại Hại Chết Người Ta - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=11225",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:07:05 Đồn Đại Hại Chết Người Ta - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=14988",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:09:48 Đồn Đại Hại Chết Người Ta - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=18755",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:12:35 Đồn Đại Hại Chết Người Ta - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=21717",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:01:57 Đồn Đại Hại Chết Người Ta - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=24795",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:53:15 Đồn Đại Hại Chết Người Ta - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=28509",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:55:09 Đồn Đại Hại Chết Người Ta - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=31952",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:52:32 Đồn Đại Hại Chết Người Ta - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=35029",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:43:49 Đồn Đại Hại Chết Người Ta - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=38415",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:40:15 Đồn Đại Hại Chết Người Ta - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=41353",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:29:13 Đồn Đại Hại Chết Người Ta - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=44736",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:25:36 Đồn Đại Hại Chết Người Ta - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=49698",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:48:18 Đồn Đại Hại Chết Người Ta - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=54283",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:04:43 Đồn Đại Hại Chết Người Ta - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đồn Đại Hại Chết Người Ta - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=2642",
+    "title" : "00:44:02 Đồn Đại Hại Chết Người Ta - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=5399",
+    "title" : "01:29:59 Đồn Đại Hại Chết Người Ta - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=8461",
+    "title" : "02:21:01 Đồn Đại Hại Chết Người Ta - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=11225",
+    "title" : "03:07:05 Đồn Đại Hại Chết Người Ta - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=14988",
+    "title" : "04:09:48 Đồn Đại Hại Chết Người Ta - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=18755",
+    "title" : "05:12:35 Đồn Đại Hại Chết Người Ta - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=21717",
+    "title" : "06:01:57 Đồn Đại Hại Chết Người Ta - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=24795",
+    "title" : "06:53:15 Đồn Đại Hại Chết Người Ta - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=28509",
+    "title" : "07:55:09 Đồn Đại Hại Chết Người Ta - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=31952",
+    "title" : "08:52:32 Đồn Đại Hại Chết Người Ta - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=35029",
+    "title" : "09:43:49 Đồn Đại Hại Chết Người Ta - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=38415",
+    "title" : "10:40:15 Đồn Đại Hại Chết Người Ta - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=41353",
+    "title" : "11:29:13 Đồn Đại Hại Chết Người Ta - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=44736",
+    "title" : "12:25:36 Đồn Đại Hại Chết Người Ta - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=49698",
+    "title" : "13:48:18 Đồn Đại Hại Chết Người Ta - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9504-don-dai-hai-chet-nguoi-ta-thuviensach.vn.mp3?t=54283",
+    "title" : "15:04:43 Đồn Đại Hại Chết Người Ta - Phần 17",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

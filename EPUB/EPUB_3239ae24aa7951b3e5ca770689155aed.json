@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/80-ngay-vong-quanh-the-gioi-13560.html",
+    "title" : "80 NGÀY VÒNG QUANH THẾ GIỚI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jules Verne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Jules Verne sinh ngày 8-2-1828 ở thành phố cổ Năngtơ, một trong những cảng lớn nhất của nước Pháp nằm trên bờ sông Loa. Ông đã chinh phục tâm hồn người đọc không phải chỉ bằng những kiến thức của một trí tuệ thiên tài, mà bằng cả một tài năng nghệ thuật điêu luyện. Thật vậy, tài năng nghệ thuật đã làm cho những tiểu thuyết khoa học viễn tưởng của ông có một sức hấp dẫn đặc biệt. 80 Ngày Vòng Quanh Thế Giới là một trong những tác phẩm tiêu biểu nhất của Jules Verne. Đây là một cuốn tiểu thuyết khoa học viễn tưởng. Viễn tưởng ở chỗ nó đi trước thời gian, nó thực hiện một điều chưa thực hiện được. Bởi vì trước kia các nhà du hành phải đi vòng quanh trái đất mất 300 ngày: thời Jules Verne, với những phương tiện mới như tàu hỏa, tàu thủy... có tờ báo đã thử làm chuyện vui, tính toán các chặng đường cộng lại thành 80 ngày. Tuy nhiên đó mới chỉ là một thời gian lý thuyết, bằng những tính toán sít sao trên giấy. Trên thực tế sẽ vấp ngã phải hàng ngàn vụ bất trắc do tổ chức giao thông còn bấp bênh và những vụ cướp tàu thường xảy ra ở nhiều vùng hoang vu lạc hậu, do những tai nạn tàu xe trục trặc máy móc, do những trận giông bão và sương mù trên biển. v.v... Thế nhưng Philíat Phốc - nhân vật chính của tác phẩm - dám đánh cuộc đi vòng quanh thế giới trong thời hạn ấy. Ngoài Hai vạn dặm dưới biển (1870), nhiều tác phẩm của Jules Verne như Năm tuần trên khinh khí cầu (1863), Vòng quanh thế giới trong 80 ngày(1873)... đã chinh phục người đọc khắp năm châu, khẳng định ông là nhà văn đi tiên phong trong thể loại khoa học viễn tưởng, một lối đi riêng biệt trong văn học thế giới. Những ý tưởng thiên tài của ông về cuộc sống hiện đại cũng như các thành tựu khoa học kỹ thuật và hơn hết là khát vọng của con người mà ông đã diễn tả dường như cho đến nay vẫn còn đang thời sự.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3239ae24aa7951b3e5ca770689155aed.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3239ae24aa7951b3e5ca770689155aed.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1- Vị Quý Tộc Người Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=804",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:13:24 Phần 2- Anh Chàng Giăng Vạn Năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=1618",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:26:58 Phần 3- Những Dự Định Đầu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=2456",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:56 Phần 4- Tranh Luận Tại Câu Lạc Bộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=3330",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:30 Phần 5- Rời Khỏi London",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=4195",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:09:55 Phần 6- Phileas Fogg Bị Nghi Ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=5048",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:24:08 Phần 7- Thám Tử Phi-Xơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=5928",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:38:48 Phần 8- Tàu Mông-Gô-La",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=6799",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:19 Phần 9- Đến Ấn Độ - Jules Verne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=7675",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:07:55 Phần 10- Người Bạn Đồng Hành Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=8567",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:22:47 Phần 11- Vượt Rừng Đến A-La-Ha-Bát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=9458",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:37:38 Phần 12- Trong Rừng Rậm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=10349",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:52:29 Phần 13- Thiếu Phụ Bà La Môn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=11234",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:07:14 Phần 14- Giải Cứu Thành Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=12128",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:22:08 Phần 15- Rời Khỏi Ấn Độ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=13012",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:36:52 Phần 16- Bị Bắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=13860",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:51:00 Phần 17- Đến Hồng Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=14639",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:03:59 Phần 18- Dừng Lại Ở Singapo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=15523",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:18:43 Phần 19- Chậm Trễ Ở Hồng Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=16353",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:32:33 Phần 20- Phi-Xơ Ngả Bài",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=17212",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:46:52 Phần 21- Trễ Tàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=18044",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:00:44 Phần 22- Lên Đường Không Có Vạn Năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=18915",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:15:15 Phần 23- Đối Diện Với Sóng Gió",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=19787",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:29:47 Phần 24- Lại Trễ Tàu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=20658",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:44:18 Phần 25- Vạn Năng Đến Nhật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=21530",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:58:50 Phần 26- Chú Hề Vạn Năng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=22401",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:13:21 Phần 27- Gặp Lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=23272",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:27:52 Phần 28 -Thám Tử Phi-Xơ Đổi Chiến Thuật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=24144",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:42:24 Phần 29- Từ Đại Dương Đến Đại Dương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=25015",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:56:55 Phần 30- Đường Đến New York",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=25898",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:11:38 Phần 31- Thành Phố Các Thánh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=26720",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:25:20 Phần 32- Rắc Rối Cây Cầu Treo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=27586",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:39:46 Phần 33- Mạo Hiểm Vượt Cầu Treo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=28412",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:53:32 Phần 34- Trận Đấu Súng Bất Thành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=29199",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:06:39 Phần 35- Bọn Người Xiu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=30022",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:20:22 Phần 36- Sau Biến Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=30887",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:34:47 Phần 37- Chiếc Xe Trượt Tuyết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=31737",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:48:57 Phần 38- Đến Li-Vơ-Pun",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=32576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:02:56 Phần 39- Sự Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=33438",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:17:18 Phần 40- Ngài Phileas Fogg Lại Bị Bắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=34269",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:31:09 Phần 41- Thua Cuộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=35086",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:44:46 Phần Cuối- Những Trang Cuối Cùng",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1- Vị Quý Tộc Người Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=804",
+    "title" : "00:13:24 Phần 2- Anh Chàng Giăng Vạn Năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=1618",
+    "title" : "00:26:58 Phần 3- Những Dự Định Đầu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=2456",
+    "title" : "00:40:56 Phần 4- Tranh Luận Tại Câu Lạc Bộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=3330",
+    "title" : "00:55:30 Phần 5- Rời Khỏi London",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=4195",
+    "title" : "01:09:55 Phần 6- Phileas Fogg Bị Nghi Ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=5048",
+    "title" : "01:24:08 Phần 7- Thám Tử Phi-Xơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=5928",
+    "title" : "01:38:48 Phần 8- Tàu Mông-Gô-La",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=6799",
+    "title" : "01:53:19 Phần 9- Đến Ấn Độ - Jules Verne",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=7675",
+    "title" : "02:07:55 Phần 10- Người Bạn Đồng Hành Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=8567",
+    "title" : "02:22:47 Phần 11- Vượt Rừng Đến A-La-Ha-Bát",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=9458",
+    "title" : "02:37:38 Phần 12- Trong Rừng Rậm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=10349",
+    "title" : "02:52:29 Phần 13- Thiếu Phụ Bà La Môn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=11234",
+    "title" : "03:07:14 Phần 14- Giải Cứu Thành Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=12128",
+    "title" : "03:22:08 Phần 15- Rời Khỏi Ấn Độ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=13012",
+    "title" : "03:36:52 Phần 16- Bị Bắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=13860",
+    "title" : "03:51:00 Phần 17- Đến Hồng Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=14639",
+    "title" : "04:03:59 Phần 18- Dừng Lại Ở Singapo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=15523",
+    "title" : "04:18:43 Phần 19- Chậm Trễ Ở Hồng Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=16353",
+    "title" : "04:32:33 Phần 20- Phi-Xơ Ngả Bài",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=17212",
+    "title" : "04:46:52 Phần 21- Trễ Tàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=18044",
+    "title" : "05:00:44 Phần 22- Lên Đường Không Có Vạn Năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=18915",
+    "title" : "05:15:15 Phần 23- Đối Diện Với Sóng Gió",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=19787",
+    "title" : "05:29:47 Phần 24- Lại Trễ Tàu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=20658",
+    "title" : "05:44:18 Phần 25- Vạn Năng Đến Nhật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=21530",
+    "title" : "05:58:50 Phần 26- Chú Hề Vạn Năng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=22401",
+    "title" : "06:13:21 Phần 27- Gặp Lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=23272",
+    "title" : "06:27:52 Phần 28 -Thám Tử Phi-Xơ Đổi Chiến Thuật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=24144",
+    "title" : "06:42:24 Phần 29- Từ Đại Dương Đến Đại Dương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=25015",
+    "title" : "06:56:55 Phần 30- Đường Đến New York",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=25898",
+    "title" : "07:11:38 Phần 31- Thành Phố Các Thánh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=26720",
+    "title" : "07:25:20 Phần 32- Rắc Rối Cây Cầu Treo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=27586",
+    "title" : "07:39:46 Phần 33- Mạo Hiểm Vượt Cầu Treo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=28412",
+    "title" : "07:53:32 Phần 34- Trận Đấu Súng Bất Thành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=29199",
+    "title" : "08:06:39 Phần 35- Bọn Người Xiu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=30022",
+    "title" : "08:20:22 Phần 36- Sau Biến Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=30887",
+    "title" : "08:34:47 Phần 37- Chiếc Xe Trượt Tuyết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=31737",
+    "title" : "08:48:57 Phần 38- Đến Li-Vơ-Pun",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=32576",
+    "title" : "09:02:56 Phần 39- Sự Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=33438",
+    "title" : "09:17:18 Phần 40- Ngài Phileas Fogg Lại Bị Bắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=34269",
+    "title" : "09:31:09 Phần 41- Thua Cuộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13560-80-ngay-vong-quanh-the-gioi-thuviensach.vn.mp3?t=35086",
+    "title" : "09:44:46 Phần Cuối- Những Trang Cuối Cùng",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,4445 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/suy-niem-moi-ngay-634.html",
+    "title" : "SUY NIỆM MỖI NGÀY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lev Tolstoy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>ĐÔI DÒNG CỦA NGƯỜI DỊCH 1. Lev Tolstoy trình bày cuốn sách này như một “Lịch suy niệm”. Mỗi ngày có một chủ đề. Thí dụ: + Ngày 1/1: Đức tin. + Ngày 2/1: Linh hồn. + Ngày 3/1: Một linh hồn trong tất cả. Và cứ tiếp tục như vậy cho đến hết năm. Ý của Tolstoy là muốn người đọc theo thứ tự ấy để suy niệm mỗi ngày. 2. Chúng tôi thấy rằng, nhìn chung cách trình bày đó dường như không còn phù hợp với con người trong thời đại bận rộn hiện nay. Do vậy, xin được mạn phép tác giả trình bày lại, bằng cách đánh số. Thí dụ: 1/ Đức tin; 2/ Linh hồn; 3/ Một linh hồn trong tất cả. Và cứ tiếp tục cho đến con số sau cùng. Như vậy, sẽ gọn gàng hơn. Và bạn đọc có tự do, muốn suy niệm về vấn đề nào trước cũng được, không cần theo một thứ tự nào cả. 3. Tất cả những in nghiêng trong bản dịch và những cước chú đều là của người dịch bản tiếng Việt. 4. Những cước chú nói trên cũng chỉ là một vài ghi nhận chủ quan của người dịch trong khi tiếp xúc với tác phẩm. Thay vì giữ lại cho riêng mình, người dịch muốn gửi đến bạn đọc như một chia sẻ thân tình giữa những người bạn. Bạn đọc hoàn toàn có thể bỏ qua, nếu không thấy cộng hưởng. 5. Chúng tôi có chua thêm một số từ tiếng Anh để bạn đọc dễ bề tham khảo. 6. Dù đã có nhiều cố gắng, nhưng chắc chắn khó tránh khỏi những sai sót. Rất mong bạn đọc và những bậc cao minh góp ý, để bản dịch được hoàn thiện hơn trong lần tái bản. Xin chân thành cảm ơn. Đà Lạt, mùa Giáng sinh 20/12/2014 Đỗ Tư Nghĩa</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_8bb83505694c5d2049ecc54af780edca.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_8bb83505694c5d2049ecc54af780edca.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đôi Dòng Của Người Dịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=199",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:03:19 Lời Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1259",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:59 Dẫn Nhập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1389",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:09 1 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1663",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:43 2 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1912",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:31:52 3 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2062",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:34:22 4 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2248",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:37:28 5 Sự Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2394",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:54 6 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2582",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:43:02 7 Lòng Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2798",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:46:38 8 Tự Phụ Và Danh Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2942",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:02 9 Tham Lam Và Của Cải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3033",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:33 10 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3183",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:53:03 11 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3334",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:34 12 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3515",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:58:35 13 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3761",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:02:41 14 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3877",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:04:37 15 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4046",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:26 16 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4240",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:10:40 17 Ý Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4463",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:14:23 18 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4638",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:18 19 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4842",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:20:42 20 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4990",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:23:10 21 Lòng Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5090",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:24:50 22 Cầu Nguyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5247",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:27:27 23 Lao Động Và Sự Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5370",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:29:30 24 Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5455",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:30:55 25 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5570",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:32:50 26 Không Có Cái Xấu Ác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5669",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:29 27 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5806",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:36:46 28 Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5996",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:39:56 29 Đời Là Một Phúc Lành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6122",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:42:02 30 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6388",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:46:28 31 Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6498",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:48:18 32 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6597",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:49:57 33 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6728",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:08 34 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6870",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:54:30 35 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7022",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:57:02 36 Sự Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7159",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:19 37 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7322",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:02:02 38 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7447",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:04:07 39 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7555",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:05:55 40 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7655",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:07:35 41 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7812",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:10:12 42 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7935",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:15 43 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8035",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:13:55 44 Kiêu Mạn Và Danh Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8167",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:16:07 45 Tham Lam Và Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8346",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:19:06 46 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8472",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:21:12 47 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8597",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:23:17 48 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8722",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:25:22 49 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8841",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:27:21 50 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9048",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:48 51 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9220",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:33:40 52 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9380",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:36:20 53 Không Có Điều Xấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9495",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:38:15 54 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9602",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:40:02 55 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9721",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:42:01 56 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9828",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:43:48 57 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9928",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:45:28 58 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10027",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:07 59 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10152",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:49:12 60 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10274",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:51:14 61 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10446",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:54:06 62 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10602",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:56:42 63 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10688",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:58:08 64 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10834",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:00:34 65 Sự Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10934",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:14 66 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11034",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:03:54 67 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11181",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:06:21 68 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11280",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:08:00 69 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11391",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:09:51 70 Tham Lam Và Của Cải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11499",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:11:39 71 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11611",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:13:31 72 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11727",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:15:27 73 Kiêu Ngạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11808",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:16:48 74 Tự Phụ Và Danh Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11926",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:18:46 75 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12026",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:20:26 76 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12162",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:22:42 77 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12304",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:25:04 78 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12445",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:27:25 79 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12544",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:29:04 80 Nỗ Lực (A)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12626",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:30:26 81 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12725",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:32:05 82 Nỗ Lực (B)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12825",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:33:45 83 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12950",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:35:50 84 Lời Nói Và Hành Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13106",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:38:26 85 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13289",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:41:29 86 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13407",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:43:27 87 Không Có Điều Xấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13522",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:45:22 88 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13644",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:47:24 89 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13767",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:49:27 90 Chân Lý / Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13874",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:51:14 91 Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14020",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:53:40 92 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14157",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:55:57 93 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14257",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:57:37 94 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14487",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:01:27 95 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:03:35 96 Sự Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14702",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:05:02 97 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14830",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:07:10 98 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14966",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:09:26 99 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15071",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:11:11 100 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15158",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:12:38 101 Tham Lam Và Của Cải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15336",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:15:36 102 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15453",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:17:33 103 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15567",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:19:27 104 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15695",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:21:35 105 Tự Phụ Và Hư Danh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15831",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:23:51 106 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15956",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:25:56 107 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16044",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:27:24 108 Đức Tin (A)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16144",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:29:04 109 Đức Tin (B)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16319",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:31:59 110 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16408",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:33:28 111 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16577",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:36:17 112 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16658",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:37:38 113 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16767",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:39:27 114 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16904",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:41:44 115 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17003",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:43:23 116 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17078",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:44:38 117 Ý Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17251",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:47:31 118 Không Có Cái Xấu Ác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17418",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:50:18 119 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17540",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:52:20 120 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17690",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:54:50 121 Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17776",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:56:16 122 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17930",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:58:50 123 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18134",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:02:14 124 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18233",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:03:53 125 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18344",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:05:44 126 Sự Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18427",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:07:07 127 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18509",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:08:29 128 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18638",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:10:38 129 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18738",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:12:18 130 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18816",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:13:36 131 Tham Lam Và Của Cải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18930",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:15:30 132 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:17:10 133 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19129",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:18:49 134 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19245",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:20:45 135 Hư Danh Và Tự Phụ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19364",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:44 136 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19448",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:24:08 137 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19564",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:26:04 138 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19675",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:27:55 139 Cầu Nguyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19764",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:29:24 140 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19871",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:31:11 141 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19948",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:32:28 142 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20047",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:34:07 143 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:35:54 144 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20270",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:37:50 145 Không Có Cái Xấu Ác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20361",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:21 146 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20485",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:41:25 147 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20590",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:43:10 148 Không Có Điều Xấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20689",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:44:49 149 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20788",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:46:28 150 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20901",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:48:21 151 Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21033",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:50:33 152 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:52:41 153 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21293",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:54:53 154 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21473",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:57:53 155 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21651",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:00:51 156 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21784",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:03:04 157 Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21883",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:04:43 158 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22031",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:07:11 159 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22160",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:09:20 160 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22260",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:11:00 161 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22386",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:13:06 162 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22478",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:14:38 163 Tham Lam Và Sự Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:16:55 164 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22726",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:18:46 165 Lòng Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22847",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:20:47 166 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22946",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:22:26 167 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23045",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:24:05 168 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23182",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:26:22 169 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:28:01 170 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23381",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:29:41 171 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23571",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:32:51 172 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23655",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:34:15 173 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23727",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:35:27 174 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23826",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:37:06 175 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23907",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:38:27 176 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23995",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:39:55 177 Ý Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24121",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:42:01 178 Không Có Điều Xấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24257",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:44:17 179 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24357",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:45:57 180 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24437",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:47:17 181 Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:48:56 182 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24655",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:50:55 183 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24773",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:52:53 184 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24894",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:54:54 185 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25030",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:57:10 186 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25130",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:58:50 187 Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25248",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:00:48 188 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25347",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:02:27 189 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25466",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:04:26 190 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25565",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:06:05 191 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25642",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:07:22 192 Tham Lam Và Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25742",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:09:02 193 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25869",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:11:09 194 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26015",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:13:35 195 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26205",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:16:45 196 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26304",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:18:24 197 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26404",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:20:04 198 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26503",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:21:43 199 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26595",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:23:15 200 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26785",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:26:25 201 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26877",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:27:57 202 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26968",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:29:28 203 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27076",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:31:16 204 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27155",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:32:35 205 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27231",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:33:51 206 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27340",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:35:40 207 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27460",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:37:40 208 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27571",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:39:31 209 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27670",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:41:10 210 Không Có Điều Xấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27770",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:42:50 211 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27846",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:44:06 212 Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27923",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:45:23 213 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28023",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:47:03 214 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28162",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:49:22 215 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28281",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:51:21 216 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28356",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:52:36 217 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28447",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:54:07 218 Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28565",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:56:05 219 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28687",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:58:07 220 Tội Lỗi (A)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28806",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:00:06 221 Tội Lỗi (B)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28905",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:01:45 222 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29032",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:03:52 223 Làm Việc Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29103",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:05:03 224 Tham Lam Và Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29191",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:06:31 225 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29267",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:07:47 226 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29376",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:09:36 227 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29551",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:12:31 228 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29640",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:14:00 229 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29729",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:15:29 230 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29808",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:16:48 231 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29930",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:18:50 232 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30020",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:20:20 233 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30106",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:21:46 234 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30186",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:23:06 235 Khiêm Cung Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30257",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:24:17 236 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30357",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:25:57 237 Hành Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30464",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:27:44 238 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30563",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:29:23 239 Ý Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30663",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:31:03 240 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30737",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:32:17 241 Không Có Điều Xấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30831",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:33:51 242 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30913",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:35:13 243 Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31013",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:36:53 244 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31112",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:38:32 245 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31211",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:40:11 246 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31340",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:42:20 247 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31439",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:43:59 248 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31527",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:45:27 249 Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31607",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:46:47 250 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31699",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:48:19 251 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31790",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:49:50 252 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31890",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:51:30 253 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31969",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:52:49 254 Tham Lam Và Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32118",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:55:18 255 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32188",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:56:28 256 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32307",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:58:27 257 Tự Phụ Và Hư Danh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32416",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:00:16 258 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32515",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:01:55 259 Linh Hồn (A)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32614",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:03:34 260 Linh Hồn (B)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:05:34 261 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32814",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:06:54 262 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32931",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:08:51 263 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33006",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:10:06 264 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33083",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:11:23 265 Khiêm Cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33163",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:12:43 266 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33245",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:14:05 267 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33320",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:15:20 268 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33419",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:16:59 269 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33530",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:18:50 270 Không Có Điều Ác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33646",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:20:46 271 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33746",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:22:26 272 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33818",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:23:38 273 Sau Khi Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33909",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:25:09 274 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34008",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:26:48 275 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34083",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:28:03 276 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34175",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:29:35 277 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34249",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:30:49 278 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34349",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:32:29 279 Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34437",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:33:57 280 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:35:36 281 Tội Lỗi (A)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34660",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:37:40 282 Tội Lỗi (B)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34737",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:38:57 283 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34819",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:40:19 284 Đam Mê Và Dục Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34911",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:41:51 285 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35005",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:43:25 286 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35083",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:44:43 287 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35164",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:46:04 288 Tham Lam Và Của Cải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35249",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:47:29 289 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35363",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:49:23 290 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:50:44 291 Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35537",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:52:17 292 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35655",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:54:15 293 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35755",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:55:55 294 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35854",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:57:34 295 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35946",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:59:06 296 Khiêm Cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36055",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:00:55 297 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:02:34 298 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36246",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:04:06 299 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36338",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:05:38 300 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36445",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:07:25 301 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36529",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:08:49 302 Không Có Điều Xấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36639",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:10:39 303 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36722",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:12:02 304 Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36810",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:13:30 305 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36909",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:15:09 306 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37009",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:16:49 307 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37100",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:18:20 308 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37190",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:19:50 309 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37290",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:21:30 310 Sự Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:23:03 311 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37498",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:24:58 312 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37598",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:26:38 313 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37697",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:28:17 314 Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37775",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:29:35 315 Tham Lam Và Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37870",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:31:10 316 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37949",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:32:29 317 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38024",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:33:44 318 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38116",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:35:16 319 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38215",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:36:55 320 Bạo Động Và Chiến Tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38293",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:38:13 321 Cầu Nguyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38418",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:40:18 322 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38505",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:41:45 323 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38586",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:43:06 324 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38678",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:44:38 325 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38752",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:45:52 326 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38818",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:46:58 327 Khiêm Cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38881",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:48:01 328 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38971",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:49:31 329 Hành Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39071",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:51:11 330 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39163",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:52:43 331 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39257",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:54:17 332 Không Có Điều Xấu Ác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39376",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:56:16 333 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39451",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:57:31 334 Cái Chết / Sau Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39550",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:59:10 335 Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39649",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:00:49 336 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39760",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:02:40 337 Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39860",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:04:20 338 Một Linh Hồn Trong Tất Cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:05:59 339 Thượng Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40058",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:07:38 340 Sự Hợp Nhất Trong Linh Hồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40158",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:09:18 341 Tình Yêu Đại Đồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40326",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:12:06 342 Tội Lỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40407",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:13:27 343 Sự Cám Dỗ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40514",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:15:14 344 Dục Vọng Và Đam Mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40614",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:16:54 345 Lao Động Và Nhàn Rỗi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40695",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:18:15 346 Tham Lam Và Giàu Có",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40795",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:19:55 347 Giận Và Thù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40880",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:21:20 348 Kiêu Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40962",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:22:42 349 Kiêu Mạn Và Hư Danh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41072",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:24:32 350 Phán Xét Và Trừng Phạt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:26:01 351 Bạo Động Và Chiến Tranh (A)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41239",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:27:19 352 Bạo Động Và Chiến Tranh (B)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41316",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:28:36 353 Đức Tin",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41435",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:30:35 354 Khoa Học Sai Lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41552",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:32:32 355 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41635",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:33:55 356 Hy Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41735",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:35:35 357 Khiêm Cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41804",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:36:44 358 Chân Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41893",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:38:13 359 Nỗ Lực",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41967",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:39:27 360 Lời Nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42054",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:40:54 361 Ý Nghĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:42:34 362 Không Có Điều Xấu Ác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42231",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:43:51 363 Sống Trong Hiện Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42317",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:45:17 364 Cái Chết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đôi Dòng Của Người Dịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=199",
+    "title" : "00:03:19 Lời Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1259",
+    "title" : "00:20:59 Dẫn Nhập",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1389",
+    "title" : "00:23:09 1 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1663",
+    "title" : "00:27:43 2 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=1912",
+    "title" : "00:31:52 3 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2062",
+    "title" : "00:34:22 4 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2248",
+    "title" : "00:37:28 5 Sự Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2394",
+    "title" : "00:39:54 6 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2582",
+    "title" : "00:43:02 7 Lòng Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2798",
+    "title" : "00:46:38 8 Tự Phụ Và Danh Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=2942",
+    "title" : "00:49:02 9 Tham Lam Và Của Cải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3033",
+    "title" : "00:50:33 10 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3183",
+    "title" : "00:53:03 11 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3334",
+    "title" : "00:55:34 12 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3515",
+    "title" : "00:58:35 13 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3761",
+    "title" : "01:02:41 14 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=3877",
+    "title" : "01:04:37 15 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4046",
+    "title" : "01:07:26 16 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4240",
+    "title" : "01:10:40 17 Ý Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4463",
+    "title" : "01:14:23 18 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4638",
+    "title" : "01:17:18 19 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4842",
+    "title" : "01:20:42 20 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=4990",
+    "title" : "01:23:10 21 Lòng Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5090",
+    "title" : "01:24:50 22 Cầu Nguyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5247",
+    "title" : "01:27:27 23 Lao Động Và Sự Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5370",
+    "title" : "01:29:30 24 Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5455",
+    "title" : "01:30:55 25 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5570",
+    "title" : "01:32:50 26 Không Có Cái Xấu Ác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5669",
+    "title" : "01:34:29 27 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5806",
+    "title" : "01:36:46 28 Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=5996",
+    "title" : "01:39:56 29 Đời Là Một Phúc Lành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6122",
+    "title" : "01:42:02 30 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6388",
+    "title" : "01:46:28 31 Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6498",
+    "title" : "01:48:18 32 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6597",
+    "title" : "01:49:57 33 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6728",
+    "title" : "01:52:08 34 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=6870",
+    "title" : "01:54:30 35 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7022",
+    "title" : "01:57:02 36 Sự Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7159",
+    "title" : "01:59:19 37 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7322",
+    "title" : "02:02:02 38 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7447",
+    "title" : "02:04:07 39 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7555",
+    "title" : "02:05:55 40 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7655",
+    "title" : "02:07:35 41 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7812",
+    "title" : "02:10:12 42 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=7935",
+    "title" : "02:12:15 43 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8035",
+    "title" : "02:13:55 44 Kiêu Mạn Và Danh Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8167",
+    "title" : "02:16:07 45 Tham Lam Và Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8346",
+    "title" : "02:19:06 46 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8472",
+    "title" : "02:21:12 47 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8597",
+    "title" : "02:23:17 48 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8722",
+    "title" : "02:25:22 49 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=8841",
+    "title" : "02:27:21 50 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9048",
+    "title" : "02:30:48 51 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9220",
+    "title" : "02:33:40 52 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9380",
+    "title" : "02:36:20 53 Không Có Điều Xấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9495",
+    "title" : "02:38:15 54 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9602",
+    "title" : "02:40:02 55 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9721",
+    "title" : "02:42:01 56 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9828",
+    "title" : "02:43:48 57 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=9928",
+    "title" : "02:45:28 58 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10027",
+    "title" : "02:47:07 59 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10152",
+    "title" : "02:49:12 60 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10274",
+    "title" : "02:51:14 61 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10446",
+    "title" : "02:54:06 62 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10602",
+    "title" : "02:56:42 63 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10688",
+    "title" : "02:58:08 64 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10834",
+    "title" : "03:00:34 65 Sự Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=10934",
+    "title" : "03:02:14 66 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11034",
+    "title" : "03:03:54 67 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11181",
+    "title" : "03:06:21 68 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11280",
+    "title" : "03:08:00 69 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11391",
+    "title" : "03:09:51 70 Tham Lam Và Của Cải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11499",
+    "title" : "03:11:39 71 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11611",
+    "title" : "03:13:31 72 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11727",
+    "title" : "03:15:27 73 Kiêu Ngạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11808",
+    "title" : "03:16:48 74 Tự Phụ Và Danh Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=11926",
+    "title" : "03:18:46 75 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12026",
+    "title" : "03:20:26 76 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12162",
+    "title" : "03:22:42 77 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12304",
+    "title" : "03:25:04 78 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12445",
+    "title" : "03:27:25 79 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12544",
+    "title" : "03:29:04 80 Nỗ Lực (A)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12626",
+    "title" : "03:30:26 81 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12725",
+    "title" : "03:32:05 82 Nỗ Lực (B)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12825",
+    "title" : "03:33:45 83 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=12950",
+    "title" : "03:35:50 84 Lời Nói Và Hành Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13106",
+    "title" : "03:38:26 85 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13289",
+    "title" : "03:41:29 86 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13407",
+    "title" : "03:43:27 87 Không Có Điều Xấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13522",
+    "title" : "03:45:22 88 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13644",
+    "title" : "03:47:24 89 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13767",
+    "title" : "03:49:27 90 Chân Lý / Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=13874",
+    "title" : "03:51:14 91 Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14020",
+    "title" : "03:53:40 92 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14157",
+    "title" : "03:55:57 93 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14257",
+    "title" : "03:57:37 94 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14487",
+    "title" : "04:01:27 95 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14615",
+    "title" : "04:03:35 96 Sự Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14702",
+    "title" : "04:05:02 97 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14830",
+    "title" : "04:07:10 98 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=14966",
+    "title" : "04:09:26 99 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15071",
+    "title" : "04:11:11 100 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15158",
+    "title" : "04:12:38 101 Tham Lam Và Của Cải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15336",
+    "title" : "04:15:36 102 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15453",
+    "title" : "04:17:33 103 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15567",
+    "title" : "04:19:27 104 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15695",
+    "title" : "04:21:35 105 Tự Phụ Và Hư Danh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15831",
+    "title" : "04:23:51 106 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=15956",
+    "title" : "04:25:56 107 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16044",
+    "title" : "04:27:24 108 Đức Tin (A)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16144",
+    "title" : "04:29:04 109 Đức Tin (B)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16319",
+    "title" : "04:31:59 110 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16408",
+    "title" : "04:33:28 111 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16577",
+    "title" : "04:36:17 112 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16658",
+    "title" : "04:37:38 113 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16767",
+    "title" : "04:39:27 114 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=16904",
+    "title" : "04:41:44 115 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17003",
+    "title" : "04:43:23 116 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17078",
+    "title" : "04:44:38 117 Ý Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17251",
+    "title" : "04:47:31 118 Không Có Cái Xấu Ác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17418",
+    "title" : "04:50:18 119 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17540",
+    "title" : "04:52:20 120 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17690",
+    "title" : "04:54:50 121 Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17776",
+    "title" : "04:56:16 122 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=17930",
+    "title" : "04:58:50 123 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18134",
+    "title" : "05:02:14 124 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18233",
+    "title" : "05:03:53 125 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18344",
+    "title" : "05:05:44 126 Sự Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18427",
+    "title" : "05:07:07 127 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18509",
+    "title" : "05:08:29 128 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18638",
+    "title" : "05:10:38 129 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18738",
+    "title" : "05:12:18 130 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18816",
+    "title" : "05:13:36 131 Tham Lam Và Của Cải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=18930",
+    "title" : "05:15:30 132 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19030",
+    "title" : "05:17:10 133 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19129",
+    "title" : "05:18:49 134 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19245",
+    "title" : "05:20:45 135 Hư Danh Và Tự Phụ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19364",
+    "title" : "05:22:44 136 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19448",
+    "title" : "05:24:08 137 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19564",
+    "title" : "05:26:04 138 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19675",
+    "title" : "05:27:55 139 Cầu Nguyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19764",
+    "title" : "05:29:24 140 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19871",
+    "title" : "05:31:11 141 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=19948",
+    "title" : "05:32:28 142 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20047",
+    "title" : "05:34:07 143 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20154",
+    "title" : "05:35:54 144 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20270",
+    "title" : "05:37:50 145 Không Có Cái Xấu Ác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20361",
+    "title" : "05:39:21 146 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20485",
+    "title" : "05:41:25 147 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20590",
+    "title" : "05:43:10 148 Không Có Điều Xấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20689",
+    "title" : "05:44:49 149 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20788",
+    "title" : "05:46:28 150 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=20901",
+    "title" : "05:48:21 151 Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21033",
+    "title" : "05:50:33 152 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21161",
+    "title" : "05:52:41 153 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21293",
+    "title" : "05:54:53 154 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21473",
+    "title" : "05:57:53 155 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21651",
+    "title" : "06:00:51 156 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21784",
+    "title" : "06:03:04 157 Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=21883",
+    "title" : "06:04:43 158 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22031",
+    "title" : "06:07:11 159 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22160",
+    "title" : "06:09:20 160 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22260",
+    "title" : "06:11:00 161 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22386",
+    "title" : "06:13:06 162 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22478",
+    "title" : "06:14:38 163 Tham Lam Và Sự Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22615",
+    "title" : "06:16:55 164 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22726",
+    "title" : "06:18:46 165 Lòng Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22847",
+    "title" : "06:20:47 166 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=22946",
+    "title" : "06:22:26 167 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23045",
+    "title" : "06:24:05 168 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23182",
+    "title" : "06:26:22 169 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23281",
+    "title" : "06:28:01 170 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23381",
+    "title" : "06:29:41 171 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23571",
+    "title" : "06:32:51 172 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23655",
+    "title" : "06:34:15 173 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23727",
+    "title" : "06:35:27 174 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23826",
+    "title" : "06:37:06 175 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23907",
+    "title" : "06:38:27 176 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=23995",
+    "title" : "06:39:55 177 Ý Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24121",
+    "title" : "06:42:01 178 Không Có Điều Xấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24257",
+    "title" : "06:44:17 179 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24357",
+    "title" : "06:45:57 180 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24437",
+    "title" : "06:47:17 181 Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24536",
+    "title" : "06:48:56 182 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24655",
+    "title" : "06:50:55 183 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24773",
+    "title" : "06:52:53 184 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=24894",
+    "title" : "06:54:54 185 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25030",
+    "title" : "06:57:10 186 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25130",
+    "title" : "06:58:50 187 Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25248",
+    "title" : "07:00:48 188 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25347",
+    "title" : "07:02:27 189 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25466",
+    "title" : "07:04:26 190 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25565",
+    "title" : "07:06:05 191 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25642",
+    "title" : "07:07:22 192 Tham Lam Và Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25742",
+    "title" : "07:09:02 193 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=25869",
+    "title" : "07:11:09 194 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26015",
+    "title" : "07:13:35 195 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26205",
+    "title" : "07:16:45 196 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26304",
+    "title" : "07:18:24 197 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26404",
+    "title" : "07:20:04 198 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26503",
+    "title" : "07:21:43 199 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26595",
+    "title" : "07:23:15 200 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26785",
+    "title" : "07:26:25 201 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26877",
+    "title" : "07:27:57 202 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=26968",
+    "title" : "07:29:28 203 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27076",
+    "title" : "07:31:16 204 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27155",
+    "title" : "07:32:35 205 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27231",
+    "title" : "07:33:51 206 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27340",
+    "title" : "07:35:40 207 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27460",
+    "title" : "07:37:40 208 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27571",
+    "title" : "07:39:31 209 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27670",
+    "title" : "07:41:10 210 Không Có Điều Xấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27770",
+    "title" : "07:42:50 211 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27846",
+    "title" : "07:44:06 212 Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=27923",
+    "title" : "07:45:23 213 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28023",
+    "title" : "07:47:03 214 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28162",
+    "title" : "07:49:22 215 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28281",
+    "title" : "07:51:21 216 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28356",
+    "title" : "07:52:36 217 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28447",
+    "title" : "07:54:07 218 Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28565",
+    "title" : "07:56:05 219 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28687",
+    "title" : "07:58:07 220 Tội Lỗi (A)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28806",
+    "title" : "08:00:06 221 Tội Lỗi (B)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=28905",
+    "title" : "08:01:45 222 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29032",
+    "title" : "08:03:52 223 Làm Việc Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29103",
+    "title" : "08:05:03 224 Tham Lam Và Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29191",
+    "title" : "08:06:31 225 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29267",
+    "title" : "08:07:47 226 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29376",
+    "title" : "08:09:36 227 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29551",
+    "title" : "08:12:31 228 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29640",
+    "title" : "08:14:00 229 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29729",
+    "title" : "08:15:29 230 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29808",
+    "title" : "08:16:48 231 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=29930",
+    "title" : "08:18:50 232 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30020",
+    "title" : "08:20:20 233 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30106",
+    "title" : "08:21:46 234 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30186",
+    "title" : "08:23:06 235 Khiêm Cung Và Khiêm Tốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30257",
+    "title" : "08:24:17 236 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30357",
+    "title" : "08:25:57 237 Hành Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30464",
+    "title" : "08:27:44 238 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30563",
+    "title" : "08:29:23 239 Ý Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30663",
+    "title" : "08:31:03 240 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30737",
+    "title" : "08:32:17 241 Không Có Điều Xấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30831",
+    "title" : "08:33:51 242 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=30913",
+    "title" : "08:35:13 243 Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31013",
+    "title" : "08:36:53 244 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31112",
+    "title" : "08:38:32 245 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31211",
+    "title" : "08:40:11 246 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31340",
+    "title" : "08:42:20 247 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31439",
+    "title" : "08:43:59 248 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31527",
+    "title" : "08:45:27 249 Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31607",
+    "title" : "08:46:47 250 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31699",
+    "title" : "08:48:19 251 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31790",
+    "title" : "08:49:50 252 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31890",
+    "title" : "08:51:30 253 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=31969",
+    "title" : "08:52:49 254 Tham Lam Và Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32118",
+    "title" : "08:55:18 255 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32188",
+    "title" : "08:56:28 256 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32307",
+    "title" : "08:58:27 257 Tự Phụ Và Hư Danh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32416",
+    "title" : "09:00:16 258 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32515",
+    "title" : "09:01:55 259 Linh Hồn (A)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32614",
+    "title" : "09:03:34 260 Linh Hồn (B)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32734",
+    "title" : "09:05:34 261 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32814",
+    "title" : "09:06:54 262 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=32931",
+    "title" : "09:08:51 263 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33006",
+    "title" : "09:10:06 264 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33083",
+    "title" : "09:11:23 265 Khiêm Cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33163",
+    "title" : "09:12:43 266 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33245",
+    "title" : "09:14:05 267 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33320",
+    "title" : "09:15:20 268 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33419",
+    "title" : "09:16:59 269 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33530",
+    "title" : "09:18:50 270 Không Có Điều Ác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33646",
+    "title" : "09:20:46 271 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33746",
+    "title" : "09:22:26 272 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33818",
+    "title" : "09:23:38 273 Sau Khi Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=33909",
+    "title" : "09:25:09 274 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34008",
+    "title" : "09:26:48 275 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34083",
+    "title" : "09:28:03 276 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34175",
+    "title" : "09:29:35 277 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34249",
+    "title" : "09:30:49 278 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34349",
+    "title" : "09:32:29 279 Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34437",
+    "title" : "09:33:57 280 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34536",
+    "title" : "09:35:36 281 Tội Lỗi (A)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34660",
+    "title" : "09:37:40 282 Tội Lỗi (B)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34737",
+    "title" : "09:38:57 283 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34819",
+    "title" : "09:40:19 284 Đam Mê Và Dục Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=34911",
+    "title" : "09:41:51 285 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35005",
+    "title" : "09:43:25 286 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35083",
+    "title" : "09:44:43 287 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35164",
+    "title" : "09:46:04 288 Tham Lam Và Của Cải",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35249",
+    "title" : "09:47:29 289 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35363",
+    "title" : "09:49:23 290 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35444",
+    "title" : "09:50:44 291 Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35537",
+    "title" : "09:52:17 292 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35655",
+    "title" : "09:54:15 293 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35755",
+    "title" : "09:55:55 294 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35854",
+    "title" : "09:57:34 295 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=35946",
+    "title" : "09:59:06 296 Khiêm Cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36055",
+    "title" : "10:00:55 297 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36154",
+    "title" : "10:02:34 298 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36246",
+    "title" : "10:04:06 299 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36338",
+    "title" : "10:05:38 300 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36445",
+    "title" : "10:07:25 301 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36529",
+    "title" : "10:08:49 302 Không Có Điều Xấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36639",
+    "title" : "10:10:39 303 Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36722",
+    "title" : "10:12:02 304 Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36810",
+    "title" : "10:13:30 305 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=36909",
+    "title" : "10:15:09 306 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37009",
+    "title" : "10:16:49 307 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37100",
+    "title" : "10:18:20 308 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37190",
+    "title" : "10:19:50 309 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37290",
+    "title" : "10:21:30 310 Sự Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37383",
+    "title" : "10:23:03 311 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37498",
+    "title" : "10:24:58 312 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37598",
+    "title" : "10:26:38 313 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37697",
+    "title" : "10:28:17 314 Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37775",
+    "title" : "10:29:35 315 Tham Lam Và Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37870",
+    "title" : "10:31:10 316 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=37949",
+    "title" : "10:32:29 317 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38024",
+    "title" : "10:33:44 318 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38116",
+    "title" : "10:35:16 319 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38215",
+    "title" : "10:36:55 320 Bạo Động Và Chiến Tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38293",
+    "title" : "10:38:13 321 Cầu Nguyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38418",
+    "title" : "10:40:18 322 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38505",
+    "title" : "10:41:45 323 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38586",
+    "title" : "10:43:06 324 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38678",
+    "title" : "10:44:38 325 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38752",
+    "title" : "10:45:52 326 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38818",
+    "title" : "10:46:58 327 Khiêm Cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38881",
+    "title" : "10:48:01 328 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=38971",
+    "title" : "10:49:31 329 Hành Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39071",
+    "title" : "10:51:11 330 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39163",
+    "title" : "10:52:43 331 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39257",
+    "title" : "10:54:17 332 Không Có Điều Xấu Ác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39376",
+    "title" : "10:56:16 333 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39451",
+    "title" : "10:57:31 334 Cái Chết / Sau Cái Chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39550",
+    "title" : "10:59:10 335 Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39649",
+    "title" : "11:00:49 336 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39760",
+    "title" : "11:02:40 337 Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39860",
+    "title" : "11:04:20 338 Một Linh Hồn Trong Tất Cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=39959",
+    "title" : "11:05:59 339 Thượng Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40058",
+    "title" : "11:07:38 340 Sự Hợp Nhất Trong Linh Hồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40158",
+    "title" : "11:09:18 341 Tình Yêu Đại Đồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40326",
+    "title" : "11:12:06 342 Tội Lỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40407",
+    "title" : "11:13:27 343 Sự Cám Dỗ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40514",
+    "title" : "11:15:14 344 Dục Vọng Và Đam Mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40614",
+    "title" : "11:16:54 345 Lao Động Và Nhàn Rỗi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40695",
+    "title" : "11:18:15 346 Tham Lam Và Giàu Có",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40795",
+    "title" : "11:19:55 347 Giận Và Thù",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40880",
+    "title" : "11:21:20 348 Kiêu Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=40962",
+    "title" : "11:22:42 349 Kiêu Mạn Và Hư Danh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41072",
+    "title" : "11:24:32 350 Phán Xét Và Trừng Phạt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41161",
+    "title" : "11:26:01 351 Bạo Động Và Chiến Tranh (A)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41239",
+    "title" : "11:27:19 352 Bạo Động Và Chiến Tranh (B)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41316",
+    "title" : "11:28:36 353 Đức Tin",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41435",
+    "title" : "11:30:35 354 Khoa Học Sai Lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41552",
+    "title" : "11:32:32 355 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41635",
+    "title" : "11:33:55 356 Hy Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41735",
+    "title" : "11:35:35 357 Khiêm Cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41804",
+    "title" : "11:36:44 358 Chân Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41893",
+    "title" : "11:38:13 359 Nỗ Lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=41967",
+    "title" : "11:39:27 360 Lời Nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42054",
+    "title" : "11:40:54 361 Ý Nghĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42154",
+    "title" : "11:42:34 362 Không Có Điều Xấu Ác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42231",
+    "title" : "11:43:51 363 Sống Trong Hiện Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/634-suy-niem-moi-ngay-thuviensach.vn.mp3?t=42317",
+    "title" : "11:45:17 364 Cái Chết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

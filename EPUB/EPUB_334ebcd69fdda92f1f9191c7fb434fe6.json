@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phu-nu-yeu-nhu-the-nao-1106.html",
+    "title" : "PHỤ NỮ YÊU NHƯ THẾ NÀO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Norwood",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi yêu đương đắm chìm trong đau khổ... Trong quyển sách nổi tiếng này, Robin Norwood đã chia sẻ với phụ nữ cách giải thoát mình khỏi thứ tình yêu có thể hủy hoại bản thân. \"Chúng ta sẽ tìm hiểu xem vì sao rất nhiều phụ nữ, tuy mong muốn tìm thấy một tình yêu đích thực nhưng cuối cùng vẫn không tránh khỏi việc dính líu đến những người tình không xứng đáng và không hề yêu thương họ. Và chúng ta cũng sẽ khám phá xem vì sao tuy đã biết mối quan hệ hiện có không đáp ứng được nhu cầu của mình nhưng ta lại khó lòng chấm dứt nó.. Chúng ta cũng sẽ biết vì sao nỗi khát khao yêu thương, ước ao được tìm thấy tình yêu đích thực cũng như chính tình yêu hiện có của ta lại có thể trở thành một sự nghiện ngập.\" \"Một quyển sách làm thay đổi cuộc đời phụ nữ.\" - Erica Jong.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_334ebcd69fdda92f1f9191c7fb434fe6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_334ebcd69fdda92f1f9191c7fb434fe6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1106-phu-nu-yeu-nhu-the-nao-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1106-phu-nu-yeu-nhu-the-nao-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

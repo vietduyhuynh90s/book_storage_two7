@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chia-khoa-thanh-cong-680.html",
+    "title" : "CHÌA KHÓA THÀNH CÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jim Rohn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>BA MƯƠI NĂM TRƯỚC tôi được mời đến chia sẻ kinh nghiệm với một nhóm những người làm dịch vụ ở Beverley Hills. Người ta truyền tai nhau nên tôi đã được mời đến nói chuyện với những nhóm dịch vụ khác. Sau đó, một đồng nghiệp đã mời tôi nói chuyện với đội marketing và kinh doanh của anh ta, và đề nghị trả thù lao cho tôi. Lúc đấy, tôi nhận ra rằng mọi người đã tìm được điều gì đó có giá trị trong những kinh nghiệm mà tôi chia sẻ. Kể từ đó, tôi đã đi khắp thế giới để đáp lại những lời mời như vậy. Tôi thấy những cuốn sách của mình được bán ở rất nhiều nước, và mặc dù tôi chủ yếu chỉ là một doanh nhân, nhưng giờ thì việc diễn thuyết chiếm vai trò lớn và đem lại lợi nhuận trong công việc kinh doanh của tôi. Mặc dù tôi chưa bao giờ hoàn toàn thoải mái khi đứng trên sân khấu, nhưng một trong những điều khiến tôi cảm động nhất trong cuộc đời là nhận được phản hồi từ khán giả và độc giả, những người đã lắng nghe câu chuyện của tôi bằng cả trái tim, thay đổi nó cho phù hợp với bản thân cũng như đúc rút được điều gì đó để cải thiện sức khỏe, cuộc sống gia đình, các mối quan hệ và công việc của họ. Tôi hi vọng rằng qua việc mua và đọc cuốn sách này, bạn có thể trở thành một người trong số họ, rút ra được những điều có giá trị từ những gì tôi nói. Tôi đảm bảo tiền bạc và thời gian bạn dành cho những trang sách này là xứng đáng. Nhất là thời gian. Tôi học được rằng bạn có thể luôn kiếm được nhiều tiền hơn nhưng bạn không bao giờ có thể có thêm thời gian. Nhưng đừng đọc lướt từ đầu đến cuối. Hãy ghi chú, thi thoảng dừng lại, đặt cuốn sách xuống, gấp nó lại. Và nếu cuộc sống của bạn thay đổi theo chiều hướng tốt lên nhờ cuốn sách này, thì tôi rất vui được nghe tin từ bạn nếu chúng ta có dịp gặp nhau. Jim Rohn Những nền tảng cơ bản PHẢI NÓI TRƯỚC là những điều tôi nêu ra có thể gây tranh cãi. Nếu tôi có thể kích thích bạn suy nghĩ, thì tôi coi điều đó là có giá trị. Không một ai biết hết được mọi chân lí. Tôi không khẳng định rằng mình biết tất cả, nhưng tôi đã tìm được một số câu trả lời. Tôi đã sử dụng chúng và chúng mang lại rất nhiều lợi ích cho đời sống cá nhân cũng như công việc của tôi, đó là điều mà tôi muốn chia sẻ với bạn. Bạn không cần phải làm theo mọi điều tôi nói, nhưng tôi hi vọng bạn sẽ lĩnh hội những điều bạn thấy hợp lí, nghĩ về nó, hãy thử và thay đổi nó cho phù hợp với bản thân mình. Không một ai biết hết được mọi chân lí.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4d1e9479400f92f432b152c10f64ba31.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4d1e9479400f92f432b152c10f64ba31.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/680-chia-khoa-thanh-cong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/680-chia-khoa-thanh-cong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

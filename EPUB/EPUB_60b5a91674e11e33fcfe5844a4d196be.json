@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/toi-tin-66.html",
+    "title" : "TÔI TIN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lobsang Rampa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nội dung VỀ TÁC GIẢ CHƯƠNG I. DẪN NHẬP CHƯƠNG II. ALGERNON TỰ TӰ CHƯƠNG III. LÀM QUEN VỚI THẾ GIỚI BÊN KIA CHƯƠNG IV. TỘI ÁC TỰ SÁT CHƯƠNG V. SỰ PHÁN XÉT CHƯƠNG VI. TÁI SINH CHƯƠNG VII. TRẢ QUẢ CHƯƠNG VIII. CON LẮC CUỘC ĐỜI CHƯƠNG IX. THƯӦNG ĐẾ VÀ CÁC THẾ GIỚI CHƯƠNG X. PHONG TRÀO GIẢI PHÓNG PHỤ NỮ CHƯƠNG XI. LỜI KẾT VỀ TÁC GIẢ Tuesday Lobsang Rampa tự nhận mình là linh hồn một vị Lạt ma người Tây Tạng đã mượn tạm xác của một người Anh tên là Cyril Hoskin (8 tháng 4 năm 1910 - 25 tháng 1 năm 1981). Cái tên Tuesday (thứ Ba) liên quan đến lời ông kể rằng các quý tộc người Tây Tạng được đặt tên theo ngày mà họ sinh ra. Vào tháng 11 năm 1956, cuốn sách đầu tiên với tựa đề The Third Eye (Con mắt thứ ba hay Tây Tạng huyền bí) được xuất bản ở Anh. Cuốn sách kể lại những kinh nghiệm của ông khi lớn lên trong một tu viện ở Tây Tạng từ năm lên bảy tuổi. Tựa đề cuốn sách liên quan đến một cuộc phẫu thuật trên trán để mở ra con mắt thứ ba làm tăng cường khả năng nhìn hào quang của ông. Trong cuốn The Rampa story (Câu chuyện của Rampa) và Doctor from Lhasa (Bác sỹ từ Lhasa), ông kể rằng thân xác ông đã bị hủy hoại nặng nề vì những đòn tra tấn của phát xít Nhật nên đã mượn xác của Cyril Henry Hoskin để viết ra những cuốn sách ký tên là Lobsang Rampa. Ông Cyril là một người thợ sửa ống nước, sau khi hồn của Tu sĩ Bác sĩ Rampa nhập vào mới bắt đầu viết những cuốn sách về Tây Tạng. Theo lời nhà xuất bản Secker & Warburg, tác giả Lobsang Rampa đã cung cấp tài liệu chứng minh rằng ông có bằng y khoa của Đại học Trùng Khánh, và trong các văn bằng đó ông được mô tả là một vị Lạt Ma của tu viện Potala ở Lhasa. Nhiều cuộc trò chuyện cá nhân của NXB với ông đã chứng minh ông là một người có quyền năng và tri thức khác thường. Về cuộc sống cá nhân của mình, ông thể hiện sự dè dặt đôi khi khó hiểu; nhưng mọi người đều có quyền riêng tư và Lobsang Rampa có thái độ như vậy có lẽ để che giấu sự an toàn cho gia đình ông vẫn đang sống ở mảnh đất Tây Tạng hiện đang do Trung Quốc quản lý. Thật vậy, một số chi tiết, chẳng hạn như vị trí thực của cha ông ở Tây Tạng, đã được cố tình ngụy trang vì mục đích này. Vì những lý do trên, Tác giả buộc phải nhận và đã tự nguyện nhận trách nhiệm duy nhất về những về những gì ông viết trong sách. Ta có thể cảm thấy rằng đâu đó ông đã dành được sự tin tưởng của người phương Tây, dù cái nhìn của người phương Tây về vấn đề những cuốn sách nói tới rất khó để khẳng định.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_60b5a91674e11e33fcfe5844a4d196be.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_60b5a91674e11e33fcfe5844a4d196be.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/66-toi-tin-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/66-toi-tin-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

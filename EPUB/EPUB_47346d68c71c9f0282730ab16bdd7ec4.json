@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/oc-dao-tu-than-984.html",
+    "title" : "ỐC ĐẢO TỰ THÂN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ayya Khema",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“…. Lúc nào ta cũng cần nhớ rõ về tính vô thường (anicca) của Vạn Pháp không chỉ trong lúc tọa thiền. Chánh niệm là trung tâm điểm trong lúc toạ thiền để đi vào định. Chúng ta chỉ có thể dành một ít thời gian cho việc toạ thiền nhưng ta có thể dành tất cả thời gian còn lại để quan sát tâm mình. Đó là nơi khiến mọi việc trên thế gian này xảy đến với ta. Không có gì có thể hiện hữu ngoài tâm” Đây là một đoạn trích trong cuốn “Ốc đảo tự thân” của Ni sư Ayya Khema, tác giả của cuốn sách Being Nobody, Going Nowhere (Vô ngã vô ưu) nổi tiếng. Khác biệt với những cuốn sách khác của Ayya Khema, trong cuốn sách này. Ni sư lại hướng dẫn chúng ta những phương pháp kỹ thuật để tự cân bằng nội tâm của mình, tìm lại sự an bình trong chính trái tim nhỏ bé của mỗi chúng ta. Như câu kinh: ” Pháp Phật sâu mầu chẳng gì hơn, Trăm ngàn muôn kiếp mới được gặp Nay con nghe thấy vâng gìn giữ Nguyện hiểu nghĩa chân Đức Thế Tôn”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_47346d68c71c9f0282730ab16bdd7ec4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_47346d68c71c9f0282730ab16bdd7ec4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/984-oc-dao-tu-than-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/984-oc-dao-tu-than-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

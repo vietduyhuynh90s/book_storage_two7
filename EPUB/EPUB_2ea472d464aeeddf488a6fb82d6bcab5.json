@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-manh-hon-toi-7877.html",
+    "title" : "NHỮNG MẢNH HỒN TÔI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khiêm Cung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Càng đọc cuốn Những Mảnh Hồn Tôi, dường như tôi đi lạc vào mê hồn trận không lối thoát, nhưng tôi đã bắt gặp một điều lý thú, đó là dòng văn của anh Khiêm Cung, chỉ nhớ đâu viết đó, không sắp đặt theo thứ tự. Vì vậy mà ít khi thấy một cái truyện nào có phân đoạn chủ đề, nhưng lại hấp dẫn người đọc đến mê mang. Riêng phần tôi phải ngồi hết một buổi chiều, và gần một đêm mất ngủ. Tôi cũng không biết vì sao tôi lại cảm động cuốn sách nầy, chắc có lẽ nó là một người dẫn đường cho tôi về tới Hậu Giang, dẫn tôi về tuổi thơ của một thời nghèo khổ, dẫn tôi đi đào cua về bán để mua dầu, dẫn tôi về lúc cha tôi làm lại thế vì khai sanh. Ngoài những thứ đó ra, tôi còn thấy nó rất chân thành ở những câu văn mộc mạc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2ea472d464aeeddf488a6fb82d6bcab5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2ea472d464aeeddf488a6fb82d6bcab5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7877-nhung-manh-hon-toi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7877-nhung-manh-hon-toi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-quy-tac-tu-duy-13541.html",
+    "title" : "NHỮNG QUY TẮC TƯ DUY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Templar",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bộ quy tắc phá vỡ rào cản tâm trí để tư duy một cách độc lập! Một vài cách tư duy thông minh sẽ giúp bạn cảm thấy hạnh phúc hơn, bền bỉ hơn, trong khi những cách khác sẽ giúp bạn lập kế hoạch hiệu quả hơn và đưa ra những quyết đinh sáng suốt hơn. Tư duy dựa trên quy tắc sẽ cải thiện sự sáng tạo, kỹ năng giải quyết vấn đề, khả năng phân tích, đánh giá và phê phán của bạn. Tư duy thông minh hơn sẽ có ảnh hưởng tích cực lên mọi mặt đời sống của bạn, dù là tại nhà, ở chỗ làm hay trong các mối quan hệ. Xét từ góc độ nào đó, cuốn sách này không đề cập tới cách suy nghĩ. Nhiều quy tắc chỉ đơn thuần là chỉ dẫn để loại bỏ những rào cản đã và đang ngăn cản khả năng tư duy thấu đáo của bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b26386ef46b5317ceb505acf1f71293c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b26386ef46b5317ceb505acf1f71293c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13541-nhung-quy-tac-tu-duy-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13541-nhung-quy-tac-tu-duy-thuviensach.vn.mp3?t=9026",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:26 Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13541-nhung-quy-tac-tu-duy-thuviensach.vn.mp3?t=16865",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:41:05 Phần 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13541-nhung-quy-tac-tu-duy-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13541-nhung-quy-tac-tu-duy-thuviensach.vn.mp3?t=9026",
+    "title" : "02:30:26 Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13541-nhung-quy-tac-tu-duy-thuviensach.vn.mp3?t=16865",
+    "title" : "04:41:05 Phần 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

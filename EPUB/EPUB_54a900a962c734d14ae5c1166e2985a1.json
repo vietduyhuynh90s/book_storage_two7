@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuat-marketing-13475.html",
+    "title" : "THUẬT MARKETING",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Tracy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nguyên nhân chính dẫn đến sự thành bại của một doanh nghiệp được xác định bởi sự thăng trầm của nỗ lực marketing. Theo Dun $ Bradstreet, 48% thất bại trong kinh doanh là kết quả của sự ì trệ hoặc thiếu hiệu quả trong lĩnh vực marketing hay bán hàng. Trong nền kinh tế cạnh tranh đầy năng động này, marketing là phần cốt lõi của mọi doanh nghiệp thành công. Cho dù kinh doanh trong lĩnh vực nào đi chăng nữa, bạn vẫn phải cần đến marketing. 21 hướng dẫn thiết yếu trong cuốn Thuật Marketing là những ý tưởng tiếp thị mạnh mẽ mà bạn có thể sử dụng tức thời. Với trí tuệ gắn mác Brian Tracy, bạn sẽ khám phá ra cách: - Xây dựng nền tảng khách hàng của bạn - Đặt mình nằm ngoài hoạt động cạnh tranh - Trả lời ba câu hỏi quan trọng về bất kỳ sản phẩm hay dịch vụ mới nào - Thúc đẩy nghiên cứu thị trường và tập trung các nhóm để ra quyết định tốt hơn - Đáp ứng nhu cầu cảm xúc căn bản của người mua - Xác định mức giá chính xác cho dịch vụ của bạn - Tập trung toàn lực vào khách hàng - Tận dụng tối đa các kênh phân phối của bạn</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_54a900a962c734d14ae5c1166e2985a1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_54a900a962c734d14ae5c1166e2985a1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13475-thuat-marketing-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13475-thuat-marketing-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
