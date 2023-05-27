@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thien-tap-cho-nguoi-ban-ron-136.html",
+    "title" : "THIỀN TẬP CHO NGƯỜI BẬN RỘN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Thức dậy vào mỗi buổi sáng..3 Múc nước đổ vào chậu, thau hay vặn nước máy để rửa mặt...4 Chải răng.6 Ngồi thở..8 Đi cầu, đi tiểu...10 Làm thức ăn sáng...11 Ăn sáng.12 Đối trị tập khí...13 Phá bỏ ngục tù quá khứ.14 Thiền đi.16 Quay về nương tựa...19 Là hoa tươi mát...21 Là núi vững vàng...22 Nước tĩnh lặng chiếu...23 Đi qua cơn bão..24 Hiểu và Thương..26 Cha tôi trong tôi..28</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3b59db63b90a39e8ed33f47a60593025.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3b59db63b90a39e8ed33f47a60593025.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/136-thien-tap-cho-nguoi-ban-ron-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/136-thien-tap-cho-nguoi-ban-ron-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

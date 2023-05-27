@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-4-41.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>CHƯƠNG 23 SÓI TUYẾT CAO NGUYÊN Trưởng lão thôn Công Bố Sói tuyết cao nguyên Mối ưu tư của lạt ma Á La Đảo Huyền Không tự (1) Truyền thuyết về núi thần CHƯƠNG 24 ĐẢO HUYỂN KHÔNG TỰ Gặp lại trận đồ đ| khổng lồ Đảo Huyền Không tự (2) Thánh luyện đường (1) Thánh luyện đường (2) CHƯƠNG 25 SAU CÁNH CỬA KHỔNG LỒ Tòa th|p ngược thứ mười hai Mạo hiểm Vực sâu Phật điện CHƯƠNG 26 BÊN TRONG TƯỢNG PHẬT KHỔNG LỒ Gặp lại di tích Tr|i tim đang đập Cơ quan đơn giản Luyện ngục của bậc dũng sĩ (1) Luyện ngục của bậc dũng sĩ (2) CHƯƠNG 27 HUYẾT TRÌ SIÊU CẤP Huyết trì siêu cấp Trùng khốn Cái chết của Đa C|t Kẻ đi săn v{ con mồi Đối đầu quyết chiến CHƯƠNG 28 TÂY TẠNG CỔ CÁCH Gặp lại Huyết trì khổng lồ Thiên Phật điện Huyết mạch nối liền Một đ|m thương binh Phát hiện kinh người của Nhạc Dương Thảo luận CHƯƠNG 29 TRẬN CHIẾN NGHÌN NĂM Sắp xếp của Ben Cổ C|ch kim thư Sự ra đời của Đạo quân Ánh sáng Trận chiến nghìn năm Tam đại mật truyền sư CHƯƠNG 30 MẬT TÔNG TÂY TẠNG Lời nguyền thần bí Đ|p |n của trí giả Tổng kết</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_20a9a9a3bc6c1ab4f71a9663e67ed5b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_20a9a9a3bc6c1ab4f71a9663e67ed5b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/41-mat-ma-tay-tang-tap-4-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/41-mat-ma-tay-tang-tap-4-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

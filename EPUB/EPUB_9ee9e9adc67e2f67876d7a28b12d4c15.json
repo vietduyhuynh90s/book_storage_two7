@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lam-the-nao-de-thoat-khoi-bong-den-cua-nhung-noi-buon-phien-13931.html",
+    "title" : "LÀM THẾ NÀO ĐỂ THOÁT KHỎI BÓNG ĐEN CỦA NHỮNG NỖI BUỒN PHIỀN?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Câu chuyện này là một điển tích nổi tiếng của Thiền Tông, kể về cuộc gặp gỡ giữa sơ tổ Bồ Đề Đạt Ma - người được cho là kế thừa y bát thứ 28 từ Đức Phật Thích Ca, với học trò xuất sắc bậc nhất của ngài - thiền sư Huệ Khả, tổ thứ hai của Thiền Tông Trung Hoa. Thuở nọ ở Trung Hoa có một người rất tinh thông sách thánh hiền, ông đã thuộc làu sách của các bậc Trang Tử, Lão Tử từ khi còn nhỏ, cho tới kinh sách nhà Phật khi trưởng thành, nhưng vẫn thấy có nhiều điều khúc mắc còn chưa thể giải thích được. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9ee9e9adc67e2f67876d7a28b12d4c15.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9ee9e9adc67e2f67876d7a28b12d4c15.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13931-lam-the-nao-de-thoat-khoi-bong-den-cua-nhung-noi-buon-phien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13931-lam-the-nao-de-thoat-khoi-bong-den-cua-nhung-noi-buon-phien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bac-si-tu-lhasa-63.html",
+    "title" : "BÁC SĨ TỪ LHASA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lobsang Rampa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC VỀ TÁC GIẢ LỜI NÓI ĐẦU CỦA TÁC GIẢ CHƯƠNG I: VÀO XӬ LẠ CHƯƠNG II: TRÙNG KHÁNH CHƯƠNG III: HỌC Y KHOA CHƯƠNG IV: LÁI MÁY BAY CHƯƠNG V: BÊN KIA CӰA TӰ CHƯƠNG VI: THẤU THỊ CHƯƠNG VII: CHUYẾN BAY ĐAU THƯƠNG CHƯƠNG VIII: KHI THẾ GIỚI CÒN NON TRẺ CHƯƠNG IX: NGƯỜI TÙ BINH CỦA QUÂN NHẬT CHƯƠNG X: PHÉP THỞ CHƯƠNG XI: BOM</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4b96bbc65277818366fad8a9bac89124.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4b96bbc65277818366fad8a9bac89124.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/63-bac-si-tu-lhasa-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/63-bac-si-tu-lhasa-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

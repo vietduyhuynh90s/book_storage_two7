@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chung-ta-ai-cung-than-tho-met-moi-vi-toan-tinh-qua-nhieu-13907.html",
+    "title" : "CHÚNG TA AI CŨNG THAN THỞ MỆT MỎI VÌ TOAN TÍNH QUÁ NHIỀU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đời người không thể việc gì cũng thuận theo lòng mình, cho nên đừng thường xuyên nghĩ rằng mình thống khổ. Trên thế giới này còn rất nhiều người sống khổ hơn mình. Người trí tuệ hiểu rõ rằng, trong cuộc sống có những ước mơ là xa vời mãi mãi không thành hiện thực được, có một số vấn đề vĩnh viễn không có câu trả lời, có một số chuyện vĩnh viễn không có kết thúc, có một số người xa lạ mãi mãi vẫn chẳng thể làm người thân… Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_efbf9714fd2e15dce44149230140a431.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_efbf9714fd2e15dce44149230140a431.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13907-chung-ta-ai-cung-than-tho-met-moi-vi-toan-tinh-qua-nhieu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13907-chung-ta-ai-cung-than-tho-met-moi-vi-toan-tinh-qua-nhieu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
