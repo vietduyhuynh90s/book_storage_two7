@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/o-tuoi-30-dung-chi-coi-tien-la-gia-tri-duy-nhat-de-danh-gia-con-nguoi-13919.html",
+    "title" : "Ở TUỔI 30, ĐỪNG CHỈ COI TIỀN LÀ GIÁ TRỊ DUY NHẤT ĐỂ ĐÁNH GIÁ CON NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một người có giá trị hay không thông thường có liên quan tới việc họ biết trân trọng thời gian hay không. Đa phần những người đạt thành tựu đều là những người có ý thức về thời gian. Họ biết sử dụng thời gian vào những việc có ý nghĩa, học hỏi và phát triển bản thân. Bởi thêm một kỹ năng, cuộc sống sẽ có thêm lựa chọn. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_de7c983d3285e9610ca5c6d3f0c7d085.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_de7c983d3285e9610ca5c6d3f0c7d085.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13919-o-tuoi-30-dung-chi-coi-tien-la-gia-tri-duy-nhat-de-danh-gia-con-nguoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13919-o-tuoi-30-dung-chi-coi-tien-la-gia-tri-duy-nhat-de-danh-gia-con-nguoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

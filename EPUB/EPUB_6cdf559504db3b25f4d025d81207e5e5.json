@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ba-nguoi-thay-cua-nha-hien-triet-hassan-mot-ten-trom-mot-dua-be-va-mot-con-cho-13891.html",
+    "title" : "BA NGƯỜI THẦY CỦA NHÀ HIỀN TRIẾT HASSAN: MỘT TÊN TRỘM, MỘT ĐỨA BÉ VÀ MỘT CON CHÓ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đúng là có thể nói ta không có một ai là thầy, nhưng điều này không có nghĩa ta không phải là một học trò. Ta xem vạn vật là thầy. Tinh thần học hỏi của ta luôn rộng mở hơn tất cả các người. Ta học hỏi từ tất cả mọi vật, từ cành cây ngọn cỏ đến đám mây trên trời kia. Ta không có một người thầy vì ta có hàng triệu triệu người thầy mà ta đã học được mỗi khi có thể. Điều thiết yếu trong cuộc sống là luôn làm một học trò. Điều này có nghĩa là gì? Nghĩa là có khả năng học hỏi, luôn sẵn sàng học để biết chấp nhận ý nghĩa của vạn vật. Người thầy là người thông qua đó ta bắt đầu học cách học hỏi. Giọng đọc: Cao Trí</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6cdf559504db3b25f4d025d81207e5e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6cdf559504db3b25f4d025d81207e5e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13891-ba-nguoi-thay-cua-nha-hien-triet-hassan-mot-ten-trom-mot-dua-be-va-mot-con-cho-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13891-ba-nguoi-thay-cua-nha-hien-triet-hassan-mot-ten-trom-mot-dua-be-va-mot-con-cho-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

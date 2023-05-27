@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/9-ly-do-ban-nen-danh-them-thoi-gian-cho-chinh-minh-13883.html",
+    "title" : "9 LÝ DO BẠN NÊN DÀNH THÊM THỜI GIAN CHO CHÍNH MÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Từ nhỏ, chúng ta được dạy phải nghe lời, chúng ta được dạy phải giống với những người khác hơn và bớt giống với chính mình. Và điều thật đẹp trong việc dành thời gian cho riêng mình là bạn sẽ được giải phóng khỏi những cái bẫy tâm trí, những niềm tin và những hạn định về những gì bạn phải giống với người khác. Và bạn sẽ tìm thấy trong chính mình sức mạnh và lòng dũng cảm để trân trọng và trở thành con người đích thực của mình chứ không phải là kẻ mà những người khác nghĩ bạn nên trở thành. Không còn phải giả vờ, không còn phải trốn tránh chính bản thân mình nữa. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_734e3a371cdf314e55cea53c6af0ad46.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_734e3a371cdf314e55cea53c6af0ad46.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13883-9-ly-do-ban-nen-danh-them-thoi-gian-cho-chinh-minh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13883-9-ly-do-ban-nen-danh-them-thoi-gian-cho-chinh-minh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
