@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luat-tam-thuc-giai-ma-ma-tran-vu-tru_19056.html",
+    "title" : "Luật Tâm Thức - Giải Mã Ma Trận Vũ Trụ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Sa Thạch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-02",
+    "duration" : 32817,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1ea010064fb6e3299c2de0c2b14c78b6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1ea010064fb6e3299c2de0c2b14c78b6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6262,
+    "title" : "(Phần 1) Luật Tâm Thức- Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6778,
+    "title" : "(Phần 2) Sách nói: Luật tâm thức- Ngô Sa Thạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "(Phần 3) Sách nói: Luật tâm thức- Ngô Sa Thạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4529,
+    "title" : "(Phần 4) Sách nói: Luật tâm thức- Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5576,
+    "title" : "(Phần 5) Sách nói: Luật tâm thức- Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5688,
+    "title" : "(Phần cuối) Sách nói: Luật Tâm Thức -Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/1.mp3",
+    "title" : "(Phần 1) Luật Tâm Thức- Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/2.mp3",
+    "title" : "(Phần 2) Sách nói: Luật tâm thức- Ngô Sa Thạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/3.mp3",
+    "title" : "(Phần 3) Sách nói: Luật tâm thức- Ngô Sa Thạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/4.mp3",
+    "title" : "(Phần 4) Sách nói: Luật tâm thức- Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/5.mp3",
+    "title" : "(Phần 5) Sách nói: Luật tâm thức- Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luat-tam-thuc_202205/6.mp3",
+    "title" : "(Phần cuối) Sách nói: Luật Tâm Thức -Giải mã ma trận vũ trụ- Ngô Sa Thạch",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
