@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giuong-tang_20439.html",
+    "title" : "Giường Tầng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Minh Hợp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-07",
+    "duration" : 17170,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_1ab22808af695fd1bc917f97af5ccafe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_1ab22808af695fd1bc917f97af5ccafe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "giuong-tang-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "giuong-tang-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3445,
+    "title" : "giuong-tang-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3473,
+    "title" : "giuong-tang-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3437,
+    "title" : "giuong-tang-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-1.mp3",
+    "title" : "giuong-tang-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-2.mp3",
+    "title" : "giuong-tang-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-3.mp3",
+    "title" : "giuong-tang-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-4.mp3",
+    "title" : "giuong-tang-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giuong-tang-1/giuong-tang-5.mp3",
+    "title" : "giuong-tang-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
