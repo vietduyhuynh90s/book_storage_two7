@@ -1,0 +1,92 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyento.com/truyen-tranh/ta-co-mot-son-trai-370810",
+    "title" : "Ta Có Một Sơn Trại - Chapter 580",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-10",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 577,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=PSvI86pHJtXYBVjrf9cNAXkRcJ6H11iSTeQAnZpwq3RZOzIeU0RLLrNiEBabVrciPKf35sYFwy0aj43YfEXM+BXYHK4aHdb/moc4INyJ2+Ekod+QRm9hhdQIz0R9mGX2FWYkhyybRtQzT0ZktzpMIw==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=PSvI86pHJtXYBVjrf9cNAXkRcJ6H11iSTeQAnZpwq3RZOzIeU0RLLrNiEBabVrciPKf35sYFwy0aj43YfEXM+BXYHK4aHdb/moc4INyJ2+Ho0JL2mWNHhWvKQ+Eo/H2y8gTyVsAvfLOAM92ULbpH6A==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=PSvI86pHJtXYBVjrf9cNAXkRcJ6H11iSTeQAnZpwq3RZOzIeU0RLLrNiEBabVrciPKf35sYFwy0aj43YfEXM+BXYHK4aHdb/moc4INyJ2+HfxthnB99uCb06hc3Wwxuu91/BtGgJXXd04kAKuybm+A==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=PSvI86pHJtXYBVjrf9cNAXkRcJ6H11iSTeQAnZpwq3RZOzIeU0RLLrNiEBabVrciPKf35sYFwy0aj43YfEXM+BXYHK4aHdb/moc4INyJ2+GbRw2R25kr6wKMeU2BepEErH8vYvMB+76QClnYKhYctw==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=PSvI86pHJtXYBVjrf9cNAXkRcJ6H11iSTeQAnZpwq3RZOzIeU0RLLrNiEBabVrciPKf35sYFwy0aj43YfEXM+BXYHK4aHdb/moc4INyJ2+G3qg2+aD13wE0kyv9FKGSzuf/91QL4LebkHjzvvRllFg==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=PSvI86pHJtXYBVjrf9cNAXkRcJ6H11iSTeQAnZpwq3RZOzIeU0RLLrNiEBabVrciPKf35sYFwy0aj43YfEXM+BXYHK4aHdb/moc4INyJ2+GxPLhKEojua84bmsICsI2mD1qufWWPN6lSeKQ9BEhENw==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  }, {
+    "href" : "https://p.ntcdntempv26.com/content/image.jpg?data=PSvI86pHJtXYBVjrf9cNAXkRcJ6H11iSTeQAnZpwq3RZOzIeU0RLLrNiEBabVrciPKf35sYFwy0aj43YfEXM+BXYHK4aHdb/moc4INyJ2+GFASPPJehzK05Dt5cRDraaDP6+nCjlHnAAvmbioB4aeA==",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
