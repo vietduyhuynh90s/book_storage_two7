@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chu-be-deo-ba-lo-mau-do_20435.html",
+    "title" : "Chú Bé Đeo Ba Lô Màu Đỏ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Tú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 17248,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_855b09ed3a29676bcfa5378528a38a7b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_855b09ed3a29676bcfa5378528a38a7b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chu-be/chu-be-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "chu-be-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "chu-be-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "chu-be-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3504,
+    "title" : "chu-be-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3490,
+    "title" : "chu-be-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chu-be/chu-be-1.mp3",
+    "title" : "chu-be-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-2.mp3",
+    "title" : "chu-be-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-4.mp3",
+    "title" : "chu-be-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-5.mp3",
+    "title" : "chu-be-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chu-be/chu-be-6.mp3",
+    "title" : "chu-be-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
