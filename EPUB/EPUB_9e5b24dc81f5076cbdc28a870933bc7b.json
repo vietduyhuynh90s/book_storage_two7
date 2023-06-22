@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/su-thi-iliad-homer-7871.html",
+    "title" : "SỬ THI ILIAD - HOMER",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Homer",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tóm tắt trường ca \"Iliad\": Iliad là bản trường ca Hy lạp cổ nhất và có lẽ hay nhất trong văn học Tây phương. Qua chuỗi dài lịch sử đã tạo cảm hứng cho vô vàn tác phẩm nghệ thuật, từ hội họa, kiến trúc, thi ca cho đến tiểu thuyết, kịch nghệ, âm nhạc. Tác phẩm tất cả gồm hai mươi bốn khúc, khúc nào cũng lôi cuốn khiến người nghe ngây ngất, phần vì ý phần vì lời. Kể một giai đoạn ngắn năm mươi ngày trong năm thứ mười cuộc chiến tranh thành Troie, với câu chuyện xoay quanh về mối bất hòa giữa vị tướng kiệt xuất Achilleus của Hy Lạp và thống soái Agamemnon, cùng với nỗi phẫn nộ Achilleus cực chẳng đã phải mang trong lòng. Chiến trận rền vang, chàng lui về trại không tham dự, lực lượng Achaian vì thế suy yếu trầm trọng. Mãi tới lúc bạn chí thiết Patroklos tử trận, chàng mới rời trại ra chiến trường giao chiến và giết chết Hektor. Không những thế nhân giao chiến, mà cả thần linh cũng xung đột sâu sắc, và cuộc chiến vì thế trở nên kéo dài và vô cùng đẫm máu. Phần cuối trường ca kể về lễ hỏa táng Hektor. Tác phẩm là biểu tượng miêu tả số phận nhân loại hoàn toàn do định mệnh đưa đẩy.Đời sống xã hội Hy Lạp cổ đại cũng được phản ánh một cách chân thực trong tác phẩm, trong đó có thể thấy quá trình diễn biến từ chế độ thị tộc đến sự hình thành thành bang của chế độ nô lệ, đồng thời ca ngợi các nhân vật anh hùng kiệt xuất của phía Hy Lạp như Achille, của phía Troie như Hektor. Kết hợp chuyện truyền khẩu với chuyện thần thoại để đúc kết, tác phẩm được các thi sĩ ca công ngâm vịnh, phô diễn trước quần chúng qua nhiều thế hệ trước khi được ghi lại thành văn vào thế kỷ VIII trước công nguyên. Mời các bạn đón đọc trường ca: \"Iliad - Homer\"</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9e5b24dc81f5076cbdc28a870933bc7b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9e5b24dc81f5076cbdc28a870933bc7b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Iliad - Homer - Khúc 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=2890",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:48:10 Iliad - Homer - Khúc 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=5693",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:53 Iliad - Homer - Khúc 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=7774",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:09:34 Iliad - Homer - Khúc 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=10021",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:01 Iliad - Homer - Khúc 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=13852",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:50:52 Iliad - Homer - Khúc 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=16170",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:29:30 Iliad - Homer - Khúc 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=18241",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:04:01 Iliad - Homer - Khúc 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=20560",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:42:40 Iliad - Homer - Khúc 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=23745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:35:45 Iliad - Homer - Khúc 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=26041",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:14:01 Iliad - Homer - Khúc 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=29077",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:04:37 Iliad - Homer - Khúc 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=30981",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:36:21 Iliad - Homer - Khúc 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=34349",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:32:29 Iliad - Homer - Khúc 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=36515",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:08:35 Iliad - Homer - Khúc 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=39275",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:54:35 Iliad - Homer - Khúc 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=42626",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:50:26 Iliad - Homer - Khúc 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=45452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:37:32 Iliad - Homer - Khúc 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=47385",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:09:45 Iliad - Homer - Khúc 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=48923",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:35:23 Iliad - Homer - Khúc 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=50851",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:07:31 Iliad - Homer - Khúc 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=53289",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:48:09 Iliad - Homer - Khúc 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=55419",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:23:39 Iliad - Homer - Khúc 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=58803",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:20:03 Iliad - Homer - Khúc 24",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Iliad - Homer - Khúc 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=2890",
+    "title" : "00:48:10 Iliad - Homer - Khúc 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=5693",
+    "title" : "01:34:53 Iliad - Homer - Khúc 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=7774",
+    "title" : "02:09:34 Iliad - Homer - Khúc 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=10021",
+    "title" : "02:47:01 Iliad - Homer - Khúc 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=13852",
+    "title" : "03:50:52 Iliad - Homer - Khúc 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=16170",
+    "title" : "04:29:30 Iliad - Homer - Khúc 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=18241",
+    "title" : "05:04:01 Iliad - Homer - Khúc 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=20560",
+    "title" : "05:42:40 Iliad - Homer - Khúc 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=23745",
+    "title" : "06:35:45 Iliad - Homer - Khúc 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=26041",
+    "title" : "07:14:01 Iliad - Homer - Khúc 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=29077",
+    "title" : "08:04:37 Iliad - Homer - Khúc 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=30981",
+    "title" : "08:36:21 Iliad - Homer - Khúc 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=34349",
+    "title" : "09:32:29 Iliad - Homer - Khúc 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=36515",
+    "title" : "10:08:35 Iliad - Homer - Khúc 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=39275",
+    "title" : "10:54:35 Iliad - Homer - Khúc 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=42626",
+    "title" : "11:50:26 Iliad - Homer - Khúc 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=45452",
+    "title" : "12:37:32 Iliad - Homer - Khúc 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=47385",
+    "title" : "13:09:45 Iliad - Homer - Khúc 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=48923",
+    "title" : "13:35:23 Iliad - Homer - Khúc 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=50851",
+    "title" : "14:07:31 Iliad - Homer - Khúc 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=53289",
+    "title" : "14:48:09 Iliad - Homer - Khúc 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=55419",
+    "title" : "15:23:39 Iliad - Homer - Khúc 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7871-su-thi-iliad-homer-thuviensach.vn.mp3?t=58803",
+    "title" : "16:20:03 Iliad - Homer - Khúc 24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

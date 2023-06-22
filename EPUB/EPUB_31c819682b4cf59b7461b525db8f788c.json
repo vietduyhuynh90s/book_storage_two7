@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hanh-trinh-ve-voi-cac-chan-su-phuong-dong-3121.html",
+    "title" : "HÀNH TRÌNH VỀ VỚI CÁC CHÂN SƯ PHƯƠNG ĐÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Baird T. Spalding",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đã có rất nhiều cuốn sách được in ra trên khắp thế giới nói về lãnh vực tâm linh, cũng như đã có rất nhiều tri thức và trải nghiệm về những gì liên quan đến các đạo sư, các guru, các bậc thầy tinh thần của các tôn giáo lớn trên toàn cầu. Cuốn sách này có thể sẽ gây ra nhiều hoài nghi, thắc mắc, nhưng các sự kiện được tác giả thuật lại trong hành trình của nhóm nghiên cứu 11 người đi tới các xứ sở phương Đông, vào những năm cuối cùng của thế kỷ 19, chắc chắn nằm trong những nguồn mạch của một thế giới tinh thần bí ẩn, lạ lùng nhất nhưng cũng gần gũi nhất với đời sống tín ngưỡng của con người hiện đại. Hy Mã Lạp Sơn là những đỉnh cao tuyết phủ của bản đồ địa lý và cũng là những vùng sâu thẳm của bản đồ tâm linh, đối với cả phương Đông và phương Tây.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_31c819682b4cf59b7461b525db8f788c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_31c819682b4cf59b7461b525db8f788c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3121-hanh-trinh-ve-voi-cac-chan-su-phuong-dong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hành Trình Về Với Các Chân Sư Phương Đông - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3121-hanh-trinh-ve-voi-cac-chan-su-phuong-dong-thuviensach.vn.mp3?t=34349",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:32:29 Hành Trình Về Với Các Chân Sư Phương Đông - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3121-hanh-trinh-ve-voi-cac-chan-su-phuong-dong-thuviensach.vn.mp3?t=60823",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:53:43 Hành Trình Về Với Các Chân Sư Phương Đông - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3121-hanh-trinh-ve-voi-cac-chan-su-phuong-dong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hành Trình Về Với Các Chân Sư Phương Đông - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3121-hanh-trinh-ve-voi-cac-chan-su-phuong-dong-thuviensach.vn.mp3?t=34349",
+    "title" : "09:32:29 Hành Trình Về Với Các Chân Sư Phương Đông - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3121-hanh-trinh-ve-voi-cac-chan-su-phuong-dong-thuviensach.vn.mp3?t=60823",
+    "title" : "16:53:43 Hành Trình Về Với Các Chân Sư Phương Đông - Phần 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

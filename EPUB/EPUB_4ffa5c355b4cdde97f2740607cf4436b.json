@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-thanh-cong-lam-gi-vao-buoi-sang-2714.html",
+    "title" : "NGƯỜI THÀNH CÔNG LÀM GÌ VÀO BUỔI SÁNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hayato Goto",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cách thức thúc đẩy năng suất làm việc, giải phóng năng lượng và tạo ra một cuộc sống tuyệt vời ngay tại thời điểm khởi đầu ngày mới. Bạn thư giãn, tập trung, hứng khởi, tự tin và cực kỳ sảng khoải để bạn sống trọn vẹn và ý nghĩa từng ngày. Buổi sáng chất lượng là tiền đề tạo nên cuộc sống chất lượng. Đó là lý do vì sao người thành công luôn duy trì những thói quen tốt vào buổi sáng. Nếu tìm kiếm từ khóa “Những thói quen của người thành công trên thế giới”, bạn sẽ thấy điểm chung là họ luôn dành thời gian để tạo nên một khởi đầu ngày mới tràn trề năng lượng và đầy cảm hứng. Vì bản thân họ đã áp dụng và nhận về vô vàn lợi ích tuyệt vời từ điều đó, như: Làm việc hiệu quả, đầu óc minh mẫn, tâm hồn thư thái, sức khỏe được cải thiện, tâm trạng tốt hơn, suy nghĩ tích cực hơn… Bạn muốn mình cũng được như thế, phải không? Cuốn sách sẽ hướng dẫn bạn từng bước chi tiết để hình thành và duy trì thói quen tốt, chậm rãi nhưng hiệu quả. Bạn không chỉ được truyền cảm hứng từ những câu chuyện của những người thành công nhất mà bạn còn được truyền cảm hứng bởi những nỗ lực của chính bản thân mình mỗi ngày. Bạn hoàn toàn có thể áp dụng và thực hành như những gì được đọc một cách phù hợp nhất. Bạn không phải gồng mình để thay đổi. Cuốn sách sẽ hướng dẫn bạn từng bước cơ bản để bắt đầu hành trình thay đổi một cách tự nhiên. Bạn sẽ trải nghiệm những lợi ích thực sự làm thay đổi cuộc sống của bạn Bạn hành động vì bạn cảm thấy nên làm. Nó trở thành bản năng tự nhiên không gắng gượng. Bạn sẽ trải nghiệm những ích lợi duy nhất dành cho bạn khi áp dụng một thói quen buổi sáng vào cuộc sống. Bạn được ghi nhận, bạn được cổ vũ và trở thành phiên bản tốt hơn của mình mỗi ngày. Đó mới là mục tiêu và giá trị cuốn sách mong muốn mang lại. Cấu trúc của cuốn sách rất mạch lạc, rõ ràng với lối viết dung dị, mộc mạc. Bạn thấy mình như được chia sẻ và thấu hiểu, bạn tìm thấy sự đồng điệu và khơi nguồn cảm hứng để tự mình sống tốt hơn, tích cực hơn khi biết hành động có mục tiêu vào buổi sáng. Những sự kết nối mạnh mẽ, những góc nhìn thay đổi, sự tự tin được củng cố, niềm hạnh phúc, sự lạc quan…sẽ là phần thưởng xứng đáng bạn có được sau khi trải nghiệm. Chúc bạn thành công! Và giờ thì cùng bắt đầu hành trình ngay nhé.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4ffa5c355b4cdde97f2740607cf4436b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4ffa5c355b4cdde97f2740607cf4436b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2714-nguoi-thanh-cong-lam-gi-vao-buoi-sang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2714-nguoi-thanh-cong-lam-gi-vao-buoi-sang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

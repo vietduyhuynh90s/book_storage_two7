@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyen-tap-truyen-ngan-thach-lam-14070.html",
+    "title" : "TUYỂN TẬP TRUYỆN NGẮN THẠCH LAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thạch Lam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thạch Lam sinh ngày 7-7-1910, tại ấp Thái Hà, Hà Nội, tên thật là Nguyễn Tường Vinh. Nǎm 1932, ông tham gia ban biên tập tuần báo \"Phong hoá\", sau đó tham gia thành lập tổ chức \"Tự lực vǎn đoàn\", nhưng khác với Nhất Linh, Khái Hưng, Hoàng Đạo, ông có khuynh hướng tiến gần tới chủ nghĩa hiện thực và tình cảm nghiêng hoàn toàn vể người nghèo khổ, thông cảm chân thành với các cảnh ngộ éo le. Nhiều sáng tác của Thạch Lam có xu hướng tiến bộ tiêu biểu cho vǎn xuôi lãng mạn trong thời kỳ mặt trận dân chủ... Tập sách này giới thiệu với bạn đọc các tác phẩm tiêu biểu của ông.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7c5ff56aa6883d7916a3ffba2f085631.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7c5ff56aa6883d7916a3ffba2f085631.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=14",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:14 Ngày Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=17606",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:53:26 Theo Dòng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=23383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:29:43 Hà Nội Băm Sáu Phố Phường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=25165",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:59:25 Bún Sườn Và Canh Bún",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=27362",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:36:02 Vài Thứ Chuyên Môn Nữa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=29315",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:08:35 Hà Nội Ban Đêm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=30802",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:33:22 Các Cô Me",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=32363",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:59:23 Trẻ Con Lấy Vợ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=14",
+    "title" : "00:00:14 Ngày Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=17606",
+    "title" : "04:53:26 Theo Dòng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=23383",
+    "title" : "06:29:43 Hà Nội Băm Sáu Phố Phường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=25165",
+    "title" : "06:59:25 Bún Sườn Và Canh Bún",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=27362",
+    "title" : "07:36:02 Vài Thứ Chuyên Môn Nữa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=29315",
+    "title" : "08:08:35 Hà Nội Ban Đêm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=30802",
+    "title" : "08:33:22 Các Cô Me",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14070-tuyen-tap-truyen-ngan-thach-lam-thuviensach.vn.mp3?t=32363",
+    "title" : "08:59:23 Trẻ Con Lấy Vợ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

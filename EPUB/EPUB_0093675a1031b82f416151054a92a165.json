@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hu-ao-mot-cuoc-tinh-14012.html",
+    "title" : "HƯ ẢO MỘT CUỘC TÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>.. Rồi tiếng nhạc ngừng. Tiếng vỗ tay chấm dứt. Mọi thứ lắng xuống đột ngột. Mọi người nín thở chờ đợi. Màn kịch gay cấn nhất sắp bắt đầu. Chỉ còn tiếng lộp cộp và tiếng kêu sợ hãi của con thú trong lồng. Đám thanh niên mang mặt nạ ban nãy nhảy nhót trong sân. Giờ đang sắp hàng trước lồng thú, giương cung chờ đợi. Chỉ cần hiệu lệnh, là lần lượt từng mũi tên sẽ bay về phía con thú. Lạc Mai không kìm được nữa, vội vã phóng ra, hét lớn: - Đừng! Đừng! Đúng lúc đó lệnh cũng được ban ra, sự xuất hiện bất ngờ của Lạc Mai như, ngoài dự đoán của mọi người nên không ai ngăn kịp mũi tên đầu đang phóng tới. Nó không biết né nên Lạc Mai vừa đến bên lồng thì mũi tên cũng vừa tới, mọi người chỉ kịp ồ lên, ngạc nhiên và sợ hãi, thì tên đã cắm phập vào bắp tay của Lạc Mai…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_0093675a1031b82f416151054a92a165.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_0093675a1031b82f416151054a92a165.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14012-hu-ao-mot-cuoc-tinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14012-hu-ao-mot-cuoc-tinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

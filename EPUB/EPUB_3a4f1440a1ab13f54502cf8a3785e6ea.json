@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tiem-thuc-suc-manh-cua-tiem-thuc-8296.html",
+    "title" : "TIỀM THỨC - SỨC MẠNH CỦA TIỀM THỨC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Thompson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong \"Sức mạnh Tiềm thức\", bạn sẽ tìm hiểu quy trình từng bước để khai thác sức mạnh tiềm ẩn của tiềm thức nhằm thay đổi cuộc sống của bạn. - \"Sức Mạnh Tiềm Thức\" là một cuốn sách ngắn dễ đọc, nhưng nó vô cùng mạnh mẽ và có thể thay đổi cuộc sống. Các chủ đề trong \"Sức mạnh tiềm thức\" bao gồm: * Tiềm thức là gì? *Tiềm thức hoạt động như thế nào * Sự khác biệt giữa ý thức và tiềm thức * Tâm trí có ý thức và tiềm thức tương tác với nhau như thế nào * Sức mạnh tiềm ẩn của tiềm thức * Quy trình từng bước khai thác sức mạnh của tiềm thức để thay đổi cuộc sống của bạn. - Bạn xứng đáng với những điều tốt đẹp nhất, và \"Sức mạnh tiềm thức\" sẽ chỉ cho bạn cách đạt được cuộc sống mà bạn mong muốn nhanh hơn bạn từng tưởng tượng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3a4f1440a1ab13f54502cf8a3785e6ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3a4f1440a1ab13f54502cf8a3785e6ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8296-tiem-thuc-suc-manh-cua-tiem-thuc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8296-tiem-thuc-suc-manh-cua-tiem-thuc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

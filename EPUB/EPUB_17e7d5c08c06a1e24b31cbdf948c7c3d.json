@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyet-hu-lao-nhan-tinh-do-tuyen-tap-14024.html",
+    "title" : "TUYẾT HƯ LÃO NHÂN TỊNH ĐỘ TUYỂN TẬP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Bĩnh Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Phần thứ nhất: NHỮNG ĐOẠN VĂN TRÍCH TỪ BỘ HOẰNG HỘ TIỂU PHẨM Pháp tu thành tựu ngay trong đời này I. Phải nhận thức rõ hoàn cảnh hiện tại và đường lối tương lai II. Phương pháp giải cứu nghịch cảnh, tai nạn, luân hồi III. Phương pháp niệm Phật IV. Trợ duyên để niệm Phật thành công V. Những bậc tiền bối mô phạm và kinh điển nên tham khảo VI. Hai loại tâm lý sai lầm thường gặp VII. Giải đáp nghi vấn VIII. Niệm Phật tạm đại lợi ích(ba điều lợi ích lớn của niệm Phật) IX. Phương pháp niệm Phật X. Chưa chứng chân nhưthì đối với lý nhân duyên phải rất cẩn trọng XI. Chẳng hiểu giáo tướng thì khó có thể bàn chuyện có- không XII. Tông phái Phần thứ hai: KHAI THỊ PHẬT THẤT I. Khai thị tại phật thất chùa Linh Sơn năm Nhâm Tý II. Khai thị Phật thất chùa Linh Sơn năm Giáp Dần III. Khai thị trong dịp kết thất niệm Phật đầu xuân Giáp Ngọ IV. Khai thị tại Phật thất chùa Linh Sơn năm Mậu Ngọ V. Khai thị Phật thất chùa Linh Sơn năm Mậu Ngọ (lần thứ 1) VI. Khai thị Phật Thất chùa Linh Sơn năm Mậu Ngọ (lần thứ 2) VII. Khai thị trong Phật thất năm Tân Dậu VIII. Lời trần tình của cụ tuyết tăng nhân dịp Phật thất năm Nhâm Tuất IX. Dao bén cắt đứt mối tơ loạn X. Khai thị Phật thất chùa Linh Sơn năm Ất Sửu XI. Khai thị Phật thất năm Canh Thân tại chùa Linh Sơn</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_17e7d5c08c06a1e24b31cbdf948c7c3d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_17e7d5c08c06a1e24b31cbdf948c7c3d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14024-tuyet-hu-lao-nhan-tinh-do-tuyen-tap-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14024-tuyet-hu-lao-nhan-tinh-do-tuyen-tap-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

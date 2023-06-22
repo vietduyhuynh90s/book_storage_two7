@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lolita-1110.html",
+    "title" : "LOLITA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vladimir Nabokov",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lolita, hiện tượng bất thường bậc nhất của văn chương thế kỷ 20, được xuất bản lần đầu vào năm 1955 tại Paris, mặc dù viết bằng tiếng Mĩ. Cũng như mọi tác phẩm kỳ vĩ và có độ lệch chuẩn lớn, như tiểu thuyết của D. H. Lawrence hay của Anthony Burgess, khởi đầu của Lolita không hề suôn sẻ. Giờ đây khi thực sự được đọc Lolita, ta hiểu tại sao Vladimir Nabokov nâng niu nó đến vậy. Thoạt tiên bị nhìn nhận một cách giản đơn quá mức, Lolita dần thoát khỏi cái định kiến coi nó là tác phẩm thuần túy gợi dục, bởi Lolita chứa đựng nhiều, rất nhiều hơn thế: nó tinh vi dò xét tâm lý con người (dù không cần viện tới tâm phân học, mà thậm chí Nabokov còn luôn luôn tìm cách bài xích Sigmund Freud), và nó còn là những nước cờ ngôn từ kiệt xuất của một trong những thiên tài văn chương lớn nhất. Đến giờ, dù cho bao năm tháng đã qua đi, Lolita vẫn cứ là một hiện tượng bất thường, và cô bé Lolita, \"ánh sáng của đời tôi, tội lỗi của tôi, tâm hồn của tôi\" trong trí tưởng của Humbert Humbert, vẫn bất tử trong dáng đứng thẳng cao chưa đầy một mét rưỡi và toàn bộ đặc tính của một \"tiểu nữ thần\" vĩnh viễn bất kham.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_8357e4397ca9b4e3179f490065b73ac5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_8357e4397ca9b4e3179f490065b73ac5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lolita - Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=217",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:03:37 Lolita - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=2843",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:47:23 Lolita - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=5249",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:27:29 Lolita - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=7924",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:04 Lolita - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=10744",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:59:04 Lolita - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=13229",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:40:29 Lolita - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=15684",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:21:24 Lolita - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=16542",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:35:42 Lolita - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=18710",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:11:50 Lolita - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=20733",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:45:33 Lolita - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=23319",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:28:39 Lolita - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=25479",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:04:39 Lolita - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=28005",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:46:45 Lolita - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=30072",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:21:12 Lolita - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=32120",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:55:20 Lolita - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=34863",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:41:03 Lolita - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=37588",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:26:28 Lolita - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=40277",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:11:17 Lolita - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=42738",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:52:18 Lolita - Phần 19 (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lolita - Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=217",
+    "title" : "00:03:37 Lolita - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=2843",
+    "title" : "00:47:23 Lolita - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=5249",
+    "title" : "01:27:29 Lolita - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=7924",
+    "title" : "02:12:04 Lolita - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=10744",
+    "title" : "02:59:04 Lolita - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=13229",
+    "title" : "03:40:29 Lolita - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=15684",
+    "title" : "04:21:24 Lolita - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=16542",
+    "title" : "04:35:42 Lolita - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=18710",
+    "title" : "05:11:50 Lolita - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=20733",
+    "title" : "05:45:33 Lolita - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=23319",
+    "title" : "06:28:39 Lolita - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=25479",
+    "title" : "07:04:39 Lolita - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=28005",
+    "title" : "07:46:45 Lolita - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=30072",
+    "title" : "08:21:12 Lolita - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=32120",
+    "title" : "08:55:20 Lolita - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=34863",
+    "title" : "09:41:03 Lolita - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=37588",
+    "title" : "10:26:28 Lolita - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=40277",
+    "title" : "11:11:17 Lolita - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1110-lolita-thuviensach.vn.mp3?t=42738",
+    "title" : "11:52:18 Lolita - Phần 19 (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

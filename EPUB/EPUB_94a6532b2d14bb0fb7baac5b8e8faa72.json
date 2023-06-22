@@ -1,0 +1,497 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-704.html",
+    "title" : "QUYỂN 3: HÀNH ĐÚNG LỜI ĐỨC PHẬT DẠY CHẮC CHẮN ĐƯỢC GIẢI THOÁT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC 01. Lời nói đầu 02. Lý giải ăn uống 03. Cách ăn uống ít bệnh 04. Hỏi ăn uống theo Thiền tông 05. Căn bản của một hành tinh 06. Hỏi về Bí mật Thiền tông 07. Hỏi về chữ VẠN 08. Hỏi về Lão Tử và Khổng Tử 09. Hỏi về Triết học Phương Đông 10. Hỏi tu theo Thiền tông 11. Tại sao tu theo Thiền tông lại quan trọng ăn uống? 12. Tại sao phải cân bằng Âm Dương 13. Hỏi về An táng 14. Hỏi về cách chưng bông trái 15. Giải thích chữ VẠN 16. Giải mã truyện TÂY DU KÝ 17. Hỏi về Đốn Ngộ Tiệm Tu 18. Hành đúng lời Phật dạy chắc chắn giải thoát 19. Lộ trình đến Phật Tánh không dụng công 20. Lộ trình đến Phật Tánh có dụng công 21. Hỏi hành Thiền 22. Hỏi làm sao tự tịch diệt 23. Thắc mắc độ chúng sanh ở Địa Ngục 24. Hướng dẫn ngồi thiền 25. Phật Tánh thanh tịnh sao khởi vọng niệm 26. Thắc mắc các Vị Tăng 27. Mười bậc nhận biết Thiền tông 28. Tranh luận 29. Quyết chí đốn ngã Trưởng ban 30. Xin nhắc nhở người lớn tuổi 31. Lợi ích 32. Người bị mất quyền lợi 33. Lời nguyền của Ma Vương 34. Hỏi cúng dường 35. Một số câu hỏi đặc biệt 36. Lời khuyên của người viết sách 37. Ý sau cùng 38. Kết luận</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_94a6532b2d14bb0fb7baac5b8e8faa72.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_94a6532b2d14bb0fb7baac5b8e8faa72.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 01. Lời Nói Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=453",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:07:33 02. Lý Giải Ăn Uống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=752",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:12:32 03. Cách Ăn Uống Ít Bệnh Tật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=1523",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:25:23 04. Hỏi Ăn Uống Theo Thiền Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=2492",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:41:32 05. Căn Bản Của Một Hành Tinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=3246",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:54:06 06. Hỏi Về Bí Mật Thiền Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=3537",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:58:57 07. Hỏi Về Chữ Vạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=3912",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:05:12 08. Hỏi Về Lão Tử Và Khổng Tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=4441",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:14:01 09. Hỏi Về Triết Học Phương Đông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=4912",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:21:52 10. Hỏi Tu Theo Thiền Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=6195",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:43:15 11. Tại Sao Tu Theo Thiền Tông Lại Quan Trọng Ăn Uống?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=6392",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:46:32 12. Tại Sao Phải Cân Bằng Âm Dương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=6727",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:07 13. Hỏi Về An Táng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=7665",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:07:45 14. Hỏi Về Cách Chưng Bông Trái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=8223",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:17:03 15. Giải Thích Chữ Vạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=8443",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:20:43 16. Giải Mã Truyện Tây Du Ký",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:48:31 17. Hỏi Về Đốn Ngộ Tiệm Tu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10200",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:50:00 18. Hành Đúng Lời Phật Dạy Chắc Chắn Giải Thoát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:56:55 19. Lộ Trình Đến Phật Tánh Không Dụng Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10669",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:57:49 20. Lộ Trình Đến Phật Tánh Có Dụng Công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=11373",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:09:33 21. Hỏi Hành Thiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=12606",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:30:06 22. Hỏi Làm Sao Tự Tịch Diệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=12734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:32:14 23. Thắc Mắc Độ Chúng Sanh Ở Địa Ngục",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=13135",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:38:55 24. Hướng Dẫn Ngồi Thiền",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=14072",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:54:32 25. Phật Tánh Thanh Tịnh Sao Khởi Vọng Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=14832",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:07:12 26. Thắc Mắc Các Vị Tăng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=15360",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:16:00 27. Mười Bậc Nhận Biết Thiền Tông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=15856",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:24:16 28. Tranh Luận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=16122",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:28:42 29. Quyết Chí Đốn Ngã Trưởng Ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17496",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:51:36 30. Xin Nhắc Nhở Người Lớn Tuổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17708",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:55:08 31. Lợi Ích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17900",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:58:20 32. Người Bị Mất Quyền Lợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17969",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:59:29 33. Lời Nguyền Của Ma Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=18359",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:05:59 34. Hỏi Cúng Dường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=18712",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:11:52 35. Một Số Câu Hỏi Đặc Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=19360",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:40 36. Lời Khuyên Của Người Viết Sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=19428",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:23:48 37. Ý Sau Cùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=19610",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:26:50 38. Kết Luận",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 01. Lời Nói Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=453",
+    "title" : "00:07:33 02. Lý Giải Ăn Uống",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=752",
+    "title" : "00:12:32 03. Cách Ăn Uống Ít Bệnh Tật",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=1523",
+    "title" : "00:25:23 04. Hỏi Ăn Uống Theo Thiền Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=2492",
+    "title" : "00:41:32 05. Căn Bản Của Một Hành Tinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=3246",
+    "title" : "00:54:06 06. Hỏi Về Bí Mật Thiền Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=3537",
+    "title" : "00:58:57 07. Hỏi Về Chữ Vạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=3912",
+    "title" : "01:05:12 08. Hỏi Về Lão Tử Và Khổng Tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=4441",
+    "title" : "01:14:01 09. Hỏi Về Triết Học Phương Đông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=4912",
+    "title" : "01:21:52 10. Hỏi Tu Theo Thiền Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=6195",
+    "title" : "01:43:15 11. Tại Sao Tu Theo Thiền Tông Lại Quan Trọng Ăn Uống?",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=6392",
+    "title" : "01:46:32 12. Tại Sao Phải Cân Bằng Âm Dương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=6727",
+    "title" : "01:52:07 13. Hỏi Về An Táng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=7665",
+    "title" : "02:07:45 14. Hỏi Về Cách Chưng Bông Trái",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=8223",
+    "title" : "02:17:03 15. Giải Thích Chữ Vạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=8443",
+    "title" : "02:20:43 16. Giải Mã Truyện Tây Du Ký",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10111",
+    "title" : "02:48:31 17. Hỏi Về Đốn Ngộ Tiệm Tu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10200",
+    "title" : "02:50:00 18. Hành Đúng Lời Phật Dạy Chắc Chắn Giải Thoát",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10615",
+    "title" : "02:56:55 19. Lộ Trình Đến Phật Tánh Không Dụng Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=10669",
+    "title" : "02:57:49 20. Lộ Trình Đến Phật Tánh Có Dụng Công",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=11373",
+    "title" : "03:09:33 21. Hỏi Hành Thiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=12606",
+    "title" : "03:30:06 22. Hỏi Làm Sao Tự Tịch Diệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=12734",
+    "title" : "03:32:14 23. Thắc Mắc Độ Chúng Sanh Ở Địa Ngục",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=13135",
+    "title" : "03:38:55 24. Hướng Dẫn Ngồi Thiền",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=14072",
+    "title" : "03:54:32 25. Phật Tánh Thanh Tịnh Sao Khởi Vọng Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=14832",
+    "title" : "04:07:12 26. Thắc Mắc Các Vị Tăng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=15360",
+    "title" : "04:16:00 27. Mười Bậc Nhận Biết Thiền Tông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=15856",
+    "title" : "04:24:16 28. Tranh Luận",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=16122",
+    "title" : "04:28:42 29. Quyết Chí Đốn Ngã Trưởng Ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17496",
+    "title" : "04:51:36 30. Xin Nhắc Nhở Người Lớn Tuổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17708",
+    "title" : "04:55:08 31. Lợi Ích",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17900",
+    "title" : "04:58:20 32. Người Bị Mất Quyền Lợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=17969",
+    "title" : "04:59:29 33. Lời Nguyền Của Ma Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=18359",
+    "title" : "05:05:59 34. Hỏi Cúng Dường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=18712",
+    "title" : "05:11:52 35. Một Số Câu Hỏi Đặc Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=19360",
+    "title" : "05:22:40 36. Lời Khuyên Của Người Viết Sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=19428",
+    "title" : "05:23:48 37. Ý Sau Cùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/704-quyen-3-hanh-dung-loi-duc-phat-day-chac-chan-duoc-giai-thoat-thuviensach.vn.mp3?t=19610",
+    "title" : "05:26:50 38. Kết Luận",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

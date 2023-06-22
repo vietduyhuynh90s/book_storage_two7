@@ -1,0 +1,377 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/30-ngay-thien-quan-1830.html",
+    "title" : "30 NGÀY THIỀN QUÁN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Duy Nhiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Quyển sách này không đặt nặng về lý thuyết mà chú trọng nhiều đến sự thực hành. Tác giả - Joseph Goldstein- là một thiền sư Hoa Kỳ. Ông đã sống nhiều năm ở Thái Lan và Ấn Độ để học thiền Vipassana, một pháp thiền quán thuộc truyền thống Phật giáo Nguyên thủy, dưới sự hướng dẫn của các vị thiền sư nổi tiếng đương thời như Munindra, Goenka, Sayadaw... Sau một thời gian, ông trở về Hoa Kỳ để mở một thiền viện và hướng dẫn những khóa tu thiền nhiều ngày tại Barre, Massachusetts. Hiện nay, thiền viện này có số thiền sinh đến tham dự mỗi năm rất đông, trong đó có cả những bậc xuất gia.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_8c29aebdcdb1cded2b2671ed40820ebd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_8c29aebdcdb1cded2b2671ed40820ebd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Buổi Tối Thứ Nhất: Lời Dạy Mở Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=316",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:05:16 Buổi Tối Thứ Hai: Bát Chánh Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=1653",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:33 Buổi Sáng Thứ Ba: Bài Thực Tập: Cảm Thọ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=3676",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:01:16 Buổi Tối Thứ Tư: Chú Ý Ðơn Thuần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=4012",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:52 Buổi Sáng Thứ Năm: Bài Thực Tập: Tư Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=5774",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:36:14 Buổi Tối Thứ Năm: Khái Niệm Và Thực Tại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=6137",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:42:17 Buổi Sáng Thứ Sáu: Bài Thực Tập: Cảm Giác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=8639",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:23:59 Buổi Tối Thứ Bảy: Những Mẩu Chuyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=8730",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:25:30 Buổi Sáng Thứ Tám: Bài Thực Tập: Tác Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=9515",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:38:35 Buổi Sáng Thứ Chín: Bài Thực Tập: Ăn Chánh Niệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=9911",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:45:11 Buổi Tối Thứ Chín: Ngũ Trần Cái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=10232",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:50:32 Buổi Sáng Thứ Mười: Bài Thực Tập: Quán Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=12086",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:21:26 Buổi Tối Thứ Mười: Dũng Sĩ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=12382",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:26:22 Buổi Sáng Thứ Mười Một: Trò Chơi Định Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=13903",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:51:43 Buổi Tối Thứ Mười Hai: Ba Trụ Pháp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=14064",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:54:24 Buổi Tối Thứ Mười Ba: John Of The Cross",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=15892",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:24:52 Buổi Tối Thứ Mười Bốn: Tứ Diệu Đế",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=16140",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:29:00 Buổi Tối Thứ Mười Lăm: Cương Quyết Nửa Vời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=17489",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:51:29 Buổi Tối Thứ Mười Sáu: Nghiệp Quả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=18180",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:03:00 Buổi Tối Thứ Mười Bảy: Bài Tập: Hôn Trầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=19736",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:28:56 Buổi Tối Thứ Mười Tám: Trong Sạch Hạnh Phúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=19961",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:32:41 Buổi Tối Thứ Mười Chín:tín Ngưỡng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=21505",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:58:25 Buổi Tối Thứ Hai Mươi Một: 12 Nhân Duyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=21734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:02:14 Buổi Tối Thứ Hai Mươi Hai: Chết Và Từ Bi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=22748",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:19:08 Buổi Tối Thứ Hai Mươi Lăm: Đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=24313",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:45:13 Buổi Tối Thứ Hai Mươi Sáu: Thất Giác Chi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=26409",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:20:09 Buổi Tối Thứ Hai Mươi Chín: Con Đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=28487",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:54:47 Buổi Sáng Thứ Ba Mươi: Kết Thúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Buổi Tối Thứ Nhất: Lời Dạy Mở Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=316",
+    "title" : "00:05:16 Buổi Tối Thứ Hai: Bát Chánh Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=1653",
+    "title" : "00:27:33 Buổi Sáng Thứ Ba: Bài Thực Tập: Cảm Thọ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=3676",
+    "title" : "01:01:16 Buổi Tối Thứ Tư: Chú Ý Ðơn Thuần",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=4012",
+    "title" : "01:06:52 Buổi Sáng Thứ Năm: Bài Thực Tập: Tư Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=5774",
+    "title" : "01:36:14 Buổi Tối Thứ Năm: Khái Niệm Và Thực Tại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=6137",
+    "title" : "01:42:17 Buổi Sáng Thứ Sáu: Bài Thực Tập: Cảm Giác",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=8639",
+    "title" : "02:23:59 Buổi Tối Thứ Bảy: Những Mẩu Chuyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=8730",
+    "title" : "02:25:30 Buổi Sáng Thứ Tám: Bài Thực Tập: Tác Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=9515",
+    "title" : "02:38:35 Buổi Sáng Thứ Chín: Bài Thực Tập: Ăn Chánh Niệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=9911",
+    "title" : "02:45:11 Buổi Tối Thứ Chín: Ngũ Trần Cái",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=10232",
+    "title" : "02:50:32 Buổi Sáng Thứ Mười: Bài Thực Tập: Quán Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=12086",
+    "title" : "03:21:26 Buổi Tối Thứ Mười: Dũng Sĩ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=12382",
+    "title" : "03:26:22 Buổi Sáng Thứ Mười Một: Trò Chơi Định Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=13903",
+    "title" : "03:51:43 Buổi Tối Thứ Mười Hai: Ba Trụ Pháp",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=14064",
+    "title" : "03:54:24 Buổi Tối Thứ Mười Ba: John Of The Cross",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=15892",
+    "title" : "04:24:52 Buổi Tối Thứ Mười Bốn: Tứ Diệu Đế",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=16140",
+    "title" : "04:29:00 Buổi Tối Thứ Mười Lăm: Cương Quyết Nửa Vời",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=17489",
+    "title" : "04:51:29 Buổi Tối Thứ Mười Sáu: Nghiệp Quả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=18180",
+    "title" : "05:03:00 Buổi Tối Thứ Mười Bảy: Bài Tập: Hôn Trầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=19736",
+    "title" : "05:28:56 Buổi Tối Thứ Mười Tám: Trong Sạch Hạnh Phúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=19961",
+    "title" : "05:32:41 Buổi Tối Thứ Mười Chín:tín Ngưỡng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=21505",
+    "title" : "05:58:25 Buổi Tối Thứ Hai Mươi Một: 12 Nhân Duyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=21734",
+    "title" : "06:02:14 Buổi Tối Thứ Hai Mươi Hai: Chết Và Từ Bi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=22748",
+    "title" : "06:19:08 Buổi Tối Thứ Hai Mươi Lăm: Đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=24313",
+    "title" : "06:45:13 Buổi Tối Thứ Hai Mươi Sáu: Thất Giác Chi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=26409",
+    "title" : "07:20:09 Buổi Tối Thứ Hai Mươi Chín: Con Đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1830-30-ngay-thien-quan-thuviensach.vn.mp3?t=28487",
+    "title" : "07:54:47 Buổi Sáng Thứ Ba Mươi: Kết Thúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

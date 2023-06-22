@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chuyen-hoa-san-han-7810.html",
+    "title" : "CHUYỂN HÓA SÂN HẬN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khái niệm “giận dữ”, đối tượng là con người, được định nghĩa như dòng chảy cảm xúc thể hiện qua lời nói khó nghe, lời qua tiếng lại trong giao tiếp cũng như việc làm… mang lại sự bực dọc, không ưa thích. Cơn giận dữ biểu hiện dưới nhiều góc độ khác nhau. Góc độ giọng nói, sự giận dữ được thể hiện qua lời quát tháo, nguyền rủa tục tĩu, hăm dọa, hoặc lời đường mật nhưng chứa lưỡi dao, mảnh chai hay gai nhọn bên trong mà người giận dữ tặng đối phương. Biểu hiện không thiện cảm về giọng nói làm giá trị, ý nghĩa mối quan hệ, giao tế bị tổn thương, để lại vết hằn nội kết tạo khoảng cách ngày càng nhân rộng. Tùy vào khả năng xử lý mâu thuẫn của hai bên, nó có thể trở thành dãy núi Trường Sơn hay Vạn Lý Trường Thành. Sự ứng xử thiếu khôn ngoan sẽ tạo ra hố ngăn cách hoặc thiết lập thành hai đường ray xe lửa song song, sự nóng giận sẽ thiêu đốt mối quan hệ tình người!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_051a446b3f11c14c5710ed36b8924dd1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_051a446b3f11c14c5710ed36b8924dd1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7810-chuyen-hoa-san-han-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7810-chuyen-hoa-san-han-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

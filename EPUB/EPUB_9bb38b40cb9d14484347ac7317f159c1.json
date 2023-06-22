@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/1-cm-anh-duong-7909.html",
+    "title" : "1 CM ÁNH DƯƠNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mặc Bảo Phi Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đây là một câu chuyện tình yêu giữa một cô gái tên Kỷ Ức thiếu thốn tình thương của gia đình và một chàng trai (tên Quý Thành Dương) lòng mang đầy hoài bão. Họ gặp nhau rất sớm, chàng trai ấy đã trở thành \"một centimet ánh dương\" cuối cùng, là hy vọng, là niềm tin và tình yêu của cô; còn cô cũng là ký ức, là nỗi nhớ, là điều mà anh muốn bảo vệ khi rời quê hương đi tới những vùng nguy hiểm vì công việc. Bởi hiểu lầm, họ đã lạc mất nhau trong những tháng năm tuổi trẻ. Anh không muốn cô chờ đợi mình vô vọng nên đã ra đi, cô lại những tưởng anh phản bội tình cảm của hai người. Rất nhiều năm sau, họ mới gặp lại, và nhận ra tình cảm dành cho nhau vẫn vẹn nguyên như thủa ban đầu.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9bb38b40cb9d14484347ac7317f159c1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9bb38b40cb9d14484347ac7317f159c1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1 - Ký Ức Mơ Hồ.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=3742",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:02:22 Phần 2 - Quá Nhiều Chuyện Cũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=8183",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:16:23 Phần 3 - Anh Ở Bên Cạnh Em",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=12305",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:25:05 Phần 4 - Tâm Tư Nho Nhỏ Của Em",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=16727",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:38:47 Phần 5 - Từng Khoảnh Khắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=21593",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:59:53 Phần 6 - Người Trong Giấc Mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=25643",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:07:23 Phần 7 - Ẩn Sâu Trong Đáy Lòng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=29264",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:07:44 Phần 8 - Một Khúc Ca Ly Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=33026",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:10:26 Phần 9 - Sự Quyến Luyến Của Số Mệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=36896",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:14:56 Phần 10 - Dưới Cùng Một Mái Nhà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=40123",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:08:43 Phần 11 - Hai Cực Của Thế Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=43775",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:09:35 Phần 12 - Cuộc Gặp Lại Thiệt Thòi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=47405",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:10:05 Phần 13 - Người Ngoài Giấc Mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=51073",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:11:13 Phần 14 - Sao Có Thể Bắt Đầu Lại Từ Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=54684",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:11:24 Phần 15 - Chiều Thời Gian Của Thời Gian.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=58605",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:16:45 Phần 16 - Right Here Waiting",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=62106",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:15:06 Phần 17 - Phần Kết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1 - Ký Ức Mơ Hồ.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=3742",
+    "title" : "01:02:22 Phần 2 - Quá Nhiều Chuyện Cũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=8183",
+    "title" : "02:16:23 Phần 3 - Anh Ở Bên Cạnh Em",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=12305",
+    "title" : "03:25:05 Phần 4 - Tâm Tư Nho Nhỏ Của Em",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=16727",
+    "title" : "04:38:47 Phần 5 - Từng Khoảnh Khắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=21593",
+    "title" : "05:59:53 Phần 6 - Người Trong Giấc Mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=25643",
+    "title" : "07:07:23 Phần 7 - Ẩn Sâu Trong Đáy Lòng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=29264",
+    "title" : "08:07:44 Phần 8 - Một Khúc Ca Ly Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=33026",
+    "title" : "09:10:26 Phần 9 - Sự Quyến Luyến Của Số Mệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=36896",
+    "title" : "10:14:56 Phần 10 - Dưới Cùng Một Mái Nhà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=40123",
+    "title" : "11:08:43 Phần 11 - Hai Cực Của Thế Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=43775",
+    "title" : "12:09:35 Phần 12 - Cuộc Gặp Lại Thiệt Thòi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=47405",
+    "title" : "13:10:05 Phần 13 - Người Ngoài Giấc Mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=51073",
+    "title" : "14:11:13 Phần 14 - Sao Có Thể Bắt Đầu Lại Từ Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=54684",
+    "title" : "15:11:24 Phần 15 - Chiều Thời Gian Của Thời Gian.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=58605",
+    "title" : "16:16:45 Phần 16 - Right Here Waiting",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7909-1-cm-anh-duong-thuviensach.vn.mp3?t=62106",
+    "title" : "17:15:06 Phần 17 - Phần Kết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cac-bac-chan-su-yogi-an-do-2541.html",
+    "title" : "CÁC BẬC CHÂN SƯ YOGI ẤN ĐỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Paramahansa Yogananda",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Quyển Hồi Ký này của tu sĩ Yogananda có một giá trị độc đáo vì nó là một trong những tác phẩm nói về các bậc thánh nhân, hiền triết Ấn Độ, không phải được viết ra bởi một ký giả hay văn sĩ ngoại quốc, mà bởi một tác giả cùng nòi giống và cùng một nền giáo dục tâm linh với những người mà ông diễn tả. Nói tóm lại, đây là một quyển sách của một người Yogi viết về những người Yogi. Dưới hình thức một truyện trường thuật của một nhân vật tiết lộ cho chúng ta biết cuộc đời và những quyền năng lạ lùng của những bậc hiền giả của xứ Ấn Độ hiện kim. Quyển sách này có một tầm quan trọng rất lớn trong thời gian và ngoài thời gian. Độc giả cũng có dịp thưởng thức những câu chuyện đầy thú vị của tu sĩ Yogananda mà tôi có hân hạnh được gặp ở Ấn Độ và Mỹ quốc, và dành cho quyển sách này một sự phán đoán tương xứng với giá trị của nó: vì đó là một trong những tập tài liệu biểu lộ một cách hoàn toàn nhất cái tinh thần của người Ấn Độ và phơi bày những kho tàng tâm linh quý báu của xứ Ấn Độ, một tài liệu chưa từng được công bố ở các nước Tây phương và trên thế giới…</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_88b4115e266024d86002a2cccc5a8980.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_88b4115e266024d86002a2cccc5a8980.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Các Bậc Chân Sư Yogi Ấn Độ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=3137",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:52:17 Các Bậc Chân Sư Yogi Ấn Độ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=6458",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:47:38 Các Bậc Chân Sư Yogi Ấn Độ - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=9379",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:36:19 Các Bậc Chân Sư Yogi Ấn Độ - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=12537",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:28:57 Các Bậc Chân Sư Yogi Ấn Độ - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Các Bậc Chân Sư Yogi Ấn Độ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=3137",
+    "title" : "00:52:17 Các Bậc Chân Sư Yogi Ấn Độ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=6458",
+    "title" : "01:47:38 Các Bậc Chân Sư Yogi Ấn Độ - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=9379",
+    "title" : "02:36:19 Các Bậc Chân Sư Yogi Ấn Độ - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2541-cac-bac-chan-su-yogi-an-do-thuviensach.vn.mp3?t=12537",
+    "title" : "03:28:57 Các Bậc Chân Sư Yogi Ấn Độ - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

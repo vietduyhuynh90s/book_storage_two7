@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/toi-noi-gi-khi-noi-ve-chay-bo-1310.html",
+    "title" : "TÔI NÓI GÌ KHI NÓI VỀ CHẠY BỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Haruki Murakami",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Haruki Murakami sinh năm 1949 tại Kyoto và hiện đang sống ở Boston, Mỹ, là một trong những tiểu thuyết gia, dịch giả văn học người Nhật Bản được biết đến nhiều nhất hiện nay cả trong lẫn ngoài nước Nhật. Từ thời điểm nhận giải thưởng Nhà văn mới Gunzo năm 1979 đến nay, hơn một phần tư thế kỷ hoạt động và viết lách, tác phẩm của ông đã được dịch ra khoảng 38 thứ tiếng trên thế giới, đồng thời trong nước ông là người luôn tồn tại ở tiền cảnh sân khấu văn học Nhật Bản.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_edbf65bd0f397c5b2c3837755e28dc2f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_edbf65bd0f397c5b2c3837755e28dc2f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tôi Nói Gì Khi Nói Về Chạy Bộ - Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=239",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:03:59 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=2703",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:45:03 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=5131",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:25:31 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=7182",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:42 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=10270",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:51:10 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=14002",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:53:22 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 7 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tôi Nói Gì Khi Nói Về Chạy Bộ - Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=239",
+    "title" : "00:03:59 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=2703",
+    "title" : "00:45:03 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=5131",
+    "title" : "01:25:31 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=7182",
+    "title" : "01:59:42 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=10270",
+    "title" : "02:51:10 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1310-toi-noi-gi-khi-noi-ve-chay-bo-thuviensach.vn.mp3?t=14002",
+    "title" : "03:53:22 Tôi Nói Gì Khi Nói Về Chạy Bộ - Phần 7 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thien-dinh-va-tam-tri-dieu-ky-12379.html",
+    "title" : "THIỀN ĐỊNH VÀ TÂM TRÍ DIỆU KỲ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Subhash Patriji",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thiền Định Và Tâm Trí Diệu Kỳ và Tự Chữa Lành là 2 trong hơn 60 cuốn sách và băng đĩa của Minh sư Subhash Patriji về khoa học tâm thức thời đại mới. Khoa học tâm thức thời đại là con đường khai mở những phẩm chất cao quý có sẵn trong mỗi con người. Phát triển tâm thức (tâm linh) đơn giản là sự hoàn thiện bản thân thông quan đánh thức những sức mạnh vô hạn ngay bên trong chính bạn. “Khi ta dõi theo năng lượng hơi thở, tâm trí sẽ trở nên gần như trống rỗng. khi đó một nguồn năng lượng vũ trụ to lớn sẽ tràn vào cơ thể. Dần dần con mắt thứ ba vốn vẫn đang ngủ im sẽ được khai mở. và dần dần ta sẽ trải nghiệm được nhận thức Vũ trụ”. Minh Sư Subhash Patriji sinh năm 1947 tại Shakkar Nager, Ấn Độ. Ông đạt được sự giác ngộ vào năm 1979, sau những trải nghiệm sâu sắc trong thiền định. Từ đó Minh sư Patriji bắt đầu công việc đánh thức và khai sáng mọi người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_e4962fe420912af6f21ea283f4492ef4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_e4962fe420912af6f21ea283f4492ef4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12379-thien-dinh-va-tam-tri-dieu-ky-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12379-thien-dinh-va-tam-tri-dieu-ky-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

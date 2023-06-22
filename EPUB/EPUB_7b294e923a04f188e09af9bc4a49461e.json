@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tinh-mong-7839.html",
+    "title" : "TỈNH MỘNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bà phủ Tiên góa chồng chỉ có một gái là Yến Tuyết xinh đep và đoan trang. Yến Tuyết có người anh con dì là Trường Xuân, trước làm thông ngôn, tham giàu lấy người vợ xấu xí, rồi xin thôi việc ra làm hội đồng địa hạt. Yến Tuyết ngây thơ bị Trường Xuân dùng những lời ong bướm gợi tình, nên thất tiết và mang thai. Sợ chuyện đổ bể thì mang tai tiếng và có hại trong việc tranh chức cai tổng, Trường Xuân muớn Kỳ Tâm làm nôm (là người nhận một số tiền đền bù để làm chồng một cô gái chửa hoang ). Kỳ Tâm vốn là con một ông cả giàu có lớn, vì gia đình suy sụp phải bỏ học, lại bị vị hôn thê phụ bạc nên chán ngán nhâm tình. Chàng nhận làm nôm để giúp mẹ con bà phủ khỏi mang tiếng xấu và để có dịp hiểu đời thêm, chớ không nhận tiền. Kỳ Tâm bằng lòng nhận điều kiện của Yến Tuyết là chỉ đóng vai chồng hờ và điều kiện của Trường Xuân là phải ra khỏi gia đình bà Phủ bất cứ lúc nào khi có yêu cầu. Chàng chỉ đòi hỏi một điều là được biết chuyện tình giữa Trường Xuân và Yến Tuyết. Trường Xuân tưởng nhờ người nôm tạm để về sau còn đi lại với Yến Tuyết, không ngờ từ khi thất thân với Trường Xuân, nàng khinh bỉ chàng và luôn luôn lánh mặt. Kết quả ra sao mời bạn đọc tiếp... Tỉnh mộng</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7b294e923a04f188e09af9bc4a49461e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7b294e923a04f188e09af9bc4a49461e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7839-tinh-mong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7839-tinh-mong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

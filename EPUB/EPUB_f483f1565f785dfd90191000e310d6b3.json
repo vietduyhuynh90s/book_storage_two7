@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dai-de-caesar-6903.html",
+    "title" : "ĐẠI ĐẾ CAESAR",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phương Thảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Không chỉ là một trong những người có ảnh hưởng lớn nhất trong lịch sử thế giới, Caesar nổi tiếng là một lãnh tụ quân sự tài ba với những nguyên tắc dụng quân bậc thầy. Julius Caesar, tên đầy đủ là Gāius Jūlius Caesār (100 TCN - 44 TCN), là một lãnh tụ quân sự và chính trị của La Mã. Ông đồng thời là một trong những người có ảnh hưởng lớn nhất trong lịch sử thế giới. Caesar được đánh giá là một trong những nhà quân sự lỗi lạc nhất, chính trị gia xuất sắc nhất và là một trong những lãnh tụ vĩ đại nhất của lịch sử thế giới thời La Mã cổ đại. Ông được tôn vinh là \"Hoàng đế không ngai\" của Đế chế La Mã, là nhân vật từng liên kết với Pompey, Crassus tạo thành \"Liên minh Tam hùng\" nổi tiếng trong lịch sử La Mã. Nhiều nhà sử học cho rằng Caesar là nhân vật có ảnh hưởng còn lớn lao hơn nhiều so với các vua chúa, các hoàng đế thời cổ xưa bởi cái tên Caesar đã tượng trưng cho quyền lực và phong cách uy nghi. Julius Caesar được hậu thế ghi nhận là một danh tướng, một nhà chính trị có tài, một chính khách nhìn xa trông rộng, một văn nhân và đồng thời cũng là một nhà hùng biện nổi tiếng trong lịch sử. Julius Caesar bị đâm chết tại một vị trí liền kề với Nhà hát Pompey vào ngày Ides tháng 3 năm 44 TCN. Sự việc này châm ngòi cho thời kỳ cuối cùng của cuộc nội chiến, đánh dấu sự kết thúc của nền Cộng hòa và sự nổi lên của người cháu mà Caesar chỉ định làm người thừa kế: Octavian, hay còn được biết đến với tên gọi Augustus, vị hoàng đế đầu tiên của La Mã cổ đại. Cho đến nay, câu nói lúc hấp hối của Julius Caesar đang còn là điều bí ẩn, chưa thể giải đáp thỏa đáng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f483f1565f785dfd90191000e310d6b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f483f1565f785dfd90191000e310d6b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/6903-dai-de-caesar-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/6903-dai-de-caesar-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
