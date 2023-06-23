@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tro-chuyen-voi-nguyen-tuan-14083.html",
+    "title" : "TRÒ CHUYỆN VỚI NGUYỄN TUÂN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Ngọc Trai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trò Chuyện Với Nguyễn Tuân là cuốn sách nhỏ thôi nhưng lại giữ trong mình rất nhiều câu chuyện và một cuộc đời mà cho dù hôm nay hay mai sau, vẫn sẽ khiến người đời nể phục - nhà văn Nguyễn Tuân. Được ghi lại từ rất nhiều cuộc phỏng vấn trực tiếp, Trò Chuyện Với Nguyễn Tuân làm hiện lên chân dung một nhà văn dường như không khác mấy so với những gì người ta vẫn biết. Ừ, biết đấy, nhưng phải chuyện trò thì mới hiểu được một Nguyễn Tuân tỉ mỉ từng câu từng chữ, chu đáo đến từng chi tiết nhỏ, một Nguyên Tuân lang bạt, \"xê dịch\" khắp nơ Tác giả Nguyễn Thị Ngọc Trai đã dựng lại những phần sống của quá khứ, của Nguyễn Tuân với cuộc đời, nghề nghiệp, với gia đình, bạn bè, với con đường và lý tưởng. © Trò Chuyện Với Nguyễn Tuân Ngọc Trai dường như sinh ra để lo lắng giúp đỡ cho những người khác. Trong khi làm báo chị giữ một mối quan hệ hết sức tốt đẹp với các cộng tác viên, đặc biệt là những nhà văn lão thành như Nguyễn Tuân, Tô Hoài... Cuốn sách \"Nguyễn Tuân: Con người và văn nghiệp\" (NXB Tác phẩm mới - 1991) thực ra chỉ là một phần nhỏ trong những tư liệu chị đã chuẩn bị cho một công trình dài hơi viết về cụ Nguyễn. Chỉ riêng những cuộc trò chuyện với Nguyễn Tuân đã được chị ghi chép lại trong mấy cuốn sổ dày đặc những chữ... Mười năm gần đây, Ngọc Trai để hết tâm sức cho Trung T âm nghiên cứu Trợ Giúp Người Cao Tuổi và quả thực đó là một việc cũng rất đáng quý. Song với tư cách là một đồng nghiệp, tôi cứ tha thiết cầu mong có ngày Ngọc Trai dành ra một khoảng thời gian cần thiết để hoàn chỉnh các ghi chú về Nguyễn Tuân và công bố rộng rãi trước bạn đọc. Dù có bao nhiêu nhà nghiên cứu đổ công sức tìm hiểu cụ Nguyễn, dù có bao nhiêu luận văn tiến sĩ, thạc sĩ viết về cụ Nguyễn tiếp tục ra đời, thì một công trình mang tên “Trò chuyện với Nguyễn Tuân” mà Ngọc Trai ấp ủ cũng sẽ không gì thay thế được... (Nhận định của Vương Tri Nhàn in trong Nhà văn Việt Nam thế kỷ XX, NXB Hội Nhà Văn 2002 - trang 475)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7988f3bbc6a24f43c01803a0e94cdaf0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7988f3bbc6a24f43c01803a0e94cdaf0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14083-tro-chuyen-voi-nguyen-tuan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14083-tro-chuyen-voi-nguyen-tuan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
