@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/lang-tho-quy-du.html",
+    "title" : "Làng Thờ Quỷ Dữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 14056,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_53cda501e6e7db761a78736f24044c93.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_53cda501e6e7db761a78736f24044c93.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3434,
+    "title" : "lang-tho-quy-du",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "lang-tho-quy-du-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "lang-tho-quy-du-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3569,
+    "title" : "lang-tho-quy-du-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du.mp3",
+    "title" : "lang-tho-quy-du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du-tap-2.mp3",
+    "title" : "lang-tho-quy-du-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du-tap-3.mp3",
+    "title" : "lang-tho-quy-du-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lang-tho-quy-du/lang-tho-quy-du-tap-4.mp3",
+    "title" : "lang-tho-quy-du-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

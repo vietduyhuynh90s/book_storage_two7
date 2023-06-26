@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vuon-dao-oan-nghiet.html",
+    "title" : "Vườn Đào Oan Nghiệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 10699,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_c92e15630f653a6007a70d68c406f3fd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_c92e15630f653a6007a70d68c406f3fd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuon-dao-oan-nghiet/vuon-dao-oan-nghiet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "vuon-dao-oan-nghiet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuon-dao-oan-nghiet/vuon-dao-oan-nghiet-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3694,
+    "title" : "vuon-dao-oan-nghiet-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuon-dao-oan-nghiet/vuon-dao-oan-nghiet-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "vuon-dao-oan-nghiet-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuon-dao-oan-nghiet/vuon-dao-oan-nghiet.mp3",
+    "title" : "vuon-dao-oan-nghiet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuon-dao-oan-nghiet/vuon-dao-oan-nghiet-tap-2.mp3",
+    "title" : "vuon-dao-oan-nghiet-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuon-dao-oan-nghiet/vuon-dao-oan-nghiet-tap-3.mp3",
+    "title" : "vuon-dao-oan-nghiet-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

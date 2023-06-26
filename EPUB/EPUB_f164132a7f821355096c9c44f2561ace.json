@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bong-hong-m-au.html",
+    "title" : "Bông Hồng M.áu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 17626,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f164132a7f821355096c9c44f2561ace.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f164132a7f821355096c9c44f2561ace.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3874,
+    "title" : "bong-hong-mau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "bong-hong-mau-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3333,
+    "title" : "bong-hong-mau-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3350,
+    "title" : "bong-hong-mau-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3467,
+    "title" : "bong-hong-mau-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau.mp3",
+    "title" : "bong-hong-mau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-2.mp3",
+    "title" : "bong-hong-mau-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-3.mp3",
+    "title" : "bong-hong-mau-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-4.mp3",
+    "title" : "bong-hong-mau-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-hong-mau/bong-hong-mau-tap-5.mp3",
+    "title" : "bong-hong-mau-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

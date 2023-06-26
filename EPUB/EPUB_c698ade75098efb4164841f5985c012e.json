@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ham-quy.html",
+    "title" : "Hầm Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hải Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 13198,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_c698ade75098efb4164841f5985c012e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_c698ade75098efb4164841f5985c012e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ham-quy/ham-quy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "ham-quy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ham-quy/quy-du-bao-thu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4221,
+    "title" : "quy-du-bao-thu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ham-quy/quy-gioi-phan-2-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5134,
+    "title" : "quy-gioi-phan-2-tap-1",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ham-quy/ham-quy.mp3",
+    "title" : "ham-quy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ham-quy/quy-du-bao-thu-tap-2.mp3",
+    "title" : "quy-du-bao-thu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ham-quy/quy-gioi-phan-2-tap-1.mp3",
+    "title" : "quy-gioi-phan-2-tap-1",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

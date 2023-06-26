@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quai-su-ngu-thon-truong-gia.html",
+    "title" : "Quái Sự Ngũ Thôn Trương Gia",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Phong Sỹ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 20848,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6b9257447828aa5513ff424d28b41f74.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6b9257447828aa5513ff424d28b41f74.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4150,
+    "title" : "quai-su-ngu-thon-truong-gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "quai-su-ngu-thon-truong-gia-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4226,
+    "title" : "quai-su-ngu-thon-truong-gia-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4165,
+    "title" : "quai-su-ngu-thon-truong-gia-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4239,
+    "title" : "quai-su-ngu-thon-truong-gia-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia.mp3",
+    "title" : "quai-su-ngu-thon-truong-gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-2.mp3",
+    "title" : "quai-su-ngu-thon-truong-gia-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-3.mp3",
+    "title" : "quai-su-ngu-thon-truong-gia-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-4.mp3",
+    "title" : "quai-su-ngu-thon-truong-gia-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quai-su-ngu-thon-truong-gia/quai-su-ngu-thon-truong-gia-tap-5.mp3",
+    "title" : "quai-su-ngu-thon-truong-gia-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
