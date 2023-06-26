@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/di-an-dem-30.html",
+    "title" : "Dị Án Đêm 30",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Như Tiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 30770,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a43e44c4725a0893dd0ceea4adc6888a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a43e44c4725a0893dd0ceea4adc6888a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4676,
+    "title" : "di-an-dem-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4235,
+    "title" : "di-an-dem-30-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4847,
+    "title" : "di-an-dem-30-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3633,
+    "title" : "di-an-dem-30-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4206,
+    "title" : "di-an-dem-30-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4541,
+    "title" : "di-an-dem-30-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4632,
+    "title" : "di-an-dem-30-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30.mp3",
+    "title" : "di-an-dem-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-1.mp3",
+    "title" : "di-an-dem-30-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-2.mp3",
+    "title" : "di-an-dem-30-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-3.mp3",
+    "title" : "di-an-dem-30-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-4.mp3",
+    "title" : "di-an-dem-30-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-5.mp3",
+    "title" : "di-an-dem-30-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-an-dem-30/di-an-dem-30-tap-6.mp3",
+    "title" : "di-an-dem-30-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

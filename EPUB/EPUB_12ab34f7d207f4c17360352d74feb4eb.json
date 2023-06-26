@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hoa-huong-hon.html",
+    "title" : "Họa Hương Hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Mỹ Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 66231,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_12ab34f7d207f4c17360352d74feb4eb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_12ab34f7d207f4c17360352d74feb4eb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4904,
+    "title" : "hoa-huong-hon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4528,
+    "title" : "hoa-huong-hon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4411,
+    "title" : "hoa-huong-hon-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5064,
+    "title" : "hoa-huong-hon-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5547,
+    "title" : "hoa-huong-hon-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5339,
+    "title" : "hoa-huong-hon-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5075,
+    "title" : "hoa-huong-hon-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5323,
+    "title" : "hoa-huong-hon-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4606,
+    "title" : "hoa-huong-hon-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3971,
+    "title" : "hoa-huong-hon-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4249,
+    "title" : "hoa-huong-hon-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4292,
+    "title" : "hoa-huong-hon-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4081,
+    "title" : "hoa-huong-hon-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4841,
+    "title" : "hoa-huong-hon-tap-14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon.mp3",
+    "title" : "hoa-huong-hon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-2.mp3",
+    "title" : "hoa-huong-hon-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-3.mp3",
+    "title" : "hoa-huong-hon-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-4.mp3",
+    "title" : "hoa-huong-hon-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-5.mp3",
+    "title" : "hoa-huong-hon-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-6.mp3",
+    "title" : "hoa-huong-hon-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-7.mp3",
+    "title" : "hoa-huong-hon-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-8.mp3",
+    "title" : "hoa-huong-hon-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-9.mp3",
+    "title" : "hoa-huong-hon-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-10.mp3",
+    "title" : "hoa-huong-hon-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-11.mp3",
+    "title" : "hoa-huong-hon-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-12.mp3",
+    "title" : "hoa-huong-hon-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-13.mp3",
+    "title" : "hoa-huong-hon-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-huong-hon/hoa-huong-hon-tap-14.mp3",
+    "title" : "hoa-huong-hon-tap-14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-am-can-ho-502.html",
+    "title" : "Quỷ Ám Căn Hộ 502",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Kiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7014,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_a38137542f057b2486b1eda2cd65e101.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_a38137542f057b2486b1eda2cd65e101.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quyamcanho502NTM/quy-am-can-ho-502.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "quy-am-can-ho-502",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quyamcanho502NTM/quy-am-can-ho-502-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3199,
+    "title" : "quy-am-can-ho-502-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quyamcanho502NTM/quy-am-can-ho-502.mp3",
+    "title" : "quy-am-can-ho-502",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quyamcanho502NTM/quy-am-can-ho-502-tap-2.mp3",
+    "title" : "quy-am-can-ho-502-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

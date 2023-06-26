@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/doan-kiep.html",
+    "title" : "Đoản Kiếp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thu Huyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11368,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_d2065fd5b5bc7c1e40a2153c5d0149c1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_d2065fd5b5bc7c1e40a2153c5d0149c1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doan-kiep/doan-kiep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5819,
+    "title" : "doan-kiep",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doan-kiep/doan-kiep-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5549,
+    "title" : "doan-kiep-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doan-kiep/doan-kiep.mp3",
+    "title" : "doan-kiep",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doan-kiep/doan-kiep-tap-2.mp3",
+    "title" : "doan-kiep-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

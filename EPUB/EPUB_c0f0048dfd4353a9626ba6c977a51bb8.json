@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nhung-vong-hon-khong-sieu-thoat-2.html",
+    "title" : "Những Vong Hồn Không Siêu Thoát",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Danh Giác",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 3632,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_c0f0048dfd4353a9626ba6c977a51bb8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_c0f0048dfd4353a9626ba6c977a51bb8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-vong-hon-khong-sieu-thoat_202212/nhung-vong-hon-khong-sieu-thoat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "nhung-vong-hon-khong-sieu-thoat",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-vong-hon-khong-sieu-thoat_202212/nhung-vong-hon-khong-sieu-thoat.mp3",
+    "title" : "nhung-vong-hon-khong-sieu-thoat",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-hon-tro-lai-3.html",
+    "title" : "Oan Hồn Trở Lại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồi Ức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 36191,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_8ea3a089dad133ef1d2bf6f827bfce82.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_8ea3a089dad133ef1d2bf6f827bfce82.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4923,
+    "title" : "oan-hon-tro-lai-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4860,
+    "title" : "oan-hon-tro-lai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4950,
+    "title" : "oan-hon-tro-lai-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5043,
+    "title" : "oan-hon-tro-lai-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4975,
+    "title" : "oan-hon-tro-lai-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5141,
+    "title" : "oan-hon-tro-lai-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6299,
+    "title" : "oan-hon-tro-lai-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-1.mp3",
+    "title" : "oan-hon-tro-lai-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-2.mp3",
+    "title" : "oan-hon-tro-lai-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-3.mp3",
+    "title" : "oan-hon-tro-lai-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-4.mp3",
+    "title" : "oan-hon-tro-lai-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-5.mp3",
+    "title" : "oan-hon-tro-lai-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-6.mp3",
+    "title" : "oan-hon-tro-lai-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-hon-tro-lai_202301/oan-hon-tro-lai-tap-7.mp3",
+    "title" : "oan-hon-tro-lai-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

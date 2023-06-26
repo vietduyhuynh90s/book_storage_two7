@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-hon-trong-biet-thu-hoa-hong.html",
+    "title" : "Oan Hồn Trong Biệt Thự Hoa Hồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đặng Thùy Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 4597,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_e438dfc825abc5273c44dac40ae47591.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_e438dfc825abc5273c44dac40ae47591.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-hon-trong-biet-thu-hoa-hong/oan-hon-trong-biet-thu-hoa-hong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4597,
+    "title" : "oan-hon-trong-biet-thu-hoa-hong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-hon-trong-biet-thu-hoa-hong/oan-hon-trong-biet-thu-hoa-hong.mp3",
+    "title" : "oan-hon-trong-biet-thu-hoa-hong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

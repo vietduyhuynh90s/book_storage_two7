@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cap-doi-hoan-canh.html",
+    "title" : "Cặp Đôi Hoàn Cảnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Thanh An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11043,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7ac6f142b401b4fe0d464a056c6f8957.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7ac6f142b401b4fe0d464a056c6f8957.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cap-doi-hoan-canh_202302/cap-doi-hoan-canh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6206,
+    "title" : "cap-doi-hoan-canh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-doi-hoan-canh_202302/cap-doi-hoan-canh-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4837,
+    "title" : "cap-doi-hoan-canh-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cap-doi-hoan-canh_202302/cap-doi-hoan-canh.mp3",
+    "title" : "cap-doi-hoan-canh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-doi-hoan-canh_202302/cap-doi-hoan-canh-tap-2.mp3",
+    "title" : "cap-doi-hoan-canh-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

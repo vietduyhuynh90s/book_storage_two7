@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ma-than-an-chu.html",
+    "title" : "Ma Thần Ấn Chú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Triết Sâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 27051,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_251bf74e2d5f786d42ccfd62a1fe1121.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_251bf74e2d5f786d42ccfd62a1fe1121.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4355,
+    "title" : "ma-than-an-chu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4514,
+    "title" : "ma-than-an-chu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4095,
+    "title" : "ma-than-an-chu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4794,
+    "title" : "ma-than-an-chu-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4448,
+    "title" : "ma-than-an-chu-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4845,
+    "title" : "ma-than-an-chu-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu.mp3",
+    "title" : "ma-than-an-chu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-2.mp3",
+    "title" : "ma-than-an-chu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-3.mp3",
+    "title" : "ma-than-an-chu-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-4.mp3",
+    "title" : "ma-than-an-chu-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-5.mp3",
+    "title" : "ma-than-an-chu-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-than-an-chu/ma-than-an-chu-tap-6.mp3",
+    "title" : "ma-than-an-chu-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

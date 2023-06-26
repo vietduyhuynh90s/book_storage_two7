@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dem-bao-lon.html",
+    "title" : "Đêm Bão Lớn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chiến Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 6668,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f5bf23db0fbcac5b5d25895cf66276d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f5bf23db0fbcac5b5d25895cf66276d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dem-bao-lon/dem-bao-lon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "dem-bao-lon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-bao-lon/dem-bao-lon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "dem-bao-lon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dem-bao-lon/dem-bao-lon.mp3",
+    "title" : "dem-bao-lon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-bao-lon/dem-bao-lon-tap-2.mp3",
+    "title" : "dem-bao-lon-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

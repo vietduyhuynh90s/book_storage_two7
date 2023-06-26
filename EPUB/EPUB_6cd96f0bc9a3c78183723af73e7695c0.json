@@ -1,0 +1,1229 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/an-sat.html",
+    "title" : "Ẩn sát",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phẫn Nộ Đích Hương Tiêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 241692,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6cd96f0bc9a3c78183723af73e7695c0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6cd96f0bc9a3c78183723af73e7695c0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3902,
+    "title" : "AnSat_1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "AnSat_2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2559,
+    "title" : "AnSat_3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2483,
+    "title" : "AnSat_4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2873,
+    "title" : "AnSat_5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2648,
+    "title" : "AnSat_6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "AnSat_7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2283,
+    "title" : "AnSat_8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "AnSat_9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2759,
+    "title" : "AnSat_10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2577,
+    "title" : "AnSat_11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2703,
+    "title" : "AnSat_12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2659,
+    "title" : "AnSat_13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2582,
+    "title" : "AnSat_14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2829,
+    "title" : "AnSat_15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "AnSat_16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2417,
+    "title" : "AnSat_17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2768,
+    "title" : "AnSat_18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2706,
+    "title" : "AnSat_19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2665,
+    "title" : "AnSat_20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2442,
+    "title" : "AnSat_21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "AnSat_22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2508,
+    "title" : "AnSat_23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2114,
+    "title" : "AnSat_24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2776,
+    "title" : "AnSat_25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3119,
+    "title" : "AnSat_26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3581,
+    "title" : "AnSat_27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "AnSat_28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "AnSat_29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "AnSat_30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3131,
+    "title" : "AnSat_31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "AnSat_32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2629,
+    "title" : "AnSat_33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3957,
+    "title" : "AnSat_34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "AnSat_35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3035,
+    "title" : "AnSat_36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2026,
+    "title" : "AnSat_37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "AnSat_38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2384,
+    "title" : "AnSat_39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2589,
+    "title" : "AnSat_40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "AnSat_41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2461,
+    "title" : "AnSat_42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2872,
+    "title" : "AnSat_43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2655,
+    "title" : "AnSat_44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3208,
+    "title" : "AnSat_45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "AnSat_46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1975,
+    "title" : "AnSat_47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2602,
+    "title" : "AnSat_48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "AnSat_49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2561,
+    "title" : "AnSat_50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "AnSat_51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "AnSat_52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "AnSat_53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2525,
+    "title" : "AnSat_54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2474,
+    "title" : "AnSat_55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3455,
+    "title" : "AnSat_56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2484,
+    "title" : "AnSat_57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "AnSat_58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2376,
+    "title" : "AnSat_59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "AnSat_60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2982,
+    "title" : "AnSat_61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3179,
+    "title" : "AnSat_62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1912,
+    "title" : "AnSat_63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1863,
+    "title" : "AnSat_64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1987,
+    "title" : "AnSat_65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "AnSat_66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 667,
+    "title" : "AnSat_67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "AnSat_68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2697,
+    "title" : "AnSat_69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2510,
+    "title" : "AnSat_70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2573,
+    "title" : "AnSat_71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "AnSat_72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1892,
+    "title" : "AnSat_73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2368,
+    "title" : "AnSat_74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "AnSat_75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "AnSat_76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2319,
+    "title" : "AnSat_77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "AnSat_79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 896,
+    "title" : "AnSat_80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1582,
+    "title" : "AnSat_81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1727,
+    "title" : "AnSat_82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1702,
+    "title" : "AnSat_83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1689,
+    "title" : "AnSat_84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1440,
+    "title" : "AnSat_85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2091,
+    "title" : "AnSat_86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "AnSat_87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2083,
+    "title" : "AnSat_88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1896,
+    "title" : "AnSat_89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1043,
+    "title" : "AnSat_90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1441,
+    "title" : "AnSat_91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1324,
+    "title" : "AnSat_92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1423,
+    "title" : "AnSat_93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1267,
+    "title" : "AnSat_94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1333,
+    "title" : "AnSat_95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2046,
+    "title" : "AnSat_96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1393,
+    "title" : "AnSat_97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1913,
+    "title" : "AnSat_98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "AnSat_99",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2082,
+    "title" : "AnSat_100",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_1.mp3",
+    "title" : "AnSat_1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_2.mp3",
+    "title" : "AnSat_2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_3.mp3",
+    "title" : "AnSat_3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_4.mp3",
+    "title" : "AnSat_4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_5.mp3",
+    "title" : "AnSat_5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_6.mp3",
+    "title" : "AnSat_6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_7.mp3",
+    "title" : "AnSat_7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_8.mp3",
+    "title" : "AnSat_8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_9.mp3",
+    "title" : "AnSat_9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_10.mp3",
+    "title" : "AnSat_10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_11.mp3",
+    "title" : "AnSat_11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_12.mp3",
+    "title" : "AnSat_12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_13.mp3",
+    "title" : "AnSat_13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_14.mp3",
+    "title" : "AnSat_14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_15.mp3",
+    "title" : "AnSat_15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_16.mp3",
+    "title" : "AnSat_16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_17.mp3",
+    "title" : "AnSat_17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_18.mp3",
+    "title" : "AnSat_18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_19.mp3",
+    "title" : "AnSat_19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_20.mp3",
+    "title" : "AnSat_20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_21.mp3",
+    "title" : "AnSat_21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_22.mp3",
+    "title" : "AnSat_22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_23.mp3",
+    "title" : "AnSat_23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_24.mp3",
+    "title" : "AnSat_24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_25.mp3",
+    "title" : "AnSat_25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_26.mp3",
+    "title" : "AnSat_26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_27.mp3",
+    "title" : "AnSat_27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_28.mp3",
+    "title" : "AnSat_28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_29.mp3",
+    "title" : "AnSat_29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_30.mp3",
+    "title" : "AnSat_30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_31.mp3",
+    "title" : "AnSat_31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_32.mp3",
+    "title" : "AnSat_32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_33.mp3",
+    "title" : "AnSat_33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_34.mp3",
+    "title" : "AnSat_34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_35.mp3",
+    "title" : "AnSat_35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_36.mp3",
+    "title" : "AnSat_36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_37.mp3",
+    "title" : "AnSat_37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_38.mp3",
+    "title" : "AnSat_38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_39.mp3",
+    "title" : "AnSat_39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_40.mp3",
+    "title" : "AnSat_40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_41.mp3",
+    "title" : "AnSat_41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_42.mp3",
+    "title" : "AnSat_42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_43.mp3",
+    "title" : "AnSat_43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_44.mp3",
+    "title" : "AnSat_44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_45.mp3",
+    "title" : "AnSat_45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_46.mp3",
+    "title" : "AnSat_46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_47.mp3",
+    "title" : "AnSat_47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_48.mp3",
+    "title" : "AnSat_48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_49.mp3",
+    "title" : "AnSat_49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_50.mp3",
+    "title" : "AnSat_50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_51.mp3",
+    "title" : "AnSat_51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_52.mp3",
+    "title" : "AnSat_52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_53.mp3",
+    "title" : "AnSat_53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_54.mp3",
+    "title" : "AnSat_54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_55.mp3",
+    "title" : "AnSat_55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_56.mp3",
+    "title" : "AnSat_56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_57.mp3",
+    "title" : "AnSat_57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_58.mp3",
+    "title" : "AnSat_58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_59.mp3",
+    "title" : "AnSat_59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_60.mp3",
+    "title" : "AnSat_60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_61.mp3",
+    "title" : "AnSat_61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_62.mp3",
+    "title" : "AnSat_62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_63.mp3",
+    "title" : "AnSat_63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_64.mp3",
+    "title" : "AnSat_64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_65.mp3",
+    "title" : "AnSat_65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_66.mp3",
+    "title" : "AnSat_66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_67.mp3",
+    "title" : "AnSat_67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_68.mp3",
+    "title" : "AnSat_68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_69.mp3",
+    "title" : "AnSat_69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_70.mp3",
+    "title" : "AnSat_70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_71.mp3",
+    "title" : "AnSat_71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_72.mp3",
+    "title" : "AnSat_72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_73.mp3",
+    "title" : "AnSat_73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_74.mp3",
+    "title" : "AnSat_74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_75.mp3",
+    "title" : "AnSat_75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_76.mp3",
+    "title" : "AnSat_76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_77.mp3",
+    "title" : "AnSat_77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_79.mp3",
+    "title" : "AnSat_79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_80.mp3",
+    "title" : "AnSat_80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_81.mp3",
+    "title" : "AnSat_81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_82.mp3",
+    "title" : "AnSat_82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_83.mp3",
+    "title" : "AnSat_83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_84.mp3",
+    "title" : "AnSat_84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_85.mp3",
+    "title" : "AnSat_85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_86.mp3",
+    "title" : "AnSat_86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_87.mp3",
+    "title" : "AnSat_87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_88.mp3",
+    "title" : "AnSat_88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_89.mp3",
+    "title" : "AnSat_89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_90.mp3",
+    "title" : "AnSat_90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_91.mp3",
+    "title" : "AnSat_91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_92.mp3",
+    "title" : "AnSat_92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_93.mp3",
+    "title" : "AnSat_93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_94.mp3",
+    "title" : "AnSat_94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_95.mp3",
+    "title" : "AnSat_95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_96.mp3",
+    "title" : "AnSat_96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_97.mp3",
+    "title" : "AnSat_97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_98.mp3",
+    "title" : "AnSat_98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_99.mp3",
+    "title" : "AnSat_99",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ansat_20191022/AnSat_100.mp3",
+    "title" : "AnSat_100",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
