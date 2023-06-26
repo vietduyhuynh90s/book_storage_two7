@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/manh-dat-nhieu-ma.html",
+    "title" : "Mảnh Đất Nhiều Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 40532,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_b461e4f4fb356436deb634bd633f9b75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_b461e4f4fb356436deb634bd633f9b75.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5054,
+    "title" : "manh-dat-nhieu-ma-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5005,
+    "title" : "manh-dat-nhieu-ma-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "manh-dat-nhieu-ma-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4138,
+    "title" : "manh-dat-nhieu-ma-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3867,
+    "title" : "manh-dat-nhieu-ma-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4545,
+    "title" : "manh-dat-nhieu-ma-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4176,
+    "title" : "manh-dat-nhieu-ma-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5039,
+    "title" : "manh-dat-nhieu-ma-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4791,
+    "title" : "manh-dat-nhieu-ma-tap-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-1.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-2.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-3.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-4.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-5.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-6.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-7.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-8.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-nhieu-ma-tap-1_202106/manh-dat-nhieu-ma-tap-9.mp3",
+    "title" : "manh-dat-nhieu-ma-tap-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

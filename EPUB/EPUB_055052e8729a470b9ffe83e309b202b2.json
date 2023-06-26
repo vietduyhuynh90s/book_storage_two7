@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dua-con-quy-du.html",
+    "title" : "Đứa Con Quỷ Dữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gia Phúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 11596,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_055052e8729a470b9ffe83e309b202b2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_055052e8729a470b9ffe83e309b202b2.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dua-con-quy-du/dua-con-quy-du.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5851,
+    "title" : "dua-con-quy-du",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dua-con-quy-du/dua-con-quy-du-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5745,
+    "title" : "dua-con-quy-du-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dua-con-quy-du/dua-con-quy-du.mp3",
+    "title" : "dua-con-quy-du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dua-con-quy-du/dua-con-quy-du-tap-2.mp3",
+    "title" : "dua-con-quy-du-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

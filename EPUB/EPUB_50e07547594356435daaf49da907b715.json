@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nguoi-yeu-ma.html",
+    "title" : "Người yêu ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thanh Hùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_50e07547594356435daaf49da907b715.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_50e07547594356435daaf49da907b715.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801404.us.archive.org/28/items/nguoi-yeu-ma/NguoiYeuMa_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Người yêu ma tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801404.us.archive.org/28/items/nguoi-yeu-ma/NguoiYeuMa_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Người yêu ma tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801404.us.archive.org/28/items/nguoi-yeu-ma/NguoiYeuMa_01.mp3",
+    "title" : "Người yêu ma tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801404.us.archive.org/28/items/nguoi-yeu-ma/NguoiYeuMa_02.mp3",
+    "title" : "Người yêu ma tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

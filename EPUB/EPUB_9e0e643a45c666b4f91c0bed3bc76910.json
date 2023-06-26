@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cuoc-goi-ma-quy.html",
+    "title" : "Cuộc Gọi Ma Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "HNV",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 27805,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9e0e643a45c666b4f91c0bed3bc76910.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9e0e643a45c666b4f91c0bed3bc76910.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "cuoc-goi-ma-quy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "cuoc-goi-ma-quy-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3999,
+    "title" : "cuoc-goi-ma-quy-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4052,
+    "title" : "cuoc-goi-ma-quy-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4047,
+    "title" : "cuoc-goi-ma-quy-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4012,
+    "title" : "cuoc-goi-ma-quy-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4125,
+    "title" : "cuoc-goi-ma-quy-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy.mp3",
+    "title" : "cuoc-goi-ma-quy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-2.mp3",
+    "title" : "cuoc-goi-ma-quy-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-3.mp3",
+    "title" : "cuoc-goi-ma-quy-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-4.mp3",
+    "title" : "cuoc-goi-ma-quy-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-5.mp3",
+    "title" : "cuoc-goi-ma-quy-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-6.mp3",
+    "title" : "cuoc-goi-ma-quy-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-goi-ma-quy/cuoc-goi-ma-quy-tap-7.mp3",
+    "title" : "cuoc-goi-ma-quy-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

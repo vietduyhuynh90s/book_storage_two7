@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chuyen-di-vung-cao-bat-on.html",
+    "title" : "Chuyến Đi Vùng Cao Bất Ổn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đức Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_398e355a4f529d3895ed5f057eed45ed.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_398e355a4f529d3895ed5f057eed45ed.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801505.us.archive.org/0/items/chuyen-di-vung-cao-bat-on/chuyen-di-vung-cao-bat-on.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyến Đi Vùng Cao Bất Ổn Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801505.us.archive.org/0/items/chuyen-di-vung-cao-bat-on/chuyen-di-vung-cao-bat-on-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyến Đi Vùng Cao Bất Ổn Tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801505.us.archive.org/0/items/chuyen-di-vung-cao-bat-on/chuyen-di-vung-cao-bat-on.mp3",
+    "title" : "Chuyến Đi Vùng Cao Bất Ổn Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801505.us.archive.org/0/items/chuyen-di-vung-cao-bat-on/chuyen-di-vung-cao-bat-on-tap-2.mp3",
+    "title" : "Chuyến Đi Vùng Cao Bất Ổn Tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
