@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-den-phan-6-ngoi-lang-nguoi-dien.html",
+    "title" : "Pháp Sư Đen Phần 6 : Ngôi Làng Người Điên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 19154,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_bfe67f9a936dcbea6b79a0ab49bc828a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_bfe67f9a936dcbea6b79a0ab49bc828a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3607,
+    "title" : "ngoi-lang-nguoi-dien-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3934,
+    "title" : "ngoi-lang-nguoi-dien-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "ngoi-lang-nguoi-dien-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "ngoi-lang-nguoi-dien-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3929,
+    "title" : "ngoi-lang-nguoi-dien-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-1.mp3",
+    "title" : "ngoi-lang-nguoi-dien-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-2.mp3",
+    "title" : "ngoi-lang-nguoi-dien-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-3.mp3",
+    "title" : "ngoi-lang-nguoi-dien-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-4.mp3",
+    "title" : "ngoi-lang-nguoi-dien-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngoilangnguoidienNTM/ngoi-lang-nguoi-dien-tap-5.mp3",
+    "title" : "ngoi-lang-nguoi-dien-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

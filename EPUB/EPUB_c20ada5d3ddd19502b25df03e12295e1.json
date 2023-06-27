@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vuot-bien-sinh-tu.html",
+    "title" : "Vượt Biên Sinh Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 28348,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_c20ada5d3ddd19502b25df03e12295e1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_c20ada5d3ddd19502b25df03e12295e1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6527,
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8085,
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7493,
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6243,
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-1.mp3",
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-2.mp3",
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-3.mp3",
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au/cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-4.mp3",
+    "title" : "cuoc-hanh-trinh-vuot-bien-tim-vung-dat-moi-o-chau-au-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

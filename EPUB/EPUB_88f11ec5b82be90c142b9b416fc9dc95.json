@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phong-thuy-huyet.html",
+    "title" : "Phong Thủy Huyệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Bỉ Ngạn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 18736,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_88f11ec5b82be90c142b9b416fc9dc95.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_88f11ec5b82be90c142b9b416fc9dc95.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "phong-thuy-huyet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "phong-thuy-huyet-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "phong-thuy-huyet-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3794,
+    "title" : "phong-thuy-huyet-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3841,
+    "title" : "phong-thuy-huyet-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet.mp3",
+    "title" : "phong-thuy-huyet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-2.mp3",
+    "title" : "phong-thuy-huyet-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-3.mp3",
+    "title" : "phong-thuy-huyet-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-4.mp3",
+    "title" : "phong-thuy-huyet-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-thuy-huyet/phong-thuy-huyet-tap-5.mp3",
+    "title" : "phong-thuy-huyet-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

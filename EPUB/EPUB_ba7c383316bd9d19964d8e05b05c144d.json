@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/canh-cua-dia-nguc.html",
+    "title" : "Cánh Cửa Địa Ngục",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thuận Thiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11897,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ba7c383316bd9d19964d8e05b05c144d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ba7c383316bd9d19964d8e05b05c144d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/canh-cua-dia-nguc/canh-cua-dia-nguc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "canh-cua-dia-nguc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-cua-dia-nguc/canh-cua-dia-nguc-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3779,
+    "title" : "canh-cua-dia-nguc-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/canh-cua-dia-nguc/canh-cua-dia-nguc-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4124,
+    "title" : "canh-cua-dia-nguc-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/canh-cua-dia-nguc/canh-cua-dia-nguc.mp3",
+    "title" : "canh-cua-dia-nguc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-cua-dia-nguc/canh-cua-dia-nguc-tap-2.mp3",
+    "title" : "canh-cua-dia-nguc-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/canh-cua-dia-nguc/canh-cua-dia-nguc-tap-3.mp3",
+    "title" : "canh-cua-dia-nguc-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

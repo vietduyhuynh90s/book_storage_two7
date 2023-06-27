@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dem-trang-oan-han.html",
+    "title" : "Đêm Trăng Oán Hận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phi Hưng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12425,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f3a2bb13deae8a38a180929bfd295ebf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f3a2bb13deae8a38a180929bfd295ebf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vu-tham-an-chan-dong-dem-trang-tron/vu-tham-an-chan-dong-dem-trang-tron.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5955,
+    "title" : "vu-tham-an-chan-dong-dem-trang-tron",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vu-tham-an-chan-dong-dem-trang-tron/vu-tham-an-trong-dem-trang-tron-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6470,
+    "title" : "vu-tham-an-trong-dem-trang-tron-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vu-tham-an-chan-dong-dem-trang-tron/vu-tham-an-chan-dong-dem-trang-tron.mp3",
+    "title" : "vu-tham-an-chan-dong-dem-trang-tron",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vu-tham-an-chan-dong-dem-trang-tron/vu-tham-an-trong-dem-trang-tron-tap-2.mp3",
+    "title" : "vu-tham-an-trong-dem-trang-tron-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

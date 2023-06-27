@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-den-diet-quy-tay-duong.html",
+    "title" : "Pháp Sư Đen Diệt Quỷ Tây Dương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 23371,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_2e4f21b81d28bd98b3b159fd1049c35a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_2e4f21b81d28bd98b3b159fd1049c35a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6237,
+    "title" : "phap-su-den-diet-quy-tay-duong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6437,
+    "title" : "phap-su-den-diet-quy-tay-duong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6280,
+    "title" : "phap-su-den-diet-quy-tay-duong-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4417,
+    "title" : "phap-su-den-diet-quy-tay-duong-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong.mp3",
+    "title" : "phap-su-den-diet-quy-tay-duong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong-tap-2.mp3",
+    "title" : "phap-su-den-diet-quy-tay-duong-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong-tap-3.mp3",
+    "title" : "phap-su-den-diet-quy-tay-duong-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-den-diet-quy-tay-duong/phap-su-den-diet-quy-tay-duong-tap-4.mp3",
+    "title" : "phap-su-den-diet-quy-tay-duong-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

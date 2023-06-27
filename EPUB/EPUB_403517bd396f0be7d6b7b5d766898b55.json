@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dia-mo.html",
+    "title" : "Địa Mộ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trường Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 102380,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_403517bd396f0be7d6b7b5d766898b55.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_403517bd396f0be7d6b7b5d766898b55.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dia-mo/dia-mo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5091,
+    "title" : "dia-mo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4380,
+    "title" : "dia-mo-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "dia-mo-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4235,
+    "title" : "dia-mo-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4009,
+    "title" : "dia-mo-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4186,
+    "title" : "dia-mo-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3935,
+    "title" : "dia-mo-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4017,
+    "title" : "dia-mo-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4052,
+    "title" : "dia-mo-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4013,
+    "title" : "dia-mo-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4052,
+    "title" : "dia-mo-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "dia-mo-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3930,
+    "title" : "dia-mo-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3874,
+    "title" : "dia-mo-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "dia-mo-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3904,
+    "title" : "dia-mo-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3954,
+    "title" : "dia-mo-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "dia-mo-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "dia-mo-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "dia-mo-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3732,
+    "title" : "dia-mo-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3929,
+    "title" : "dia-mo-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4409,
+    "title" : "dia-mo-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4149,
+    "title" : "dia-mo-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5267,
+    "title" : "dia-mo-tap-25",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dia-mo/dia-mo.mp3",
+    "title" : "dia-mo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-2.mp3",
+    "title" : "dia-mo-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-3.mp3",
+    "title" : "dia-mo-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-4.mp3",
+    "title" : "dia-mo-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-5.mp3",
+    "title" : "dia-mo-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-6.mp3",
+    "title" : "dia-mo-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-7.mp3",
+    "title" : "dia-mo-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-8.mp3",
+    "title" : "dia-mo-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-9.mp3",
+    "title" : "dia-mo-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-10.mp3",
+    "title" : "dia-mo-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-11.mp3",
+    "title" : "dia-mo-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-12.mp3",
+    "title" : "dia-mo-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-13.mp3",
+    "title" : "dia-mo-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-14.mp3",
+    "title" : "dia-mo-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-15.mp3",
+    "title" : "dia-mo-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-16.mp3",
+    "title" : "dia-mo-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-17.mp3",
+    "title" : "dia-mo-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-18.mp3",
+    "title" : "dia-mo-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-19.mp3",
+    "title" : "dia-mo-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-20.mp3",
+    "title" : "dia-mo-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-21.mp3",
+    "title" : "dia-mo-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-22.mp3",
+    "title" : "dia-mo-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-23.mp3",
+    "title" : "dia-mo-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-24.mp3",
+    "title" : "dia-mo-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dia-mo/dia-mo-tap-25.mp3",
+    "title" : "dia-mo-tap-25",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

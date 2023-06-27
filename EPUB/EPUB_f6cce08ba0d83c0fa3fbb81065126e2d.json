@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/oan-nghiep-ai-gieo.html",
+    "title" : "Oán Nghiệp Ai Gieo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gia Phúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10266,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_f6cce08ba0d83c0fa3fbb81065126e2d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_f6cce08ba0d83c0fa3fbb81065126e2d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oan-nghiep-ai-gieo/oan-nghiep-ai-gieo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5472,
+    "title" : "oan-nghiep-ai-gieo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-ai-gieo/oan-nghiep-ai-gieo-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4794,
+    "title" : "oan-nghiep-ai-gieo-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oan-nghiep-ai-gieo/oan-nghiep-ai-gieo.mp3",
+    "title" : "oan-nghiep-ai-gieo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oan-nghiep-ai-gieo/oan-nghiep-ai-gieo-tap-2.mp3",
+    "title" : "oan-nghiep-ai-gieo-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

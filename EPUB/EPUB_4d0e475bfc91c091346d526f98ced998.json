@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ba-nam-phuong-pha-song-linh-huyen-thuat.html",
+    "title" : "Bà Năm Phương Phá Song Linh Huyền Thuật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hồng Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10261,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4d0e475bfc91c091346d526f98ced998.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4d0e475bfc91c091346d526f98ced998.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-nam-phuong-pha-song-linh-huyen-thuat/ba-nam-phuong-pha-song-linh-huyen-thuat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4342,
+    "title" : "ba-nam-phuong-pha-song-linh-huyen-thuat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-nam-phuong-pha-song-linh-huyen-thuat/ba-nam-phuong-pha-song-linh-huyen-thuat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5919,
+    "title" : "ba-nam-phuong-pha-song-linh-huyen-thuat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-nam-phuong-pha-song-linh-huyen-thuat/ba-nam-phuong-pha-song-linh-huyen-thuat.mp3",
+    "title" : "ba-nam-phuong-pha-song-linh-huyen-thuat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-nam-phuong-pha-song-linh-huyen-thuat/ba-nam-phuong-pha-song-linh-huyen-thuat-tap-2.mp3",
+    "title" : "ba-nam-phuong-pha-song-linh-huyen-thuat-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

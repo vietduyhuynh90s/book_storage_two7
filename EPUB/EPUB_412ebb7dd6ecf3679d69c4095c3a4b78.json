@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/an-oan-do-gia.html",
+    "title" : "Ân Oán Đỗ Gia",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 29387,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_412ebb7dd6ecf3679d69c4095c3a4b78.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_412ebb7dd6ecf3679d69c4095c3a4b78.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5905,
+    "title" : "an-oan-do-gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5650,
+    "title" : "an-oan-do-gia-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6046,
+    "title" : "an-oan-do-gia-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5797,
+    "title" : "an-oan-do-gia-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5989,
+    "title" : "an-oan-do-gia-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia.mp3",
+    "title" : "an-oan-do-gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-2.mp3",
+    "title" : "an-oan-do-gia-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-3.mp3",
+    "title" : "an-oan-do-gia-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-4.mp3",
+    "title" : "an-oan-do-gia-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-oan-do-gia/an-oan-do-gia-tap-5.mp3",
+    "title" : "an-oan-do-gia-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

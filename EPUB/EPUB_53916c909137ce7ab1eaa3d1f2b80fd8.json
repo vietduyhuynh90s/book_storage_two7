@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/viet-ma-tan-luc-2-lao-thay-mo-ban-muong.html",
+    "title" : "Việt ma tân lục 2 : Lão thầy mo bản mường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhóm 4.0",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 23352,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_53916c909137ce7ab1eaa3d1f2b80fd8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_53916c909137ce7ab1eaa3d1f2b80fd8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5615,
+    "title" : "LaoMoBanMuong_01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6517,
+    "title" : "LaoMoBanMuong_02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5524,
+    "title" : "LaoMoBanMuong_03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5696,
+    "title" : "LaoMoBanMuong_04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_01.mp3",
+    "title" : "LaoMoBanMuong_01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_02.mp3",
+    "title" : "LaoMoBanMuong_02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_03.mp3",
+    "title" : "LaoMoBanMuong_03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/laomobanmuong/LaoMoBanMuong_04.mp3",
+    "title" : "LaoMoBanMuong_04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
