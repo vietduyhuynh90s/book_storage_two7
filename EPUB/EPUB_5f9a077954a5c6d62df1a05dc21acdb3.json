@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=T53y-a6Oipw&list=PLFYu5-XNQhyAD4yKCn0ULWav4_lRl6air",
+    "title" : "Ghi Chép Pháp Y - Những Cái Chết Bí Ẩn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lưu Hiểu Huy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "“Ghi chép pháp y - Những cái chết bí ẩn” là cuốn sách nằm trong hệ liệt với “Pháp y Tần Minh” - bộ tiểu thuyết nổi đình đám của xứ Trung đã được chuyển thể thành series phim. Cuốn sách tổng hợp những vụ án có thật, được viết bởi bác sĩ pháp y Lưu Hiểu Huy - người có 15 năm kinh nghiệm và từng mổ xẻ hơn 800 tử thi.",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-05",
+    "duration" : 109290,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_5f9a077954a5c6d62df1a05dc21acdb3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_5f9a077954a5c6d62df1a05dc21acdb3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_f3cb8707e5a299bd7120ff36190288fa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_62de23cfbcdd81ead759bb2df5cbe2e6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_3a3edcf2e9cb824b5bc72f95abdfbdd2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_9885ee4cc24355aefdbe8330963aa9bf.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_4466761ae0c39b4ef195839edf9f1eec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_025c4a965fb8b7dcbf4803abee08e42d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_3628b08a0925fd857adc40ca70c7bac4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_58bb55f6edc766c613b9acf002530978.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_d88c4c47ec2fbf3bac93744addd2a8e3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_b6ddb35777dd3f3a79ae3db304c781e4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_ed1a68a55ed8ea7d7be6aead76673d67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_44a1cc1ec8ff7c0fe2a518ff10f7fb33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_33524437e3219bc5478bae385205309a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_d8350a0a77367f4f528dc5a195f373fb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_faea6fcc33a8b01ae76fa9fd6535d854.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_f3cb8707e5a299bd7120ff36190288fa.mp3",
+    "title" : "P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_62de23cfbcdd81ead759bb2df5cbe2e6.mp3",
+    "title" : "P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_3a3edcf2e9cb824b5bc72f95abdfbdd2.mp3",
+    "title" : "P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_9885ee4cc24355aefdbe8330963aa9bf.mp3",
+    "title" : "P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_4466761ae0c39b4ef195839edf9f1eec.mp3",
+    "title" : "P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_025c4a965fb8b7dcbf4803abee08e42d.mp3",
+    "title" : "P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_3628b08a0925fd857adc40ca70c7bac4.mp3",
+    "title" : "P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_58bb55f6edc766c613b9acf002530978.mp3",
+    "title" : "P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_d88c4c47ec2fbf3bac93744addd2a8e3.mp3",
+    "title" : "P9",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_b6ddb35777dd3f3a79ae3db304c781e4.mp3",
+    "title" : "P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_ed1a68a55ed8ea7d7be6aead76673d67.mp3",
+    "title" : "P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_44a1cc1ec8ff7c0fe2a518ff10f7fb33.mp3",
+    "title" : "P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_33524437e3219bc5478bae385205309a.mp3",
+    "title" : "P13",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_d8350a0a77367f4f528dc5a195f373fb.mp3",
+    "title" : "P14",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5f9a077954a5c6d62df1a05dc21acdb3_faea6fcc33a8b01ae76fa9fd6535d854.mp3",
+    "title" : "P15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
