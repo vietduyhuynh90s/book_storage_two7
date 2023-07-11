@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-06-28",
+    "published" : "2023-07-11",
     "duration" : 3643,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://ia902607.us.archive.org/29/items/noi-chuyen-la-ban-nang/noi-chuyen-la-ban-nang.mp3",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_4597f8cc1141257776a2a02e2e2f17e3_e14448dffa87b14efc4e7c50c38d3870_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3643,
-    "title" : "Trọn bộ",
+    "duration" : 0,
+    "title" : "Trọn bộ (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_4597f8cc1141257776a2a02e2e2f17e3_e14448dffa87b14efc4e7c50c38d3870_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://ia902607.us.archive.org/29/items/noi-chuyen-la-ban-nang/noi-chuyen-la-ban-nang.mp3",
-    "title" : "Trọn bộ",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_4597f8cc1141257776a2a02e2e2f17e3_e14448dffa87b14efc4e7c50c38d3870_1.mp3",
+    "title" : "Trọn bộ (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_4597f8cc1141257776a2a02e2e2f17e3_e14448dffa87b14efc4e7c50c38d3870_2.mp3",
+    "title" : "Trọn bộ (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
