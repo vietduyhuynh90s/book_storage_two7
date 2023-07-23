@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khuc-nam-ai-14454.html",
+    "title" : "KHÚC NAM AI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Hài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hỡi ôi, tình nghĩa phu thê dù có nặng, thiếp cũng nào dám đâu cản bước chân chàng. Chàng ra đi để trả nợ núi sông. Thiếp ở lại nuôi con chờ ngày chiến thắng. Nhưng trên bước đường chông gai tên đạn, thiếp xin ai bảo trọng tấm thân... vàng...&quot; - Từng, tưng tưng tứng tưng tứng tưng từng... Tôi lẩm nhẩm miệng hát theo tiếng đờn của bác Bảy Viễn ở đằng sau tấm màn màu xám. Vở tuồng quen thuộc đến buồn ngủ. Bác Bảy Viễn có thể vừa đờn vừa ngủ mà không sợ lộn nhịp. Ngoài sân khấu, ba tôi và mẹ tôi đang diễn tả vai trò hai vợ chồng trong giờ phút biệt ly. Nước mắt mẹ tôi chảy ra long lanh trong ánh sáng trắng loát của ngọn đèn măng sông sáng rỡ. Bên cạnh tôi, trên chiếc ghế tạm làm bằng hai cục gạch hầm đỏ ối, bác Tư Tình đang săm soi lại lần cuối bộ râu chổi xề trong vai Hung Nô. Đặt chiếc gương lớn đã bể mất một góc lên thành rương, bác Tư Tình trợn mắt dọa mấy đứa nhỏ đang vạch chiếu tò mò nhìn bác hóa trang. Mấy đứa con gái bỏ chạy như vịt. Mấy đứa con trai dạn hơn, cười toe với bác, chúng la: - Tướng cướp tụi bây ơi. Bác Tư Tình đứng dậy phủi đít vạch cánh gà nhìn ra sân khấu: - Hết bài này tới tui phải hông? Bác Bảy Viễn gật đầu, nhắc: - Ờ, mà cha nhớ thay đồ đi cha nội. Hồi nãy đóng vai trung thần, bây giờ vai rợ Hung Nô phải đổi áo đi chớ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9efbfb81215b31a34b8437caa9877256.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9efbfb81215b31a34b8437caa9877256.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Một",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=4855",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:20:55 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Hai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=7964",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:44 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=11107",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:05:07 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Bốn- Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Một",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=4855",
+    "title" : "01:20:55 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Hai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=7964",
+    "title" : "02:12:44 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14454-khuc-nam-ai-thuviensach.vn.mp3?t=11107",
+    "title" : "03:05:07 Khúc Nam Ai. (Hoa Tím - Tủ Sách Tuổi Hoa). Tập Bốn- Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

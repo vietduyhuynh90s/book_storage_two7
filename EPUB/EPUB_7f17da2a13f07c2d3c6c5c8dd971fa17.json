@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/danh-tiet-14443.html",
+    "title" : "DANH TIẾT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Công Hoan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nguyễn Công Hoan là nhà văn tiêu biểu của văn học hiện thực phê phán Việt Nam. Trong suốt cuộc đời của mình, Nguyễn Công Hoan đã để lại một di sản nghệ thuật với hơn 200 truyện ngắn, gần 30 truyện dài và nhiều tiểu luận văn học. Mời các bạn cùng tham khảo nội dung tiểu thuyết &quot;danh tiết&quot; nổi tiếng qua phần 2 cuốn sách.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7f17da2a13f07c2d3c6c5c8dd971fa17.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7f17da2a13f07c2d3c6c5c8dd971fa17.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Danh Tiết. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=3760",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:02:40 Danh Tiết. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=7004",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:56:44 Danh Tiết. Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=10193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:49:53 Danh Tiết. Tập 04 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Danh Tiết. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=3760",
+    "title" : "01:02:40 Danh Tiết. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=7004",
+    "title" : "01:56:44 Danh Tiết. Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14443-danh-tiet-thuviensach.vn.mp3?t=10193",
+    "title" : "02:49:53 Danh Tiết. Tập 04 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

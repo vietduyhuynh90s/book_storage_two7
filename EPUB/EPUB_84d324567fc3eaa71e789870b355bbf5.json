@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chiec-hop-huyen-bi-14432.html",
+    "title" : "CHIẾC HỘP HUYỀN BÍ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoành Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_84d324567fc3eaa71e789870b355bbf5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_84d324567fc3eaa71e789870b355bbf5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14432-chiec-hop-huyen-bi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chiếc Hộp Huyền Bí. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14432-chiec-hop-huyen-bi-thuviensach.vn.mp3?t=2732",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:45:32 Chiếc Hộp Huyền Bí. Tập 02 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14432-chiec-hop-huyen-bi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chiếc Hộp Huyền Bí. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14432-chiec-hop-huyen-bi-thuviensach.vn.mp3?t=2732",
+    "title" : "00:45:32 Chiếc Hộp Huyền Bí. Tập 02 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

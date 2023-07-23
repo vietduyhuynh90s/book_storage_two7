@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/co-mot-thang-kho-ten-khai-tam-14216.html",
+    "title" : "CÓ MỘT THẰNG KHỜ TÊN KHAI TÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bọ Cạp Dịu Dàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Pairing: Lâm Khai Tâm(thụ), Hoàng Dục Nghiêm(Công) Thể loại: Đam mỹ, ngược luyến,BE, nhược thụ Editor: Bảo Xuynh Một ngày nào đó nước mắt của Hoàng Dục Nghiêm lại có thể rơi xuống,mà nguyên nhân lại là khóc vì thằng khờ này, thì ra, thằng khờ này cũng có thể có được nước mắt của hắn, thì ra...Khờ à, ngươi có biết không, có một người thông minh tên Hoàng dục Nghiêm yêu một thằng khờ là ngươi đó, nhưng ngươi đã đi xa rồi.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_3c91694266e3c5725ade5e947ecb01fd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_3c91694266e3c5725ade5e947ecb01fd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14216-co-mot-thang-kho-ten-khai-tam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14216-co-mot-thang-kho-ten-khai-tam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

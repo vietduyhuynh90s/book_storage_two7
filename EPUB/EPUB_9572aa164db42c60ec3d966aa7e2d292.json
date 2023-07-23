@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tram-moi-to-long-14165.html",
+    "title" : "TRĂM MỐI TƠ LÒNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nữ sĩ Quỳnh Dao nổi tiếng với những tiểu thuyết lãng mạn như Hoàn Châu Cách Cách, Dòng Sông Ly Biệt, Vòng tay kỷ niệm (Xóm vắng)… đã trở thành kinh điển, được chuyển thể thành phim nhiều lần và là “tượng đài” trong lòng người đọc lẫn người xem Xin trân trọng giới thiệu tới quý vị nội dung cuốn tiểu thuyết tình cảm lãnh mạn Trăm mối tơ lòng của Quỳnh Dao</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_9572aa164db42c60ec3d966aa7e2d292.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_9572aa164db42c60ec3d966aa7e2d292.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Trăm Mối Tơ Lòng - Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=2314",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:38:34 Trăm Mối Tơ Lòng - Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=4643",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:23 Trăm Mối Tơ Lòng - Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=6922",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:55:22 Trăm Mối Tơ Lòng - Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=9160",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:32:40 Trăm Mối Tơ Lòng - Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=11429",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:10:29 Trăm Mối Tơ Lòng - Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=13659",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:47:39 Trăm Mối Tơ Lòng - Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=16160",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:29:20 Trăm Mối Tơ Lòng - Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=18452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:07:32 Trăm Mối Tơ Lòng - Tập 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=20798",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:46:38 Trăm Mối Tơ Lòng - Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=23217",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:26:57 Trăm Mối Tơ Lòng - Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=25511",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:05:11 Trăm Mối Tơ Lòng - Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=27639",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:40:39 Trăm Mối Tơ Lòng - Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=29699",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:14:59 Trăm Mối Tơ Lòng - Tập 14 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Trăm Mối Tơ Lòng - Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=2314",
+    "title" : "00:38:34 Trăm Mối Tơ Lòng - Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=4643",
+    "title" : "01:17:23 Trăm Mối Tơ Lòng - Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=6922",
+    "title" : "01:55:22 Trăm Mối Tơ Lòng - Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=9160",
+    "title" : "02:32:40 Trăm Mối Tơ Lòng - Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=11429",
+    "title" : "03:10:29 Trăm Mối Tơ Lòng - Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=13659",
+    "title" : "03:47:39 Trăm Mối Tơ Lòng - Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=16160",
+    "title" : "04:29:20 Trăm Mối Tơ Lòng - Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=18452",
+    "title" : "05:07:32 Trăm Mối Tơ Lòng - Tập 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=20798",
+    "title" : "05:46:38 Trăm Mối Tơ Lòng - Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=23217",
+    "title" : "06:26:57 Trăm Mối Tơ Lòng - Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=25511",
+    "title" : "07:05:11 Trăm Mối Tơ Lòng - Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=27639",
+    "title" : "07:40:39 Trăm Mối Tơ Lòng - Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14165-tram-moi-to-long-thuviensach.vn.mp3?t=29699",
+    "title" : "08:14:59 Trăm Mối Tơ Lòng - Tập 14 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

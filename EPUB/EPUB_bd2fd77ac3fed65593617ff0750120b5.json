@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/canh-hoa-diem-tuyet-14429.html",
+    "title" : "CÀNH HOA ĐIỂM TUYẾT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đặng Trần Phất",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Xin giới thiệu Tiểu thuyết Cành hoa điểm tuyết của Nhà Văn Đặng Trần Phất ( Nhà xuất Bản Bùi Xuân Học- Hà Nội, in năm 1921 ). Đây là một trong những tiểu thuyết bằng chữ quôc ngữ đầu tiên ở VN, do đó cách dùng từ ngữ cổ xưa khác xa với ngày nay ta đang dùng. Cách viết đậm lối văn chương cổ ( ảnh hưởng cách phát âm xưa, lối văn biền ngẫu, nhiều điển tích, dùng nhiều từ gốc Hán,câu dài, nhiều cảm thán.)</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_bd2fd77ac3fed65593617ff0750120b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_bd2fd77ac3fed65593617ff0750120b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14429-canh-hoa-diem-tuyet-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Cành Hoa Điểm Tuyết (Xb Hn/1921). Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14429-canh-hoa-diem-tuyet-thuviensach.vn.mp3?t=2505",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:41:45 Cành Hoa Điểm Tuyết (Xb Hn/1921). Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14429-canh-hoa-diem-tuyet-thuviensach.vn.mp3?t=5668",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:34:28 Cành Hoa Điểm Tuyết (Xb Hn/1921). Tập 03 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14429-canh-hoa-diem-tuyet-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Cành Hoa Điểm Tuyết (Xb Hn/1921). Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14429-canh-hoa-diem-tuyet-thuviensach.vn.mp3?t=2505",
+    "title" : "00:41:45 Cành Hoa Điểm Tuyết (Xb Hn/1921). Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14429-canh-hoa-diem-tuyet-thuviensach.vn.mp3?t=5668",
+    "title" : "01:34:28 Cành Hoa Điểm Tuyết (Xb Hn/1921). Tập 03 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/goi-thuoc-la-14452.html",
+    "title" : "GÓI THUỐC LÁ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thế Lữ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thế Lữ, tên khai sinh là Nguyễn Thứ Lễ) là nhà thơ, nhà văn, nhà hoạt động sân khấu Việt Nam. Thế Lữ nổi danh trên văn đàn vào những năm 1930, với những tác phẩm Thơ mới, đặc biệt là bài Nhớ rừng, cùng những tác phẩm văn xuôi, tiêu biểu là tập truyện Vàng và Máu (1934). Trở thành thành viên của nhóm Tự Lực văn đoàn kể từ khi mới thành lập (1934), ông hầu hết hoạt động sáng tác văn chương trong thời gian là thành viên của nhóm, đồng thời cũng đảm nhận vai trò một nhà báo, nhà phê bình, biên tập viên mẫn cán của các tờ báo Phong hóa và Ngày nay. Truyện của Thế Lữ, theo cách xếp quen thuộc được chia làm 3 thể loại chính: truyện kinh dị (Vàng và Máu, Bên đường Thiên Lôi), truyện trinh thám (Lê Phong và Mai Hương, Gói thuốc lá, Đòn hẹn, Tay đại bợm...) và truyện lãng mạn núi rừng (Gió trăng ngàn, Trại Bồ Tùng Linh). Đây thuộc thể loại truyện dành cho những ai thích đọc tiểu thuyết trinh thám. Gói thuốc lá được xem một một tác phẩm tiêu biểu hiếm hoi của Vn trong thể loại truyện đau đầu này. Có thể nói, so sánh các nhà văn viết tiểu thuyết trinh thám của Việt Nam, không ai có thể viết hay bằng Thế Lữ mà &quot;Gói thuốc lá&quot; là minh chứng hùng hồn nhất cho nhận định này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_ed65f9f103ce7eac93fa62c4867c0894.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_ed65f9f103ce7eac93fa62c4867c0894.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14452-goi-thuoc-la-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14452-goi-thuoc-la-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

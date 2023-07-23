@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cung-anh-ngam-hoa-son-tra-14410.html",
+    "title" : "CÙNG ANH NGẮM HOA SƠN TRA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngãi Mễ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Câu chuyện xảy ra vào thời điểm cuối của cuộc Cách mạng văn hóa tại Trung Quốc, những năm 70 của thế kỷ 20. Khi ấy, Tĩnh Thu đang là học sinh trung học phổ thông, là một trong những học sinh xuất sắc được chọn tham gia biên soạn tài liệu giáo khoa, cử về một vùng nông thôn để tìm hiểu, viết lịch sử về thôn ấy. Tại đây, Tĩnh Thu gặp Ba, một trí thức đẹp trai và thông minh nhanh nhẹn. Với những tình cảm rất đỗi hồn nhiên, Tĩnh Thu và Ba dần đi từ cảm mến đến tình yêu trong sáng. Họ có nhiều kỉ niệm đẹp bên nhau, và cùng có chung ấn tượng mạnh về cây Sơn Tra - một loài táo dại có gai - cũng là loài cây mà xung quanh nó có nhiều huyền thoại đẹp. Nhờ có Ba, Tĩnh Thu dần gạt đi những mặc cảm về thân phận nghèo khó của mình, họ dành cho nhau những phút giây rất đỗi dịu dàng, những xúc cảm đẹp nhất của tình yêu thuở ban đầu. Tháng năm đằng đẵng qua đi với những nụ cười, nước mắt. Ba đã chờ Tĩnh Thu tốt nghiệp trung học, chờ Thu có việc làm... Ba rơi nước mắt, xót xa vô cùng khi đôi chân nhỏ bé của Tĩnh Thu bị sưng vù vì Tĩnh Thu phải làm những việc nặng nhọc, thường âm thầm theo sau Tĩnh Thu và bất ngờ xuất hiện những lúc Tĩnh Thu cần anh nhất... Nhưng họ mãi mãi không đến được với nhau. Mỗi năm, khi loài hoa Sơn Tra nở, Tĩnh Thu lại trở về, mang theo vẹn nguyên những ký ức tình yêu, cùng Ba ngắm hoa Sơn Tra... Và, câu chuyện tình yêu vô cùng thuần khiết và cảm động ấy đã khiến biết bao độc giả lặng đi vì xúc động, vì ngưỡng mộ, và nức nở trong những giọt nước mắt cảm thông...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_6304e628c2f4b94a8f4409aa9c5f2595.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_6304e628c2f4b94a8f4409aa9c5f2595.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Cùng Anh Ngắm Hoa Sơn Tra - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=2575",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:42:55 Cùng Anh Ngắm Hoa Sơn Tra - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=6392",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:46:32 Cùng Anh Ngắm Hoa Sơn Tra - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=11444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:10:44 Cùng Anh Ngắm Hoa Sơn Tra - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=15615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:20:15 Cùng Anh Ngắm Hoa Sơn Tra - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=20154",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:35:54 Cùng Anh Ngắm Hoa Sơn Tra - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=24170",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:42:50 Cùng Anh Ngắm Hoa Sơn Tra - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=28733",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:58:53 Cùng Anh Ngắm Hoa Sơn Tra - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=33669",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:21:09 Cùng Anh Ngắm Hoa Sơn Tra - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=38222",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:37:02 Cùng Anh Ngắm Hoa Sơn Tra - Phần 10 - End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Cùng Anh Ngắm Hoa Sơn Tra - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=2575",
+    "title" : "00:42:55 Cùng Anh Ngắm Hoa Sơn Tra - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=6392",
+    "title" : "01:46:32 Cùng Anh Ngắm Hoa Sơn Tra - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=11444",
+    "title" : "03:10:44 Cùng Anh Ngắm Hoa Sơn Tra - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=15615",
+    "title" : "04:20:15 Cùng Anh Ngắm Hoa Sơn Tra - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=20154",
+    "title" : "05:35:54 Cùng Anh Ngắm Hoa Sơn Tra - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=24170",
+    "title" : "06:42:50 Cùng Anh Ngắm Hoa Sơn Tra - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=28733",
+    "title" : "07:58:53 Cùng Anh Ngắm Hoa Sơn Tra - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=33669",
+    "title" : "09:21:09 Cùng Anh Ngắm Hoa Sơn Tra - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14410-cung-anh-ngam-hoa-son-tra-thuviensach.vn.mp3?t=38222",
+    "title" : "10:37:02 Cùng Anh Ngắm Hoa Sơn Tra - Phần 10 - End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

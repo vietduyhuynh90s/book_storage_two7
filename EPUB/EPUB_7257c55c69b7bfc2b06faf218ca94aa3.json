@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lop-song-phe-hung-14459.html",
+    "title" : "LỚP SÓNG PHẾ HƯNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Trường An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bà Bếp Luông lột chiếc khăn rằn, vớ cái quạt mo cau quạt phành phạch, ong nóng chửi: - Mồ tổ cha lủ con ăn hại. Thằng lớn thì vào Sóc để ve vãn mấy con đầu gà đít vịt, hai đứa con gái lớn mượn cớ đi đây đi đó để bẹo dạng bẹo hình với tụi con trai. Người ta có phước đẻ con nhờ con cậy, còn tui nghiệp dầy đức mỏng, đẻ ba thứ sấu bắt hùm tha, chằn ăn trăn quấn. Phải dè, tui đẻ ra hột gà hột vịt, luộc ăn còn bổ ích hơn… Út Biên vẫn dửng dưng trước thái độ giận dữ của mẹ. Cậu ta đã quen cảnh lục đục trong nhà này rồi. Tối nay, có trăng cậu ta sẽ đi cắm câu, mười chiếc cần câu đã vót xong, dựng trong góc nhà. Bà Bếp Luông khệ nệ bưng ba chiếc thúng từ dưới xuồng ba lá lên. Bà đem chuối cau và mảng cầu xiêm chưng trên chiếc dĩa quả tử, đặt trà, nhang, lên bàn thờ. Bên ngoài, trời chưa đứng bóng. Gió mát từ trên đám ruộng mọc đầu cỏ lác, cỏ song chằng, thổi lao xao trên hàng câyso đủa. Ngoài xa hơn nữa,tiếng chim bìm bịp kêu vang vang. Con nước ròng dưới lòng rạch trước nhà đứng lại, sắp đổi chiều. Bà Bếp Luông mở khạp, lấy gạo nấu cơm. Hôm nay bà đi chợ, có mua một ký thịt heo và một con khô cá mặn thật lớn. Đêm hôm qua, Hai Cường, cậu trưởng nam của bà nói thèm ăn cá mặn chưng với gừng, nên khi đi chợ bà không quên mua con khô cá mặn cho con. Cơm vừa sôi,bà Bếp Luông bắt lên chiếc hỏa lò khác với nước để nấu canh rau. Khi mâm cơm vừa dọn ra thì Hai Cường và cô Năm Nhan về tới. Hai Cường là cậu thanh niên trạc hăm hai tuổi, khỏe mạnh, khôi ngô. Anh ta cởi trần trùng trục,chỉ mặc chiếc quần xà lỏn đen,chân đi trần dính bùn bê bết. Cô Nhan trạc mười tám tuổi,da ngăm, nhưng mặt có duyên, dáng điệu khoan thai. Hai Cường đưa cho mẹ ốp trầu vàng và buồng cau tơ, nói.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_7257c55c69b7bfc2b06faf218ca94aa3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_7257c55c69b7bfc2b06faf218ca94aa3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lớp Sóng Phế Hưng. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=2441",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:41 Lớp Sóng Phế Hưng. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=5516",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:31:56 Lớp Sóng Phế Hưng. Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=7888",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:11:28 Lớp Sóng Phế Hưng. Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=10842",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:00:42 Lớp Sóng Phế Hưng. Tập 05 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lớp Sóng Phế Hưng. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=2441",
+    "title" : "00:40:41 Lớp Sóng Phế Hưng. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=5516",
+    "title" : "01:31:56 Lớp Sóng Phế Hưng. Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=7888",
+    "title" : "02:11:28 Lớp Sóng Phế Hưng. Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14459-lop-song-phe-hung-thuviensach.vn.mp3?t=10842",
+    "title" : "03:00:42 Lớp Sóng Phế Hưng. Tập 05 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
