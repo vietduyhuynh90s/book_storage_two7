@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-dai-mac-thuong-lang-tap-1-nam-phai-tam-thuc-phieu-luu_3412.html",
+    "title" : "Đại Mạc Thương Lang - Nam Phái Tam Thúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Phái Tam Thúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 79156,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_985a9c114423bddee39de6ee43d94afb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_985a9c114423bddee39de6ee43d94afb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_4b64c959bc01488a606c4d02f4b235d6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2539,
+    "title" : "TẬP 1 Bộ Phim Số 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_a73b3b8d15f443ee5ee274029e14703e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "TẬP 10 PHÒNG ĐIỀU KHIỂN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_a8c0b915f3ace65117819f3ef1c72f0e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4871,
+    "title" : "TẬP 11 HỒN CHIM BỒ CÂU",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_be49c4e226ce4ebf97c3726cb535b75e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5702,
+    "title" : "TRONG BÓNG CÓ MA",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_73f8189038a593d7654c5653f48e5594.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4279,
+    "title" : "TẬP 13 CUỘC GIẢI CỨU MẠO HIỂM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_c87936fe30c358faeea0b50b4ec5e696.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "MỚI BẮT ĐẦU",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_2ee30cffa92a90f4d06dbd4fb035234f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5630,
+    "title" : "TẬP 15 TẦNG THỨ NHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_46afe7f539d86d2fcc57c1a145a6d94a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3113,
+    "title" : "TẬP 16 CUỘC THÁM HIỂU | MC PHI TÙNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_b567b544283633df64a7a003a14f2098.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6067,
+    "title" : "VÀO HANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_578119f16555123152e858ad4bcfd79f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3442,
+    "title" : "TẬP 18 DÒ LA TIN TỨC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_47153e992702091b8a47248b5b8fda6e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3257,
+    "title" : "SỐ MỆNH MỖI NGƯỜI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_b2b5eb35aaab4ba1b0dcfcb5e9fbc971.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4882,
+    "title" : "TẬP 2 XUỐNG LÒNG ĐẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_5660bf475f403f22b3fb7e2e8d18279f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "TẬP 20 KẾT THÚC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_c01b964ccaffb9df944b2206494afed6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3425,
+    "title" : "TẬP 3 XUỐNG LÒNG ĐẤT 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_84cda2efb854f673ca6bebdf3caf04e7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2988,
+    "title" : "TẬP 4 CÁNH CỬA SẮT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_8bf950da037611787fe38c1d5e7c5ceb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3517,
+    "title" : "TẬP 5 BÍ MẬT KINH HOÀNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_4abac3feccd81f28c8021a071a62a785.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "TẬP 6 MẤT TÍCH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_117f6786663f0389a90b9307674024d9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4590,
+    "title" : "TẬP 7 Trở Về Từ Vực Thẳm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_641f6d5fb79cfd282973b686debe7e5f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "TẬP 8 ĐIỆN BÁO MA",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_72d1d1198e39be1528152a254d9f907c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2756,
+    "title" : "TẬP 9 TRỞ VỀ TỪ VỰC THẲM",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_4b64c959bc01488a606c4d02f4b235d6.mp3",
+    "title" : "TẬP 1 Bộ Phim Số 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_a73b3b8d15f443ee5ee274029e14703e.mp3",
+    "title" : "TẬP 10 PHÒNG ĐIỀU KHIỂN",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_a8c0b915f3ace65117819f3ef1c72f0e.mp3",
+    "title" : "TẬP 11 HỒN CHIM BỒ CÂU",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_be49c4e226ce4ebf97c3726cb535b75e.mp3",
+    "title" : "TRONG BÓNG CÓ MA",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_73f8189038a593d7654c5653f48e5594.mp3",
+    "title" : "TẬP 13 CUỘC GIẢI CỨU MẠO HIỂM",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_c87936fe30c358faeea0b50b4ec5e696.mp3",
+    "title" : "MỚI BẮT ĐẦU",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_2ee30cffa92a90f4d06dbd4fb035234f.mp3",
+    "title" : "TẬP 15 TẦNG THỨ NHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_46afe7f539d86d2fcc57c1a145a6d94a.mp3",
+    "title" : "TẬP 16 CUỘC THÁM HIỂU | MC PHI TÙNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_b567b544283633df64a7a003a14f2098.mp3",
+    "title" : "VÀO HANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_578119f16555123152e858ad4bcfd79f.mp3",
+    "title" : "TẬP 18 DÒ LA TIN TỨC",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_47153e992702091b8a47248b5b8fda6e.mp3",
+    "title" : "SỐ MỆNH MỖI NGƯỜI",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_b2b5eb35aaab4ba1b0dcfcb5e9fbc971.mp3",
+    "title" : "TẬP 2 XUỐNG LÒNG ĐẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_5660bf475f403f22b3fb7e2e8d18279f.mp3",
+    "title" : "TẬP 20 KẾT THÚC",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_c01b964ccaffb9df944b2206494afed6.mp3",
+    "title" : "TẬP 3 XUỐNG LÒNG ĐẤT 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_84cda2efb854f673ca6bebdf3caf04e7.mp3",
+    "title" : "TẬP 4 CÁNH CỬA SẮT",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_8bf950da037611787fe38c1d5e7c5ceb.mp3",
+    "title" : "TẬP 5 BÍ MẬT KINH HOÀNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_4abac3feccd81f28c8021a071a62a785.mp3",
+    "title" : "TẬP 6 MẤT TÍCH",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_117f6786663f0389a90b9307674024d9.mp3",
+    "title" : "TẬP 7 Trở Về Từ Vực Thẳm",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_641f6d5fb79cfd282973b686debe7e5f.mp3",
+    "title" : "TẬP 8 ĐIỆN BÁO MA",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_985a9c114423bddee39de6ee43d94afb_72d1d1198e39be1528152a254d9f907c.mp3",
+    "title" : "TẬP 9 TRỞ VỀ TỪ VỰC THẲM",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

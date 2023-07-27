@@ -1,0 +1,485 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-harry-potter-va-chiec-coc-lua-j-k-rowling-ky-ao_2455.html",
+    "title" : "Harry Potter Và Chiếc Cốc Lửa - J. K. Rowling",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. K. Rowling",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 82422,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/EPUB/EPUB_4231317d93c3604cd33feb8a204a13ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/IMAGE/IMAGE_4231317d93c3604cd33feb8a204a13ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1877,
+    "title" : "CCL1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1364,
+    "title" : "CCL10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1454,
+    "title" : "CCL11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2519,
+    "title" : "CCL12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1664,
+    "title" : "CCL13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "CCL14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2138,
+    "title" : "CCL15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2342,
+    "title" : "CCL16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1682,
+    "title" : "CCL17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "CCL18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2848,
+    "title" : "CCL19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1142,
+    "title" : "CCL2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2986,
+    "title" : "CCL20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2516,
+    "title" : "CCL21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1916,
+    "title" : "CCL22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "CCL23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2759,
+    "title" : "CCL24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2378,
+    "title" : "CCL25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3347,
+    "title" : "CCL26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3039,
+    "title" : "CCL27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3188,
+    "title" : "CCL28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "CCL29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1302,
+    "title" : "CCL3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "CCL30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "CCL31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 790,
+    "title" : "CCL32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1823,
+    "title" : "CCL33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "CCL34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2564,
+    "title" : "CCL35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "CCL36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "CCL37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1277,
+    "title" : "CCL4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1646,
+    "title" : "CCL5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1060,
+    "title" : "CCL6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2379,
+    "title" : "CCL7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2689,
+    "title" : "CCL8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "CCL9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL1.mp3",
+    "title" : "CCL1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL10.mp3",
+    "title" : "CCL10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL11.mp3",
+    "title" : "CCL11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL12.mp3",
+    "title" : "CCL12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL13.mp3",
+    "title" : "CCL13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL14.mp3",
+    "title" : "CCL14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL15.mp3",
+    "title" : "CCL15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL16.mp3",
+    "title" : "CCL16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL17.mp3",
+    "title" : "CCL17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL18.mp3",
+    "title" : "CCL18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL19.mp3",
+    "title" : "CCL19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL2.mp3",
+    "title" : "CCL2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL20.mp3",
+    "title" : "CCL20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL21.mp3",
+    "title" : "CCL21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL22.mp3",
+    "title" : "CCL22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL23.mp3",
+    "title" : "CCL23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL24.mp3",
+    "title" : "CCL24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL25.mp3",
+    "title" : "CCL25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL26.mp3",
+    "title" : "CCL26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL27.mp3",
+    "title" : "CCL27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL28.mp3",
+    "title" : "CCL28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL29.mp3",
+    "title" : "CCL29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL3.mp3",
+    "title" : "CCL3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL30.mp3",
+    "title" : "CCL30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL31.mp3",
+    "title" : "CCL31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL32.mp3",
+    "title" : "CCL32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL33.mp3",
+    "title" : "CCL33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL34.mp3",
+    "title" : "CCL34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL35.mp3",
+    "title" : "CCL35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL36.mp3",
+    "title" : "CCL36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL37.mp3",
+    "title" : "CCL37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL4.mp3",
+    "title" : "CCL4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL5.mp3",
+    "title" : "CCL5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL6.mp3",
+    "title" : "CCL6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL7.mp3",
+    "title" : "CCL7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL8.mp3",
+    "title" : "CCL8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngocduong2310_gmail_CCL/CCL9.mp3",
+    "title" : "CCL9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
