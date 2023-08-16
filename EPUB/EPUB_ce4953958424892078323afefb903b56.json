@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-16",
     "duration" : 2379,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/100-loi-day-cua-co-nhan-ve-doi-nhan-xu-the-cang-nghe-cang-tham.sna/audioaz%20-%20100%20loi%20day%20cua%20co%20nhan%20ve%20doi%20nhan%20xu%20the.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_ce4953958424892078323afefb903b56_ededb11f304c222d1918e216a7cfa7a4_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2379,
-    "title" : "audioaz - 100 loi day cua co nhan ve doi nhan xu the",
+    "duration" : 0,
+    "title" : "audioaz - 100 loi day cua co nhan ve doi nhan xu the (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_ce4953958424892078323afefb903b56_ededb11f304c222d1918e216a7cfa7a4_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "audioaz - 100 loi day cua co nhan ve doi nhan xu the (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/100-loi-day-cua-co-nhan-ve-doi-nhan-xu-the-cang-nghe-cang-tham.sna/audioaz%20-%20100%20loi%20day%20cua%20co%20nhan%20ve%20doi%20nhan%20xu%20the.m4a",
-    "title" : "audioaz - 100 loi day cua co nhan ve doi nhan xu the",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_ce4953958424892078323afefb903b56_ededb11f304c222d1918e216a7cfa7a4_1.mp3",
+    "title" : "audioaz - 100 loi day cua co nhan ve doi nhan xu the (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_ce4953958424892078323afefb903b56_ededb11f304c222d1918e216a7cfa7a4_2.mp3",
+    "title" : "audioaz - 100 loi day cua co nhan ve doi nhan xu the (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
