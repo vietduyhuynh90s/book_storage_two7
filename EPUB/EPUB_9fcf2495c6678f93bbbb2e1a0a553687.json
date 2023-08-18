@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-17",
     "duration" : 4345,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/oanhonnangdau/OanHonNangDau.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_9fcf2495c6678f93bbbb2e1a0a553687_fcf3ca25610b6d19f4f9442bcef0b8da_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4345,
-    "title" : "OanHonNangDau",
+    "duration" : 0,
+    "title" : "OanHonNangDau (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_9fcf2495c6678f93bbbb2e1a0a553687_fcf3ca25610b6d19f4f9442bcef0b8da_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "OanHonNangDau (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/oanhonnangdau/OanHonNangDau.mp3",
-    "title" : "OanHonNangDau",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_9fcf2495c6678f93bbbb2e1a0a553687_fcf3ca25610b6d19f4f9442bcef0b8da_1.mp3",
+    "title" : "OanHonNangDau (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_9fcf2495c6678f93bbbb2e1a0a553687_fcf3ca25610b6d19f4f9442bcef0b8da_2.mp3",
+    "title" : "OanHonNangDau (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
