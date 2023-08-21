@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 7213,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/kysubanma/KySuBanMa_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_9e86090da9bc7a80fe6484fa825b5109_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3667,
-    "title" : "KySuBanMa 01",
+    "duration" : 0,
+    "title" : "KySuBanMa 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kysubanma/KySuBanMa_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_9e86090da9bc7a80fe6484fa825b5109_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3546,
-    "title" : "KySuBanMa 02",
+    "duration" : 0,
+    "title" : "KySuBanMa 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_828ef71b622a03d4881dddae5bb5572d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "KySuBanMa 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_828ef71b622a03d4881dddae5bb5572d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "KySuBanMa 02 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/kysubanma/KySuBanMa_01.mp3",
-    "title" : "KySuBanMa 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_9e86090da9bc7a80fe6484fa825b5109_1.mp3",
+    "title" : "KySuBanMa 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kysubanma/KySuBanMa_02.mp3",
-    "title" : "KySuBanMa 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_9e86090da9bc7a80fe6484fa825b5109_2.mp3",
+    "title" : "KySuBanMa 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_828ef71b622a03d4881dddae5bb5572d_1.mp3",
+    "title" : "KySuBanMa 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_3a9794796c401dfa9ea0630d82ba9b20_828ef71b622a03d4881dddae5bb5572d_2.mp3",
+    "title" : "KySuBanMa 02 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

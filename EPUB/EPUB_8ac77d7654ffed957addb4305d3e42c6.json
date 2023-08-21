@@ -4,7 +4,7 @@
     "title" : "Linh Hồn Chưa Siêu Thoát - Khuyết Danh",
     "subtitle" : "N/A",
     "author" : {
-      "name" : "Khuyết Danh",
+      "name" : "Khuyết danh",
       "sortAs" : ""
     },
     "narrator" : "N/A",
@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 10983,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_lhcst/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_7d08497c3c0898e911aad34ce6376add_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5954,
-    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay",
+    "duration" : 0,
+    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_lhcst/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_7d08497c3c0898e911aad34ce6376add_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5029,
-    "title" : "Truyện Ma Có Thật Quá Hay",
+    "duration" : 0,
+    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_7d08497c3c0898e911aad34ce6376add_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_97b4afcb8155eb8cfe2509175a864a88_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Quá Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_97b4afcb8155eb8cfe2509175a864a88_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Quá Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_97b4afcb8155eb8cfe2509175a864a88_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Quá Hay (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_lhcst/1.mp3",
-    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_7d08497c3c0898e911aad34ce6376add_1.mp3",
+    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_lhcst/2.mp3",
-    "title" : "Truyện Ma Có Thật Quá Hay",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_7d08497c3c0898e911aad34ce6376add_2.mp3",
+    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_7d08497c3c0898e911aad34ce6376add_3.mp3",
+    "title" : "Truyện Ma có Thật Đình Soạn Kể Quá Hay (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_97b4afcb8155eb8cfe2509175a864a88_1.mp3",
+    "title" : "Truyện Ma Có Thật Quá Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_97b4afcb8155eb8cfe2509175a864a88_2.mp3",
+    "title" : "Truyện Ma Có Thật Quá Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_8ac77d7654ffed957addb4305d3e42c6_97b4afcb8155eb8cfe2509175a864a88_3.mp3",
+    "title" : "Truyện Ma Có Thật Quá Hay (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

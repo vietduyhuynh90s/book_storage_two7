@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-21",
     "duration" : 11418,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/giot-mo-1/giot-mo-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_22d6ed692959dbb7c2853d3b09fa8f80_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3900,
-    "title" : "giot-mo-1",
+    "duration" : 0,
+    "title" : "giot-mo-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giot-mo-1/giot-mo-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_22d6ed692959dbb7c2853d3b09fa8f80_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3900,
-    "title" : "giot-mo-2",
+    "duration" : 0,
+    "title" : "giot-mo-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giot-mo-1/giot-mo-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_09ec9f1e11a3d75139895f3ea023a449_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3618,
-    "title" : "giot-mo-3",
+    "duration" : 0,
+    "title" : "giot-mo-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_09ec9f1e11a3d75139895f3ea023a449_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "giot-mo-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_61ccf4c728e7ebc1f756e8113b7d2757_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "giot-mo-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_61ccf4c728e7ebc1f756e8113b7d2757_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "giot-mo-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/giot-mo-1/giot-mo-1.mp3",
-    "title" : "giot-mo-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_22d6ed692959dbb7c2853d3b09fa8f80_1.mp3",
+    "title" : "giot-mo-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giot-mo-1/giot-mo-2.mp3",
-    "title" : "giot-mo-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_22d6ed692959dbb7c2853d3b09fa8f80_2.mp3",
+    "title" : "giot-mo-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giot-mo-1/giot-mo-3.mp3",
-    "title" : "giot-mo-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_09ec9f1e11a3d75139895f3ea023a449_1.mp3",
+    "title" : "giot-mo-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_09ec9f1e11a3d75139895f3ea023a449_2.mp3",
+    "title" : "giot-mo-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_61ccf4c728e7ebc1f756e8113b7d2757_1.mp3",
+    "title" : "giot-mo-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_725429957d6540175b3b8e0ea391590c_61ccf4c728e7ebc1f756e8113b7d2757_2.mp3",
+    "title" : "giot-mo-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

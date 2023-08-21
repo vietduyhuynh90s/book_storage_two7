@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 23041,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,23 +36,55 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/noi-luon-cho-no-vuong-steve-harvey/N%C3%93I%20LU%C3%94N%20CHO%20N%C3%93%20VU%C3%94NG%20-%20STEVE%20HARVEY%20-%20PH%E1%BA%A6N%201_3%20%28CH%C6%AF%C6%A0NG%201%2B2%2B3%2B4%29%20%28128kbit_AAC%29.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7250,
-    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC)",
+    "duration" : 0,
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/noi-luon-cho-no-vuong-steve-harvey/N%C3%93I%20LU%C3%94N%20CHO%20N%C3%93%20VU%C3%94NG%20-%20STEVE%20HARVEY%20-%20PH%E1%BA%A6N%202_3%20%28CH%C6%AF%C6%A0NG%205%2B6%2B7%2B8%2B9%29%20%28128kbit_AAC%29.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8941,
-    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 2 3 (CHƯƠNG 5+6+7+8+9) (128kbit AAC)",
+    "duration" : 0,
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/noi-luon-cho-no-vuong-steve-harvey/N%C3%93I%20LU%C3%94N%20CHO%20N%C3%93%20VU%C3%94NG%20-%20STEVE%20HARVEY%20-%20PH%E1%BA%A6N%203_3%20%28CH%C6%AF%C6%A0NG%2010-%20het%29%20%28128kbit_AAC%29.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_d7ef582c6b9880974838aa2722e1652d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 2 3 (CHƯƠNG 5+6+7+8+9) (128kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_d7ef582c6b9880974838aa2722e1652d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 2 3 (CHƯƠNG 5+6+7+8+9) (128kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_5e635984cb004a69fbc2a3c58b432caf.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6850,
@@ -61,15 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/noi-luon-cho-no-vuong-steve-harvey/N%C3%93I%20LU%C3%94N%20CHO%20N%C3%93%20VU%C3%94NG%20-%20STEVE%20HARVEY%20-%20PH%E1%BA%A6N%201_3%20%28CH%C6%AF%C6%A0NG%201%2B2%2B3%2B4%29%20%28128kbit_AAC%29.mp3",
-    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_1.mp3",
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/noi-luon-cho-no-vuong-steve-harvey/N%C3%93I%20LU%C3%94N%20CHO%20N%C3%93%20VU%C3%94NG%20-%20STEVE%20HARVEY%20-%20PH%E1%BA%A6N%202_3%20%28CH%C6%AF%C6%A0NG%205%2B6%2B7%2B8%2B9%29%20%28128kbit_AAC%29.mp3",
-    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 2 3 (CHƯƠNG 5+6+7+8+9) (128kbit AAC)",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_2.mp3",
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/noi-luon-cho-no-vuong-steve-harvey/N%C3%93I%20LU%C3%94N%20CHO%20N%C3%93%20VU%C3%94NG%20-%20STEVE%20HARVEY%20-%20PH%E1%BA%A6N%203_3%20%28CH%C6%AF%C6%A0NG%2010-%20het%29%20%28128kbit_AAC%29.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_3.mp3",
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_56b62b64eaf4884b1dfbf94354535c07_4.mp3",
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 1 3 (CHƯƠNG 1+2+3+4) (128kbit AAC) (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_d7ef582c6b9880974838aa2722e1652d_1.mp3",
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 2 3 (CHƯƠNG 5+6+7+8+9) (128kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_d7ef582c6b9880974838aa2722e1652d_2.mp3",
+    "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 2 3 (CHƯƠNG 5+6+7+8+9) (128kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_50ef296981baf39317593256edc61c0e_5e635984cb004a69fbc2a3c58b432caf.mp3",
     "title" : "NÓI LUÔN CHO NÓ VUÔNG - STEVE HARVEY - PHẦN 3 3 (CHƯƠNG 10- het) (128kbit AAC)",
     "children" : [ ]
   } ],
