@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-20",
     "duration" : 29095,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_osin/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 16016,
-    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_osin/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 13079,
-    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_0b31ab425345c9af7cbc8beb0a0cef7f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_0b31ab425345c9af7cbc8beb0a0cef7f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_0b31ab425345c9af7cbc8beb0a0cef7f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_osin/1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_osin/2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_5f2f19925a1b85318282f1e994cb0c38_4.mp3",
+    "title" : "Truyện Ngôn Tình Hay Trên Cả Tuyệt Tuyệt Vời (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_0b31ab425345c9af7cbc8beb0a0cef7f_1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_0b31ab425345c9af7cbc8beb0a0cef7f_2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_16fe6c77a1e7c69059dbe91bec8e842a_0b31ab425345c9af7cbc8beb0a0cef7f_3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Về Nhất Về OSIN (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

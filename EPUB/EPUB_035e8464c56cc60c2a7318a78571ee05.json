@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 3774,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,65 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/danh-gia-co-vat-quyen-4-minh-nhan-mai-hoa-01/Danh%20Gia%20C%E1%BB%95%20V%E1%BA%ADt%20Quy%E1%BB%83n%204-%20Minh%20Nh%C3%A3n%20Mai%20Hoa_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_22c820fe84a2fc9c4e5d5db7f6861c13_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2425,
-    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01",
+    "duration" : 0,
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/danh-gia-co-vat-quyen-4-minh-nhan-mai-hoa-01/Danh%20Gia%20C%E1%BB%95%20V%E1%BA%ADt%20Quy%E1%BB%83n%204-%20Minh%20Nh%C3%A3n%20Mai%20Hoa_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_22c820fe84a2fc9c4e5d5db7f6861c13_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1349,
-    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 02",
+    "duration" : 0,
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_22c820fe84a2fc9c4e5d5db7f6861c13_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_120a5eb35114107b6961c6bc1d636426_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_120a5eb35114107b6961c6bc1d636426_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 02 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/danh-gia-co-vat-quyen-4-minh-nhan-mai-hoa-01/Danh%20Gia%20C%E1%BB%95%20V%E1%BA%ADt%20Quy%E1%BB%83n%204-%20Minh%20Nh%C3%A3n%20Mai%20Hoa_01.mp3",
-    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_22c820fe84a2fc9c4e5d5db7f6861c13_1.mp3",
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/danh-gia-co-vat-quyen-4-minh-nhan-mai-hoa-01/Danh%20Gia%20C%E1%BB%95%20V%E1%BA%ADt%20Quy%E1%BB%83n%204-%20Minh%20Nh%C3%A3n%20Mai%20Hoa_02.mp3",
-    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_22c820fe84a2fc9c4e5d5db7f6861c13_2.mp3",
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_22c820fe84a2fc9c4e5d5db7f6861c13_3.mp3",
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 01 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_120a5eb35114107b6961c6bc1d636426_1.mp3",
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_035e8464c56cc60c2a7318a78571ee05_120a5eb35114107b6961c6bc1d636426_2.mp3",
+    "title" : "Danh Gia Cổ Vật Quyển 4- Minh Nhãn Mai Hoa 02 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

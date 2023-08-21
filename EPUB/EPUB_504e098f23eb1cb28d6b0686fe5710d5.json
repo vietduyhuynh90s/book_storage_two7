@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 38366,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtdttl/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 26553,
-    "title" : "Nhan Ngữ Hâm",
+    "duration" : 0,
+    "title" : "Nhan Ngữ Hâm (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtdttl/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11813,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "Nhan Ngữ Hâm (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhan Ngữ Hâm (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nhan Ngữ Hâm (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_ed6860bc3942de395e0f24aedbd07407_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_ed6860bc3942de395e0f24aedbd07407_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_ed6860bc3942de395e0f24aedbd07407_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtdttl/1.mp3",
-    "title" : "Nhan Ngữ Hâm",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_1.mp3",
+    "title" : "Nhan Ngữ Hâm (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_dtdttl/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_2.mp3",
+    "title" : "Nhan Ngữ Hâm (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_3.mp3",
+    "title" : "Nhan Ngữ Hâm (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_43a68dc5f503e3a28ae9fab36171b475_4.mp3",
+    "title" : "Nhan Ngữ Hâm (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_ed6860bc3942de395e0f24aedbd07407_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_ed6860bc3942de395e0f24aedbd07407_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_504e098f23eb1cb28d6b0686fe5710d5_ed6860bc3942de395e0f24aedbd07407_3.mp3",
+    "title" : "2 (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

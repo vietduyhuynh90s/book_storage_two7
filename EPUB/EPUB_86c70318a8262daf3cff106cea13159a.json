@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-20",
     "duration" : 13530,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_12cb4c3c5bf46b06442730d445810534_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7800,
-    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1",
+    "duration" : 0,
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_12cb4c3c5bf46b06442730d445810534_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5730,
-    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết )",
+    "duration" : 0,
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_8761ffd0eddb08f108f0abf68f6f13e1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết ) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_8761ffd0eddb08f108f0abf68f6f13e1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết ) (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/1.mp3",
-    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_12cb4c3c5bf46b06442730d445810534_1.mp3",
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nam-ay-gap-duoc-anh/2.mp3",
-    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết )",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_12cb4c3c5bf46b06442730d445810534_2.mp3",
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_8761ffd0eddb08f108f0abf68f6f13e1_1.mp3",
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết ) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_86c70318a8262daf3cff106cea13159a_8761ffd0eddb08f108f0abf68f6f13e1_2.mp3",
+    "title" : "Năm Ấy Gặp Được Anh – Truyện hay gây xúc động– P2 ( Hết ) (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
