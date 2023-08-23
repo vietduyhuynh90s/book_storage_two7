@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 19380,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_ff8848a8b376906e7547afc2df650d59_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7600,
-    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_ff8848a8b376906e7547afc2df650d59_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_d52d03b266322ae4e0b448071b3a17cd.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7225,
@@ -52,25 +60,41 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_07c08dc029fd898cba29195df3e062a7_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4555,
-    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_07c08dc029fd898cba29195df3e062a7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_ff8848a8b376906e7547afc2df650d59_1.mp3",
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_ff8848a8b376906e7547afc2df650d59_2.mp3",
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_d52d03b266322ae4e0b448071b3a17cd.mp3",
     "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/2.mp3",
-    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_07c08dc029fd898cba29195df3e062a7_1.mp3",
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/kiep-nay-em-tung-co-anh/3.mp3",
-    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_371787982af8c6764c9d0d827b212a35_07c08dc029fd898cba29195df3e062a7_2.mp3",
+    "title" : "Truyện Ngôn Tình Về Tình Yêu Hay Nhất Thế Giới (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
