@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 12000,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/song-sang-1/song-sang-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_f86e53f42d323ed93c9a3af806276ec0_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4200,
-    "title" : "song-sang-1",
+    "duration" : 0,
+    "title" : "song-sang-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/song-sang-1/song-sang-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_f86e53f42d323ed93c9a3af806276ec0_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4200,
-    "title" : "song-sang-2",
+    "duration" : 0,
+    "title" : "song-sang-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/song-sang-1/song-sang-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_536c04b1c7c16711e340dd6cb2c23b62_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "song-sang-3",
+    "duration" : 0,
+    "title" : "song-sang-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_536c04b1c7c16711e340dd6cb2c23b62_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "song-sang-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_b635f2b75a2dfed9488d332be0754a87_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "song-sang-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_b635f2b75a2dfed9488d332be0754a87_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "song-sang-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/song-sang-1/song-sang-1.mp3",
-    "title" : "song-sang-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_f86e53f42d323ed93c9a3af806276ec0_1.mp3",
+    "title" : "song-sang-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/song-sang-1/song-sang-2.mp3",
-    "title" : "song-sang-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_f86e53f42d323ed93c9a3af806276ec0_2.mp3",
+    "title" : "song-sang-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/song-sang-1/song-sang-3.mp3",
-    "title" : "song-sang-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_536c04b1c7c16711e340dd6cb2c23b62_1.mp3",
+    "title" : "song-sang-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_536c04b1c7c16711e340dd6cb2c23b62_2.mp3",
+    "title" : "song-sang-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_b635f2b75a2dfed9488d332be0754a87_1.mp3",
+    "title" : "song-sang-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_e8477701ad2ed17bc4f1f4f90974f3f5_b635f2b75a2dfed9488d332be0754a87_2.mp3",
+    "title" : "song-sang-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
