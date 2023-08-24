@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-23",
     "duration" : 8200,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vu-an-3/vu-an-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_f893888cd5c4eeb4c7fbb71d688d07ad_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2323,
-    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh - Tập 01",
+    "duration" : 0,
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh - Tập 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vu-an-3/vu-an-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_f893888cd5c4eeb4c7fbb71d688d07ad_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2103,
-    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh Tập 02",
+    "duration" : 0,
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh - Tập 01 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vu-an-3/vu-an-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_85080781a08e2d1b39bac1e149501797_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3774,
-    "title" : "TẬP CUỐI",
+    "duration" : 0,
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh Tập 02 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_85080781a08e2d1b39bac1e149501797_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh Tập 02 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_325e84ea8dddb32fe567ae86fbb6d2e8_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TẬP CUỐI (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_325e84ea8dddb32fe567ae86fbb6d2e8_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TẬP CUỐI (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_325e84ea8dddb32fe567ae86fbb6d2e8_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "TẬP CUỐI (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vu-an-3/vu-an-1.mp3",
-    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh - Tập 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_f893888cd5c4eeb4c7fbb71d688d07ad_1.mp3",
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh - Tập 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vu-an-3/vu-an-2.mp3",
-    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh Tập 02",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_f893888cd5c4eeb4c7fbb71d688d07ad_2.mp3",
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh - Tập 01 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vu-an-3/vu-an-3.mp3",
-    "title" : "TẬP CUỐI",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_85080781a08e2d1b39bac1e149501797_1.mp3",
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh Tập 02 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_85080781a08e2d1b39bac1e149501797_2.mp3",
+    "title" : "Vụ án Ngôi Mộ Cổ ở ngoại thành Bắc Kinh Tập 02 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_325e84ea8dddb32fe567ae86fbb6d2e8_1.mp3",
+    "title" : "TẬP CUỐI (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_325e84ea8dddb32fe567ae86fbb6d2e8_2.mp3",
+    "title" : "TẬP CUỐI (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_b811f172d18cbe2fe1409d598707e386_325e84ea8dddb32fe567ae86fbb6d2e8_3.mp3",
+    "title" : "TẬP CUỐI (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
