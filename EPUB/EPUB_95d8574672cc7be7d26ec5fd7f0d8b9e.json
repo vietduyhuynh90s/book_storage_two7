@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-24",
     "duration" : 19550,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,161 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_d62b4baec9966b194f0153e127934ead_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4527,
-    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_d62b4baec9966b194f0153e127934ead_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3947,
-    "title" : "Truyện Ma Có Thật Nghe Rùng Mình",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_d62b4baec9966b194f0153e127934ead_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5083,
-    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim (3)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_57671463cc225871e5d9f74f02da276f_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5993,
-    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình",
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Rùng Mình (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_57671463cc225871e5d9f74f02da276f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Rùng Mình (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_57671463cc225871e5d9f74f02da276f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Rùng Mình (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_006f4fedcacb57dd5deea80f0bfe8471_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_006f4fedcacb57dd5deea80f0bfe8471_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_006f4fedcacb57dd5deea80f0bfe8471_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/1.mp3",
-    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_d62b4baec9966b194f0153e127934ead_1.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/2.mp3",
-    "title" : "Truyện Ma Có Thật Nghe Rùng Mình",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_d62b4baec9966b194f0153e127934ead_2.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/3.mp3",
-    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_d62b4baec9966b194f0153e127934ead_3.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Sợ Hơn Phim (3)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_nchn/4.mp3",
-    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_57671463cc225871e5d9f74f02da276f_1.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Rùng Mình (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_57671463cc225871e5d9f74f02da276f_2.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Rùng Mình (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_57671463cc225871e5d9f74f02da276f_3.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Rùng Mình (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_006f4fedcacb57dd5deea80f0bfe8471_1.mp3",
+    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_006f4fedcacb57dd5deea80f0bfe8471_2.mp3",
+    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_006f4fedcacb57dd5deea80f0bfe8471_3.mp3",
+    "title" : "Truyện Ma Có Thật TG Trường Lê Nghe Rùng Mình (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_1.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_2.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_3.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage7/main/AUDIO/AUDIO_95d8574672cc7be7d26ec5fd7f0d8b9e_f868dad8f739151692efe43445464d38_4.mp3",
+    "title" : "Truyện Ma Có Thật Nghe Mà Rùng Mình (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
