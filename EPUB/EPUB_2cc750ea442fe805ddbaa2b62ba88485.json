@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 23191,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_1.mp3",
+    "href" : "https://archive.org/download/full-mo-dom-dom-nosaka-akiyuki-audiobook/%5BFull%5D%20M%E1%BB%99%20%C4%90om%20%C4%90%C3%B3m%20-%20Nosaka%20Akiyuki%20-%20Audiobook.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (4)",
+    "duration" : 23191,
+    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_1.mp3",
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_2.mp3",
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_3.mp3",
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2cc750ea442fe805ddbaa2b62ba88485_1d30921277c87972904ab4fe4eb61fb2_4.mp3",
-    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook (4)",
+    "href" : "https://archive.org/download/full-mo-dom-dom-nosaka-akiyuki-audiobook/%5BFull%5D%20M%E1%BB%99%20%C4%90om%20%C4%90%C3%B3m%20-%20Nosaka%20Akiyuki%20-%20Audiobook.mp3",
+    "title" : "[Full] Mộ Đom Đóm - Nosaka Akiyuki - Audiobook",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

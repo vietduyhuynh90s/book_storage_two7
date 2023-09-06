@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 5977,
+    "published" : "2023-09-06",
+    "duration" : 11954,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_215f599890f69a42acc6168c0a6cbe1c_add8ea43205cebba905e0bf5da803544.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnChiNamThienTap/ChiNamThienTaptap1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2345,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_215f599890f69a42acc6168c0a6cbe1c_60c4a1a34a0d4e148e5d55ad42d1d4fc.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnChiNamThienTap/ChiNamThienTaptap2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1730,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_215f599890f69a42acc6168c0a6cbe1c_0e9164ff0bb711ec5b91cade4f75b93b.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnChiNamThienTap/ChiNamThienTaptap3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1902,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_215f599890f69a42acc6168c0a6cbe1c_add8ea43205cebba905e0bf5da803544.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnChiNamThienTap/ChiNamThienTaptap1.mp3",
     "title" : "ChiNamThienTaptap1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_215f599890f69a42acc6168c0a6cbe1c_60c4a1a34a0d4e148e5d55ad42d1d4fc.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnChiNamThienTap/ChiNamThienTaptap2.mp3",
     "title" : "ChiNamThienTaptap2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_215f599890f69a42acc6168c0a6cbe1c_0e9164ff0bb711ec5b91cade4f75b93b.mp3",
+    "href" : "https://archive.org/download/sachnoi.vnChiNamThienTap/ChiNamThienTaptap3.mp3",
     "title" : "ChiNamThienTaptap3",
     "children" : [ ]
   } ],

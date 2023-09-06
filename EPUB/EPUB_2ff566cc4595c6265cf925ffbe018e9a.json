@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
+    "published" : "2023-09-06",
     "duration" : 15577,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,113 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_6335a63d3999ef017757d5df967e0e6a_1.mp3",
+    "href" : "https://archive.org/download/den-co-1/den-co-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-1 (1)",
+    "duration" : 4903,
+    "title" : "den-co-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_6335a63d3999ef017757d5df967e0e6a_2.mp3",
+    "href" : "https://archive.org/download/den-co-1/den-co-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-1 (2)",
+    "duration" : 6724,
+    "title" : "den-co-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_6335a63d3999ef017757d5df967e0e6a_3.mp3",
+    "href" : "https://archive.org/download/den-co-1/den-co-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_dcd41eae9bb9f6d5b3ebe8cc9ba06b5c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_dcd41eae9bb9f6d5b3ebe8cc9ba06b5c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "den-co-3 (2)",
+    "duration" : 3950,
+    "title" : "den-co-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_6335a63d3999ef017757d5df967e0e6a_1.mp3",
-    "title" : "den-co-1 (1)",
+    "href" : "https://archive.org/download/den-co-1/den-co-1.mp3",
+    "title" : "den-co-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_6335a63d3999ef017757d5df967e0e6a_2.mp3",
-    "title" : "den-co-1 (2)",
+    "href" : "https://archive.org/download/den-co-1/den-co-2.mp3",
+    "title" : "den-co-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_6335a63d3999ef017757d5df967e0e6a_3.mp3",
-    "title" : "den-co-1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_1.mp3",
-    "title" : "den-co-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_2.mp3",
-    "title" : "den-co-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_3.mp3",
-    "title" : "den-co-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_317c63a0b289e908b8bbcde94df43064_4.mp3",
-    "title" : "den-co-2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_dcd41eae9bb9f6d5b3ebe8cc9ba06b5c_1.mp3",
-    "title" : "den-co-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_2ff566cc4595c6265cf925ffbe018e9a_dcd41eae9bb9f6d5b3ebe8cc9ba06b5c_2.mp3",
-    "title" : "den-co-3 (2)",
+    "href" : "https://archive.org/download/den-co-1/den-co-3.mp3",
+    "title" : "den-co-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
