@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-23",
-    "duration" : 7286,
+    "published" : "2023-09-06",
+    "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,41 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5176cae8bd875c3237b8fe87a4b2c321_cdc3ae5eeac1520d96ad12658b62fa9d.mp3",
+    "href" : "https://archive.org/download/cang-hieu-chuyen-cang-dau-long-p1/cang-hieu-chuyen-cang-dau-long-p1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cang-hieu-chuyen-cang-dau-long-p1/cang-hieu-chuyen-cang-dau-long-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
     "title" : "Phần 2",
     "properties" : null,
     "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5176cae8bd875c3237b8fe87a4b2c321_1fb2adb0ee023ff899abe538ab086214_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5176cae8bd875c3237b8fe87a4b2c321_1fb2adb0ee023ff899abe538ab086214_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (2)",
-    "properties" : null,
-    "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5176cae8bd875c3237b8fe87a4b2c321_cdc3ae5eeac1520d96ad12658b62fa9d.mp3",
+    "href" : "https://archive.org/download/cang-hieu-chuyen-cang-dau-long-p1/cang-hieu-chuyen-cang-dau-long-p1.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cang-hieu-chuyen-cang-dau-long-p1/cang-hieu-chuyen-cang-dau-long-p2.mp3",
     "title" : "Phần 2",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5176cae8bd875c3237b8fe87a4b2c321_1fb2adb0ee023ff899abe538ab086214_1.mp3",
-    "title" : "Phần 1 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two7/main/AUDIO/AUDIO_5176cae8bd875c3237b8fe87a4b2c321_1fb2adb0ee023ff899abe538ab086214_2.mp3",
-    "title" : "Phần 1 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 10263,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,77 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_67aeb4fd8b5cfd864c33832522a8df42_1.mp3",
+    "href" : "https://archive.org/download/the-tham-1/the-tham-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "the-tham-1 (1)",
+    "duration" : 3600,
+    "title" : "the-tham-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_67aeb4fd8b5cfd864c33832522a8df42_2.mp3",
+    "href" : "https://archive.org/download/the-tham-1/the-tham-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "the-tham-1 (2)",
+    "duration" : 3600,
+    "title" : "the-tham-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_97fb279c6353c297fb013632c1ff4748_1.mp3",
+    "href" : "https://archive.org/download/the-tham-1/the-tham-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "the-tham-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_97fb279c6353c297fb013632c1ff4748_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "the-tham-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_c0398871ed10c50c6a7b5a9cc4e70796_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "the-tham-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_c0398871ed10c50c6a7b5a9cc4e70796_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "the-tham-3 (2)",
+    "duration" : 3063,
+    "title" : "the-tham-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_67aeb4fd8b5cfd864c33832522a8df42_1.mp3",
-    "title" : "the-tham-1 (1)",
+    "href" : "https://archive.org/download/the-tham-1/the-tham-1.mp3",
+    "title" : "the-tham-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_67aeb4fd8b5cfd864c33832522a8df42_2.mp3",
-    "title" : "the-tham-1 (2)",
+    "href" : "https://archive.org/download/the-tham-1/the-tham-2.mp3",
+    "title" : "the-tham-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_97fb279c6353c297fb013632c1ff4748_1.mp3",
-    "title" : "the-tham-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_97fb279c6353c297fb013632c1ff4748_2.mp3",
-    "title" : "the-tham-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_c0398871ed10c50c6a7b5a9cc4e70796_1.mp3",
-    "title" : "the-tham-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_4ca7cba0a854f7566b0795de648973b8_c0398871ed10c50c6a7b5a9cc4e70796_2.mp3",
-    "title" : "the-tham-3 (2)",
+    "href" : "https://archive.org/download/the-tham-1/the-tham-3.mp3",
+    "title" : "the-tham-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

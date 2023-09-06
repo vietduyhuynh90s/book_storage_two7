@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 8010,
+    "published" : "2023-09-06",
+    "duration" : 16020,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_fe8fbe3dc34da09b9dfc7b5285ed9edc_bc02701d32bd0996fe86269548e7f2bd.mp3",
+    "href" : "https://archive.org/download/tru-ta_202101/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3978,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_fe8fbe3dc34da09b9dfc7b5285ed9edc_a2e38eb1bcf04e54cc3d3d8f52af0673.mp3",
+    "href" : "https://archive.org/download/tru-ta_202101/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4032,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_fe8fbe3dc34da09b9dfc7b5285ed9edc_bc02701d32bd0996fe86269548e7f2bd.mp3",
+    "href" : "https://archive.org/download/tru-ta_202101/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_fe8fbe3dc34da09b9dfc7b5285ed9edc_a2e38eb1bcf04e54cc3d3d8f52af0673.mp3",
+    "href" : "https://archive.org/download/tru-ta_202101/2.mp3",
     "title" : "2",
     "children" : [ ]
   } ],
